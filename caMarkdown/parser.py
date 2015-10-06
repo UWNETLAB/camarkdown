@@ -21,4 +21,8 @@ def caParser(target, master):
         else:
             print("{} | {}".format(tChar, mChar))
 
-caParser("1234567890", "12345678kkkk")
+def fileParse(target, master):
+    print(target)
+    with open(target) as fTarget:
+        with open(master) as fMaster:
+            caParser(fTarget.read(),fMaster.read())
