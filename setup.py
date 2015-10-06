@@ -1,5 +1,5 @@
 from setuptools import setup
-setup(name='metaknowledge',
+setup(name='caMarkdown',
     version='0.0.1',
     author="Reid McIlroy-Young, John McLevey",
     author_email = "rmcilroy@uwaterloo.ca, john.mclevey@uwaterloo.ca",
