@@ -1,19 +1,19 @@
-from codes import Code
-blockChar = '^'
-bracketChars = set(['(', ')', '[', ']'])
+from .codes import Code
 
 def tokenizer(s):
+    """Takes in a string and for every []() creates a Code object that know the index of its braces.
+    """
     openTags = []
     closedTags = []
     sIter = enumerate(s.__iter__())
     stopIter = False
     while not stopIter:
+        #Need to use the variable stopIter as different things can stop the loop
         try:
             i, char = next(sIter)
         except StopIteration:
             stopIter = True
         else:
-            print(char, end = '')
             if char == '[':
                 openTags.append(Code(s, i))
             if char == ']' and len(openTags) > 0:
@@ -43,75 +43,39 @@ def tokenizer(s):
                     currentTag = openTags.pop()
     return closedTags
 
-print(tokenizer(open("tests/RecordTarget.md").read()))
+def cutString(s, cutLst):
+    """Takes a string an a series of indices to cut on and returns a list of tuples with the first element being the start of the cut and the second the string
+    """
 
+    retStrings = []
+    cutLst = sorted(cutLst, key = lambda x: x[0], reverse = True)
+    lastStart = len(s)
+    for start, stop in cutLst:
+        retStrings.append((stop,s[stop:lastStart]))
+        lastStart = start
+    retStrings.append((0, s[0:lastStart]))
+    retStrings.reverse()
+    return retStrings
 
-"""
-def tokenizer(s):
-    tokens = []
-    openBraces = 0
-    offset = 0
-    mostRecentOpenBrace = None
-    reducedString = ''
-    sIter = enumerate(s.__iter__())
-    while True:
-        try:
-            i, char = next(sIter)
-        except StopIteration:
-            break
-        if char == '[':
-            openBraces += 1
-            mostRecentOpenBrace = len(tokens)
-            tokens.append((i + offset, char))
-        elif char == ']' and openBraces > 0:
-            try:
-                i, nxtChar = next(sIter)
-            except StopIteration:
-                pass#TODO FIX <------------------
-            if nxtChar == '(':
-                tokens.append((i - 1 + offset, "](" + getContents(sIter)))
-                openBraces -= 1
+def getCodes(string):
+    baseCodes = tokenizer(string)
+    cuts = []
+    for code in baseCodes:
+        if code.isCode:
+            cuts += code.getCutIndices()
+    choppedString = cutString(string, cuts)
+    for code in baseCodes:
+        s = ''
+        for startString, stringVal in choppedString:
+            if startString < code.startIndex:
+                pass
+            elif startString <= code.closeIndex:
+                s += stringVal
             else:
-                openIndex, openString = tokens.pop(mostRecentOpenBrace)[0]
-                reducedString = reducedString[:openIndex] + openString + reducedString[openIndex:] + char
-                offset += len(openString)
-                for i in range(len(tokens) - mostRecentOpenBrace):
-                    index, brace = tokens[mostRecentOpenBrace + i]
-                    tokens[mostRecentOpenBrace + i] = (index + len(openString), brace)
-        else:
-            reducedString += char
-    return tokens, reducedString
-
-def getContents(contIter):
-    i, currentChar = next(contIter)
-    retConts = currentChar
-    while currentChar != ')':
-        #TODO Solve case of this not closing
-        i, currentChar = next(contIter)
-        retConts += currentChar
-    return retConts
+                break
+            code.contents = s
+    return baseCodes
 
 
 
-def caParser(target):
-    print(type(target))
-    targetIter = enumerate(target.__iter__())
-    while True:
-        try:
-            print(jumpToBrackets(targetIter))
-        except StopIteration:
-            break
-
-def fileParse(target, master):
-    with open(target) as fTarget:
-        print(fTarget.read())
-        caParser(fTarget.read())
-
-def jumpToBrackets(targetIter):
-    while True:
-        charNum, char = next(targetIter)
-        if char not in bracketChars:
-            pass
-        else:
-            return charNum, char
-"""
+print(getCodes(open("tests/RecordTarget.md").read()))

@@ -1,4 +1,4 @@
-from .parser import *
+from .parser import tokenizer
 
 import os.path
 
