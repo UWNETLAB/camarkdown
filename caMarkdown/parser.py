@@ -75,7 +75,3 @@ def getCodes(string):
                 break
             code.contents = s
     return baseCodes
-
-
-
-print(getCodes(open("tests/RecordTarget.md").read()))
