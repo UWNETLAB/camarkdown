@@ -1,4 +1,5 @@
-from .parser import tokenizer
+from .parser import tokenizer, getCodes
+from .tests.testGen import makeTestFile
 
 import os.path
 

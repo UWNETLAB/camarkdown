@@ -1,11 +1,11 @@
 class Code(object):
-    def __init__(self, targetString, startIndex):
+    def __init__(self, startIndex, closeIndex, closeTagIndex, code, workingStr = None):
         self.startIndex = startIndex
-        self.closeIndex = None
-        self.startCode = None
-        self.closeCode = None
-        self.codes = None
-        self.string = targetString
+        self.closeIndex = closeIndex
+        self.startCode = closeIndex + 1
+        self.closeCode = closeTagIndex
+        self.code = code
+        self.string = workingStr
         self.contents = None
 
     @property
@@ -20,7 +20,7 @@ class Code(object):
 
     def closeBrace(self, closeCode, contents = None):
         self.closeCode = closeCode
-        self.codes = contents
+        self.code = contents
 
     def setContents(self, contString):
         self.contents = string
@@ -29,4 +29,30 @@ class Code(object):
         return [(self.startIndex, self.startIndex + 1), (self.closeIndex, self.closeCode + 1)]
 
     def __repr__(self):
-        return ("[{}]({})".format(self.string[self.startIndex + 1:self.closeIndex], self.codes))
+        s = "[{},{}]({})".format(self.startIndex, self.closeIndex, self.code).replace('\n','').replace('\r','')
+        return '<<' + s +'>>'
+
+    def __eq__(self, other):
+        if self.startIndex == other.startIndex and self.closeIndex == other.closeIndex and self.code == other.code:
+            return True
+        else:
+            return False
+
+codeTypes = {
+    '^' : Code
+}
+
+def readCodes(codeStr):
+    codes = codeStr.split(' ')
+    retCodes = []
+    for code in codes:
+        if len(code) > 1 and code[0] in codeTypes:
+            retCodes.append((code[0], code[1:]))
+    return retCodes
+
+def makeCode(startIndex, closeIndex, closeTagIndex, codeStr, workingStr = None):
+    validCodes = readCodes(codeStr)
+    retCodes = []
+    for codeChar, code in validCodes:
+        retCodes.append(codeTypes[codeChar](startIndex, closeIndex, closeTagIndex, code, workingStr))
+    return retCodes

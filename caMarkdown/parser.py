@@ -1,9 +1,11 @@
-from .codes import Code
+from .codes import Code, makeCode
+
+
 
 def tokenizer(s):
     """Takes in a string and for every []() creates a Code object that know the index of its braces.
     """
-    openTags = []
+    openIndices = []
     closedTags = []
     sIter = enumerate(s.__iter__())
     stopIter = False
@@ -15,32 +17,31 @@ def tokenizer(s):
             stopIter = True
         else:
             if char == '[':
-                openTags.append(Code(s, i))
-            if char == ']' and len(openTags) > 0:
+                openIndices.append(i)
+            if char == ']' and len(openIndices) > 0:
                 try:
                     i, char = next(sIter)
                 except StopIteration:
                     stopIter = True
                     char = ''
+                openBraceIndex = openIndices.pop()
+                closeBraceIndex = i - 1
+                codeStr = ''
                 if char == '(':
-                    currentTag = openTags.pop()
-                    currentTag.closeText(i - 1)
-                    currentTag.startBrace(i)
-                    code = ''
                     try:
                         while True:
                             i, char = next(sIter)
                             if char == ')':
-                                currentTag.closeBrace(i, code)
+                                currentTag = makeCode(openBraceIndex, closeBraceIndex, i, codeStr, s)
                                 break
                             else:
-                                code += char
+                                codeStr += char
                     except StopIteration:
                         stopIter = True
                     else:
-                        closedTags.append(currentTag)
+                        closedTags += currentTag
                 else:
-                    currentTag = openTags.pop()
+                    pass
     return closedTags
 
 def cutString(s, cutLst):
@@ -69,7 +70,7 @@ def getCodes(string):
         for startString, stringVal in choppedString:
             if startString < code.startIndex:
                 pass
-            elif startString <= code.closeIndex:
+            elif startString < code.closeIndex:
                 s += stringVal
             else:
                 break
