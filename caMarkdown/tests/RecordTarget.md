@@ -1,12 +1,12 @@
 Class for full WOS records
 
-It [is meant to be immutable; many of the methods and attributes](^tag1) are [evaluated when first called, not when the object is created,](^tag2) and the results are stored in a private dictionary.
+It [is meant to be immutable; many of the methods and attributes](^tag1) are [evaluated when first called, not when the object is created,]($tag2) and the results are stored in a private dictionary.
 
 The record's meta-data is stored in an ordered dictionary labeled by WOS tags. To access the raw data stored in the original record the [getTag()]({{ site.baseurl }}{% post_url /docs/2015-09-30-Record %}#Record) method can be used. To access data that has been processed and cleaned the attributes named after the tags are used.
 
 ##### Customizations
 
-The Record's hashing and equality testing are based on the WOS number (the tag is 'UT', and also called the accession numb[er). They are strings starting with "WOS:" and followed by 15 or so numbers and letters, although both the length and character set are known to vary. The numbers are unique to each record so are used for comparisons. If a record is `bad`  al](^tag1)l equality checks return `False`.[
+The Record's hashing and equality testing are based on the WOS number (the tag is 'UT', and also called the accession numb[er). They are strings starting with "WOS:" and followed by 15 or so numbers and letters, although both the length and character set are known to vary. The numbers are unique to each record so are used for comparisons. If a record is `bad`  al](@tag1)l equality checks return `False`.[
 
 When converted to a string the records ti](^tag3)tle is used so for a record `R`, R.TI == R.title == str(R).
 
