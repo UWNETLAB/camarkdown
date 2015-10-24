@@ -7,9 +7,9 @@ def makeTestFile(inputString, numCuts, numTags, numBlocks, maxTagLen = 16, maxTa
     blocks = []
     for i in range(numTags):
         #Make numTags random strigns of numbers
-        tmpTag = str(random.randrange(10 ** (maxTagLen + 1) - 1))
+        tmpTag = str(random.randrange(10 ** (maxTagLen) - 1))
         while tmpTag in tags:
-            tmpTag = str(random.randrange(10 ** (maxTagLen + 1) - 1))
+            tmpTag = str(random.randrange(10 ** (maxTagLen) - 1))
         tags.append(tmpTag)
     for i in range(numCuts):
         #Make numCuts random numbers to cut on
@@ -24,17 +24,17 @@ def makeTestFile(inputString, numCuts, numTags, numBlocks, maxTagLen = 16, maxTa
         recentCut = cut
     splitString.append(inputString[0:recentCut])
     splitString.reverse()
-    rawCodes = {}
+    rawCodes = {cut : None for cut in cuts}
     for i in range(numBlocks):
         #Make numBlocks groups of cuts to make the blocks around
         try:
-            startBlock = cuts.pop()
+            block1 = cuts.pop()
         except IndexError:
             break
         try:
-            stopblock = cuts.pop()
+            block2 = cuts.pop()
         except IndexError:
-            cuts.append(startBlock)
+            cuts.append(block1)
             break
             #If not enough cuts stop
         codeTags = []
@@ -43,28 +43,32 @@ def makeTestFile(inputString, numCuts, numTags, numBlocks, maxTagLen = 16, maxTa
             codeTags.append(random.choice(tags))
         if len(codeTags) > 0:
             codeTags = "^{}".format(' ^'.join(codeTags))
-            rawCodes[startBlock] = (stopblock, codeTags)
-            rawCodes[stopblock] = (startBlock, codeTags)
+            rawCodes[block1] = (block2, codeTags)
+            rawCodes[block2] = (block1, codeTags)
         else:
-            rawCodes[startBlock] = "["
-            rawCodes[stopblock] = "]"
-    for cut in cuts:
-        rawCodes[cut] = None
+            if block1 < block2:
+                rawCodes[block1] = "["
+                rawCodes[block2] = "]"
+            else:
+                rawCodes[block1] = ")"
+                rawCodes[block2] = "("
     retString = ''
     codes = []
-    for i, cut in enumerate(sorted(rawCodes.keys())):
+    for cut in sorted(rawCodes.keys()):
         cutVal = rawCodes[cut]
         if cutVal is None:
-            retString += splitString[i]
+            retString += splitString.pop(0)
         elif isinstance(cutVal, str):
-            retString += splitString[i] + cutVal
+            retString += splitString.pop(0) + cutVal
         else:
             if cutVal[0] > cut:
-                retString +=  splitString[i] + "["
+                retString +=  splitString.pop(0) + "["
                 rawCodes[cut] = len(retString)
             else:
-                retString +=  splitString[i] + "]"
+                retString +=  splitString.pop(0) + "]"
                 blockIndex = len(retString)
                 retString += "({})".format(cutVal[1])
-                codes += makeCode(rawCodes[cutVal[0]], blockIndex, len(retString), cutVal[1])
-    return retString
+                codes += makeCode(rawCodes[cutVal[0]] - 1, blockIndex - 1, len(retString), cutVal[1])
+    while len(splitString) > 0:
+        retString +=  splitString.pop(0)
+    return (retString, codes)
