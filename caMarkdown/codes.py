@@ -1,3 +1,7 @@
+contextChar = '@'
+contentChar = '$'
+metaChar = '^'
+
 class Code(object):
     def __init__(self, startIndex, closeIndex, closeTagIndex, code, workingStr = None):
         self.startIndex = startIndex
@@ -12,19 +16,6 @@ class Code(object):
     def isCode(self):
         return True
 
-    def closeText(self, closeIndex):
-        self.closeIndex = closeIndex
-
-    def startBrace(self, startCode):
-        self.startCode = startCode
-
-    def closeBrace(self, closeCode, contents = None):
-        self.closeCode = closeCode
-        self.code = contents
-
-    def setContents(self, contString):
-        self.contents = string
-
     def getCutIndices(self):
         return [(self.startIndex, self.startIndex + 1), (self.closeIndex, self.closeCode + 1)]
 
@@ -38,8 +29,19 @@ class Code(object):
         else:
             return False
 
+class contextCode(Code):
+    pass
+
+class contentCode(Code):
+    pass
+
+class metaCode(Code):
+    pass
+
 codeTypes = {
-    '^' : Code
+    contextChar : contextCode,
+    contentChar : contentCode,
+    metaChar : metaCode,
 }
 
 def readCodes(codeStr):
