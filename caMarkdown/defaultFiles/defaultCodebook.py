@@ -1,3 +1,5 @@
+codeBookFileName = "codebook.md"
+
 defaultCookbook="""
 # Target Files
 

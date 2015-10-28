@@ -1,7 +1,5 @@
 from .codes import Code, makeCode
 
-
-
 def tokenizer(s):
     """Takes in a string and for every []() creates a Code object that know the index of its braces.
     """
