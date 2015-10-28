@@ -67,9 +67,3 @@ def getAction(codes):
     optionNum = int(inputMenu(actDict))
     if optionNum == 1:
         print(codeStats(codes))
-
-def cli():
-    args = argumentParser()
-    codes = proccessFiles(args.files)
-    while True:
-        getAction(codes)
