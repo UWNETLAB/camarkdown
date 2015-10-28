@@ -6,6 +6,6 @@ setup(name='caMarkdown',
     packages=['caMarkdown'],
     test_suite='caMarkdown.tests',
     entry_points={'console_scripts': [
-              'camd = caMarkdown.bin:cli',
+              'camd = caMarkdown.commandline:cli',
           ]},
 )
