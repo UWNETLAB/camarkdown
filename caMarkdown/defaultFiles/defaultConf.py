@@ -1,0 +1,2 @@
+defaultConf = """#Default Conf
+""".strip()
