@@ -2,6 +2,11 @@ from .defaultFiles import defaultCookbook, codeBookFileName, defaultConf, confFi
 import os
 import shutil
 
+hiddenDirName = '.camd'
+
+def isCaDir():
+    return os.path.isdir(hiddenDirName)
+
 def makeCodeBookFile(targetFilePath):
     with open(targetFilePath, 'w') as target:
         target.write(defaultCookbook)
@@ -29,4 +34,6 @@ def makeProjectDir(dirName):
         makeCodeBookFile(codeBookFileName)
     if freshDir or not os.path.isfile(confFileName):
         makeConfFile(confFileName)
+    if freshDir or not os.path.isdir(hiddenDirName):
+        os.mk
     #git init
