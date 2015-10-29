@@ -1,2 +1,3 @@
 # caMarkdown
-Plain text qualitative data analysis in Python
+
+Plain text content analysis and qualitative data analysis in Python
