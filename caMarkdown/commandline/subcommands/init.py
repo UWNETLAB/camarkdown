@@ -4,7 +4,7 @@ import sys
 
 def initArgParse():
     parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description="caMarkdown's directory intilizer")
-    parser.add_argument("dir", type = str, help = "The directory for caMarkdown to inilize in")
+    parser.add_argument("dir", nargs = "?", type = str, help = "The directory for caMarkdown to inilize in", default = '.')
     return parser.parse_args(sys.argv[2:])
 
 def startInit():
