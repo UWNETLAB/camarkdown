@@ -21,7 +21,7 @@ def makeConfFile(targetFilePath):
 def makeHiddenDir():
     os.mkdir(hiddenDirName)
     with open(os.path.join(hiddenDirName, filesListName), 'w') as f:
-        f.write("#Files registered with caMarkdown\n")
+        f.write("")
 
 def addFile(Path):
     for parent in Path.parents:
@@ -42,6 +42,13 @@ def addPath(Path):
                 addPath(P)
         else:
             pass
+
+def getIndexedFiles():
+    paths = []
+    with open(os.path.join(hiddenDirName, filesListName), 'r') as f:
+        for line in f:
+            paths.append(pathlib.Path(line.rstrip()))
+    return paths
 
 def makeProjectDir(dirName):
     freshDir = True

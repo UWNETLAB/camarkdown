@@ -1,32 +1,39 @@
 import argparse
 import sys
 import os
-from ...dirHanders import isCaDir
+from ...dirHanders import isCaDir, getIndexedFiles
 from ...parser import getCodes
 from ...codes import metaCode, contentCode, contextCode, metaChar, contentChar, contextChar
 
 def statusArgParse():
     parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description="caMarkdown's status display")
-    parser.add_argument("files", nargs = '*', type = str, help = "The The files for the stats to be run on.", default = [])
     return parser.parse_args(sys.argv[2:])
 
-def proccessFiles(targetFileNames):
+def proccessFiles(targetFilePaths):
     codes = []
-    print("{} files given, parsing".format(len(targetFileNames)))
+    print("{} files given, parsing".format(len(targetFilePaths)))
     openFiles = []
     #Not using a closure so that all the files can be opened before parsing
     #If an error occurs it is likely to happen at open
     #Not reading after open as that uses more memory then this way
-    for fname in targetFileNames:
+    goodFiles = 0
+    badFiles = 0
+    for fpath in targetFilePaths:
         try:
-            openFiles.append(open(fname))
+            openFiles.append(fpath.open('r'))
         except OSError:
-            print("{} is not a valid file".format(fname))
+            print("{} is not a valid file".format(str(fpath)))
             sys.exit()
     while len(openFiles) > 0:
         f = openFiles.pop()
-        codes += getCodes(f.read())
+        try:
+            codes += getCodes(f.read())
+        except UnicodeDecodeError:
+            badFiles += 1
+        else:
+            goodFiles += 1
         f.close()
+    print("{} files parsed out of {} parsed".format(goodFiles, len(targetFilePaths)))
     return codes
 
 def codeStats(codes):
@@ -46,8 +53,8 @@ def codeStats(codes):
 
 def startStatus():
     args = statusArgParse()
-    codes = []
-    if len(args.files) < 1:
-        codes = proccessFiles([f for f in os.listdir('.') if os.path.isfile(f)])
+    if not isCaDir():
+        print("This is not caMarkdown directory, run `camd init` to make it one")
     else:
-        codes = proccessFiles(args.files)
+        codes = proccessFiles(getIndexedFiles())
+        print(codeStats(codes))
