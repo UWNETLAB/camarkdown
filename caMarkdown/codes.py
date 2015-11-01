@@ -1,6 +1,72 @@
+from .caExceptions import CodeParserException
+
 contextChar = '@'
 contentChar = '$'
 metaChar = '^'
+
+class Code2(object):
+    def __init__(self, sIter):
+        self.bad = False
+        self.tokens = None
+        self.contents = []
+
+        stopIter = False
+        inBraces = False
+        currentString = ''
+
+        while not stopIter:
+            try:
+                char = next(sIter)
+                print(char, inBraces, sep = ' | ')
+            except StopIteration:
+                if inBraces:
+                    currentString += '](' + self.tokens
+                self.contents.append(currentString)
+                self.bad = True
+                stopIter = True
+            else:
+                if inBraces:
+                    if char == ')':
+                        stopIter = True
+                    else:
+                        self.tokens += char
+                elif char == '[':
+                    self.contents.append(currentString)
+                    innerCode = Code2(sIter)
+                    if innerCode.bad:
+                        if len(innerCode.contents) < 1:
+                            raise CodeParserException("Code has no contents")
+                        else:
+                            self.contents.append('[')
+                            self.contents.append(innerCode.contents)
+                            self.contents.append(']')
+                    else:
+                        self.contents.append(innerCode)
+                elif char == ']':
+                    try:
+                        char = next(sIter)
+                    except StopIteration:
+                        stopIter = True
+                    else:
+                        if char == '(':
+                            self.tokens = ''
+                            inBraces = True
+                            self.contents.append(currentString)
+                        elif char == '[':
+                            self.contents.append(Code2(sIter))
+                            self.bad = True
+                            stopIter = True
+                        else:
+                            currentString += ']' + char
+                            self.contents.append(currentString)
+                            stopIter = True
+                            self.bad = True
+                else:
+                    currentString += char
+
+    def __repr__(self):
+        s = "< [{}]({}) >".format(self.contents, self.tokens)
+        return s
 
 class Code(object):
     def __init__(self, startIndex, closeIndex, closeTagIndex, code, workingStr = None):

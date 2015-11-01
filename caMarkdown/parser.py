@@ -1,7 +1,53 @@
-from .codes import Code, makeCode
+from .codes import Code, makeCode, Code2
+
+def tokenizer2(s):
+    tokens = []
+    currentString = ''
+    sIter = enumerate(s.__iter__())
+    inBraces = False
+    stopIter = False
+    while not stopIter:
+        try:
+            i, char = next(sIter)
+        except StopIteration:
+            stopIter = True
+            if len(currentString) > 0:
+                tokens.append((currentString, i))
+        else:
+            if inBraces:
+                if char == ')':
+                    currentString += char
+                    inBraces = False
+                    tokens.append((currentString, i))
+                    currentString = ''
+                else:
+                    currentString += char
+            elif char == '[':
+                if len(currentString) > 0:
+                    tokens.append((currentString, i))
+                    currentString = ''
+                tokens.append((char , i))
+            elif char == ']':
+                if len(currentString) > 0:
+                    tokens.append((currentString, i))
+                    currentString = ''
+                tokens.append((char, i))
+                try:
+                    i, char = next(sIter)
+                except StopIteration:
+                    stopIter = True
+                else:
+                    currentString += char
+                    if char == '(':
+                        inBraces = True
+            else:
+                currentString += char
+    print("DSDSFDFSGFD")
+    return tokens
+
 
 def tokenizer(s):
-    """Takes in a string and for every []() creates a Code object that know the index of its braces.
+    """Takes in a string and for every []() creates a Code object that knows the index of its braces.
     """
     openIndices = []
     closedTags = []
@@ -45,7 +91,6 @@ def tokenizer(s):
 def cutString(s, cutLst):
     """Takes a string an a series of indices to cut on and returns a list of tuples with the first element being the start of the cut and the second the string
     """
-
     retStrings = []
     cutLst = sorted(cutLst, key = lambda x: x[0], reverse = True)
     lastStart = len(s)
@@ -55,6 +100,36 @@ def cutString(s, cutLst):
     retStrings.append((0, s[0:lastStart]))
     retStrings.reverse()
     return retStrings
+
+def getCodes2(targetString):
+    codes = []
+    sIter = targetString.__iter__()
+    currentString = ''
+    stopIter = False
+    while not stopIter:
+        try:
+            char = next(sIter)
+        except StopIteration:
+            stopIter = True
+            if len(currentString) > 0:
+                codes.append(currentString)
+        else:
+            if char == '[':
+                codes.append(currentString)
+                innerCode = Code2(sIter)
+                if innerCode.bad:
+                    if len(innerCode.contents) < 1:
+                        raise CodeParserException("Code has no contents")
+                    else:
+                        codes.append('[')
+                        codes.append(innerCode.contents)
+                        codes.append(']')
+                else:
+                    codes.append(innerCode)
+            else:
+                currentString += char
+    return codes
+
 
 def getCodes(string):
     baseCodes = tokenizer(string)
