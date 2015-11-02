@@ -137,6 +137,25 @@ class Code(object):
         s = "< [{}]({}) >".format(len(self._raw), self.tag)
         return s
 
+    def __hash__(self):
+        return hash(self.raw + self.tag + str(self.index))
+
+    def __len__(self):
+        return len(self.raw)
+
+    def __contains__(self, tag):
+        for c in self.children:
+            if c.tag == tag:
+                return True
+        return False
+
+    def __getitem__(self, tag):
+        retTags = []
+        for c in self.children:
+            if c.tag == tag:
+                retTags.append(c)
+        return retTags
+
     @property
     def raw(self):
         return self._raw
@@ -149,7 +168,7 @@ class Code(object):
                 if isinstance(val, tuple):
                     pass
                 elif isinstance(val, Node):
-                    children.append(val)
+                    children += val.tags
                 else:
                     raise CodeParserException("Node {} contains a non-Node, non-string object: {}".format(self, val))
             self._children = children

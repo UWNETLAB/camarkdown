@@ -3,7 +3,7 @@ import sys
 from .subcommands import subCommands
 
 def argumentParser():
-    helpParser = argparse.ArgumentParser(description="caMarkdown's command line interface")
+    helpParser = argparse.ArgumentParser(description="caMarkdown's command line interface",prog = sys.argv[0])
     return helpParser.parse_args()
 
 def cli():

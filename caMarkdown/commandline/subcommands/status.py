@@ -9,9 +9,10 @@ def statusArgParse():
     parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description="caMarkdown's status display")
     return parser.parse_args(sys.argv[2:])
 
-def proccessFiles(targetFilePaths):
+def proccessFiles(targetFilePaths, verbose = True):
     codes = []
-    print("{} files given, parsing".format(len(targetFilePaths)))
+    if verbose:
+        print("{} files given, parsing".format(len(targetFilePaths)))
     openFiles = []
     #Not using a closure so that all the files can be opened before parsing
     #If an error occurs it is likely to happen at open
@@ -33,7 +34,8 @@ def proccessFiles(targetFilePaths):
         else:
             goodFiles += 1
         f.close()
-    print("{} files parsed out of {} parsed".format(goodFiles, len(targetFilePaths)))
+    if verbose:
+        print("{} files parsed out of {} parsed".format(goodFiles, len(targetFilePaths)))
     return codes
 
 def codeStats(codes):
