@@ -110,28 +110,11 @@ def lineAndIndexCounter(targtString):
             lineCount += 1
         yield lineCount, i, char
 
-
-def getCodes2(targetString):
+def getParseTree(targetString):
     codes = []
     sIter = lineAndIndexCounter(targetString)
     return Node(sIter, 0, -1, '')
 
-
-def getCodes(string):
-    baseCodes = tokenizer(string)
-    cuts = []
-    for code in baseCodes:
-        if code.isCode:
-            cuts += code.getCutIndices()
-    choppedString = cutString(string, cuts)
-    for code in baseCodes:
-        s = ''
-        for startString, stringVal in choppedString:
-            if startString < code.startIndex:
-                pass
-            elif startString < code.closeIndex:
-                s += stringVal
-            else:
-                break
-            code.contents = s
-    return baseCodes
+def getTags(targetString):
+    tree = getParseTree(targetString)
+    return tree.tags

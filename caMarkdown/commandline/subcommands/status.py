@@ -2,7 +2,7 @@ import argparse
 import sys
 import os
 from ...dirHanders import isCaDir, getIndexedFiles
-from ...parser import getCodes
+from ...parser import getTags
 from ...codes import metaCode, contentCode, contextCode, metaChar, contentChar, contextChar
 
 def statusArgParse():
@@ -27,7 +27,7 @@ def proccessFiles(targetFilePaths):
     while len(openFiles) > 0:
         f = openFiles.pop()
         try:
-            codes += getCodes(f.read())
+            codes += getTags(f.read())
         except UnicodeDecodeError:
             badFiles += 1
         else:

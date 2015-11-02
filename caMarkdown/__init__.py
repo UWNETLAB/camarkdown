@@ -1,4 +1,4 @@
-from .parser import tokenizer, getCodes, tokenizer2, getCodes2
+from .parser import getTags, getParseTree
 from .tests.testGen import makeTestFile
 from .dirHanders import makeProjectDir
 

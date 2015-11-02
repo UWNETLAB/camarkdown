@@ -16,6 +16,7 @@ class Node(object):
         self.line = startLine
         self.index = startIndex
         self._children = None
+        self._tags = None
 
         stopIter = False
         inBraces = False
@@ -73,9 +74,7 @@ class Node(object):
 
     @property
     def raw(self):
-        if len(self._raw) < 2:
-            for child in self.contents:
-                self._raw += child.raw
+        #Consider how to handle this
         return self._raw
 
     @property
@@ -92,6 +91,32 @@ class Node(object):
             self._children = children
         return self._children
 
+    @property
+    def tags(self):
+        if self._tags is None:
+            self._tags = self.makeCode()
+            for c in self.children:
+                self._tags += c.tags
+        return self._tags
+
+    def makeCode(self):
+        def readCodes(codeStr):
+            codes = codeStr.split(' ')
+            retCodes = []
+            for code in codes:
+                if len(code) > 1 and code[0] in codeTypes:
+                    retCodes.append((code[0], code[1:]))
+            return retCodes
+
+        if not self.code:
+            return []
+        else:
+            tags = readCodes(self.tokens)
+            retCodes = []
+            for codeChar, code in tags:
+                retCodes.append(codeTypes[codeChar](self.contents, code, self.line, self.index, self.raw))
+            return retCodes
+
     def __repr__(self):
         if self.code:
             s = "< [{}]({}) >".format(len(self._raw), self.tokens)
@@ -99,6 +124,38 @@ class Node(object):
             s = "< [{}] >".format(len(self._raw))
         return s
 
+class Code(object):
+    def __init__(self, contents, tag, startLine, startIndex, startRaw):
+        self.contents = contents
+        self.tag = tag
+        self.line = startLine
+        self.index = startIndex
+        self._raw = startRaw
+        self._children = None
+
+    def __repr__(self):
+        s = "< [{}]({}) >".format(len(self._raw), self.tag)
+        return s
+
+    @property
+    def raw(self):
+        return self._raw
+
+    @property
+    def children(self):
+        if self._children is None:
+            children = []
+            for val in self.contents:
+                if isinstance(val, tuple):
+                    pass
+                elif isinstance(val, Node):
+                    children.append(val)
+                else:
+                    raise CodeParserException("Node {} contains a non-Node, non-string object: {}".format(self, val))
+            self._children = children
+        return self._children
+
+"""
 class Code(object):
     def __init__(self, startIndex, closeIndex, closeTagIndex, code, workingStr = None):
         self.startIndex = startIndex
@@ -125,7 +182,7 @@ class Code(object):
             return True
         else:
             return False
-
+"""
 class contextCode(Code):
     pass
 
@@ -141,13 +198,7 @@ codeTypes = {
     metaChar : metaCode,
 }
 
-def readCodes(codeStr):
-    codes = codeStr.split(' ')
-    retCodes = []
-    for code in codes:
-        if len(code) > 1 and code[0] in codeTypes:
-            retCodes.append((code[0], code[1:]))
-    return retCodes
+
 
 def makeCode(startIndex, closeIndex, closeTagIndex, codeStr, workingStr = None):
     validCodes = readCodes(codeStr)
