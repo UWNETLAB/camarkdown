@@ -1,5 +1,4 @@
 from .parser import getTags, getParseTree
-from .tests.testGen import makeTestFile
 from .dirHanders import makeProjectDir
 
 import os.path

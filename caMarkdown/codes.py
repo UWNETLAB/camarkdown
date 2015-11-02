@@ -155,34 +155,6 @@ class Code(object):
             self._children = children
         return self._children
 
-"""
-class Code(object):
-    def __init__(self, startIndex, closeIndex, closeTagIndex, code, workingStr = None):
-        self.startIndex = startIndex
-        self.closeIndex = closeIndex
-        self.startCode = closeIndex + 1
-        self.closeCode = closeTagIndex
-        self.code = code
-        self.string = workingStr
-        self.contents = None
-
-    @property
-    def isCode(self):
-        return True
-
-    def getCutIndices(self):
-        return [(self.startIndex, self.startIndex + 1), (self.closeIndex, self.closeCode + 1)]
-
-    def __repr__(self):
-        s = "[{},{}]({})".format(self.startIndex, self.closeIndex, self.code).replace('\n','').replace('\r','')
-        return '<<' + s +'>>'
-
-    def __eq__(self, other):
-        if self.startIndex == other.startIndex and self.closeIndex == other.closeIndex and self.code == other.code:
-            return True
-        else:
-            return False
-"""
 class contextCode(Code):
     pass
 
@@ -197,12 +169,3 @@ codeTypes = {
     contentChar : contentCode,
     metaChar : metaCode,
 }
-
-
-
-def makeCode(startIndex, closeIndex, closeTagIndex, codeStr, workingStr = None):
-    validCodes = readCodes(codeStr)
-    retCodes = []
-    for codeChar, code in validCodes:
-        retCodes.append(codeTypes[codeChar](startIndex, closeIndex, closeTagIndex, code, workingStr))
-    return retCodes
