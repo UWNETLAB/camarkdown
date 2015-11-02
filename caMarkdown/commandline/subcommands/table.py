@@ -16,7 +16,9 @@ def startTable():
         print("This is not caMarkdown directory, run `camd init` to make it one")
     else:
         codes = proccessFiles(getIndexedFiles(), verbose = False)
-        tagsDict = collections.OrderedDict({tag : [] for tag in args.tags})
+        tagsDict = collections.OrderedDict()
+        for tag in args.tags:
+            tagsDict[tag] = []
         for code in codes:
             if code.tag in args.tags:
                 tagsDict[code.tag].append(code)
