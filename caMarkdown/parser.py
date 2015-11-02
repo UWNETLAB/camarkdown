@@ -1,4 +1,4 @@
-from .codes import Code, makeCode, Code2
+from .codes import Code, makeCode, Node
 
 def tokenizer2(s):
     tokens = []
@@ -104,31 +104,7 @@ def cutString(s, cutLst):
 def getCodes2(targetString):
     codes = []
     sIter = targetString.__iter__()
-    currentString = ''
-    stopIter = False
-    while not stopIter:
-        try:
-            char = next(sIter)
-        except StopIteration:
-            stopIter = True
-            if len(currentString) > 0:
-                codes.append(currentString)
-        else:
-            if char == '[':
-                codes.append(currentString)
-                innerCode = Code2(sIter)
-                if innerCode.bad:
-                    if len(innerCode.contents) < 1:
-                        raise CodeParserException("Code has no contents")
-                    else:
-                        codes.append('[')
-                        codes.append(innerCode.contents)
-                        codes.append(']')
-                else:
-                    codes.append(innerCode)
-            else:
-                currentString += char
-    return codes
+    return Node(sIter, '')
 
 
 def getCodes(string):

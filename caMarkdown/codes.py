@@ -4,11 +4,16 @@ contextChar = '@'
 contentChar = '$'
 metaChar = '^'
 
-class Code2(object):
-    def __init__(self, sIter):
-        self.bad = False
+class Node(object):
+    def __init__(self, sIter, codeStart):
+        if codeStart == '[':
+            self.code = True
+        else:
+            self.code = False
         self.tokens = None
         self.contents = []
+        self._raw = codeStart
+        self._children = None
 
         stopIter = False
         inBraces = False
@@ -17,12 +22,12 @@ class Code2(object):
         while not stopIter:
             try:
                 char = next(sIter)
-                print(char, inBraces, sep = ' | ')
+                self._raw += char
             except StopIteration:
                 if inBraces:
                     currentString += '](' + self.tokens
                 self.contents.append(currentString)
-                self.bad = True
+                self.code = False
                 stopIter = True
             else:
                 if inBraces:
@@ -32,19 +37,13 @@ class Code2(object):
                         self.tokens += char
                 elif char == '[':
                     self.contents.append(currentString)
-                    innerCode = Code2(sIter)
-                    if innerCode.bad:
-                        if len(innerCode.contents) < 1:
-                            raise CodeParserException("Code has no contents")
-                        else:
-                            self.contents.append('[')
-                            self.contents.append(innerCode.contents)
-                            self.contents.append(']')
-                    else:
-                        self.contents.append(innerCode)
-                elif char == ']':
+                    self._raw = self._raw[:-1]
+                    innerCode = Node(sIter, char)
+                    self.contents.append(innerCode)
+                elif char == ']' and self.code:
                     try:
                         char = next(sIter)
+                        self._raw += char
                     except StopIteration:
                         stopIter = True
                     else:
@@ -54,18 +53,42 @@ class Code2(object):
                             self.contents.append(currentString)
                         elif char == '[':
                             self.contents.append(Code2(sIter))
-                            self.bad = True
+                            self.code = False
                             stopIter = True
                         else:
                             currentString += ']' + char
                             self.contents.append(currentString)
                             stopIter = True
-                            self.bad = True
+                            self.code = False
                 else:
                     currentString += char
 
+    @property
+    def raw(self):
+        if len(self._raw) < 2:
+            for child in self.contents:
+                self._raw += child.raw
+        return self._raw
+
+
+
+    @property
+    def children(self):
+        if self._children is None:
+            children = []
+            for val in self.contents:
+                if isinstance(val, Node):
+                    children.append(val)
+                else:
+                    raise CodeParserException("Node {} contains a non-Node, non-string object: {}".format(self, val))
+            self._children = children
+        return self._children
+
     def __repr__(self):
-        s = "< [{}]({}) >".format(self.contents, self.tokens)
+        if self.code:
+            s = "< [{}]({}) >".format(len(self._raw), self.tokens)
+        else:
+            s = "< [{}] >".format(len(self._raw))
         return s
 
 class Code(object):
