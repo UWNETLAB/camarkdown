@@ -101,10 +101,20 @@ def cutString(s, cutLst):
     retStrings.reverse()
     return retStrings
 
+def lineAndIndexCounter(targtString):
+    sIter = enumerate(targtString.__iter__())
+    lineCount = 1
+    while True:
+        i, char = next(sIter)
+        if char == '\n':
+            lineCount += 1
+        yield lineCount, i, char
+
+
 def getCodes2(targetString):
     codes = []
-    sIter = targetString.__iter__()
-    return Node(sIter, '')
+    sIter = lineAndIndexCounter(targetString)
+    return Node(sIter, 0, -1, '')
 
 
 def getCodes(string):
