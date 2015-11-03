@@ -124,7 +124,7 @@ class Node(object):
             s = "< [{}] >".format(len(self._raw))
         return s
 
-class Code(object):
+class CodeSection(object):
     def __init__(self, contents, tag, startLine, startIndex, startRaw):
         self.contents = contents
         self.tag = tag
@@ -174,17 +174,17 @@ class Code(object):
             self._children = children
         return self._children
 
-class contextCode(Code):
+class ContextCodeSection(CodeSection):
     pass
 
-class contentCode(Code):
+class ContentCodeSection(CodeSection):
     pass
 
-class metaCode(Code):
+class MetaCodeSection(CodeSection):
     pass
 
 codeTypes = {
-    contextChar : contextCode,
-    contentChar : contentCode,
-    metaChar : metaCode,
+    contextChar : ContextCodeSection,
+    contentChar : ContentCodeSection,
+    metaChar : MetaCodeSection,
 }

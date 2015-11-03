@@ -1,4 +1,4 @@
-from .codes import Code, Node
+from .codes import Node
 
 def lineAndIndexCounter(targtString):
     sIter = enumerate(targtString.__iter__())

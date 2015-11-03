@@ -3,7 +3,7 @@ import sys
 import os
 from ...dirHanders import isCaDir, getIndexedFiles
 from ...parser import getTags
-from ...codes import metaCode, contentCode, contextCode, metaChar, contentChar, contextChar
+from ...codes import MetaCodeSection, ContentCodeSection, ContextCodeSection, metaChar, contentChar, contextChar
 
 def statusArgParse():
     parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description="caMarkdown's status display")
@@ -41,11 +41,11 @@ def proccessFiles(targetFilePaths, verbose = True):
 def codeStats(codes):
     metaCount, extCount, ontCount = 0, 0, 0
     for c in codes:
-        if isinstance(c, metaCode):
+        if isinstance(c, MetaCodeSection):
             metaCount += 1
-        elif isinstance(c, contentCode):
+        elif isinstance(c, ContentCodeSection):
             ontCount += 1
-        elif isinstance(c, contextCode):
+        elif isinstance(c, ContextCodeSection):
             extCount += 1
         else:
             raise RunTimeError("{} is not a Code subclass".format(type(c)))
