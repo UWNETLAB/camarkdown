@@ -16,4 +16,4 @@ def getParseTree(targetString):
 
 def getTags(targetString):
     tree = getParseTree(targetString)
-    return tree.tags
+    return tree.tagSections

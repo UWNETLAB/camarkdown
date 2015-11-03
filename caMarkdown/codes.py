@@ -8,15 +8,16 @@ class Node(object):
     def __init__(self, sIter, startLine, startIndex, startCode):
         if startCode == '[':
             self.code = True
+            self._raw = ''
         else:
             self.code = False
+            self._raw = startCode
         self.tokens = None
         self.contents = []
-        self._raw = startCode
         self.line = startLine
         self.index = startIndex
         self._children = None
-        self._tags = None
+        self._tagSections = None
 
         stopIter = False
         inBraces = False
@@ -28,7 +29,8 @@ class Node(object):
         while not stopIter:
             try:
                 line, i, char = next(sIter)
-                self._raw += char
+                if not inBraces:
+                    self._raw += char
                 if freshString:
                     currentLine, currentIndex, currentString = line, i, ''
             except StopIteration:
@@ -47,6 +49,7 @@ class Node(object):
                     self.contents.append((currentLine, currentIndex, currentString))
                     self._raw = self._raw[:-1]
                     innerCode = Node(sIter, line, i, char)
+                    self._raw += innerCode.raw
                     self.contents.append(innerCode)
                     freshString = True
                 elif char == ']' and self.code:
@@ -60,8 +63,12 @@ class Node(object):
                             self.tokens = ''
                             inBraces = True
                             self.contents.append((currentLine, currentIndex, currentString))
+                            self._raw = self._raw[:-2]
                         elif char == '[':
-                            self.contents.append(Code2(sIter))
+                            self.contents.append((currentLine, currentIndex, currentString))
+                            innerCode = Node(sIter, line, i, char)
+                            self._raw += innerCode.raw
+                            self.contents.append(innerCode)
                             self.code = False
                             stopIter = True
                         else:
@@ -92,12 +99,12 @@ class Node(object):
         return self._children
 
     @property
-    def tags(self):
-        if self._tags is None:
-            self._tags = self.makeCode()
+    def tagSections(self):
+        if self._tagSections is None:
+            self._tagSections = self.makeCode()
             for c in self.children:
-                self._tags += c.tags
-        return self._tags
+                self._tagSections += c.tagSections
+        return self._tagSections
 
     def makeCode(self):
         def readCodes(codeStr):
@@ -116,6 +123,8 @@ class Node(object):
             for codeChar, code in tags:
                 retCodes.append(codeTypes[codeChar](self.contents, code, self.line, self.index, self.raw))
             return retCodes
+
+
 
     def __repr__(self):
         if self.code:
@@ -188,3 +197,23 @@ codeTypes = {
     contentChar : ContentCodeSection,
     metaChar : MetaCodeSection,
 }
+"""
+class Tag(object):
+    def __init__(self, sections, tag, codeType):
+        self.type = codeType
+        for s in sections:
+            if s.tag != tag:
+                raise CodeParserException("Tag objects can ony be made from CodeSections with the same tag. A tag of {} was found when {} was expected".format(s.tag, tag))
+            if not isinstance(s, codeTypes[self.type]):
+                raise CodeParserException("Tag objects can ony be made from CodeSections with the same type. The tag {} is not a {} type".format(s.tag, self.type))
+        self.sections = sections
+        self._containedTags = None
+        self._containedSections = None
+
+    @property
+    def childTags(self):
+        if self._containedTags is None:
+            for s in sections:
+
+        return self._containedTags
+"""
