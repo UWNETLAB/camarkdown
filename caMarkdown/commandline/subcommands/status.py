@@ -48,7 +48,7 @@ def codeStats(codes):
         elif isinstance(c, ContextCodeSection):
             extCount += 1
         else:
-            raise RunTimeError("{} is not a Code subclass".format(type(c)))
+            raise RuntimeError("{} is not a Code subclass".format(type(c)))
     s = "{} codes of divided into:\nmeta({}) {}\ncontent({}) {}\ncontext({}) {}".format(len(codes), metaChar, metaCount, contentChar, ontCount, contextChar, extCount)
     return s
 

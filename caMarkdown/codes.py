@@ -4,6 +4,29 @@ contextChar = '@'
 contentChar = '$'
 metaChar = '^'
 
+def lineAndIndexCounter(targtString):
+    sIter = enumerate(targtString.__iter__())
+    lineCount = 1
+    while True:
+        i, char = next(sIter)
+        if char == '\n':
+            lineCount += 1
+        yield lineCount, i, char
+
+class parseTree(object):
+    def __init__(self, targetString):
+        sIter = lineAndIndexCounter(targetString)
+        self.topNode = Node(sIter, 0, -1, '')
+        self.tagSegments = self.topNode.tagSections
+        tmpTagDict = {}
+        for seg in self.tagSegments:
+            try:
+                tmpTagDict[seg.tag].append(seg)
+            except KeyError:
+                tmpTagDict[seg.tag] = [seg]
+        self._tags = {tag : Tag(seg, tag) for tag, seg in tmpTagDict.items()}
+
+
 class Node(object):
     def __init__(self, sIter, startLine, startIndex, startCode):
         if startCode == '[':
@@ -17,7 +40,9 @@ class Node(object):
         self.line = startLine
         self.index = startIndex
         self._children = None
+        self._containedSections = None
         self._tagSections = None
+        self._codes = None
 
         stopIter = False
         inBraces = False
@@ -81,7 +106,7 @@ class Node(object):
 
     @property
     def raw(self):
-        #Consider how to handle this
+        #TODO Consider how to handle this
         return self._raw
 
     @property
@@ -99,38 +124,45 @@ class Node(object):
         return self._children
 
     @property
+    def containedSections(self):
+        if self._containedSections is None:
+            self._containedSections = self.codes
+            for child in self.children:
+                self._containedSections += child.codes
+        return self._containedSections
+
+    @property
     def tagSections(self):
         if self._tagSections is None:
-            self._tagSections = self.makeCode()
+            self._tagSections = self.codes
             for c in self.children:
                 self._tagSections += c.tagSections
         return self._tagSections
 
-    def makeCode(self):
+
+    @property
+    def codes(self):
         def readCodes(codeStr):
             codes = codeStr.split(' ')
             retCodes = []
             for code in codes:
                 if len(code) > 1 and code[0] in codeTypes:
-                    retCodes.append((code[0], code[1:]))
+                    retCodes.append((code[0], code))
             return retCodes
 
-        if not self.code:
-            return []
-        else:
-            tags = readCodes(self.tokens)
-            retCodes = []
-            for codeChar, code in tags:
-                retCodes.append(codeTypes[codeChar](self.contents, code, self.line, self.index, self.raw))
-            return retCodes
-
-
+        if self._codes is None:
+            self._codes = []
+            if self.code:
+                tagStrings = readCodes(self.tokens)
+                for codeChar, code in tagStrings:
+                    self._codes.append(codeTypes[codeChar](self.contents, code, self.line, self.index, self.raw))
+        return self._codes
 
     def __repr__(self):
         if self.code:
-            s = "< [{}]({}) >".format(len(self._raw), self.tokens)
+            s = "< Node [{}]({}) >".format(len(self._raw), self.tokens)
         else:
-            s = "< [{}] >".format(len(self._raw))
+            s = "< Node [{}] >".format(len(self._raw))
         return s
 
 class CodeSection(object):
@@ -143,7 +175,7 @@ class CodeSection(object):
         self._children = None
 
     def __repr__(self):
-        s = "< [{}]({}) >".format(len(self._raw), self.tag)
+        s = "< CodeSection [{}]({}) >".format(len(self._raw), self.tag)
         return s
 
     def __hash__(self):
@@ -177,7 +209,7 @@ class CodeSection(object):
                 if isinstance(val, tuple):
                     pass
                 elif isinstance(val, Node):
-                    children += val.tags
+                    children.append(val)
                 else:
                     raise CodeParserException("Node {} contains a non-Node, non-string object: {}".format(self, val))
             self._children = children
@@ -197,23 +229,40 @@ codeTypes = {
     contentChar : ContentCodeSection,
     metaChar : MetaCodeSection,
 }
-"""
+
 class Tag(object):
-    def __init__(self, sections, tag, codeType):
-        self.type = codeType
+    def __init__(self, sections, tag):
         for s in sections:
             if s.tag != tag:
                 raise CodeParserException("Tag objects can ony be made from CodeSections with the same tag. A tag of {} was found when {} was expected".format(s.tag, tag))
-            if not isinstance(s, codeTypes[self.type]):
-                raise CodeParserException("Tag objects can ony be made from CodeSections with the same type. The tag {} is not a {} type".format(s.tag, self.type))
         self.sections = sections
         self._containedTags = None
         self._containedSections = None
+        self._raw = None
 
     @property
-    def childTags(self):
-        if self._containedTags is None:
-            for s in sections:
+    def raw(self):
+        if self._raw is None:
+            self._raw = []
+            for sec in self.sections:
+                self._raw.append(sec.raw)
+        return self._raw
 
+
+    @property
+    def containedSections(self):
+        if self._containedSections is None:
+            self._containedSections = []
+            for sec in self.sections:
+                for seg in [node.containedSections for node in sec.children]:
+                    self._containedSections += seg
+        return self._containedSections
+
+    @property
+    def containedTags(self):
+        if self._containedTags is None:
+            self._containedTags = []
+            for sec in self.containedSections:
+                if sec.tag not in self._containedTags:
+                    self._containedTags.append(sec.tag)
         return self._containedTags
-"""
