@@ -24,8 +24,7 @@ class parseTree(object):
                 tmpTagDict[seg.tag].append(seg)
             except KeyError:
                 tmpTagDict[seg.tag] = [seg]
-        self._tags = {tag : Tag(seg, tag) for tag, seg in tmpTagDict.items()}
-
+        self.tags = {tag : codeTypes[tag[0]](segs, tag) for tag, segs in tmpTagDict.items()}
 
 class Node(object):
     def __init__(self, sIter, startLine, startIndex, startCode):
@@ -36,9 +35,11 @@ class Node(object):
             self.code = False
             self._raw = startCode
         self.tokens = None
-        self.contents = []
+        self.contents = [] #Nice values
+        self._contents = [] #Raw values
         self.line = startLine
         self.index = startIndex
+
         self._children = None
         self._containedSections = None
         self._tagSections = None
@@ -58,10 +59,11 @@ class Node(object):
                     self._raw += char
                 if freshString:
                     currentLine, currentIndex, currentString = line, i, ''
+                    freshString = False
             except StopIteration:
                 if inBraces:
                     currentString += '](' + self.tokens
-                self.contents.append((currentLine, currentIndex, currentString))
+                self._contents.append((currentLine, currentIndex, currentString))
                 self.code = False
                 stopIter = True
             else:
@@ -71,11 +73,11 @@ class Node(object):
                     else:
                         self.tokens += char
                 elif char == '[':
-                    self.contents.append((currentLine, currentIndex, currentString))
+                    self._contents.append((currentLine, currentIndex, currentString))
                     self._raw = self._raw[:-1]
                     innerCode = Node(sIter, line, i, char)
                     self._raw += innerCode.raw
-                    self.contents.append(innerCode)
+                    self._contents.append(innerCode)
                     freshString = True
                 elif char == ']' and self.code:
                     try:
@@ -87,22 +89,30 @@ class Node(object):
                         if char == '(':
                             self.tokens = ''
                             inBraces = True
-                            self.contents.append((currentLine, currentIndex, currentString))
+                            self._contents.append((currentLine, currentIndex, currentString))
                             self._raw = self._raw[:-2]
                         elif char == '[':
-                            self.contents.append((currentLine, currentIndex, currentString))
+                            self._contents.append((currentLine, currentIndex, currentString))
                             innerCode = Node(sIter, line, i, char)
                             self._raw += innerCode.raw
-                            self.contents.append(innerCode)
+                            self._contents.append(innerCode)
                             self.code = False
                             stopIter = True
                         else:
                             currentString += ']' + char
-                            self.contents.append((currentLine, currentIndex, currentString))
+                            self._contents.append((currentLine, currentIndex, currentString))
                             stopIter = True
                             self.code = False
                 else:
                     currentString += char
+
+        for val in self._contents:
+            if isinstance(val, Node):
+                self.contents.append(val)
+            elif isinstance(val, tuple):
+                self.contents.append(val[2])
+            else:
+                raise CodeParserException("Unxepected object: {} in _contents".format(val))
 
     @property
     def raw(self):
@@ -113,7 +123,7 @@ class Node(object):
     def children(self):
         if self._children is None:
             children = []
-            for val in self.contents:
+            for val in self._contents:
                 if isinstance(val, tuple):
                     pass
                 elif isinstance(val, Node):
@@ -139,14 +149,13 @@ class Node(object):
                 self._tagSections += c.tagSections
         return self._tagSections
 
-
     @property
     def codes(self):
         def readCodes(codeStr):
             codes = codeStr.split(' ')
             retCodes = []
             for code in codes:
-                if len(code) > 1 and code[0] in codeTypes:
+                if len(code) > 1 and code[0] in codeSectionTypes:
                     retCodes.append((code[0], code))
             return retCodes
 
@@ -155,7 +164,7 @@ class Node(object):
             if self.code:
                 tagStrings = readCodes(self.tokens)
                 for codeChar, code in tagStrings:
-                    self._codes.append(codeTypes[codeChar](self.contents, code, self.line, self.index, self.raw))
+                    self._codes.append(codeSectionTypes[codeChar](self._contents, code, self.line, self.index, self.raw))
         return self._codes
 
     def __repr__(self):
@@ -224,7 +233,7 @@ class ContentCodeSection(CodeSection):
 class MetaCodeSection(CodeSection):
     pass
 
-codeTypes = {
+codeSectionTypes = {
     contextChar : ContextCodeSection,
     contentChar : ContentCodeSection,
     metaChar : MetaCodeSection,
@@ -240,6 +249,8 @@ class Tag(object):
         self._containedSections = None
         self._raw = None
 
+        self.tag = tag
+
     @property
     def raw(self):
         if self._raw is None:
@@ -247,7 +258,6 @@ class Tag(object):
             for sec in self.sections:
                 self._raw.append(sec.raw)
         return self._raw
-
 
     @property
     def containedSections(self):
@@ -266,3 +276,22 @@ class Tag(object):
                 if sec.tag not in self._containedTags:
                     self._containedTags.append(sec.tag)
         return self._containedTags
+
+    def __repr__(self):
+        s = "< {} ({})[{}] >".format(type(self).__qualname__, len(self.sections), self.tag)
+        return s
+
+class ContextCode(Tag):
+    pass
+
+class ContentCode(Tag):
+    pass
+
+class MetaCode(Tag):
+    pass
+
+codeTypes = {
+    contextChar : ContextCode,
+    contentChar : ContentCode,
+    metaChar : MetaCode,
+}

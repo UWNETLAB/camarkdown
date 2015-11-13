@@ -3,9 +3,8 @@ from .codes import Node, lineAndIndexCounter, parseTree
 
 
 def getParseTree(targetString):
-    sIter = lineAndIndexCounter(targetString)
-    return Node(sIter, 0, -1, '')
+    return parseTree(targetString)
 
 def getTags(targetString):
     tree = parseTree(targetString)
-    return tree
+    return tree.tags
