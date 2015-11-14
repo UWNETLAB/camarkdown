@@ -1,7 +1,5 @@
 from .codes import Node, lineAndIndexCounter, parseTree
 
-
-
 def getParseTree(targetString):
     return parseTree(targetString)
 

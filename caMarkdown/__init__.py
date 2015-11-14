@@ -1,7 +1,6 @@
 from .parser import getTags, getParseTree
-from .dirHanders import makeProjectDir
-
-import os.path
+from .caProject import Project
+#from .dirHanders import makeProjectDir
 
 def _reload():
     """This is for develop purposes only do not use otherwise. _reload() is not to be trusted as it is evil and will create zombies (also it sometimes doesn't work)."""
