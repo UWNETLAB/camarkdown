@@ -10,6 +10,7 @@ import dulwich.errors
 
 import pathlib
 import os.path
+import fnmatch
 
 class Project(object):
     def __init__(self, dirName, fresh = False):
@@ -17,9 +18,9 @@ class Project(object):
         self.Repo = None
         if fresh:
             self.initializeDir()
-        self.reopen()
+        self.openDir()
 
-    def reopen(self):
+    def openDir(self):
         try:
             os.chdir(str(self.Path))
         except OSError:
@@ -62,3 +63,52 @@ class Project(object):
             makeCAignore()
         except FileExistsError:
             pass
+
+    def getGitIgnoreRules(self):
+        """Does not work quite right
+        """
+        try:
+            f = open(str(pathlib.Path(self.Path, pathlib.Path(gitignoreName))))
+        except FileNotFoundError:
+            raise ProjectMissingFiles("{} missing".format(gitignoreName))
+        rules = []
+        for ruleString in (rule.split('#')[0].rstrip() for rule in f.readlines()):
+            if len(ruleString) > 0:
+                rules.append(lambda s: not fnmatch.fnmatch(s, ruleString))
+        f.close()
+        return rules
+
+    def getCAIgnoreRules(self):
+        """Does not work quite right
+        """
+        try:
+            f = open(str(pathlib.Path(self.Path, pathlib.Path(caIgnoreName))))
+        except FileNotFoundError:
+            raise ProjectMissingFiles("{} missing".format(caIgnoreName))
+        rules = []
+        for ruleString in (rule.split('#')[0].rstrip() for rule in f.readlines()):
+            if len(ruleString) > 0:
+                rules.append(lambda s: not fnmatch.fnmatch(s, ruleString))
+        f.close()
+        return rules
+
+    def getFiles(self):
+        rules = self.getGitIgnoreRules()
+        rules += self.getCAIgnoreRules()
+        def condenseRules(target, ruleLst):
+            for rule in ruleLst:
+                if rule(str(target)):
+                    return True
+            return False
+        condensedRule = lambda x: condenseRules(x, ruleLst)
+        def getFiles(Path, rule):
+            retLst = []
+            for subPath in (p for p in Path.iterdir() if rule(p)):
+                if subPath.is_dir():
+                    retLst += getFiles(subPath, rule)
+                else:
+                    retLst.append(subPath)
+            return retLst
+        #TODO: Make work
+        #return getFiles(self.path, condensedRule)
+        return getFiles(self.Path, lambda x: x.name[0] != '.') #Return all nonhidden files
