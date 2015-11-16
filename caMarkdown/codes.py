@@ -257,8 +257,9 @@ class CodeSection(object):
     def __getitem__(self, tag):
         retTags = []
         for c in self.children:
-            if c.tag == tag:
-                retTags.append(c)
+            for sec in c.codes:
+                if sec.tag == tag:
+                    retTags.append(sec)
         return retTags
 
     @property
@@ -311,6 +312,15 @@ class Tag(object):
         if self.tag != other.tag:
             raise CodeParserException("Tags can only be added togehter if they have the same tag string, {} cannot be added to {}".format(self.tag, other.tag))
         return Tag(self.tag, self.sections + other.sections)
+
+    def __len__(self):
+        return len(self.raw)
+
+    def __getitem__(self, tag):
+        retSections = []
+        for sec in self.sections:
+            retSections += sec[tag]
+        return retSections
 
     @property
     def raw(self):

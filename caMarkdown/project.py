@@ -136,25 +136,35 @@ class Project(object):
             tree = parseTree('')
         return tree
 
-    def readCodes(self):
+    def readCodebook(self):
         try:
-            print(os.getcwd())
             f = open(str(pathlib.Path(codeBookName)))
         except FileNotFoundError:
             raise ProjectMissingFiles("{} missing".format(codeBookName))
         codes = {}
+        files = []
         #The tag type [] cannot start with ^ as that results in negation, thus they need to be sorted before the regex sees them
         codeRegex = re.compile(r'^\s*([{}][^:\s]*)((\s*:\s*)(.*))?'.format(''.join(sorted(codeTypes.keys()))))
         for lineNum, line in enumerate(f.readlines()):
-            decommentedLine = line[:-1].split('#')[0]
+            decommentedLine = line.split('#')[0].strip()
             if len(decommentedLine) > 0:
                 regResult = re.match(codeRegex, decommentedLine)
                 if regResult:
                     codes[regResult.group(1)] = regResult.group(4)
                 else:
-                    raise CodeBookException("Line number {0} of the codebook in {1} does not contain a code or a comment. The line is:\n{2}".format(lineNum + 1, self.path, line[:-1]))
+                    try:
+                        files.append(pathlib.Path(self.path, decommentedLine))
+                    except FileNotFoundError:
+                        #This should not be accessible
+                        raise CodeBookException("Line number {0} of the codebook in {1} does not contain a code, a comment or a parseable file path. The line is:\n{2}".format(lineNum + 1, self.path, line[:-1]))
         f.close()
-        return codes
+        return codes, files
+
+    def readCodes(self):
+        return self.readCodebook()[0]
+
+    def readFilesList(self):
+        return self.readCodebook()[1]
 
     def getCodes(self):
         codebookCodes = self.readCodes()

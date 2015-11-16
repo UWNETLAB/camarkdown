@@ -12,50 +12,6 @@ def statusArgParse():
     parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description="caMarkdown's status display")
     return parser.parse_args(sys.argv[2:])
 
-def proccessFiles(targetFilePaths, verbose = True):
-    codes = []
-    if verbose:
-        print("{} files given, parsing".format(len(targetFilePaths)))
-    openFiles = []
-    #Not using a closure so that all the files can be opened before parsing
-    #If an error occurs it is likely to happen at open
-    #Not reading after open as that uses more memory then this way
-    goodFiles = 0
-    badFiles = 0
-    for fpath in targetFilePaths:
-        try:
-            openFiles.append(fpath.open('r'))
-        except OSError:
-            print("{} is not a valid file".format(str(fpath)))
-            sys.exit()
-    while len(openFiles) > 0:
-        f = openFiles.pop()
-        try:
-            codes += getTags(f.read())
-        except UnicodeDecodeError:
-            badFiles += 1
-        else:
-            goodFiles += 1
-        f.close()
-    if verbose:
-        print("{} files parsed out of {} parsed".format(goodFiles, len(targetFilePaths)))
-    return codes
-
-def codeStats(codes):
-    metaCount, extCount, ontCount = 0, 0, 0
-    for c in codes:
-        if isinstance(c, MetaCodeSection):
-            metaCount += 1
-        elif isinstance(c, ContentCodeSection):
-            ontCount += 1
-        elif isinstance(c, ContextCodeSection):
-            extCount += 1
-        else:
-            raise RuntimeError("{} is not a Code subclass".format(type(c)))
-    s = "{} codes of divided into:\nmeta({}) {}\ncontent({}) {}\ncontext({}) {}".format(len(codes), metaChar, metaCount, contentChar, ontCount, contextChar, extCount)
-    return s
-
-
 def startStatus():
     args = statusArgParse()
     try:
