@@ -3,8 +3,8 @@ from .defaultFiles.defaultConf import makeConf, confName
 from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
-from .codes import parseTree
-from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException
+from .codes import parseTree, codeTypes
+from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, CodeBookException
 
 import dulwich.repo
 import dulwich.errors
@@ -12,6 +12,7 @@ import dulwich.errors
 import pathlib
 import os.path
 import fnmatch
+import re
 
 class Project(object):
     def __init__(self, dirName):
@@ -129,3 +130,21 @@ class Project(object):
         else:
             tree = parseTree('')
         return tree
+
+    def readCodes(self):
+        try:
+            f = open(str(pathlib.Path(codeBookName)))
+        except FileNotFoundError:
+            raise ProjectMissingFiles("{} missing".format(codeBookName))
+        codes = {}
+        codeRegex = re.compile(r'^\s*([{}][^:\s]*)((\s*:\s*)(.*))?'.format('$^@'))#''.join(codeTypes.keys())))
+        for lineNum, line in enumerate(f.readlines()):
+            decommentedLine = line[:-1].split('#')[0]
+            if len(decommentedLine) > 0:
+                regResult = re.match(codeRegex, decommentedLine)
+                if regResult:
+                    codes[regResult.group(1)] = regResult.group(4)
+                else:
+                    raise CodeBookException("Line number {0} of the codebook in {1} does not contain a code or a comment. The line is:\n{2}".format(lineNum + 1, self.path, line[:-1]))
+        f.close()
+        return codes
