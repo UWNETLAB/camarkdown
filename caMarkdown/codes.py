@@ -36,7 +36,7 @@ class parseTree(object):
                     tmpTagDict[seg.tag].append(seg)
                 except KeyError:
                     tmpTagDict[seg.tag] = [seg]
-            self._tags = {tag : codeTypes[tag[0]](segs, tag) for tag, segs in tmpTagDict.items()}
+            self._tags = {tag : makeCode(tag, sections = segs) for tag, segs in tmpTagDict.items()}
         return self._tags
 
     def setTags(self, value):
@@ -304,6 +304,8 @@ class Tag(object):
         self._containedSections = None
         self._raw = None
         self.tag = tag
+        self.comment = None
+        self.unDocumented = True
 
     def __add__(self, other):
         if self.tag != other.tag:
@@ -337,8 +339,17 @@ class Tag(object):
         return self._containedTags
 
     def __repr__(self):
-        s = "< {} ({})[{}] >".format(type(self).__qualname__, len(self.sections), self.tag)
+        if self.unDocumented:
+            s = "< {} {} [unDocumented] >".format(type(self).__qualname__, self.tag)
+        elif self.comment:
+            s = "< {} {} [{}] >".format(type(self).__qualname__, self.tag, self.comment)
+        else:
+            s = "< {} {} [unCommented] >".format(type(self).__qualname__, self.tag)
         return s
+
+    def addComment(self, comment):
+        self.comment = comment
+        self.unDocumented = False
 
 class ContextCode(Tag):
     pass
@@ -354,3 +365,14 @@ codeTypes = {
     contentChar : ContentCode,
     metaChar : MetaCode,
 }
+
+def makeCode(tagString, sections = None, comment = None):
+    if sections is None:
+        sections = []
+    try:
+        tag = codeTypes[tagString[0]](sections, tagString)
+    except KeyError:
+        raise KeyError("{} is not the begining of a code.".format(tagString[0]))
+    if comment is not None:
+        tag.addComment(comment)
+    return tag

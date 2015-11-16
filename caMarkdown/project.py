@@ -3,7 +3,7 @@ from .defaultFiles.defaultConf import makeConf, confName
 from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
-from .codes import parseTree, codeTypes
+from .codes import parseTree, codeTypes, makeCode
 from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, CodeBookException
 
 import dulwich.repo
@@ -149,3 +149,13 @@ class Project(object):
                     raise CodeBookException("Line number {0} of the codebook in {1} does not contain a code or a comment. The line is:\n{2}".format(lineNum + 1, self.path, line[:-1]))
         f.close()
         return codes
+
+    def getCodes(self):
+        codebookCodes = self.readCodes()
+        documentCodes = self.parseTree().tags
+        for codeString, comment in codebookCodes.items():
+            if codeString in documentCodes:
+                documentCodes[codeString].addComment(comment)
+            else:
+                documentCodes[codeString] = makeCode(codeString, comment = comment)
+        return documentCodes
