@@ -137,7 +137,8 @@ class Project(object):
         except FileNotFoundError:
             raise ProjectMissingFiles("{} missing".format(codeBookName))
         codes = {}
-        codeRegex = re.compile(r'^\s*([{}][^:\s]*)((\s*:\s*)(.*))?'.format('$^@'))#''.join(codeTypes.keys())))
+        #The tag type [] cannot start with ^ as that results in negation, thus they need to be sorted before the regex sees them
+        codeRegex = re.compile(r'^\s*([{}][^:\s]*)((\s*:\s*)(.*))?'.format(''.join(sorted(codeTypes.keys()))))
         for lineNum, line in enumerate(f.readlines()):
             decommentedLine = line[:-1].split('#')[0]
             if len(decommentedLine) > 0:
