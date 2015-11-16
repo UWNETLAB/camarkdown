@@ -10,6 +10,9 @@ class UninitializedDirectory(Exception):
 class ProjectException(Exception):
     pass
 
+class ProjectTypeError(ProjectException):
+    pass
+
 class ProjectDirectoryMissing(ProjectException):
     pass
 

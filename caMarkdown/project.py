@@ -4,7 +4,7 @@ from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
 from .codes import parseTree, codeTypes, makeCode
-from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, CodeBookException
+from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException
 
 import dulwich.repo
 import dulwich.errors
@@ -16,7 +16,12 @@ import re
 
 class Project(object):
     def __init__(self, dirName):
-        self.path = pathlib.Path(os.path.expanduser(os.path.expandvars(dirName))).resolve()
+        if isinstance(dirName, pathlib.Path):
+            self.path = dirName.resolve()
+        elif isinstance(dirName, str):
+            self.path = pathlib.Path(os.path.expanduser(os.path.expandvars(dirName))).resolve()
+        else:
+            raise ProjectTypeError("Objects of type: '{}' are not a valid input for inilizing a project object, the provided object was: {}".format(type(dirName), dirName))
         self.Repo = None
         self.error = None
         self.bad = False
@@ -133,6 +138,7 @@ class Project(object):
 
     def readCodes(self):
         try:
+            print(os.getcwd())
             f = open(str(pathlib.Path(codeBookName)))
         except FileNotFoundError:
             raise ProjectMissingFiles("{} missing".format(codeBookName))
