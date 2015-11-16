@@ -1,0 +1,7 @@
+#Put the files you do not want caMarkdown to track here:
+#By default only those ending in .md or .markdown are tracked
+
+*
+
+!*.md
+!*.markdown
