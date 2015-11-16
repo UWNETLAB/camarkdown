@@ -3,6 +3,7 @@ from .defaultFiles.defaultConf import makeConf, confName
 from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
+from .codes import parseTree
 from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles
 
 import dulwich.repo
@@ -111,4 +112,16 @@ class Project(object):
             return retLst
         #TODO: Make work
         #return getFiles(self.path, condensedRule)
-        return getFiles(self.Path, lambda x: x.name[0] != '.') #Return all nonhidden files
+        return getFiles(self.Path, lambda x: x.name[0] != '.' and x.name != 'configuration.py' and x.name != "codebook.md") #Return all nonhidden files
+
+    def parseTree(self):
+        files = self.getFiles()
+        if len(files) > 0:
+            with open(str(files[0]), 'r') as f:
+                tree = parseTree(f.read())
+            for fname in files[1:]:
+                with open(str(fname), 'r') as f:
+                    tree += parseTree(f.read())
+        else:
+            tree = parseTree('')
+        return tree

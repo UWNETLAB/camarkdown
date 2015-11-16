@@ -1,5 +1,7 @@
 from .caExceptions import CodeParserException
 
+import copy
+
 contextChar = '@'
 contentChar = '$'
 metaChar = '^'
@@ -24,7 +26,39 @@ class parseTree(object):
                 tmpTagDict[seg.tag].append(seg)
             except KeyError:
                 tmpTagDict[seg.tag] = [seg]
-        self.tags = {tag : codeTypes[tag[0]](segs, tag) for tag, segs in tmpTagDict.items()}
+        self._tags = None
+
+    def getTags(self):
+        if self._tags is None:
+            tmpTagDict = {}
+            for seg in self.tagSegments:
+                try:
+                    tmpTagDict[seg.tag].append(seg)
+                except KeyError:
+                    tmpTagDict[seg.tag] = [seg]
+            self._tags = {tag : codeTypes[tag[0]](segs, tag) for tag, segs in tmpTagDict.items()}
+        return self._tags
+
+    def setTags(self, value):
+        self._tags = value
+
+    def delTags(self):
+        del self._tags
+
+    tags = property(getTags, setTags, delTags, "The tags of the tree")
+
+    def __iadd__(self, other):
+        self.topNode += other.topNode
+        newTags = {}
+        for tagString, tagObj in self.tags.items():
+            if tagString in other.tags:
+                newTags[tagString] = tagObj + other.tags[tagString]
+            else:
+                newTags[tagString] = tagObj
+        for tagString, tagObj in ((s, t) for s, t in other.tags.items() if s not in newTags):
+            newTags[tagString] = tagObj
+        self.tags = newTags
+        return self
 
 class Node(object):
     def __init__(self, sIter, startLine, startIndex, startCode):
@@ -113,6 +147,27 @@ class Node(object):
                 self.contents.append(val[2])
             else:
                 raise CodeParserException("Unxepected object: {} in _contents".format(val))
+
+    def __add__(self, other):
+        tmpSelf = copy.copy(self)
+        tmpSelf._contents.append(other._contents)
+        tmpSelf.contents.append(other.contents)
+        #reset the memoizations
+        tmpSelf._children = None
+        tmpSelf._containedSections = None
+        tmpSelf._tagSections = None
+        tmpSelf._codes = None
+        return tmpSelf
+
+    def __iadd__(self, other):
+        self._contents.append(other._contents)
+        self.contents.append(other.contents)
+        #reset the memoizations
+        self._children = None
+        self._containedSections = None
+        self._tagSections = None
+        self._codes = None
+        return self
 
     @property
     def raw(self):
@@ -248,8 +303,12 @@ class Tag(object):
         self._containedTags = None
         self._containedSections = None
         self._raw = None
-
         self.tag = tag
+
+    def __add__(self, other):
+        if self.tag != other.tag:
+            raise CodeParserException("Tags can only be added togehter if they have the same tag string, {} cannot be added to {}".format(self.tag, other.tag))
+        return Tag(self.tag, self.sections + other.sections)
 
     @property
     def raw(self):
