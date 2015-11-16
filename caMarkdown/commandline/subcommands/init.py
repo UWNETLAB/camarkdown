@@ -12,7 +12,7 @@ def startInit():
     P = Project(args.dir)
     if P.bad:
         P.initializeDir()
-        print("Initialized empty caMarkdown repository in {}".format(P.Path))
+        print("Initialized empty caMarkdown repository in {}".format(P.path))
     else:
         P.initializeDir()
-        print("Reinitialized existing caMarkdown repository in {}".format(P.Path))
+        print("Reinitialized existing caMarkdown repository in {}".format(P.path))

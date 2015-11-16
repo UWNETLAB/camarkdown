@@ -15,7 +15,7 @@ import fnmatch
 
 class Project(object):
     def __init__(self, dirName):
-        self.Path = pathlib.Path(os.path.expanduser(os.path.expandvars(dirName))).resolve()
+        self.path = pathlib.Path(os.path.expanduser(os.path.expandvars(dirName))).resolve()
         self.Repo = None
         self.error = None
         self.bad = False
@@ -27,26 +27,26 @@ class Project(object):
 
     def openDir(self):
         try:
-            os.chdir(str(self.Path))
+            os.chdir(str(self.path))
         except OSError:
-            raise ProjectDirectoryMissing("{} could not be accessed, does it exist and do you have permission to acccess it?".format(self.Path))
+            raise ProjectDirectoryMissing("{} could not be accessed, does it exist and do you have permission to acccess it?".format(self.path))
         try:
             self.Repo = dulwich.repo.Repo('.')
         except dulwich.errors.NotGitRepository:
-            raise ProjectMissingFiles("{} is not a git repo. It cannot be reopen as a caMarkdown repo".format(str(self.Path)))
+            raise ProjectMissingFiles("{} is not a git repo. It cannot be reopen as a caMarkdown repo".format(str(self.path)))
         for name in [confName, codeBookName, gitignoreName, caIgnoreName]:
             if not pathlib.Path(name).exists():
                 raise ProjectMissingFiles("{} is missing, this is not a caMarkdown repo.".format(name))
 
     def initializeDir(self):
         try:
-            self.Path.mkdir(parents = True)
+            self.path.mkdir(parents = True)
         except FileExistsError:
             pass
         try:
-            os.chdir(str(self.Path))
+            os.chdir(str(self.path))
         except OSError:
-            raise ProjectDirectoryMissing("{} could not be accessed, do you have permission to acccess it?".format(str(self.Path)))
+            raise ProjectDirectoryMissing("{} could not be accessed, do you have permission to acccess it?".format(str(self.path)))
         #Create all the missing files and directories
         try:
             self.Repo = dulwich.repo.Repo('.')
@@ -73,7 +73,7 @@ class Project(object):
         """Does not work quite right
         """
         try:
-            f = open(str(pathlib.Path(self.Path, pathlib.Path(gitignoreName))))
+            f = open(str(pathlib.Path(self.path, pathlib.Path(gitignoreName))))
         except FileNotFoundError:
             raise ProjectMissingFiles("{} missing".format(gitignoreName))
         rules = []
@@ -87,7 +87,7 @@ class Project(object):
         """Does not work quite right
         """
         try:
-            f = open(str(pathlib.Path(self.Path, pathlib.Path(caIgnoreName))))
+            f = open(str(pathlib.Path(self.path, pathlib.Path(caIgnoreName))))
         except FileNotFoundError:
             raise ProjectMissingFiles("{} missing".format(caIgnoreName))
         rules = []
@@ -116,7 +116,7 @@ class Project(object):
             return retLst
         #TODO: Make work
         #return getFiles(self.path, condensedRule)
-        return getFiles(self.Path, lambda x: x.name[0] != '.' and x.name != 'configuration.py' and x.name != "codebook.md") #Return all nonhidden files
+        return getFiles(self.path, lambda x: x.name[0] != '.' and x.name != 'configuration.py' and x.name != "codebook.md") #Return all nonhidden files
 
     def parseTree(self):
         files = self.getFiles()
