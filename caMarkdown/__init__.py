@@ -1,5 +1,5 @@
 from .parser import getTags, getParseTree
-from .caProject import Project
+from .project import Project
 #from .dirHanders import makeProjectDir
 
 def _reload():

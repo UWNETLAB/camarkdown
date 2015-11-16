@@ -4,7 +4,7 @@ from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
 from .codes import parseTree
-from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles
+from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException
 
 import dulwich.repo
 import dulwich.errors
@@ -14,12 +14,16 @@ import os.path
 import fnmatch
 
 class Project(object):
-    def __init__(self, dirName, fresh = False):
+    def __init__(self, dirName):
         self.Path = pathlib.Path(os.path.expanduser(os.path.expandvars(dirName))).resolve()
         self.Repo = None
-        if fresh:
-            self.initializeDir()
-        self.openDir()
+        self.error = None
+        self.bad = False
+        try:
+            self.openDir()
+        except ProjectException as e:
+            self.error = e
+            self.bad = True
 
     def openDir(self):
         try:

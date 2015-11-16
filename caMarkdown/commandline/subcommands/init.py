@@ -1,4 +1,4 @@
-from ...dirHanders import makeProjectDir
+from ...project import Project
 import argparse
 import sys
 
@@ -9,4 +9,10 @@ def initArgParse():
 
 def startInit():
     args = initArgParse()
-    makeProjectDir(args.dir)
+    P = Project(args.dir)
+    if P.bad:
+        P.initializeDir()
+        print("Initialized empty caMarkdown repository in {}".format(P.Path))
+    else:
+        P.initializeDir()
+        print("Reinitialized existing caMarkdown repository in {}".format(P.Path))
