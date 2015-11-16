@@ -4,7 +4,7 @@ from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
 from .codes import parseTree, codeTypes, makeCode
-from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException
+from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError
 
 import dulwich.repo
 import dulwich.errors
@@ -103,9 +103,31 @@ class Project(object):
         f.close()
         return rules
 
+    def addFile(self, targetPath):
+        """Appends the codebook with the path to targetPath"""
+        if not isinstance(targetPath, pathlib.Path):
+            targetPath = pathlib.Path(targetPath)
+        try:
+            targetPath = targetPath.resolve()
+        except FileNotFoundError:
+            raise ProjectFileError("'{}' is not an existing file.".format(targetPath))
+        if self.path not in targetPath.parents:
+            raise ProjectFileError("'{}' is not in the targeted repository '{}'.".format(targetPath, self.path))
+        if not targetPath.is_file():
+            raise ProjectFileError("'{}' is not a file.".format(targetPath, self.path))
+        with open(str(pathlib.Path(codeBookName)), 'a') as f:
+            f.write(str(targetPath.relative_to(self.path)))
+
     def getFiles(self):
+        retPaths =[]
+        for fpath in self.readFilesList():
+            if fpath.exists():
+                retPaths.append(fpath)
+        return retPaths
+
+    def getAllTrackedFiles(self):
+        """Doesn't actually read the gitignore yet"""
         rules = self.getGitIgnoreRules()
-        rules += self.getCAIgnoreRules()
         def condenseRules(target, ruleLst):
             for rule in ruleLst:
                 if rule(str(target)):
@@ -153,7 +175,7 @@ class Project(object):
                     codes[regResult.group(1)] = regResult.group(4)
                 else:
                     try:
-                        files.append(pathlib.Path(self.path, decommentedLine))
+                        files.append(pathlib.Path(self.path, decommentedLine).resolve())
                     except FileNotFoundError:
                         #This should not be accessible
                         raise CodeBookException("Line number {0} of the codebook in {1} does not contain a code, a comment or a parseable file path. The line is:\n{2}".format(lineNum + 1, self.path, line[:-1]))

@@ -19,5 +19,8 @@ class ProjectDirectoryMissing(ProjectException):
 class ProjectMissingFiles(ProjectException):
     pass
 
+class ProjectFileError(ProjectException):
+    pass
+
 class CodeBookException(Exception):
     pass

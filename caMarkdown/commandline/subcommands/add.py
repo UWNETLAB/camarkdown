@@ -2,7 +2,9 @@ import argparse
 import sys
 import os
 import pathlib
-from ...dirHanders import addPath, isCaDir
+from ...project import Project
+from ...dirHanders import findTopDir
+from ...caExceptions import UninitializedDirectory, ProjectFileError
 
 
 def startArgParse():
@@ -12,9 +14,24 @@ def startArgParse():
 
 def startAdd():
     args = startArgParse()
-    if not isCaDir():
-        print("Not caMarkdown directory\nExiting")
+    try:
+        caDir = findTopDir('.')
+    except UninitializedDirectory:
+        print("This is not caMarkdown repository or inside one, run `camd init` to make it one")
     else:
-        for path in args.paths:
-            print("Adding {}".format(path))
-            addPath(pathlib.Path(path))
+        Proj = Project(caDir)
+        for pStr in args.paths:
+            try:
+                path = pathlib.Path(pStr).resolve()
+            except FileNotFoundError:
+                print("{} doe not exist, skipping".format(pStr))
+            else:
+                if path not in Proj.getFiles():
+                    print("Adding {}".format(path))
+                    try:
+                        Proj.addFile(path)
+                    except ProjectFileError as e:
+                        print("An error occured:", end = ' ')
+                        print(e)
+                else:
+                    print("{} already in the code book skipping".format(path))
