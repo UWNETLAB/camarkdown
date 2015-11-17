@@ -12,6 +12,40 @@ def statusArgParse():
     parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description="caMarkdown's status display")
     return parser.parse_args(sys.argv[2:])
 
+def makeStatusString(P):
+    codes = P.getCodes()
+    files = P.getFiles()
+    allFiles = P.getAllTrackedFiles()
+    s = "This project has {} codes and {} document(s).\n".format(len(codes), len(files))
+    if len(files) < len(allFiles):
+        untracked = []
+        for fPath in allFiles:
+            if fPath not in files:
+                untracked.append(str(fPath.relative_to(P.path)))
+        s += "There are {} untracked file(s). They are:\n\t{}\n".format(len(untracked), '\n\t'.join(untracked))
+    unCommented = {}
+    commented = {}
+    unDocumented = {}
+    unUsed = {}
+    for tag, code in codes.items():
+        if len(code.sections) < 1:
+            unUsed[tag] = code
+        if code.unDocumented:
+            unDocumented[tag] = code
+        elif code.comment:
+            commented[tag] = code
+        else:
+            unCommented[tag] = code
+    if len(unDocumented) > 0:
+        s += "There are {} code(s) not in the codebook used in the texts. They are:\n\t{}\n".format(len(unDocumented), '\n\t'.join(unDocumented.keys()))
+    if len(unCommented) > 0:
+        s += "There are {} code(s) in the codebook without any description. They are:\n\t{}\n".format(len(unCommented), '\n\t'.join(unCommented.keys()))
+    if len(unUsed) > 0:
+        s += "There are {} code(s) in the codebook not used in the text. They are:\n\t{}\n".format(len(unUsed), '\n\t'.join(unUsed.keys()))
+    if len(commented) > 0:
+            s += "There are {} code(s) in the codebook with a description.\n".format(len(commented))
+    return s
+
 def startStatus():
     args = statusArgParse()
     try:
@@ -20,26 +54,4 @@ def startStatus():
         print("This is not caMarkdown repository or inside one, run `camd init` to make it one")
     else:
         Proj = Project(caDir)
-        codes = Proj.getCodes()
-        print("This project has {} codes.".format(len(codes)))
-        unCommented = {}
-        commented = {}
-        unDocumented = {}
-        unUsed = {}
-        for tag, code in codes.items():
-            if len(code.sections) < 1:
-                unUsed[tag] = code
-            if code.unDocumented:
-                unDocumented[tag] = code
-            elif code.comment:
-                commented[tag] = code
-            else:
-                unCommented[tag] = code
-        if len(unDocumented) > 0:
-            print("There are {} codes not in the codebook used in the texts. They are:\n\t{}".format(len(unDocumented), '\n\t'.join(unDocumented.keys())))
-        if len(unCommented) > 0:
-            print("There are {} codes in the codebook without any description. They are:\n\t{}".format(len(unCommented), '\n\t'.join(unCommented.keys())))
-        if len(unUsed) > 0:
-            print("There are {} codes in the codebook not used in the text. They are:\n\t{}".format(len(unUsed), '\n\t'.join(unUsed.keys())))
-        if len(commented) > 0:
-                print("There are {} codes in the codebook with a description.".format(len(commented)))
+        print(makeStatusString(Proj), end = '')
