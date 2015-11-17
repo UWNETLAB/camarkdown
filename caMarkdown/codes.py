@@ -242,6 +242,10 @@ class CodeSection(object):
         s = "< CodeSection [{}]({}) >".format(len(self._raw), self.tag)
         return s
 
+    def __str__(self):
+        s = "Line {}\tCharacter Number {}\tLength {}\n{}".format(self.line, self.index + 1, len(self), self.raw)
+        return s
+
     def __hash__(self):
         return hash(self.raw + self.tag + str(self.index))
 
@@ -314,7 +318,10 @@ class Tag(object):
         return Tag(self.tag, self.sections + other.sections)
 
     def __len__(self):
-        return len(self.raw)
+        l = 0
+        for sec in self.sections:
+            l += len(sec)
+        return l
 
     def __getitem__(self, tag):
         retSections = []
@@ -354,7 +361,17 @@ class Tag(object):
         elif self.comment:
             s = "< {} {} [{}] >".format(type(self).__qualname__, self.tag, self.comment)
         else:
-            s = "< {} {} [unCommented] >".format(type(self).__qualname__, self.tag)
+            s = "< {} {} [No Description] >".format(type(self).__qualname__, self.tag)
+        return s
+
+    def __str__(self):
+        s = "{}\t{}\tlength {}\t: ".format(type(self).__qualname__, self.tag, len(self))
+        if self.unDocumented:
+             s += "unDocumented"
+        elif self.comment:
+            s += "{}".format(self.comment)
+        else:
+            s += "No Description"
         return s
 
     def addComment(self, comment):

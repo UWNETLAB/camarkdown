@@ -3,6 +3,7 @@ from .status import startStatus
 from .add import startAdd
 from .table import startTable
 from .sync import startSync
+from .tag import startTag
 
 subCommands = {
     "init" : startInit,
@@ -10,4 +11,5 @@ subCommands = {
     "add" : startAdd,
     "table" : startTable,
     "sync" : startSync,
+    "tag" : startTag,
 }

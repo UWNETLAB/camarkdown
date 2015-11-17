@@ -17,7 +17,7 @@ def startAdd():
     try:
         caDir = findTopDir('.')
     except UninitializedDirectory:
-        print("This is not caMarkdown repository or inside one, run `camd init` to make it one")
+        print("This is not caMarkdown repository or inside one.\nRun `camd init` to make it one")
     else:
         Proj = Project(caDir)
         for pStr in args.paths:
