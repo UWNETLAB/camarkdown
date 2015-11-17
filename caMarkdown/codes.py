@@ -16,9 +16,13 @@ def lineAndIndexCounter(targtString):
         yield lineCount, i, char
 
 class parseTree(object):
-    def __init__(self, targetString):
+    def __init__(self, targetString, targetPath = None):
+        if targetPath is not None:
+            self.files = [targetPath]
+        else:
+            self.files = []
         sIter = lineAndIndexCounter(targetString)
-        self.topNode = Node(sIter, 0, -1, '')
+        self.topNode = Node(sIter, 0, -1, '', targetPath)
         self.tagSegments = self.topNode.tagSections
         tmpTagDict = {}
         for seg in self.tagSegments:
@@ -58,10 +62,11 @@ class parseTree(object):
         for tagString, tagObj in ((s, t) for s, t in other.tags.items() if s not in newTags):
             newTags[tagString] = tagObj
         self.tags = newTags
+        self.files += other.files
         return self
 
 class Node(object):
-    def __init__(self, sIter, startLine, startIndex, startCode):
+    def __init__(self, sIter, startLine, startIndex, startCode, filePath):
         if startCode == '[':
             self.code = True
             self._raw = ''
@@ -73,6 +78,7 @@ class Node(object):
         self._contents = [] #Raw values
         self.line = startLine
         self.index = startIndex
+        self.file = filePath
 
         self._children = None
         self._containedSections = None
@@ -109,7 +115,7 @@ class Node(object):
                 elif char == '[':
                     self._contents.append((currentLine, currentIndex, currentString))
                     self._raw = self._raw[:-1]
-                    innerCode = Node(sIter, line, i, char)
+                    innerCode = Node(sIter, line, i, char, self.file)
                     self._raw += innerCode.raw
                     self._contents.append(innerCode)
                     freshString = True
@@ -127,7 +133,7 @@ class Node(object):
                             self._raw = self._raw[:-2]
                         elif char == '[':
                             self._contents.append((currentLine, currentIndex, currentString))
-                            innerCode = Node(sIter, line, i, char)
+                            innerCode = Node(sIter, line, i, char, self.file)
                             self._raw += innerCode.raw
                             self._contents.append(innerCode)
                             self.code = False
@@ -219,7 +225,7 @@ class Node(object):
             if self.code:
                 tagStrings = readCodes(self.tokens)
                 for codeChar, code in tagStrings:
-                    self._codes.append(codeSectionTypes[codeChar](self._contents, code, self.line, self.index, self.raw))
+                    self._codes.append(codeSectionTypes[codeChar](self._contents, code, self.line, self.index, self.raw, self.file))
         return self._codes
 
     def __repr__(self):
@@ -230,11 +236,12 @@ class Node(object):
         return s
 
 class CodeSection(object):
-    def __init__(self, contents, tag, startLine, startIndex, startRaw):
+    def __init__(self, contents, tag, startLine, startIndex, startRaw, filePath):
         self.contents = contents
         self.tag = tag
         self.line = startLine
         self.index = startIndex
+        self.file = filePath
         self._raw = startRaw
         self._children = None
 
@@ -243,7 +250,7 @@ class CodeSection(object):
         return s
 
     def __str__(self):
-        s = "Line {}\tCharacter Number {}\tLength {}\n{}".format(self.line, self.index + 1, len(self), self.raw)
+        s = "Line {}\tCharacter Number {}\tLength {}\nFrom {}\n{}".format(self.line, self.index + 1, len(self), self.file, self.raw)
         return s
 
     def __hash__(self):

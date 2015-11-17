@@ -170,10 +170,10 @@ class Project(object):
         files = self.getFiles()
         if len(files) > 0:
             with open(str(files[0]), 'r') as f:
-                tree = parseTree(f.read())
+                tree = parseTree(f.read(), files[0].relative_to(self.path))
             for fname in files[1:]:
                 with open(str(fname), 'r') as f:
-                    tree += parseTree(f.read())
+                    tree += parseTree(f.read(), fname.relative_to(self.path))
         else:
             tree = parseTree('')
         return tree
