@@ -4,7 +4,7 @@ from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
 from .codes import parseTree, codeTypes, makeCode
-from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError
+from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError, ProjectCodeError
 
 import dulwich.repo
 import dulwich.errors
@@ -25,6 +25,9 @@ class Project(object):
         self.Repo = None
         self.error = None
         self.bad = False
+
+        self._code = None
+
         try:
             self.openDir()
         except ProjectException as e:
@@ -116,7 +119,24 @@ class Project(object):
         if not targetPath.is_file():
             raise ProjectFileError("'{}' is not a file.".format(targetPath, self.path))
         with open(str(pathlib.Path(codeBookName)), 'a') as f:
-            f.write(str(targetPath.relative_to(self.path)))
+            f.write(str(targetPath.relative_to(self.path)) + '\n')
+
+    def addCode(self, targetCode, description = None):
+        if targetCode in self.codes:
+            if not self.codes[targetCode].unDocumented:
+                raise ProjectCodeError("The code '{}' already exists".format(targetCode))
+        if targetCode[0] not in codeTypes:
+            raise ProjectCodeError("The code '{}' does not start with the correct character, it cannot be a code.".format(targetCode))
+        for char in targetCode:
+            if char.isspace():
+                raise ProjectCodeError("The code '{}' has a whitespace character, it cannot be a code.".format(targetCode))
+        if description and '\n' in description:
+            raise ProjectCodeError("The description '{}' has a newline character, it must only be one line long.".format(description))
+        with open(str(pathlib.Path(codeBookName)), 'a') as f:
+            if description is None:
+                f.write(targetCode + '\n')
+            else:
+                f.write("{} : {}\n".format(targetCode, description))
 
     def getFiles(self):
         retPaths =[]
@@ -188,6 +208,12 @@ class Project(object):
     def readFilesList(self):
         return self.readCodebook()[1]
 
+    @property
+    def codes(self):
+        if self._code is None:
+            self._code = self.getCodes()
+        return self._code
+
     def getCodes(self):
         codebookCodes = self.readCodes()
         documentCodes = self.parseTree().tags
@@ -195,5 +221,7 @@ class Project(object):
             if codeString in documentCodes:
                 documentCodes[codeString].addComment(comment)
             else:
-                documentCodes[codeString] = makeCode(codeString, comment = comment)
+                unUsedCode = makeCode(codeString, comment = comment)
+                unUsedCode.unDocumented = False
+                documentCodes[codeString] = unUsedCode
         return documentCodes

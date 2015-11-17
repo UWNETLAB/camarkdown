@@ -11,3 +11,7 @@ RecordTarget.md
 #Meta Codes
 $tag6:BlahBlahBlah
 $tåg10
+^tag7
+^tag3
+^tag4
+$tag2
