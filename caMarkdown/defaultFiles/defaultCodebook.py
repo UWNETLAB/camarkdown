@@ -1,18 +1,13 @@
 codeBookName = "codebook.md"
 
-defaultCookbook="""
-# Target Files
+codebookFileHeader = "# Target Files\n"
+codebookContentHeader = "# Context Codes\n"
+codebookContextHeader = "# Content Codes\n"
+codebookMetaHeader = "# Meta Codes\n"
+codebookHeaders = [codebookFileHeader, codebookContentHeader, codebookContextHeader, codebookMetaHeader]
 
-# Context Codes
-
-
-# Content Codes
-
-
-#Meta Codes
-""".strip()
-
-def makeCodeBook():
+def makeCodeBook(headers = codebookHeaders):
     """Makes code book in the current working dir"""
     with open(codeBookName, 'x') as target:
-        target.write(defaultCookbook)
+        print(headers)
+        target.write("{}\n\n".format('\n\n'.join(headers)))
