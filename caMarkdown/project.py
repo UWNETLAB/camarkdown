@@ -1,4 +1,4 @@
-from .defaultFiles.defaultCodebook import makeCodeBook, codeBookName
+from .defaultFiles.defaultCodebook import makeCodeBook, codeBookName, codebookHeaders, headerCharMap
 from .defaultFiles.defaultConf import makeConf, confName
 from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
@@ -13,6 +13,7 @@ import pathlib
 import os.path
 import fnmatch
 import re
+import collections
 
 class Project(object):
     def __init__(self, dirName):
@@ -137,6 +138,31 @@ class Project(object):
                 f.write(targetCode + '\n')
             else:
                 f.write("{} : {}\n".format(targetCode, description))
+
+    def organizeCodebook(self):
+        with open(str(pathlib.Path(codeBookName)), 'r+') as f:
+            lines = f.readlines()
+            f.seek(0)
+            sections = collections.OrderedDict()
+            for header in codebookHeaders:
+                sections[header] = []
+            currentSection = codebookHeaders[0]
+            for line in lines:
+                if line.isspace():
+                    pass
+                elif line in sections:
+                    currentSection = line
+                elif line.lstrip()[0] == '#':
+                    sections[currentSection].append(line)
+                elif line.lstrip()[0] not in headerCharMap:
+                    sections[codebookHeaders[0]].append(line)
+                else:
+                    sections[headerCharMap[line.lstrip()[0]]].append(line)
+            for sec, secLines in sections.items():
+                f.write(sec)
+                f.write(''.join(secLines))
+                f.write("\n")
+            f.truncate()
 
     def getFiles(self):
         retPaths =[]
