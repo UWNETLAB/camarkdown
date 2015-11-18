@@ -1,6 +1,4 @@
 Docs/
-!/Docs/statusReport1.md
-!/Docs/design_plan.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
