@@ -250,7 +250,7 @@ class CodeSection(object):
         return s
 
     def __str__(self):
-        s = "Line {}\tCharacter Number {}\tLength {}\nFrom {}\n{}".format(self.line, self.index + 1, len(self), self.file, self.raw)
+        s = "From {}\nLine {}\tCharacter Number {}\tLength {}\n{}".format(self.file, self.line, self.index + 1, len(self), self.raw)
         return s
 
     def __hash__(self):
@@ -325,10 +325,7 @@ class Tag(object):
         return Tag(self.tag, self.sections + other.sections)
 
     def __len__(self):
-        l = 0
-        for sec in self.sections:
-            l += len(sec)
-        return l
+        return len(self.sections)
 
     def __getitem__(self, tag):
         retSections = []
@@ -372,7 +369,7 @@ class Tag(object):
         return s
 
     def __str__(self):
-        s = "{}\t{}\tlength {}\t: ".format(type(self).__qualname__, self.tag, len(self))
+        s = "{}\t{}\tcount {}\t: ".format(type(self).__qualname__, self.tag, len(self))
         if self.unDocumented:
              s += "unDocumented"
         elif self.comment:

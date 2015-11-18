@@ -27,9 +27,8 @@ def startTag():
             targetCode = Proj.codes[args.tag]
             print("Getting the information on {}".format(args.tag))
             print(str(targetCode))
-            print("The tag is used for the following peces of text:")
+            print("The tag is used for the following pieces of text:")
             for sec in targetCode.sections:
                 print(str(sec))
-
         else:
             print("{} is not in any of the documents or in the codebook.\nRun `camd tag` to get a list of all the tags.".format(args.tag))
