@@ -1,9 +1,11 @@
+import pathlib
+
 gitignoreName =  ".gitignore"
 
 defaultGitignore = "#Put the files you want git and caMarkdown to not track here:\n"
 
 
-def makeGitignore():
+def makeGitignore(targetDir):
     """Makes .gitignore in the current working dir"""
-    with open(gitignoreName, 'x') as target:
+    with open(str(pathlib.Path(targetDir, gitignoreName)), 'x') as target:
         target.write(defaultGitignore)

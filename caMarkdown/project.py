@@ -35,17 +35,37 @@ class Project(object):
             self.error = e
             self.bad = True
 
+    def _openCAIgnore(self, mode = 'r'):
+        try:
+            f = open(str(pathlib.Path(self.path, pathlib.Path(caIgnoreName))), mode = mode)
+        except FileNotFoundError:
+            raise ProjectMissingFiles("{} missing".format(caIgnoreName))
+        else:
+            return f
+
+    def _openGitIgnore(self, mode = 'r'):
+        try:
+            f = open(str(pathlib.Path(self.path, pathlib.Path(gitignoreName))), mode = mode)
+        except FileNotFoundError:
+            raise ProjectMissingFiles("{} missing".format(gitignoreName))
+        else:
+            return f
+
+    def _openCodebook(self, mode = 'r'):
+        try:
+            f = open(str(pathlib.Path(self.path, pathlib.Path(codeBookName))), mode = mode)
+        except FileNotFoundError:
+            raise ProjectMissingFiles("{} missing".format(codeBookName))
+        else:
+            return f
+
     def openDir(self):
         try:
-            os.chdir(str(self.path))
-        except OSError:
-            raise ProjectDirectoryMissing("{} could not be accessed, does it exist and do you have permission to acccess it?".format(self.path))
-        try:
-            self.Repo = dulwich.repo.Repo('.')
+            self.Repo = dulwich.repo.Repo(str(self.path))
         except dulwich.errors.NotGitRepository:
             raise ProjectMissingFiles("{} is not a git repo. It cannot be reopen as a caMarkdown repo".format(str(self.path)))
         for name in [confName, codeBookName, gitignoreName, caIgnoreName]:
-            if not pathlib.Path(name).exists():
+            if not pathlib.Path(self.path, name).exists():
                 raise ProjectMissingFiles("{} is missing, this is not a caMarkdown repo.".format(name))
 
     def initializeDir(self):
@@ -53,39 +73,32 @@ class Project(object):
             self.path.mkdir(parents = True)
         except FileExistsError:
             pass
-        try:
-            os.chdir(str(self.path))
-        except OSError:
-            raise ProjectDirectoryMissing("{} could not be accessed, do you have permission to acccess it?".format(str(self.path)))
         #Create all the missing files and directories
         try:
-            self.Repo = dulwich.repo.Repo('.')
+            self.Repo = dulwich.repo.Repo(str(self.path))
         except dulwich.errors.NotGitRepository:
-            self.Repo = dulwich.repo.Repo.init('.')
+            self.Repo = dulwich.repo.Repo.init(str(self.path))
         try:
-            makeCodeBook()
+            makeCodeBook(self.path)
         except FileExistsError:
             pass
         try:
-            makeConf()
+            makeConf(self.path)
         except FileExistsError:
             pass
         try:
-            makeGitignore()
+            makeGitignore(self.path)
         except FileExistsError:
             pass
         try:
-            makeCAignore()
+            makeCAignore(self.path)
         except FileExistsError:
             pass
 
     def getGitIgnoreRules(self):
         """Does not work quite right
         """
-        try:
-            f = open(str(pathlib.Path(self.path, pathlib.Path(gitignoreName))))
-        except FileNotFoundError:
-            raise ProjectMissingFiles("{} missing".format(gitignoreName))
+        f = self._openGitIgnore()
         rules = []
         for ruleString in (rule.split('#')[0].rstrip() for rule in f.readlines()):
             if len(ruleString) > 0:
@@ -96,10 +109,7 @@ class Project(object):
     def getCAIgnoreRules(self):
         """Does not work quite right
         """
-        try:
-            f = open(str(pathlib.Path(self.path, pathlib.Path(caIgnoreName))))
-        except FileNotFoundError:
-            raise ProjectMissingFiles("{} missing".format(caIgnoreName))
+        f = self._openCAIgnore
         rules = []
         for ruleString in (rule.split('#')[0].rstrip() for rule in f.readlines()):
             if len(ruleString) > 0:
@@ -119,7 +129,7 @@ class Project(object):
             raise ProjectFileError("'{}' is not in the targeted repository '{}'.".format(targetPath, self.path))
         if not targetPath.is_file():
             raise ProjectFileError("'{}' is not a file.".format(targetPath, self.path))
-        with open(str(pathlib.Path(codeBookName)), 'a') as f:
+        with self._openCodebook(mode = 'a') as f:
             f.write(str(targetPath.relative_to(self.path)) + '\n')
 
     def addCode(self, targetCode, description = None):
@@ -133,14 +143,14 @@ class Project(object):
                 raise ProjectCodeError("The code '{}' has a whitespace character, it cannot be a code.".format(targetCode))
         if description and '\n' in description:
             raise ProjectCodeError("The description '{}' has a newline character, it must only be one line long.".format(description))
-        with open(str(pathlib.Path(codeBookName)), 'a') as f:
+        with self._openCodebook(mode = 'a') as f:
             if description is None:
                 f.write(targetCode + '\n')
             else:
                 f.write("{} : {}\n".format(targetCode, description))
 
     def organizeCodebook(self):
-        with open(str(pathlib.Path(codeBookName)), 'r+') as f:
+        with self._openCodebook(mode = 'r+') as f:
             lines = f.readlines()
             f.seek(0)
             sections = collections.OrderedDict()
@@ -165,6 +175,7 @@ class Project(object):
             f.truncate()
 
     def getFiles(self):
+        """gets all files from codebook"""
         retPaths =[]
         for fpath in self.readFilesList():
             if fpath.exists():
@@ -172,7 +183,8 @@ class Project(object):
         return retPaths
 
     def getAllTrackedFiles(self):
-        """Doesn't actually read the gitignore yet"""
+        """Doesn't actually read the gitignore yet
+        Just gets all the files in the project dir, excluding the special ones"""
         rules = self.getGitIgnoreRules()
         def condenseRules(target, ruleLst):
             for rule in ruleLst:
@@ -205,10 +217,7 @@ class Project(object):
         return tree
 
     def readCodebook(self):
-        try:
-            f = open(str(pathlib.Path(codeBookName)))
-        except FileNotFoundError:
-            raise ProjectMissingFiles("{} missing".format(codeBookName))
+        f = self._openCodebook()
         codes = {}
         files = []
         #The tag type [] cannot start with ^ as that results in negation, thus they need to be sorted before the regex sees them

@@ -1,3 +1,4 @@
+import pathlib
 caIgnoreName =  ".camdignore"
 
 defaultCAignore = """#Put the files you do not want caMarkdown to track here:
@@ -10,7 +11,7 @@ defaultCAignore = """#Put the files you do not want caMarkdown to track here:
 """
 
 
-def makeCAignore():
+def makeCAignore(targetDir):
     """Makes .camdignore in the current working dir"""
-    with open(caIgnoreName, 'x') as target:
+    with open(str(pathlib.Path(targetDir, caIgnoreName)), 'x') as target:
         target.write(defaultCAignore)
