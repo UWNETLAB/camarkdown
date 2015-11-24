@@ -316,7 +316,8 @@ class Tag(object):
         self._containedSections = None
         self._raw = None
         self.tag = tag
-        self.comment = None
+        self.description = None
+        self.extraInfo = None
         self.unDocumented = True
 
     def __add__(self, other):
@@ -362,8 +363,8 @@ class Tag(object):
     def __repr__(self):
         if self.unDocumented:
             s = "< {} {} [unDocumented] >".format(type(self).__qualname__, self.tag)
-        elif self.comment:
-            s = "< {} {} [{}] >".format(type(self).__qualname__, self.tag, self.comment)
+        elif self.description:
+            s = "< {} {} [{}] >".format(type(self).__qualname__, self.tag, self.description)
         else:
             s = "< {} {} [No Description] >".format(type(self).__qualname__, self.tag)
         return s
@@ -372,14 +373,17 @@ class Tag(object):
         s = "{}\t{}\tcount {}\t: ".format(type(self).__qualname__, self.tag, len(self))
         if self.unDocumented:
              s += "unDocumented"
-        elif self.comment:
-            s += "{}".format(self.comment)
+        elif self.description:
+            s += "{}".format(self.description)
         else:
             s += "No Description"
         return s
 
-    def addComment(self, comment):
-        self.comment = comment
+    def addDocs(self, dataDict):
+        if 'description' in dataDict:
+            self.description = dataDict.pop('description')
+        if len(dataDict) > 0:
+            self.extraInfo = dataDict
         self.unDocumented = False
 
 class ContextCode(Tag):
@@ -397,13 +401,13 @@ codeTypes = {
     metaChar : MetaCode,
 }
 
-def makeCode(tagString, sections = None, comment = None):
+def makeCode(tagString, sections = None, dataDict = None):
     if sections is None:
         sections = []
     try:
         tag = codeTypes[tagString[0]](sections, tagString)
     except KeyError:
         raise KeyError("{} is not the begining of a code.".format(tagString[0]))
-    if comment is not None:
-        tag.addComment(comment)
+    if dataDict is not None:
+        tag.addDocs(dataDict)
     return tag

@@ -32,7 +32,7 @@ def makeStatusString(P):
             unUsed[tag] = code
         if code.unDocumented:
             unDocumented[tag] = code
-        elif code.comment:
+        elif code.description:
             commented[tag] = code
         else:
             unCommented[tag] = code

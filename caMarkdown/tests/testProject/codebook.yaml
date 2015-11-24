@@ -1,0 +1,29 @@
+ContentCodes:
+- tag5
+- tag6: xkhjkhkhjkhjkh
+- tag1:
+    description: null
+ContextCodes:
+- tag6:
+    description: null
+- tag2:
+    description: null
+Files:
+- /somepath: null
+- /another/path/to/stuff.md:
+  - comment: kdfhgdjkdhjkh
+- /gdkjdfgkljfgk: odfjdkljdfgkjdf sdfkjdfgkldfgjklfj
+- jhjb:
+    jjgjfgdhfkjdgh: knjhjkh
+    stuff: null
+- RecordTarget.md
+MetaCodes:
+- tag1
+- tag2: This is the desritpion
+- tag3:
+    desription: tag3 description
+    proccesor: "\"def procccesor(s):\n    return x.upper()\"\n"
+- tag4:
+  - jhfdjhgfd
+  - hgbhgjh
+- tag5: null

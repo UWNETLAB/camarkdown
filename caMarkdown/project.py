@@ -1,4 +1,4 @@
-from .defaultFiles.defaultCodebook import makeCodeBook, codeBookName, codebookHeaders, headerCharMap
+from .defaultFiles.defaultCodebook import makeCodeBook, codeBookName, codebookHeaders, charHeaderMap, codebookFileHeader, headerCharMap
 from .defaultFiles.defaultConf import makeConf, confName
 from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
@@ -8,6 +8,8 @@ from .caExceptions import AddingException, UninitializedDirectory, ProjectDirect
 
 import dulwich.repo
 import dulwich.errors
+
+import yaml
 
 import pathlib
 import os.path
@@ -129,8 +131,23 @@ class Project(object):
             raise ProjectFileError("'{}' is not in the targeted repository '{}'.".format(targetPath, self.path))
         if not targetPath.is_file():
             raise ProjectFileError("'{}' is not a file.".format(targetPath, self.path))
-        with self._openCodebook(mode = 'a') as f:
-            f.write(str(targetPath.relative_to(self.path)) + '\n')
+        if targetPath not in self.readFilesList():
+            with self._openCodebook(mode = 'r+') as f:
+                yamlDict = yaml.safe_load(f)
+                try:
+                    yamlDict[codebookFileHeader].append(str(targetPath.relative_to(self.path)))
+                except AttributeError:
+                    if yamlDict[codebookFileHeader] is None:
+                        yamlDict[codebookFileHeader] = [str(targetPath.relative_to(self.path))]
+                    else:
+                        try:
+                            yamlDict[codebookFileHeader] = [{k : v} for k, v in yamlDict[codebookFileHeader].items()]
+                            yamlDict[codebookFileHeader].append(str(targetPath.relative_to(self.path)))
+                        except AttributeError:
+                            raise
+                f.seek(0)
+                f.write(yaml.safe_dump(yamlDict, allow_unicode=True, default_flow_style=False))
+                f.truncate()
 
     def addCode(self, targetCode, description = None):
         if targetCode in self.codes:
@@ -143,11 +160,24 @@ class Project(object):
                 raise ProjectCodeError("The code '{}' has a whitespace character, it cannot be a code.".format(targetCode))
         if description and '\n' in description:
             raise ProjectCodeError("The description '{}' has a newline character, it must only be one line long.".format(description))
-        with self._openCodebook(mode = 'a') as f:
-            if description is None:
-                f.write(targetCode + '\n')
-            else:
-                f.write("{} : {}\n".format(targetCode, description))
+        with self._openCodebook(mode = 'r+') as f:
+            yamlDict = yaml.safe_load(f)
+            heading = charHeaderMap[targetCode[0]]
+            try:
+                print(yamlDict[heading])
+                yamlDict[heading].append({targetCode[1:] : {"description" : description}})
+            except AttributeError:
+                if yamlDict[heading] is None:
+                    yamlDict[heading] = [{targetCode[1:] : {"description" : description}}]
+                else:
+                    try:
+                        yamlDict[heading] = [{k : v} for k, v in yamlDict[heading].items()]
+                        yamlDict[heading] = [{targetCode[1:] : {"description" : description}}]
+                    except AttributeError:
+                        raise
+            f.seek(0)
+            f.write(yaml.safe_dump(yamlDict, allow_unicode=True, default_flow_style=False))
+            f.truncate()
 
     def organizeCodebook(self):
         with self._openCodebook(mode = 'r+') as f:
@@ -164,10 +194,10 @@ class Project(object):
                     currentSection = line
                 elif line.lstrip()[0] == '#':
                     sections[currentSection].append(line)
-                elif line.lstrip()[0] not in headerCharMap:
+                elif line.lstrip()[0] not in charHeaderMap:
                     sections[codebookHeaders[0]].append(line)
                 else:
-                    sections[headerCharMap[line.lstrip()[0]]].append(line)
+                    sections[charHeaderMap[line.lstrip()[0]]].append(line)
             for sec, secLines in sections.items():
                 f.write(sec)
                 f.write(''.join(secLines))
@@ -218,22 +248,52 @@ class Project(object):
 
     def readCodebook(self):
         f = self._openCodebook()
-        codes = {}
+        #Maybe make load_all if header is added
+        codeTree = yaml.safe_load(f)
+        for header in codeTree:
+            if header not in codebookHeaders:
+                raise CodeBookException("A header named '{}' was found in the codebook. The only allowd headers are: {} and {}".format(header, ', '.join(codebookHeaders[:-1]), codebookHeaders[-1]))
         files = []
-        #The tag type [] cannot start with ^ as that results in negation, thus they need to be sorted before the regex sees them
-        codeRegex = re.compile(r'^\s*([{}][^:\s]*)((\s*:\s*)(.*))?'.format(''.join(sorted(codeTypes.keys()))))
-        for lineNum, line in enumerate(f.readlines()):
-            decommentedLine = line.split('#')[0].strip()
-            if len(decommentedLine) > 0:
-                regResult = re.match(codeRegex, decommentedLine)
-                if regResult:
-                    codes[regResult.group(1)] = regResult.group(4)
+        codes = {}
+        try:
+            for filePath in codeTree[codebookFileHeader]:
+                if isinstance(filePath, str):
+                    files.append(pathlib.Path(self.path, filePath))
+                elif isinstance(filePath, dict):
+                    files.append(pathlib.Path(self.path, filePath.popitem()[0]))
                 else:
-                    try:
-                        files.append(pathlib.Path(self.path, decommentedLine).resolve())
-                    except FileNotFoundError:
-                        #This should not be accessible
-                        raise CodeBookException("Line number {0} of the codebook in {1} does not contain a code, a comment or a parseable file path. The line is:\n{2}".format(lineNum + 1, self.path, line[:-1]))
+                    raise CodeBookException("The files section can only contain a list of strings and dictionaries")
+        except TypeError:
+            if codeTree[codebookFileHeader] is None:
+                pass
+            else:
+                raise
+        for codeType, codeChar in headerCharMap.items():
+            try:
+                for code in codeTree[codeType]:
+                    if isinstance(code, str):
+                        codes[codeChar + code] = ''
+                    elif isinstance(code, dict):
+                        codeString, data = code.popitem()
+                        if len(code) > 0:
+                            raise CodeBookException("Code mappings can only contain one code. The following mapping was encountered in the mapping for {}:\n{}".format(codeString, code))
+                        if isinstance(data, dict):
+                            codes[codeChar + codeString] = data
+                        elif isinstance(data, str):
+                            codes[codeChar + codeString] = {'description' : data}
+                        elif isinstance(data, list):
+                            codes[codeChar + codeString] = {'description' : ' '.join(data)}
+                        elif data is None:
+                            codes[codeChar + codeString] = {'description' : None}
+                        else:
+                            raise CodeBookException("Unexpected data from the codebook entry for {}. The entry is:\n{}".format(codeChar + codeString, data))
+                    else:
+                        raise CodeBookException("The codes section can only contain a list of strings and dictionaries")
+            except TypeError:
+                if codeTree[codeType] is None:
+                    pass
+                else:
+                    raise
         f.close()
         return codes, files
 
@@ -252,11 +312,11 @@ class Project(object):
     def getCodes(self):
         codebookCodes = self.readCodes()
         documentCodes = self.parseTree().tags
-        for codeString, comment in codebookCodes.items():
+        for codeString, data in codebookCodes.items():
             if codeString in documentCodes:
-                documentCodes[codeString].addComment(comment)
+                documentCodes[codeString].addDocs(data)
             else:
-                unUsedCode = makeCode(codeString, comment = comment)
+                unUsedCode = makeCode(codeString, dataDict = data)
                 unUsedCode.unDocumented = False
                 documentCodes[codeString] = unUsedCode
         return documentCodes
