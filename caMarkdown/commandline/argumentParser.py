@@ -1,9 +1,11 @@
 import argparse
 import sys
 from .subcommands import subCommands
+from .. import version
 
 def argumentParser():
-    helpParser = argparse.ArgumentParser(description="caMarkdown's command line interface",prog = sys.argv[0])
+    helpParser = argparse.ArgumentParser(description="caMarkdown's command line interface", prog = sys.argv[0])
+    helpParser.add_argument('--version', action = 'version', version = 'caMarkdown version {}'.format(version))
     return helpParser.parse_args()
 
 def cli():

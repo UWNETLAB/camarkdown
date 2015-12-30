@@ -7,7 +7,7 @@ from ...caExceptions import UninitializedDirectory
 from ...dirHanders import findTopDir
 
 def syncArgParse():
-    parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description="caMarkdown's sync client")
+    parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description = "caMarkdown's sync client")
     parser.add_argument("tags", nargs = '*', type = str, help = "The tags to be synced")
     #parser.add_argument("--description", '-d', nargs = '+', type = str, help = "The descriptions of the tags to be synced")
     #Needs to be rethought as interface currently does not work

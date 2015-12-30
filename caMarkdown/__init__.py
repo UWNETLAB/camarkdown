@@ -2,6 +2,8 @@ from .parser import getTags, getParseTree
 from .project import Project
 #from .dirHanders import makeProjectDir
 
+version = '0.0.1'
+
 def _reload():
     """This is for develop purposes only do not use otherwise. _reload() is not to be trusted as it is evil and will create zombies (also it sometimes doesn't work)."""
     import sys

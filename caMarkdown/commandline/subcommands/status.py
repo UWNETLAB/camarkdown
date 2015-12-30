@@ -2,6 +2,8 @@ import argparse
 import sys
 import os
 
+from .subCommandBase import baseArgparse, CommandOutputHandler
+
 from ...project import Project
 from ...dirHanders import isCaDir, getIndexedFiles, findTopDir
 from ...parser import getTags
@@ -9,7 +11,7 @@ from ...codes import MetaCodeSection, ContentCodeSection, ContextCodeSection, me
 from ...caExceptions import UninitializedDirectory
 
 def statusArgParse():
-    parser = argparse.ArgumentParser(prog = ' '.join(sys.argv[:2]), description="caMarkdown's status display")
+    parser = baseArgparse("caMarkdown's status display")
     return parser.parse_args(sys.argv[2:])
 
 def makeStatusString(P):
@@ -47,11 +49,19 @@ def makeStatusString(P):
     return s
 
 def startStatus():
-    args = statusArgParse()
     try:
-        caDir = findTopDir('.')
-    except UninitializedDirectory:
-        print("This is not caMarkdown repository or inside one.\nRun `camd init` to make it one")
-    else:
-        Proj = Project(caDir)
-        print(makeStatusString(Proj), end = '')
+        args = statusArgParse()
+        with CommandOutputHandler(args.output) as writer:
+            try:
+                caDir = findTopDir('.')
+            except UninitializedDirectory:
+                print("This is not caMarkdown repository or inside one.\nRun `camd init` to make it one")
+            else:
+                Proj = Project(caDir)
+                writer(makeStatusString(Proj))
+    except Exception as e:
+        #Prettify things if they go bad
+        if args.debug:
+            raise e
+        else:
+            print('A {} error was encounterd that caMarkdown was unable to deal with it had the message:\n"{}"\nIf you would like to help fix this error run in debug mode (--debug) and give the output to Reid.'.format(type(e).__name__, e))

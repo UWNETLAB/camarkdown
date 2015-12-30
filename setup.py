@@ -1,6 +1,9 @@
 from setuptools import setup
+
+from caMarkdown import version
+
 setup(name='caMarkdown',
-    version='0.0.1',
+    version=version,
     author="Reid McIlroy-Young, John McLevey",
     author_email = "rmcilroy@uwaterloo.ca, john.mclevey@uwaterloo.ca",
     install_requires= ['dulwich', 'pyyaml'],
