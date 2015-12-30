@@ -14,6 +14,12 @@ def baseArgparse(description):
     help = "debug mode, may cause crashes")
     return parser
 
+def generalExceptionHandler(e, debugMode):
+    if debugMode:
+        raise e
+    else:
+        print('A {} error was encounterd that caMarkdown was unable to deal with it had the message:\n"{}"\nIf you would like to help fix this error run in debug mode (--debug) and give the output to Reid.'.format(type(e).__name__, e))
+
 class CommandOutputHandler(object):
     def __init__(self, targetStream):
         if targetStream is None:

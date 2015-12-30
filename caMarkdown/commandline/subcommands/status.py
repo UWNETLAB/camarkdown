@@ -2,7 +2,7 @@ import argparse
 import sys
 import os
 
-from .subCommandBase import baseArgparse, CommandOutputHandler
+from .subCommandBase import baseArgparse, CommandOutputHandler, generalExceptionHandler
 
 from ...project import Project
 from ...dirHanders import isCaDir, getIndexedFiles, findTopDir
@@ -49,19 +49,16 @@ def makeStatusString(P):
     return s
 
 def startStatus():
+    args = statusArgParse()
     try:
-        args = statusArgParse()
         with CommandOutputHandler(args.output) as writer:
             try:
                 caDir = findTopDir('.')
             except UninitializedDirectory:
-                print("This is not caMarkdown repository or inside one.\nRun `camd init` to make it one")
+                writer("This is not caMarkdown repository or inside one.\nRun `camd init` to make it one")
             else:
                 Proj = Project(caDir)
                 writer(makeStatusString(Proj))
     except Exception as e:
         #Prettify things if they go bad
-        if args.debug:
-            raise e
-        else:
-            print('A {} error was encounterd that caMarkdown was unable to deal with it had the message:\n"{}"\nIf you would like to help fix this error run in debug mode (--debug) and give the output to Reid.'.format(type(e).__name__, e))
+        generalExceptionHandler(e, args.debug)
