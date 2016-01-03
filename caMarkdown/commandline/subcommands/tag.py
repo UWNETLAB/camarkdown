@@ -9,7 +9,7 @@ from ...caExceptions import UninitializedDirectory
 from ...dirHanders import findTopDir
 
 def tagArgParse():
-    parser = baseArgparse("caMarkdown's sync client")
+    parser = baseArgparse("caMarkdown's tag manipulation client")
     parser.add_argument("tag", nargs = '?', type = str, help = "The tag being queried.", default = None)
     return parser.parse_args(sys.argv[2:])
 

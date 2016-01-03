@@ -9,7 +9,7 @@ from ...caExceptions import UninitializedDirectory
 from ...dirHanders import findTopDir
 
 def organizeArgParse():
-    parser = baseArgparse("orgaize the codebook")
+    parser = baseArgparse("caMarkdown's automated codebook organizer ")
     return parser.parse_args(sys.argv[2:])
 
 def startOrganize():

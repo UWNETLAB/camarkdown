@@ -11,7 +11,7 @@ from ...caExceptions import UninitializedDirectory, ProjectFileError
 
 
 def startArgParse():
-    parser = baseArgparse("Add files to caMarkdown's index")
+    parser = baseArgparse("caMarkdown's codebook adding client")
     parser.add_argument("paths", nargs = "+",type = str, help = "The paths of files or directories to be added")
     return parser.parse_args(sys.argv[2:])
 
