@@ -27,3 +27,6 @@ class ProjectCodeError(ProjectException):
 
 class CodeBookException(Exception):
     pass
+
+class TestError(Exception):
+    pass
