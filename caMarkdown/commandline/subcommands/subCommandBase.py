@@ -10,13 +10,12 @@ def baseArgparse(description):
     action = 'store_true', default = False,
     help = "be verbose")
     parser.add_argument("--debug", '-d',
-    action = 'store_true', default = False,
+    action = 'store_true', default = True,#TODO: Change back before release 
     help = "debug mode, may cause crashes")
     return parser
 
 def generalExceptionHandler(e, debugMode):
-    if True#debugMode:
-        #TODO: Change back before release
+    if debugMode:
         raise e
     else:
         print('A {} error was encounterd that caMarkdown was unable to deal with it had the message:\n"{}"\nIf you would like to help fix this error run in debug mode (--debug) and give the output to Reid.'.format(type(e).__name__, e))
