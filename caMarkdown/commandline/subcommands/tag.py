@@ -1,6 +1,4 @@
-import argparse
 import sys
-import os
 
 from .subCommandBase import baseArgparse, CommandOutputHandler, generalExceptionHandler
 

@@ -1,8 +1,7 @@
+import pathlib
+
 from ..codes import contextChar, contentChar, metaChar
 
-import yaml
-
-import pathlib
 
 codeBookName = "codebook.yaml"
 
@@ -12,7 +11,7 @@ codebookFileHeader = "Files"
 codebookContentHeader = "ContextCodes"
 codebookContextHeader = "ContentCodes"
 codebookMetaHeader = "MetaCodes"
-codebookHeaders = [codebookContentHeader, codebookContextHeader, codebookMetaHeader, codebookFileHeader]
+codebookHeaders = (codebookContentHeader, codebookContextHeader, codebookMetaHeader, codebookFileHeader)
 
 charHeaderMap = {
 contextChar : codebookContextHeader,

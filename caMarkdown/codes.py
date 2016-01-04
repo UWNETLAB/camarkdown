@@ -1,6 +1,6 @@
-from .caExceptions import CodeParserException
-
 import copy
+
+from .caExceptions import CodeParserException
 
 contextChar = '@'
 contentChar = '$'
@@ -372,7 +372,7 @@ class Tag(object):
     def __str__(self):
         s = "{}\t{}\tcount {}\t: ".format(type(self).__qualname__, self.tag, len(self))
         if self.unDocumented:
-             s += "unDocumented"
+            s += "unDocumented"
         elif self.description:
             s += "{}".format(self.description)
         else:

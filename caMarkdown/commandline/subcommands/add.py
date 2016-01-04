@@ -1,6 +1,4 @@
-import argparse
 import sys
-import os
 import pathlib
 
 from .subCommandBase import baseArgparse, CommandOutputHandler, generalExceptionHandler
@@ -8,7 +6,6 @@ from .subCommandBase import baseArgparse, CommandOutputHandler, generalException
 from ...project import Project
 from ...dirHanders import findTopDir
 from ...caExceptions import UninitializedDirectory, ProjectFileError
-
 
 def startArgParse():
     parser = baseArgparse("caMarkdown's codebook adding client")

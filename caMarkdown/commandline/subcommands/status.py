@@ -1,13 +1,9 @@
-import argparse
 import sys
-import os
 
 from .subCommandBase import baseArgparse, CommandOutputHandler, generalExceptionHandler
 
 from ...project import Project
-from ...dirHanders import isCaDir, getIndexedFiles, findTopDir
-from ...parser import getTags
-from ...codes import MetaCodeSection, ContentCodeSection, ContextCodeSection, metaChar, contentChar, contextChar
+from ...dirHanders import findTopDir
 from ...caExceptions import UninitializedDirectory
 
 def statusArgParse():
@@ -45,7 +41,7 @@ def makeStatusString(P):
     if len(unUsed) > 0:
         s += "There are {} code(s) in the codebook not used in the text. They are:\n\t{}\n".format(len(unUsed), '\n\t'.join(unUsed.keys()))
     if len(commented) > 0:
-            s += "There are {} code(s) in the codebook with a description.\n".format(len(commented))
+        s += "There are {} code(s) in the codebook with a description.\n".format(len(commented))
     return s
 
 def startStatus():

@@ -1,10 +1,9 @@
-import argparse
 import sys
 import collections
 
 from .subCommandBase import baseArgparse, CommandOutputHandler, generalExceptionHandler
 
-from ...dirHanders import isCaDir, getIndexedFiles, findTopDir
+from ...dirHanders import findTopDir
 from ...caExceptions import UninitializedDirectory
 from ...project import Project
 
@@ -40,8 +39,7 @@ def startTable():
                         overlp = ["{} overlap".format(tagString)]
                         for tag2String in tagsDict.keys():
                             overlp.append(str(sum((len(v2) for v2 in tag[tag2String]))))
-                        overlp = '\t'.join(overlp)
-                        overlaps.append(overlp)
+                        overlaps.append('\t'.join(overlp))
                     writer("Tags    \t{}\n".format('\t'.join(titles)))
                     writer("Lengths \t{}\n".format('\t'.join(lengths)))
                     for oString in overlaps:

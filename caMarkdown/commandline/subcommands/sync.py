@@ -1,6 +1,4 @@
-import argparse
 import sys
-import os
 
 from .subCommandBase import baseArgparse, CommandOutputHandler, generalExceptionHandler
 
@@ -18,28 +16,29 @@ def syncArgParse():
 def startSync():
     args = syncArgParse()
     try:
-        try:
-            caDir = findTopDir('.')
-        except UninitializedDirectory:
-            print("This is not caMarkdown repository or inside one.\nRun `camd init` to make it one")
-        else:
-            Proj = Project(caDir)
-            codes = Proj.getCodes()
-            if len(args.tags) < 1:
-                unDocumented = []
-                for tag, code in codes.items():
-                    if code.unDocumented:
-                        unDocumented.append(tag)
-                if len(unDocumented) > 0:
-                    for tag in unDocumented:
-                        Proj.addCode(tag)
-                    print("There are {} codes in the documents not in the codebook.  They are:\n\t{}\nThey have been added to the codebook.".format(len(unDocumented), '\n\t'.join(unDocumented)))
-                else:
-                    print("All codes in the documents are in the codebook.")
+        with CommandOutputHandler(args.output) as writer:
+            try:
+                caDir = findTopDir('.')
+            except UninitializedDirectory:
+                print("This is not caMarkdown repository or inside one.\nRun `camd init` to make it one")
             else:
-                for tag in args.tags:
-                    Proj.addCode(tag)
-                    print("{} added to the codebook.".format(tag))
+                Proj = Project(caDir)
+                codes = Proj.getCodes()
+                if len(args.tags) < 1:
+                    unDocumented = []
+                    for tag, code in codes.items():
+                        if code.unDocumented:
+                            unDocumented.append(tag)
+                    if len(unDocumented) > 0:
+                        for tag in unDocumented:
+                            Proj.addCode(tag)
+                        writer("There are {} codes in the documents not in the codebook. They are:\n\t{}\nThey have now been added to the codebook.\n".format(len(unDocumented), '\n\t'.join(unDocumented)))
+                    else:
+                        writer("All codes in the documents are in the codebook.\n")
+                else:
+                    for tag in args.tags:
+                        Proj.addCode(tag)
+                        writer("{} added to the codebook.\n".format(tag))
     except Exception as e:
         #Prettify things if they go bad
         generalExceptionHandler(e, args.debug)

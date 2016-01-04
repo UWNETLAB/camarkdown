@@ -10,7 +10,7 @@ def baseArgparse(description):
     action = 'store_true', default = False,
     help = "be verbose")
     parser.add_argument("--debug", '-d',
-    action = 'store_true', default = True,#TODO: Change back before release 
+    action = 'store_true', default = True,#TODO: Change back before release
     help = "debug mode, may cause crashes")
     return parser
 

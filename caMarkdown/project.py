@@ -15,7 +15,6 @@ import pathlib
 import os
 import os.path
 import fnmatch
-import re
 import collections
 import shutil
 
@@ -136,34 +135,6 @@ class Project(object):
                 pass
             else:
                 raise ProjectFileError("The ca ignore file could not be found this is possibly not a caMarkdown directory. If you want to retry and ignore all missing files run with `force = True`")
-
-        """
-        try:
-            self.path.mkdir(parents = True)
-        except FileExistsError:
-            pass
-        #Create all the missing files and directories
-        try:
-            self.Repo = dulwich.repo.Repo(str(self.path))
-        except dulwich.errors.NotGitRepository:
-            self.Repo = dulwich.repo.Repo.init(str(self.path))
-        try:
-            makeCodeBook(self.path)
-        except FileExistsError:
-            pass
-        try:
-            makeConf(self.path)
-        except FileExistsError:
-            pass
-        try:
-            makeGitignore(self.path)
-        except FileExistsError:
-            pass
-        try:
-            makeCAignore(self.path)
-        except FileExistsError:
-            pass
-        """
 
     def getGitIgnoreRules(self):
         """Does not work quite right
@@ -289,7 +260,7 @@ class Project(object):
                 if rule(str(target)):
                     return True
             return False
-        condensedRule = lambda x: condenseRules(x, ruleLst)
+        condensedRule = lambda x: condenseRules(x, rules)
         def getFiles(Path, rule):
             retLst = []
             for subPath in (p for p in Path.iterdir() if rule(p)):
