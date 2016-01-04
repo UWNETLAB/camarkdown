@@ -12,10 +12,12 @@ import dulwich.errors
 import yaml
 
 import pathlib
+import os
 import os.path
 import fnmatch
 import re
 import collections
+import shutil
 
 class Project(object):
     def __init__(self, dirName):
@@ -96,6 +98,72 @@ class Project(object):
             makeCAignore(self.path)
         except FileExistsError:
             pass
+
+    def delete(self, force = False):
+        """Deletes all files created by caMarkdown in the repo, including .git"""
+        try:
+            shutil.rmtree(str(pathlib.Path(self.path, '.git')))
+        except FileNotFoundError:
+            if force:
+                pass
+            else:
+                raise ProjectFileError("The .git directory could not be found this is likely not a caMarkdown directory. If you want to retry and ignore all missing files run with `force = True`")
+        try:
+            os.remove(str(pathlib.Path(self.path, pathlib.Path(codeBookName))))
+        except FileNotFoundError:
+            if force:
+                pass
+            else:
+                raise ProjectFileError("The codebook file could not be found this is possibly not a caMarkdown directory. If you want to retry and ignore all missing files run with `force = True`")
+        try:
+            os.remove(str(pathlib.Path(self.path, pathlib.Path(gitignoreName))))
+        except FileNotFoundError:
+            if force:
+                pass
+            else:
+                raise ProjectFileError("The git ignore file could not be found this is possibly not a caMarkdown directory. If you want to retry and ignore all missing files run with `force = True`")
+        try:
+            os.remove(str(pathlib.Path(self.path, pathlib.Path(caIgnoreName))))
+        except FileNotFoundError:
+            if force:
+                pass
+            else:
+                raise ProjectFileError("The ca ignore file could not be found this is possibly not a caMarkdown directory. If you want to retry and ignore all missing files run with `force = True`")
+        try:
+            os.remove(str(pathlib.Path(self.path, pathlib.Path(confName))))
+        except FileNotFoundError:
+            if force:
+                pass
+            else:
+                raise ProjectFileError("The ca ignore file could not be found this is possibly not a caMarkdown directory. If you want to retry and ignore all missing files run with `force = True`")
+
+        """
+        try:
+            self.path.mkdir(parents = True)
+        except FileExistsError:
+            pass
+        #Create all the missing files and directories
+        try:
+            self.Repo = dulwich.repo.Repo(str(self.path))
+        except dulwich.errors.NotGitRepository:
+            self.Repo = dulwich.repo.Repo.init(str(self.path))
+        try:
+            makeCodeBook(self.path)
+        except FileExistsError:
+            pass
+        try:
+            makeConf(self.path)
+        except FileExistsError:
+            pass
+        try:
+            makeGitignore(self.path)
+        except FileExistsError:
+            pass
+        try:
+            makeCAignore(self.path)
+        except FileExistsError:
+            pass
+        """
 
     def getGitIgnoreRules(self):
         """Does not work quite right
