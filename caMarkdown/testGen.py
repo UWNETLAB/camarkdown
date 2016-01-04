@@ -1,4 +1,4 @@
-import random
+"""import random
 from ..codes import Code, makeCode
 
 def makeTestFile(inputString, numCuts, numTags, numBlocks, maxTagLen = 16, maxTagPerBlock = 5):
@@ -72,3 +72,4 @@ def makeTestFile(inputString, numCuts, numTags, numBlocks, maxTagLen = 16, maxTa
     while len(splitString) > 0:
         retString +=  splitString.pop(0)
     return (retString, codes)
+"""

@@ -3,7 +3,7 @@ import pathlib
 import random
 import shutil
 
-from .caExceptions import TestError
+from ..caExceptions import TestError
 
 def randomString():
     remainingChars = 20
@@ -53,8 +53,10 @@ def makeTestDir(name, targetfileDir, dirCount = 10, maxDepth = 10):
     try:
         base.mkdir()
         base = pathlib.Path(name).resolve()
-    except (FileExistsError, FileNotFoundError):
-        raise TestError("Root directory creation failed, This function can only be run to create a new directory in an existing location.")
+    except FileExistsError:
+        raise TestError("Root directory creation failed, This function can only be run to create a new directory in an existing location. The directory {} is already exists.".format(targetfileDir))
+    except FileNotFoundError:
+        raise TestError("Root directory creation failed, This function can only be run to create a new directory in an existing location. The some of the parents of {} is do not exist.".format(targetfileDir))
     for i in range(dirCount):
         makeRandomDir(base, maxDepth)
     for target in targets:
