@@ -1,6 +1,7 @@
 import pathlib
 import random
 import shutil
+import os.path
 
 from ..caExceptions import TestError
 
@@ -59,5 +60,7 @@ def makeTestDir(name, targetfileDir, dirCount = 10, maxDepth = 10):
     for i in range(dirCount):
         makeRandomDir(base, maxDepth)
     for target in targets:
-        print(target)
         copyToRandomDir(base, target)
+
+def _quickTestDirMake():
+    makeTestDir('tempDir', os.path.join(os.path.dirname(__file__), 'womenInComp'))

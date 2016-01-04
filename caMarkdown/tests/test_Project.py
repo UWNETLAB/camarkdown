@@ -33,6 +33,13 @@ class Test_Project(unittest.TestCase):
         self.assertIsInstance(pathlib.Path(self.P.path, gitignoreName).resolve(), pathlib.Path)
         self.assertIsInstance(pathlib.Path(self.P.path, caIgnoreName).resolve(), pathlib.Path)
 
+    def test_tracking(self):
+        self.assertNotEqual(set(self.P.getAllTrackedFiles()), set(self.P.getFiles()))
+        self.P.addDir(tempDirName)
+        self.assertNotEqual(set(self.P.getAllTrackedFiles()), set(self.P.getFiles()))
+        self.P.addDir(tempDirName, recursive = True)
+        self.assertEqual(set(self.P.getAllTrackedFiles()), set(self.P.getFiles()))
+
     def tearDown(self):
         self.P.delete(force = True)
 

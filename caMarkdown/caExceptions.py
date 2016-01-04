@@ -25,6 +25,12 @@ class ProjectFileError(ProjectException):
 class ProjectCodeError(ProjectException):
     pass
 
+class ProjectGitError(ProjectException):
+    pass
+
+class ProjectReservedFileError(ProjectException):
+    pass
+
 class CodeBookException(Exception):
     pass
 

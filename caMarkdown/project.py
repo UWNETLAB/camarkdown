@@ -4,7 +4,7 @@ from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
 from .codes import parseTree, codeTypes, makeCode
-from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError, ProjectCodeError
+from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError, ProjectCodeError, ProjectGitError, ProjectReservedFileError
 
 import dulwich.repo
 import dulwich.errors
@@ -17,6 +17,8 @@ import os.path
 import fnmatch
 import collections
 import shutil
+
+reservedFileNames = [codeBookName, confName, gitignoreName, caIgnoreName]
 
 class Project(object):
     def __init__(self, dirName):
@@ -158,6 +160,43 @@ class Project(object):
         f.close()
         return rules
 
+    def addDir(self, targetPath, recursive = False):
+        """Adds all files in targetPath to the codebook. Each is added separately with `addFile()`. recursive will cause all subdirectories to be added as well"""
+        if not isinstance(targetPath, pathlib.Path):
+            targetPath = pathlib.Path(targetPath)
+        try:
+            targetPath = targetPath.resolve()
+        except FileNotFoundError:
+            raise ProjectFileError("'{}' does not exist so cannot be added.".format(targetPath))
+        if not targetPath.is_dir():
+            raise ProjectFileError("'{}' must be a directory.".format(targetPath))
+        if self.path != targetPath and self.path not in targetPath.parents:
+            raise ProjectFileError("'{}' is not in the targeted repository '{}'.".format(targetPath, self.path))
+        if targetPath.name == '.git' or len([p for p in targetPath.parents if p.name == '.git']) > 0:
+            raise ProjectGitError("You cannot add files from a .git directory to the codebook.")
+        files = []
+        subDirs = []
+        for subPath in targetPath.iterdir():
+            if subPath.is_dir():
+                subDirs.append(subPath)
+            elif subPath.is_file():
+                files.append(subPath)
+            #This will only catch files and directories
+            #other things in the file system will be ignored.
+            #It may be worth causing an error if those are found
+            #but this ways seems more user friendly.
+        for subFile in files:
+            try:
+                self.addFile(subFile)
+            except ProjectReservedFileError:
+                pass
+        if recursive:
+            for subDir in subDirs:
+                try:
+                    self.addDir(subDir, recursive = recursive)
+                except ProjectGitError:
+                    pass
+
     def addFile(self, targetPath):
         """Appends the codebook with the path to targetPath"""
         if not isinstance(targetPath, pathlib.Path):
@@ -170,6 +209,8 @@ class Project(object):
             raise ProjectFileError("'{}' is not in the targeted repository '{}'.".format(targetPath, self.path))
         if not targetPath.is_file():
             raise ProjectFileError("'{}' is not a file.".format(targetPath, self.path))
+        if targetPath.name in reservedFileNames:
+            raise ProjectReservedFileError("You cannot add a file called {} as it is a reserved name. The reserved names are: {}".format(targetPath.name,', '.join([codeBookName, confName, gitignoreName, caIgnoreName])))
         if targetPath not in self.readFilesList():
             with self._openCodebook(mode = 'r+') as f:
                 yamlDict = yaml.safe_load(f)
@@ -271,7 +312,7 @@ class Project(object):
             return retLst
         #TODO: Make work
         #return getFiles(self.path, condensedRule)
-        return getFiles(self.path, lambda x: x.name[0] != '.' and x.name != 'configuration.py' and x.name != "codebook.md") #Return all nonhidden files
+        return getFiles(self.path, lambda x: x.name[0] != '.' and x.name not in reservedFileNames) #Return all nonhidden files
 
     def parseTree(self):
         files = self.getFiles()

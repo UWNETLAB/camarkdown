@@ -1,5 +1,6 @@
 from .parser import getTags, getParseTree
 from .project import Project
+from .tests.helpers import _quickTestDirMake
 #from .dirHanders import makeProjectDir
 
 version = '0.0.1'
