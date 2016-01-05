@@ -12,7 +12,6 @@ def argumentParser():
 
 def cli():
     if len(sys.argv) > 1 and sys.argv[1] in subCommands:
-        #TODO: put in a try block before release
         subCommands[sys.argv[1]]()
     else:
         args = argumentParser()

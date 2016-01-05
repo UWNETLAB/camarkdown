@@ -3,11 +3,9 @@ from .defaultFiles.defaultConf import makeConf, confName
 from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
 from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
 
+from .gitWrappers import openRepo, init
 from .codes import parseTree, codeTypes, makeCode
-from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError, ProjectCodeError, ProjectGitError, ProjectReservedFileError
-
-import dulwich.repo
-import dulwich.errors
+from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError, ProjectCodeError, ProjectGitError, ProjectReservedFileError, GitRepositoryMissing
 
 import yaml
 
@@ -66,8 +64,8 @@ class Project(object):
 
     def openDir(self):
         try:
-            self.Repo = dulwich.repo.Repo(str(self.path))
-        except dulwich.errors.NotGitRepository:
+            self.Repo = openRepo(self.path)
+        except GitRepositoryMissing:
             raise ProjectMissingFiles("{} is not a git repo. It cannot be reopen as a caMarkdown repo".format(str(self.path)))
         for name in [confName, codeBookName, gitignoreName, caIgnoreName]:
             if not pathlib.Path(self.path, name).exists():
@@ -80,9 +78,9 @@ class Project(object):
             pass
         #Create all the missing files and directories
         try:
-            self.Repo = dulwich.repo.Repo(str(self.path))
-        except dulwich.errors.NotGitRepository:
-            self.Repo = dulwich.repo.Repo.init(str(self.path))
+            self.Repo = openRepo(self.path)
+        except GitRepositoryMissing:
+            self.Repo = init(self.path)
         try:
             makeCodeBook(self.path)
         except FileExistsError:

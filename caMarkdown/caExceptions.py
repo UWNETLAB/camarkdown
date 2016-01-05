@@ -1,13 +1,17 @@
-class AddingException(Exception):
+class caMarkdownException(Exception):
+    """The base class of all excptions for caMarkdown"""
     pass
 
-class CodeParserException(Exception):
+class AddingException(caMarkdownException):
     pass
 
-class UninitializedDirectory(Exception):
+class CodeParserException(caMarkdownException):
     pass
 
-class ProjectException(Exception):
+class UninitializedDirectory(caMarkdownException):
+    pass
+
+class ProjectException(caMarkdownException):
     pass
 
 class ProjectTypeError(ProjectException):
@@ -31,8 +35,14 @@ class ProjectGitError(ProjectFileError):
 class ProjectReservedFileError(ProjectFileError):
     pass
 
-class CodeBookException(Exception):
+class CodeBookException(caMarkdownException):
     pass
 
-class TestError(Exception):
+class TestError(caMarkdownException):
+    pass
+
+class GitException(caMarkdownException):
+    pass
+
+class GitRepositoryMissing(GitException):
     pass
