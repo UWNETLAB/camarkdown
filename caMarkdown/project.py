@@ -1,20 +1,19 @@
-from .defaultFiles.defaultCodebook import makeCodeBook, codeBookName, codebookHeaders, charHeaderMap, codebookFileHeader, headerCharMap
-from .defaultFiles.defaultConf import makeConf, confName
-from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
-from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
-
-from .gitWrappers import openRepo, init
-from .codes import parseTree, codeTypes, makeCode
-from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError, ProjectCodeError, ProjectGitError, ProjectReservedFileError, GitRepositoryMissing
-
-import yaml
-
 import pathlib
 import os
 import os.path
 import fnmatch
 import collections
 import shutil
+
+import yaml
+
+from .defaultFiles.defaultCodebook import makeCodeBook, codeBookName, codebookHeaders, charHeaderMap, codebookFileHeader, headerCharMap
+from .defaultFiles.defaultConf import makeConf, confName
+from .defaultFiles.defaultGitignore import makeGitignore, gitignoreName
+from .defaultFiles.defaultCaignore import makeCAignore, caIgnoreName
+from .gitWrapper import openRepo, init
+from .codes import parseTree, codeTypes, makeCode
+from .caExceptions import AddingException, UninitializedDirectory, ProjectDirectoryMissing, ProjectMissingFiles, ProjectException, ProjectTypeError, CodeBookException, ProjectFileError, ProjectCodeError, ProjectGitError, ProjectReservedFileError, GitRepositoryMissing
 
 reservedFileNames = [codeBookName, confName, gitignoreName, caIgnoreName]
 

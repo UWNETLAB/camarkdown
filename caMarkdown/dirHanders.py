@@ -1,6 +1,6 @@
 import pathlib
 
-from .gitWrappers import containsGitRepo
+from .gitWrapper import containsGitRepo
 from .caExceptions import UninitializedDirectory
 
 def findTopDir(startPath):

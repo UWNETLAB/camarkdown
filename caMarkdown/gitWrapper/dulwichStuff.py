@@ -1,9 +1,10 @@
-#IN PROGRESS
 import dulwich.repo
 import dulwich.objects
 import dulwich.errors
 
-from .caExceptions import GitException, GitRepositoryMissing
+from ..caExceptions import GitException, GitRepositoryMissing
+
+__all__ = ['containsGitRepo', 'openRepo', 'init']
 
 def containsGitRepo(targetDir):
     """Checks if targetDir can be initialized as a git repo"""
