@@ -4,6 +4,7 @@ import os.path
 import fnmatch
 import collections
 import shutil
+import re
 
 import yaml
 
@@ -241,7 +242,6 @@ class Project(object):
             yamlDict = yaml.safe_load(f)
             heading = charHeaderMap[targetCode[0]]
             try:
-                print(yamlDict[heading])
                 yamlDict[heading].append({targetCode[1:] : {"description" : description}})
             except AttributeError:
                 if yamlDict[heading] is None:
@@ -257,28 +257,18 @@ class Project(object):
             f.truncate()
 
     def organizeCodebook(self):
+        """Rewrites the codebook with properly formatted YAML"""
         with self._openCodebook(mode = 'r+') as f:
-            lines = f.readlines()
-            f.seek(0)
-            sections = collections.OrderedDict()
+            yamlDict = yaml.safe_load(f)
+            for header in yamlDict:
+                if header not in codebookHeaders:
+                    raise CodeBookException("The section '{}' is no known to caMarkdown, it must be removed from the codebook.".format(header))
             for header in codebookHeaders:
-                sections[header] = []
-            currentSection = codebookHeaders[0]
-            for line in lines:
-                if line.isspace():
-                    pass
-                elif line in sections:
-                    currentSection = line
-                elif line.lstrip()[0] == '#':
-                    sections[currentSection].append(line)
-                elif line.lstrip()[0] not in charHeaderMap:
-                    sections[codebookHeaders[0]].append(line)
-                else:
-                    sections[charHeaderMap[line.lstrip()[0]]].append(line)
-            for sec, secLines in sections.items():
-                f.write(sec)
-                f.write(''.join(secLines))
-                f.write("\n")
+                if header not in yamlDict:
+                    yamlDict[header] = None
+            dumpString = yaml.safe_dump(yamlDict, allow_unicode=True, default_flow_style=False)
+            f.seek(0)
+            f.write(re.sub(r': null\n', lambda x: '\n', dumpString))
             f.truncate()
 
     def getFiles(self):

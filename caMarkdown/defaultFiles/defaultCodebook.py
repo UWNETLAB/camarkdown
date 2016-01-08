@@ -2,10 +2,7 @@ import pathlib
 
 from ..codes import contextChar, contentChar, metaChar
 
-
 codeBookName = "codebook.yaml"
-
-
 
 codebookFileHeader = "Files"
 codebookContentHeader = "ContextCodes"

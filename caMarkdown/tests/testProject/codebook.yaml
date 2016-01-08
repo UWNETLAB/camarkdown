@@ -2,20 +2,20 @@ ContentCodes:
 - tag5
 - tag6: xkhjkhkhjkhjkh
 - tag1:
-    description: null
+    description
 ContextCodes:
 - tag6:
-    description: null
+    description
 - tag2:
-    description: null
+    description
 Files:
-- /somepath: null
+- /somepath
 - /another/path/to/stuff.md:
   - comment: kdfhgdjkdhjkh
 - /gdkjdfgkljfgk: odfjdkljdfgkjdf sdfkjdfgkldfgjklfj
 - jhjb:
     jjgjfgdhfkjdgh: knjhjkh
-    stuff: null
+    stuff
 - RecordTarget.md
 MetaCodes:
 - tag1
@@ -26,4 +26,4 @@ MetaCodes:
 - tag4:
   - jhfdjhgfd
   - hgbhgjh
-- tag5: null
+- tag5
