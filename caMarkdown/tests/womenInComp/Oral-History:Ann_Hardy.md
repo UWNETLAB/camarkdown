@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Ann_Hardy&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Ann_Hardy&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Ann_Hardy&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Ann_Hardy)
   
-  * Discussion(index.php?title=Oral-History_talk:Ann_Hardy&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Ann_Hardy&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Ann_Hardy "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Ann_Hardy "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Ann_Hardy "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Ann_Hardy "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Ann_Hardy&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Ann_Hardy&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Ann_Hardy&oldid=108226 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Ann_Hardy&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Ann_Hardy)
+  * Browse properties(Special:BrowseOral-2DHistory:Ann_Hardy)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AAnn+Hardy)
@@ -1091,7 +1091,7 @@ Because you were in at the beginning.
 
 Right; because I was in at the beginning. That was interesting: I was
 always a senior manager or VP. I was a VP there for ten or twelve years,
-half the time \I worked there\. It did influence \[female job
+half the time \I worked there\. It did influence \female job
 candidates\. It did make it easier for women to come to the company; it
 did make them more interested in coming to the company.
 
@@ -1116,7 +1116,7 @@ IBM, and the same thing was true at Tymshare. It was mid-to-late
 seventies before the VP of Sales was willing to hire women. You know,
 Congress passes some law, and then ten years later they begin enforcing
 it—they don’t begin to enforce it; they begin to act like they might
-enforce it someday \laughs\—so \[companies\] begin to look around
+enforce it someday \laughs\—so \companies\ begin to look around
 \and think\ maybe they should hire a woman or two. Audrey was one of
 those: Audrey McLean. I gave you her number.
 
@@ -1141,7 +1141,7 @@ Operations Room, distracting all the men\!” I had this argument with the
 guy who ran Operations all the time. I said, “You’re always inviting me
 in there to debug your computers, so what’s the difference if there’s
 another woman in there?” And he said “Ah, well, you’re not like a
-woman\!” \laughs.\ “Well, thanks a lot\!” \[laughs.\] But I was the
+woman\!” \laughs.\ “Well, thanks a lot\!” \laughs.\ But I was the
 only woman in the Operations for years.
 
 **Janet Abbate:**
@@ -3031,7 +3031,7 @@ encrypted.
 Right. Which is more than you can say for the phone call.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Ann_Hardy&oldid=108226>"
+"<http:ethw.orgindex.php?title=Oral-History:Ann_Hardy&oldid=108226>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -3102,10 +3102,10 @@ Categories(Special:Categories "Special:Categories"):
     Connections(#Tymnet_and_ARPANET_Connections)
   * 4\.30 Network Security(#Network_Security)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:41\.
 

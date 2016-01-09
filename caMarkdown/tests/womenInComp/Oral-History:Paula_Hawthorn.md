@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Paula_Hawthorn&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Paula_Hawthorn&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Paula_Hawthorn&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Paula_Hawthorn)
   
-  * Discussion(index.php?title=Oral-History_talk:Paula_Hawthorn&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Paula_Hawthorn&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Paula_Hawthorn "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Paula_Hawthorn "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Paula_Hawthorn "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Paula_Hawthorn "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Paula_Hawthorn&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Paula_Hawthorn&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Paula_Hawthorn&oldid=108338 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Paula_Hawthorn&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Paula_Hawthorn)
+  * Browse properties(Special:BrowseOral-2DHistory:Paula_Hawthorn)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3APaula+Hawthorn)
@@ -1873,7 +1873,7 @@ Anyway: Let me thank you so much for talking with me\!
 Well, thank you\! Great\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Paula_Hawthorn&oldid=108338>"
+"<http:ethw.orgindex.php?title=Oral-History:Paula_Hawthorn&oldid=108338>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1938,10 +1938,10 @@ Categories(Special:Categories "Special:Categories"):
     Computing(#Obstacles_to_Women_in_Computing)
   * 4\.14 Advice for Women(#Advice_for_Women)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 

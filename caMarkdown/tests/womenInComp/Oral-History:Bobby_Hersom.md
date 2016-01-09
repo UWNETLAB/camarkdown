@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Bobby_Hersom&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Bobby_Hersom&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Bobby_Hersom&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Bobby_Hersom)
   
-  * Discussion(index.php?title=Oral-History_talk:Bobby_Hersom&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Bobby_Hersom&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Bobby_Hersom "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Bobby_Hersom "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Bobby_Hersom "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Bobby_Hersom "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Bobby_Hersom&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Bobby_Hersom&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Bobby_Hersom&oldid=108265 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Bobby_Hersom&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Bobby_Hersom)
+  * Browse properties(Special:BrowseOral-2DHistory:Bobby_Hersom)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ABobby+Hersom)
@@ -728,7 +728,7 @@ Were there a lot of other women in the programming group?
 **Hersom:**
 
 There were several. I’ve never thought to compare the numbers. They came
-and went. One of them was \the woman\ whom I mentioned to you \[before
+and went. One of them was \the woman\ whom I mentioned to you \before
 the interview\, Dina Vaughan, who set up her own services. \To Ed
 Hersom:\ There were quite a number of women, weren’t there?
 
@@ -903,7 +903,7 @@ somebody who worked in the Plant Pathology Department. I think he’d got
 something working on the old 401 machine. That was an Elliott’s 401\.
 The big machine we were working on was the ICL System 4, which was
 supposed to be a copy of the IBM 360, with a language called
-“Multi-Job.” \We called it\ Multi-Bodge\! \[laughs.\]
+“Multi-Job.” \We called it\ Multi-Bodge\! \laughs.\
 
 **Abbate:**
 
@@ -2015,7 +2015,7 @@ Well, thank you very much for talking with me.
 All right.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Bobby_Hersom&oldid=108265>"
+"<http:ethw.orgindex.php?title=Oral-History:Bobby_Hersom&oldid=108265>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2049,10 +2049,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.11 Training and Experience with
     Computers(#Training_and_Experience_with_Computers)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 

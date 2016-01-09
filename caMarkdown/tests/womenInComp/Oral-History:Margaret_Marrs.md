@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Margaret_Marrs&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Margaret_Marrs&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Margaret_Marrs&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Margaret_Marrs)
   
-  * Discussion(index.php?title=Oral-History_talk:Margaret_Marrs&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Margaret_Marrs&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Margaret_Marrs "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Margaret_Marrs "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Margaret_Marrs "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Margaret_Marrs "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Margaret_Marrs&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Margaret_Marrs&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Margaret_Marrs&oldid=108366 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Margaret_Marrs&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Margaret_Marrs)
+  * Browse properties(Special:BrowseOral-2DHistory:Margaret_Marrs)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMargaret+Marrs)
@@ -227,7 +227,7 @@ family name, in Queensland, and that was a sort of builders’ merchants
 and everything like that, so he was that sort of a person.
 
 But my parents met in the bank; my mother was in the bank as well\!
-\laughs.\ So we’ve always had voluntary jobs as treasurers. \[both
+\laughs.\ So we’ve always had voluntary jobs as treasurers. \both
 laugh.\
 
 **Abbate:**
@@ -457,7 +457,7 @@ was, by Stan Gill, and Stan had adapted the Runge-Kutta method of
 solving differential equations for automatic computers. You started with
 your equations and initial values, and you progressed everything on by
 one step. It was very easily adapted for computers. So Cyril
-\Veinott\](Cyril_G._Veinott "Cyril G. Veinott") and I were really
+\Veinott\(Cyril_G._Veinott "Cyril G. Veinott") and I were really
 doing that. Thirty-nine differential equations—some quite big number,
 anyway—was the project that we were on. Well, that was the whole year\!
 \laughs.\ We were still doing it at the end of the year. But it was
@@ -714,7 +714,7 @@ he enjoyed his work\! “Well,” I said, “So what? I enjoyed mine\!” And it
 was almost as if it hadn’t occurred to her—people worked to earn their
 money, but they didn’t necessarily enjoy what they were doing. I said,
 “I spent my whole career getting paid for doing puzzles all day\!”
-\both laugh.\ I said, “What more can anybody ask?” \[laughs.\] And in
+\both laugh.\ I said, “What more can anybody ask?” \laughs.\ And in
 a way, that’s how I saw it: I always enjoyed it\!
 
 **Abbate:**
@@ -818,7 +818,7 @@ getting a new IBM computer, so ahead of this they’d got all their
 changes to the instructions of the COBOL, and how the COBOL worked—and
 most of it was the packing of data on magnetic tape—so that this
 enormous package of programs of theirs all had to be gone through, and
-converted for this new version of FORTRAN(FORTRAN "FORTRAN") \[for
+converted for this new version of FORTRAN(FORTRAN "FORTRAN") \for
 the IBM\. But at one stage something came in, which was a new suite of
 programs, so we were given one each, so at least we had something new to
 do; and then there was another one came in where it was machine-code
@@ -1288,7 +1288,7 @@ up to Glasgow; do you think there’s anything in it?” “Well . . . “ This
 sort of thing, you know. \laughs.\ Well, they got married—I think
 after a year, I’m not sure—and the boss wouldn’t have it\! And I think
 he tried to push Jennifer out, but John got a professorship at Stirling
-\instead\. \[laughs.\] That’s sort of gossip, really; but you do
+\instead\. \laughs.\ That’s sort of gossip, really; but you do
 realize that people have different feelings on this.
 
 There must be lots of husband-and-wife pairs these days, because that’s
@@ -2023,7 +2023,7 @@ was that.
 I’m sure it was with the IBM that this lack of . . . You could tamper
 with people’s files, even, I think. I have a feeling that Cambridge
 brought something in that you had four categories of file, in the end,
-one \of which\ nobody could touch. I expect people could read \[even
+one \of which\ nobody could touch. I expect people could read \even
 those files\—I don’t think they could block them out, now, I’m not
 sure; and you had, perhaps, so that a group could refer to it, if it was
 one of the departments, and so on. But I’m sure there was no trouble
@@ -2213,7 +2213,7 @@ Yes, yes, right.
 Mine, I suppose it was partly my fault, but . . . and I had somebody in
 charge of me as well, so I had somebody to refer to. This chap used to
 talk to me about his tame statistician—and I have no doubt he talked to
-her \the statistician\ about his tame programmer\! \[laughs.\]
+her \the statistician\ about his tame programmer\! \laughs.\
 
 **Abbate:**
 
@@ -2541,7 +2541,7 @@ Well, it’s been interesting as well.
 \END OF RECORDING\
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Margaret_Marrs&oldid=108366>"
+"<http:ethw.orgindex.php?title=Oral-History:Margaret_Marrs&oldid=108366>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2587,10 +2587,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.9 The Future for Women in
     Computing(#The_Future_for_Women_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 

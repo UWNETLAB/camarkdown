@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Mary_Lee_Berners-Lee)
   
-  * Discussion(index.php?title=Oral-History_talk:Mary_Lee_Berners-Lee&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Mary_Lee_Berners-Lee&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Mary_Lee_Berners-Lee "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Mary_Lee_Berners-Lee "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Mary_Lee_Berners-Lee "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Mary_Lee_Berners-Lee "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Mary_Lee_Berners-Lee&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Mary_Lee_Berners-Lee&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Mary_Lee_Berners-Lee&oldid=108343 "Permanent link to this revision of the page")
@@ -65,7 +65,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     information(index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=info)
   
   * Browse
-    properties(Special:Browse/Oral-2DHistory:Mary_Lee_Berners-2DLee)
+    properties(Special:BrowseOral-2DHistory:Mary_Lee_Berners-2DLee)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Lee+Berners-Lee)
@@ -630,7 +630,7 @@ time, and watch actually what was happening on the cathode ray tubes.
 But that, of course, took a lot of computer time, and you would have
 people in the queue waiting to use the computer behind you. There was a
 big notice over the computer—I think it was \a play on the one\
-devised by IBM— which said, “Think—but not here\!”\1\ \[both laugh\]
+devised by IBM— which said, “Think—but not here\!”\1\ \both laugh\
 
 So, John Bennett got me to write a program to print out the state of the
 computer: what was in the accumulator, the B-tubes, and any other data,
@@ -1600,7 +1600,7 @@ and Architectures*, ed. Raúl Rojas and Ulf Hashagen.
 Digital Computing Machines*. London: Pitman, 1953\.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Mary_Lee_Berners-Lee&oldid=108343>"
+"<http:ethw.orgindex.php?title=Oral-History:Mary_Lee_Berners-Lee&oldid=108343>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1640,10 +1640,10 @@ Categories(Special:Categories "Special:Categories"):
     Computing(#On_the_Status_of_Women_in_Computing)
   * 4\.15 Notes(#Notes)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 

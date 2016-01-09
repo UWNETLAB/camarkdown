@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Jean_Dollimore&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Jean_Dollimore&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Jean_Dollimore&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Jean_Dollimore)
   
-  * Discussion(index.php?title=Oral-History_talk:Jean_Dollimore&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Jean_Dollimore&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Jean_Dollimore "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Jean_Dollimore "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Jean_Dollimore "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Jean_Dollimore "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Jean_Dollimore&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Jean_Dollimore&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Jean_Dollimore&oldid=108535 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Jean_Dollimore&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Jean_Dollimore)
+  * Browse properties(Special:BrowseOral-2DHistory:Jean_Dollimore)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Dollimore)
@@ -1995,7 +1995,7 @@ Thanks very much for talking to me\! It was really fun.
 Well, you’re welcome\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Jean_Dollimore&oldid=108535>"
+"<http:ethw.orgindex.php?title=Oral-History:Jean_Dollimore&oldid=108535>"
 
 Category(Special:Categories "Special:Categories"):
 
@@ -2039,10 +2039,10 @@ Category(Special:Categories "Special:Categories"):
     Computing(#Reflections_on_the_Field_of_Computing)
   * 4\.17 Final Reflections(#Final_Reflections)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:45\.
 

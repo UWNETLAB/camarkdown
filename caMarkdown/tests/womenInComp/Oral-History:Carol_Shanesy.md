@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Carol_Shanesy&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Carol_Shanesy&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Carol_Shanesy&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Carol_Shanesy)
   
-  * Discussion(index.php?title=Oral-History_talk:Carol_Shanesy&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Carol_Shanesy&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Carol_Shanesy "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Carol_Shanesy "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Carol_Shanesy "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Carol_Shanesy "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Carol_Shanesy&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Carol_Shanesy&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Carol_Shanesy&oldid=108287 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Carol_Shanesy&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Carol_Shanesy)
+  * Browse properties(Special:BrowseOral-2DHistory:Carol_Shanesy)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ACarol+Shanesy)
@@ -1206,7 +1206,7 @@ people who were older than 77 or something (we figured they were not too
 harmful), so six bits was enough for a number of years. One year, over
 New Year’s, I got this call: “Carol, the fingerprints don’t work\!” And
 I knew immediately we had wrapped over that barrier. So that was a case
-of a one-\byte\, or less than one-\[byte\], year, which was really
+of a one-\byte\, or less than one-\byte\, year, which was really
 risky, but even the two-digit technique meant that a lot of code had to
 be changed for Y2K. There was a huge effort—and I guess it paid off,
 because we had almost no calls at all. My group didn’t have any.
@@ -2393,7 +2393,7 @@ you anything of use, but it’s interesting to hear your questions.
 \END OF RECORDING\
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Carol_Shanesy&oldid=108287>"
+"<http:ethw.orgindex.php?title=Oral-History:Carol_Shanesy&oldid=108287>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2415,8 +2415,8 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.2 Attending Northwestern(#Attending_Northwestern)
   * 4\.3 Recruitment by IBM(#Recruitment_by.C2.A0IBM)
   * 4\.4 Working for IBM(#Working_for_IBM)
-  * 4\.5 CICS \[Customer Information Control
-    System\](#CICS_.5BCustomer_Information_Control_System.5D)
+  * 4\.5 CICS \Customer Information Control
+    System\(#CICS_.5BCustomer_Information_Control_System.5D)
   * 4\.6 Working for Rand(#Working_for_Rand)
   * 4\.7 Return to IBM as a Systems Engineer New York City Police
     Department as a
@@ -2426,10 +2426,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.10 Reflections on the Field of
     Computing(#Reflections_on_the_Field_of_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 

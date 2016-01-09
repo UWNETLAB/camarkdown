@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Telle_Whitney&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Telle_Whitney&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Telle_Whitney&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Telle_Whitney)
   
-  * Discussion(index.php?title=Oral-History_talk:Telle_Whitney&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Telle_Whitney&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Telle_Whitney "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Telle_Whitney "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Telle_Whitney "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Telle_Whitney "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Telle_Whitney&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Telle_Whitney&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Telle_Whitney&oldid=108729 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Telle_Whitney&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Telle_Whitney)
+  * Browse properties(Special:BrowseOral-2DHistory:Telle_Whitney)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ATelle+Whitney)
@@ -1045,7 +1045,7 @@ Did they have other women managers at your level, or was that an issue?
 
 **Whitney:**
 
-\laughs.\ No\! \[laughs.\] I was their first female Director. I was VP
+\laughs.\ No\! \laughs.\ I was their first female Director. I was VP
 of a start-up, and it’s very common, once it gets bought, that you get
 demoted by one level. My boss was the CEO; he became VP. I was their
 first woman Director, ever\! And not only that, but PMC-Sierra is a
@@ -1438,7 +1438,7 @@ spending most of my time right now fundraising and networking and going
 and asking people for money, and when Anita and I did this in 1994, I
 could not even imagine doing fundraising. It was beyond my model of
 being able to do that, because I just feel so awful when you call and
-they say No\! \laughs.\ But, by showing up, I \[found that I could do
+they say No\! \laughs.\ But, by showing up, I \found that I could do
 it after all\.
 
 ### Changes for Women over Career and Final Thoughts
@@ -1554,7 +1554,7 @@ Okay.
 Thank you so much for talking with me.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Telle_Whitney&oldid=108729>"
+"<http:ethw.orgindex.php?title=Oral-History:Telle_Whitney&oldid=108729>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1597,10 +1597,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.11 Changes for Women over Career and Final
     Thoughts(#Changes_for_Women_over_Career_and_Final_Thoughts)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:49\.
 

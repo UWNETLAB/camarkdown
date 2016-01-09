@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Marlene_Hazle&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Marlene_Hazle&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Marlene_Hazle&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Marlene_Hazle)
   
-  * Discussion(index.php?title=Oral-History_talk:Marlene_Hazle&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Marlene_Hazle&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Marlene_Hazle "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Marlene_Hazle "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Marlene_Hazle "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Marlene_Hazle "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Marlene_Hazle&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Marlene_Hazle&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Marlene_Hazle&oldid=108611 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Marlene_Hazle&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Marlene_Hazle)
+  * Browse properties(Special:BrowseOral-2DHistory:Marlene_Hazle)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMarlene+Hazle)
@@ -1445,7 +1445,7 @@ built in.
 too, because then we got to use them\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Marlene_Hazle&oldid=108611>"
+"<http:ethw.orgindex.php?title=Oral-History:Marlene_Hazle&oldid=108611>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1524,10 +1524,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.10 The Benefits of Sharing Code(#The_Benefits_of_Sharing_Code)
   * 4\.11 The Joys of Computing(#The_Joys_of_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:47\.
 

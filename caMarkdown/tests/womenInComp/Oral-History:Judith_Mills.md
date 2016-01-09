@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Judith_Mills&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Judith_Mills&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Judith_Mills&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Judith_Mills)
   
-  * Discussion(index.php?title=Oral-History_talk:Judith_Mills&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Judith_Mills&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Judith_Mills "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Judith_Mills "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Judith_Mills "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Judith_Mills "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Judith_Mills&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Judith_Mills&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Judith_Mills&oldid=108569 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Judith_Mills&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Judith_Mills)
+  * Browse properties(Special:BrowseOral-2DHistory:Judith_Mills)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJudith+Mills)
@@ -740,7 +740,7 @@ started working at Wakefield College, so in between them, as well as
 having two children, I also did various part-time work. I worked
 part-time at what was then Leeds Polytechnic, now Leeds Metropolitan
 University; I did some teaching courses there. I did some at Kitson
-College. I did some work for BTec—or Bec/Tec as they were then—which is
+College. I did some work for BTec—or BecTec as they were then—which is
 one of the awarding bodies, an academic awarding body, so I did some
 work on their administration system. Again, that was a group of women,
 really. I also worked briefly for F International.
@@ -1845,7 +1845,7 @@ you very much\!
 \END OF RECORDING\
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Judith_Mills&oldid=108569>"
+"<http:ethw.orgindex.php?title=Oral-History:Judith_Mills&oldid=108569>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1876,10 +1876,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.9 Thoughts on the Field of
     Computing(#Thoughts_on_the_Field_of_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:46\.
 

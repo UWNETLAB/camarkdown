@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Adele_Goldberg&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Adele_Goldberg&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Adele_Goldberg&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Adele_Goldberg)
   
-  * Discussion(index.php?title=Oral-History_talk:Adele_Goldberg&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Adele_Goldberg&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Adele_Goldberg "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Adele_Goldberg "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Adele_Goldberg "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Adele_Goldberg "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Adele_Goldberg&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Adele_Goldberg&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Adele_Goldberg&oldid=108210 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Adele_Goldberg&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Adele_Goldberg)
+  * Browse properties(Special:BrowseOral-2DHistory:Adele_Goldberg)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AAdele+Goldberg)
@@ -2425,7 +2425,7 @@ Gibson (New York: ACM Press, 1996\).
 History Series (New York: ACM Press, 1988\).
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Adele_Goldberg&oldid=108210>"
+"<http:ethw.orgindex.php?title=Oral-History:Adele_Goldberg&oldid=108210>"
 
 Category(Special:Categories "Special:Categories"):
 
@@ -2466,10 +2466,10 @@ Category(Special:Categories "Special:Categories"):
     Computing(#Advice_for_Young_Women_Who_Are_Considering_a_Career_in_Computing)
   * 4\.16 Notes(#Notes)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:41\.
 

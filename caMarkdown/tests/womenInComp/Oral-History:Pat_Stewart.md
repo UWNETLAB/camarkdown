@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Pat_Stewart&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Pat_Stewart&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Pat_Stewart&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Pat_Stewart)
   
-  * Discussion(index.php?title=Oral-History_talk:Pat_Stewart&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Pat_Stewart&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Pat_Stewart "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Pat_Stewart "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Pat_Stewart "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Pat_Stewart "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Pat_Stewart&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Pat_Stewart&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Pat_Stewart&oldid=108652 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Pat_Stewart&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Pat_Stewart)
+  * Browse properties(Special:BrowseOral-2DHistory:Pat_Stewart)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3APat+Stewart)
@@ -844,7 +844,7 @@ using them as terminals—you know, one of my colleagues had written a
 chip that could fit them into a terminal, as I explained—they were also
 being used as stand-alone work stations. Again, some of the earliest
 microcomputers; IBM PCs were in their infancy. Nothing compared to the
-huge, amazingly slow \laughs\ machines \[like\] the NCR that I used
+huge, amazingly slow \laughs\ machines \like\ the NCR that I used
 originally\! In fact, the NCR that I originally worked on was in a huge
 room, as they were in the 1960s, air conditioned, with its operator
 sitting in their little air conditioned office; and this huge machine
@@ -1174,7 +1174,7 @@ Absolutely. Yes, yes. So we see the alerts coming through, and either I
 can understand that this an issue for us, or I can say to somebody, “Do
 I need to worry about this?” and they’ll explain if necessary. And
 there’s a lot of contacting people and reassuring them—or not, as the
-case may be\! \laughs\ Panicking them if necessary. \[laughs.\] Yes,
+case may be\! \laughs\ Panicking them if necessary. \laughs.\ Yes,
 so there’s plenty of backup if I need it, which is helpful.
 
 ### Future Concerns for Computing Services
@@ -1404,7 +1404,7 @@ so he would support me in that. When I came back to work, he was
 supporting me by \getting\ the children up in the morning—we were
 splitting things. He would take time off work—I slipped a disk at one
 point, he had to take six weeks off work. I could still work
-\laughs\—lie in bed and work—and he couldn’t\! \[laughs.\] He was
+\laughs\—lie in bed and work—and he couldn’t\! \laughs.\ He was
 looking after the children.
 
 We stayed in Cambridge. His career would undoubtedly have progressed
@@ -1471,7 +1471,7 @@ Oh. \laughs.\ I thought you meant a computer chip\!
 
 \laughs.\ Yes, quite so, yes. So, he is close to computing, rather
 than actually being in computing. And my daughter’s a drama student.
-\laughs\. So, nothing more to be said on that one\! \[laughs.\] But
+\laughs\. So, nothing more to be said on that one\! \laughs.\ But
 she is computer literate.
 
 **Abbate:**
@@ -1694,7 +1694,7 @@ There’s so many, or . . . ?
 
 **Stewart:**
 
-\laughs.\ It’s kept me employed\! \[laughs.\] But it’s challenging. I
+\laughs.\ It’s kept me employed\! \laughs.\ But it’s challenging. I
 suppose the most satisfying thing is, I cannot imagine me doing a job
 that was the same—and this changes every day, every year. I cannot
 imagine having been in any job for twenty-five years—working in the
@@ -1761,7 +1761,7 @@ Well, thank you very much.
 It’s a pleasure. I hope it’s helpful\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Pat_Stewart&oldid=108652>"
+"<http:ethw.orgindex.php?title=Oral-History:Pat_Stewart&oldid=108652>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1801,10 +1801,10 @@ Categories(Special:Categories "Special:Categories"):
     Family(#Gender_Concerns_and_Balancing_Work_and_Family)
   * 4\.10 How has the Field Changed(#How_has_the_Field_Changed)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:48\.
 

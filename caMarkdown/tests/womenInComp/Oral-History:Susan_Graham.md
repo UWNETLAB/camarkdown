@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Susan_Graham&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Susan_Graham&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Susan_Graham&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Susan_Graham)
   
-  * Discussion(index.php?title=Oral-History_talk:Susan_Graham&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Susan_Graham&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Susan_Graham "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Susan_Graham "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Susan_Graham "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Susan_Graham "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Susan_Graham&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Susan_Graham&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Susan_Graham&oldid=113075 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Susan_Graham&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Susan_Graham)
+  * Browse properties(Special:BrowseOral-2DHistory:Susan_Graham)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ASusan+Graham)
@@ -1491,7 +1491,7 @@ Well, great\! Thank you so much for talking with me.
 You’re welcome\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Susan_Graham&oldid=113075>"
+"<http:ethw.orgindex.php?title=Oral-History:Susan_Graham&oldid=113075>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1528,10 +1528,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.7 Reflections on the Field of Computer
     Science(#Reflections_on_the_Field_of_Computer_Science)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:10\.
 

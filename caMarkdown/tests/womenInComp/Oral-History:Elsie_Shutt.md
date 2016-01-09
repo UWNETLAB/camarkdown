@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Elsie_Shutt&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Elsie_Shutt&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Elsie_Shutt&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Elsie_Shutt)
   
-  * Discussion(index.php?title=Oral-History_talk:Elsie_Shutt&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Elsie_Shutt&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Elsie_Shutt "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Elsie_Shutt "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Elsie_Shutt "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Elsie_Shutt "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Elsie_Shutt&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Elsie_Shutt&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Elsie_Shutt&oldid=113111 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Elsie_Shutt&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Elsie_Shutt)
+  * Browse properties(Special:BrowseOral-2DHistory:Elsie_Shutt)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AElsie+Shutt)
@@ -1780,7 +1780,7 @@ there as much today, because there are enough women in higher-level
 places who have children who are still working. They let you work right
 up to the day before your baby’s born now, too. I had to stop three
 months ahead; it was a state law. So I stopped—and got some jobs \on my
-own\\! \laughs.\] I guess that would be my answer. The thing that I
+own\\! \laughs.\ I guess that would be my answer. The thing that I
 say that surprises everyone is that I thought it was a woman’s field at
 first, and I do think it was. And then men discovered that it was really
 interesting.
@@ -1840,7 +1840,7 @@ work, too.
 Thank you very much.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Elsie_Shutt&oldid=113111>"
+"<http:ethw.orgindex.php?title=Oral-History:Elsie_Shutt&oldid=113111>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1882,10 +1882,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.12 Work and Family(#Work_and_Family)
   * 4\.13 Women and Technology Today(#Women_and_Technology_Today)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:13\.
 

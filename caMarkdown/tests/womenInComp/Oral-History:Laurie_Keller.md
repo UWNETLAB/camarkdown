@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Laurie_Keller&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Laurie_Keller&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Laurie_Keller&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Laurie_Keller)
   
-  * Discussion(index.php?title=Oral-History_talk:Laurie_Keller&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Laurie_Keller&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Laurie_Keller "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Laurie_Keller "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Laurie_Keller "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Laurie_Keller "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Laurie_Keller&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Laurie_Keller&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Laurie_Keller&oldid=113076 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Laurie_Keller&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Laurie_Keller)
+  * Browse properties(Special:BrowseOral-2DHistory:Laurie_Keller)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ALaurie+Keller)
@@ -983,7 +983,7 @@ actually thought that these cards were being rolled up, put in a kind of
 pneumatic tube, zipped down these three miles, read at a card reader
 down in Victoria—we were up on Oxford Circus; this was down in
 Victoria—read down there; rolled back up; stuck in a tube \and sent
-back\\! \laughs.\] And I said, “But look, when you start running this,
+back\\! \laughs.\ And I said, “But look, when you start running this,
 it’s only really a fraction of a second between the time the card
 disappears and it reappears on the other side. It couldn’t possibly be
 going three miles down\!” \both laugh.\ But that was her mental model
@@ -1816,7 +1816,7 @@ thought for about two days, and phoned up and said “Yes\!”
 
 It took us about another year to actually get married. We decided we had
 to get married, because our phone bills were running into four figures a
-month\! \laughs.\ We kept saying we wouldn’t do this, \[but\] we did,
+month\! \laughs.\ We kept saying we wouldn’t do this, \but\ we did,
 and in those days private email didn’t exist, so there was no cheap way
 to talk to each other except on the international telephone line. So, in
 the end, that was what caused me to leave Continental Airlines. I got
@@ -2346,7 +2346,7 @@ I was the data communications networks. Unfortunately, it turned out to
 be about seven-eighths data communications and networks and one-¬eighth
 distributed systems\! But that’s all right. I just learned an awful lot
 about telephony, and radios, and things like this that I didn’t really
-\want to know\. \[laughs.\] And designing waveguides: that was where I
+\want to know\. \laughs.\ And designing waveguides: that was where I
 used my differentiation and my integration, was in the electronics part
 of that course—which I hasten to add, I passed by the skin of my teeth\!
 \laughs.\ So now I’m an informed buyer of hi-fi equipment, if I need
@@ -2693,7 +2693,7 @@ around—or, these days, electronic equivalents of paper and money.
 **Abbate:**
 
 Let’s see. So you were head of that program, and I know you’re the
-\Department\ Chair now. Were there other \[administrative positions\]?
+\Department\ Chair now. Were there other \administrative positions\?
 
 **Keller:**
 
@@ -3174,7 +3174,7 @@ or something\!
 
 Yes, yes\! This department is funny that way, because I am the
 bits-and-bytes person, or as my colleague Darrell used to introduce me:
-“Laurie is our bits-and-bytes man\!” \laughs.\ I suppose \[it was\]
+“Laurie is our bits-and-bytes man\!” \laughs.\ I suppose \it was\
 because I was the only one who ever had any hands-on experience with the
 equipment. Maybe the anecdote comes from the fact that Darrell used to
 have several machines in his office. This was at a time when not
@@ -3632,7 +3632,7 @@ put on as sort of additional layers, so that they have these magnet
 school–type things, where they specialize in, for instance, theater, or
 they might specialize in science or something like that. And these are
 just layers on top of a system that I don’t think anybody ever designed
-in the first place anyway\! \both laugh.\ But even at that \[type of
+in the first place anyway\! \both laugh.\ But even at that \type of
 school\, you do your GCSEs.
 
 At fifteen to sixteen, you would sit your GCSEs, and you’d probably do
@@ -3908,7 +3908,7 @@ Great\! Well, thank you so much for talking with me\!
 Okay\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Laurie_Keller&oldid=113076>"
+"<http:ethw.orgindex.php?title=Oral-History:Laurie_Keller&oldid=113076>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -3966,10 +3966,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.26 Advice for Women in
     Computing(#Advice_for_Women_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:10\.
 

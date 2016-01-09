@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Jean_Bacon&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Jean_Bacon&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Jean_Bacon&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Jean_Bacon)
   
-  * Discussion(index.php?title=Oral-History_talk:Jean_Bacon&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Jean_Bacon&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Jean_Bacon "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Jean_Bacon "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Jean_Bacon "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Jean_Bacon "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Jean_Bacon&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Jean_Bacon&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Jean_Bacon&oldid=118936 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Jean_Bacon&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Jean_Bacon)
+  * Browse properties(Special:BrowseOral-2DHistory:Jean_Bacon)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Bacon)
@@ -646,7 +646,7 @@ Where were they based, the company?
 North Wembley? GEC probably had commercial outlets all over the country
 making whatever communications equipment, but this was their research
 center: North Wembley—I think it was demolished recently. \laughs\ But
-GEC did a lot of—\[Arnold\
+GEC did a lot of—\Arnold\
 Weinstock(Arnold_Weinstock "Arnold Weinstock") was the head of GEC,
 and he was very commercially orientated, and was buying companies and
 merging a lot, so it became GEC-Marconi. But I don’t know what happened
@@ -1294,7 +1294,7 @@ students at Hatfield.
 **Abbate:**
 
 You were doing some networking research, and I see you’re on the Open
-Systems \committee\.\[3\]
+Systems \committee\.\3\
 
 **Bacon:**
 
@@ -2685,7 +2685,7 @@ War; the Post Office supplied equipment for its code-breaking computers.
 the international standards body.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Jean_Bacon&oldid=118936>"
+"<http:ethw.orgindex.php?title=Oral-History:Jean_Bacon&oldid=118936>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2745,10 +2745,10 @@ Categories(Special:Categories "Special:Categories"):
     Computing(#On_the_Status_of_Women_in_Computing)
   * 4\.23 Notes(#Notes)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 2 July 2015, at 09:52\.
 

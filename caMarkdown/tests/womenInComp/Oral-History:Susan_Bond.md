@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Susan_Bond&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Susan_Bond&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Susan_Bond&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Susan_Bond)
   
-  * Discussion(index.php?title=Oral-History_talk:Susan_Bond&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Susan_Bond&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Susan_Bond "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Susan_Bond "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Susan_Bond "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Susan_Bond "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Susan_Bond&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Susan_Bond&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Susan_Bond&oldid=108475 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Susan_Bond&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Susan_Bond)
+  * Browse properties(Special:BrowseOral-2DHistory:Susan_Bond)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ASusan+Bond)
@@ -1205,7 +1205,7 @@ Ah, well, this is where we come to the famous book\! \laughs\
 
 **Abbate:**
 
-\reading book cover\ *ALGOL 68 Implementation*, by J. E. L. Peck.\[3\]
+\reading book cover\ *ALGOL 68 Implementation*, by J. E. L. Peck.\3\
 
 **Bond:**
 
@@ -2079,7 +2079,7 @@ Valley Make Their Millions, Battle Foreign Competition, and Still Can’t
 Get a Date* (Reading, MA: Addison-Wesley, 1992\).
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Susan_Bond&oldid=108475>"
+"<http:ethw.orgindex.php?title=Oral-History:Susan_Bond&oldid=108475>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2120,10 +2120,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.15 Reflecting on Her Career(#Reflecting_on_Her_Career)
   * 4\.16 Notes(#Notes)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:45\.
 

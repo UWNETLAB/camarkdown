@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Heather_Liddell&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Heather_Liddell&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Heather_Liddell&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Heather_Liddell)
   
-  * Discussion(index.php?title=Oral-History_talk:Heather_Liddell&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Heather_Liddell&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Heather_Liddell "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Heather_Liddell "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Heather_Liddell "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Heather_Liddell "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Heather_Liddell&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Heather_Liddell&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Heather_Liddell&oldid=113028 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Heather_Liddell&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Heather_Liddell)
+  * Browse properties(Special:BrowseOral-2DHistory:Heather_Liddell)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AHeather+Liddell)
@@ -515,7 +515,7 @@ large number of students who were interested in that area, and it became
 an obvious thing to do, you know, now that other Universities were
 beginning to have departments of Computer Science. For some time there
 had been in London an establishment called the Institute of Computer
-Science, where Jean \Dollimore\ was based; also George \[Coulouris\],
+Science, where Jean \Dollimore\ was based; also George \Coulouris\,
 her partner, although George was partly attached to University College,
 I think. They came over here about that time, and George became a
 Professor of Computer Science fairly early on, and he was fairly
@@ -1295,7 +1295,7 @@ All right\! Thank you very much\!
 \END OF RECORDING\
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Heather_Liddell&oldid=113028>"
+"<http:ethw.orgindex.php?title=Oral-History:Heather_Liddell&oldid=113028>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1333,10 +1333,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.9 Reflection as a Woman in
     Computing(#Reflection_as_a_Woman_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 12:59\.
 

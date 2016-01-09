@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Hilary_Kahn&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Hilary_Kahn&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Hilary_Kahn&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Hilary_Kahn)
   
-  * Discussion(index.php?title=Oral-History_talk:Hilary_Kahn&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Hilary_Kahn&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Hilary_Kahn "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Hilary_Kahn "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Hilary_Kahn "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Hilary_Kahn "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Hilary_Kahn&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Hilary_Kahn&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Hilary_Kahn&oldid=118934 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Hilary_Kahn&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Hilary_Kahn)
+  * Browse properties(Special:BrowseOral-2DHistory:Hilary_Kahn)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AHilary+Kahn)
@@ -527,8 +527,8 @@ Why not?
 Poor management. Stupid instructions. They kept on having me write
 little bits of some piece—I was supposedly maintaining the operating
 system. It was on a computer called the System IV, which was based on
-the UNIVAC(UNIVAC "UNIVAC") something-or-other and the [IBM
-360(IBM_System/360 "IBM System/360"), all have the same architecture.
+the UNIVAC(UNIVAC "UNIVAC") something-or-other and the IBM
+360(IBM_System360 "IBM System360"), all have the same architecture.
 It’s an RCA machine. It was a ridiculous operating system. It was
 undocumented, more or less, and I was supposed to sit there, and should
 there be anything wrong with it, I had to fix it. At the time, it didn’t
@@ -1312,7 +1312,7 @@ bodies, things like that?
 
 **Kahn:**
 
-Standards bodies, yes. \Mainly IEC.\\[This last bit got cut off; I
+Standards bodies, yes. \Mainly IEC.\\This last bit got cut off; I
 took a guess from context.\
 
 \TAPE 1, SIDE 2\
@@ -1758,7 +1758,7 @@ Did you meet him here?
 
 **Kahn:**
 
-Yes, yes. Boring, huh? \laughs\ “Boring\!” \[laughs\] We both like
+Yes, yes. Boring, huh? \laughs\ “Boring\!” \laughs\ We both like
 cricket. \laughs\
 
 **Abbate:**
@@ -2106,7 +2106,7 @@ enjoy doing—whatever it is.
 \End of interview\
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Hilary_Kahn&oldid=118934>"
+"<http:ethw.orgindex.php?title=Oral-History:Hilary_Kahn&oldid=118934>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2159,10 +2159,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.14 Advice for Other Women in
     Computing(#Advice_for_Other_Women_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 2 July 2015, at 09:52\.
 

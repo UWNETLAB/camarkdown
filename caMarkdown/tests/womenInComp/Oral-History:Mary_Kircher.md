@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Mary_Kircher&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Mary_Kircher&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Mary_Kircher&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Mary_Kircher)
   
-  * Discussion(index.php?title=Oral-History_talk:Mary_Kircher&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Mary_Kircher&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Mary_Kircher "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Mary_Kircher "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Mary_Kircher "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Mary_Kircher "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Mary_Kircher&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Mary_Kircher&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Mary_Kircher&oldid=113031 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Mary_Kircher&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Mary_Kircher)
+  * Browse properties(Special:BrowseOral-2DHistory:Mary_Kircher)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Kircher)
@@ -794,7 +794,7 @@ Ah\!
 
 Yes. And that woman whose name I gave you, Elaine Alei, worked with
 \Enrico\ Fermi on one project. But they mostly gave me the nobodies, I
-guess\! \laughs.\ That one Elaine was on, I think \[Edward\] Teller
+guess\! \laughs.\ That one Elaine was on, I think \Edward\ Teller
 was in on it, too—because I can remember how loud he was. He’d walk up
 and down the hall, yelling and screaming—not really, just loud\!
 
@@ -2057,7 +2057,7 @@ You’re welcome\! I hope you have an interesting time.
 I’m sure I will.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Mary_Kircher&oldid=113031>"
+"<http:ethw.orgindex.php?title=Oral-History:Mary_Kircher&oldid=113031>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2098,10 +2098,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.14 Reflection on Time at Los
     Alamos(#Reflection_on_Time_at_Los_Alamos)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:01\.
 

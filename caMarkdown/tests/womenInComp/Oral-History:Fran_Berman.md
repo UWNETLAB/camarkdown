@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Fran_Berman&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Fran_Berman&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Fran_Berman&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Fran_Berman)
   
-  * Discussion(index.php?title=Oral-History_talk:Fran_Berman&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Fran_Berman&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Fran_Berman "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Fran_Berman "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Fran_Berman "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Fran_Berman "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Fran_Berman&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Fran_Berman&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Fran_Berman&oldid=113020 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Fran_Berman&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Fran_Berman)
+  * Browse properties(Special:BrowseOral-2DHistory:Fran_Berman)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AFran+Berman)
@@ -1601,7 +1601,7 @@ Okay\! So: Thank you so much for talking to me\!
 Thank you\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Fran_Berman&oldid=113020>"
+"<http:ethw.orgindex.php?title=Oral-History:Fran_Berman&oldid=113020>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1644,10 +1644,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.13 Advice for Young Women Entering Computer
     Science(#Advice_for_Young_Women_Entering_Computer_Science)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 12:57\.
 

@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Chris_Warner&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Chris_Warner&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Chris_Warner&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Chris_Warner)
   
-  * Discussion(index.php?title=Oral-History_talk:Chris_Warner&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Chris_Warner&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Chris_Warner "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Chris_Warner "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Chris_Warner "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Chris_Warner "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Chris_Warner&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Chris_Warner&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Chris_Warner&oldid=108309 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Chris_Warner&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Chris_Warner)
+  * Browse properties(Special:BrowseOral-2DHistory:Chris_Warner)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AChris+Warner)
@@ -1776,7 +1776,7 @@ feeling is, we’ll probably have to read about it, and then try it for
 ourselves. The inquiring mind; that’s great\! The IT Director: because I
 was writing that syllabus, I asked for an inspection copy of a book, and
 the IT Director said, “Oh, that was good; I hope you’ll let us all read
-that as well\!” \laughs.\ You know, that’s nice\! \[laughs.\] Just
+that as well\!” \laughs.\ You know, that’s nice\! \laughs.\ Just
 keeping up with the reading and finding out for oneself, as well as
 doing.
 
@@ -1922,7 +1922,7 @@ So, thank you for the interview\! \laughs\
 Right\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Chris_Warner&oldid=108309>"
+"<http:ethw.orgindex.php?title=Oral-History:Chris_Warner&oldid=108309>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1967,10 +1967,10 @@ Categories(Special:Categories "Special:Categories"):
     Career(#Mentors_and_Satisfaction_of_Career)
   * 4\.16 Final Thoughts(#Final_Thoughts)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 

@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Dame_Stephanie_\(Steve\)_Shirley)
   
-  * Discussion(index.php?title=Oral-History_talk:Dame_Stephanie_\(Steve\)_Shirley&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Dame_Stephanie_\(Steve\)_Shirley&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Dame_Stephanie_\(Steve\)_Shirley "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Dame_Stephanie_\(Steve\)_Shirley "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Dame_Stephanie_\(Steve\)_Shirley "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Dame_Stephanie_\(Steve\)_Shirley "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&oldid=108313 "Permanent link to this revision of the page")
@@ -65,7 +65,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     information(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=info)
   
   * Browse
-    properties(Special:Browse/Oral-2DHistory:Dame_Stephanie_\(Steve\)_Shirley)
+    properties(Special:BrowseOral-2DHistory:Dame_Stephanie_\(Steve\)_Shirley)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ADame+Stephanie+%28Steve%29+Shirley)
@@ -109,7 +109,7 @@ with dependents.
 
 For a longer and more comprehensive oral history done by Stephanie
 Shirley, please see the one conducted by the British
-Library(http:/sounds.bl.uk/Oral-history/Eminent-scientists/021M-C1379X0028XX-0001V0).
+Library(http:sounds.bl.ukOral-historyEminent-scientists021M-C1379X0028XX-0001V0).
 
 ## About the Interview
 
@@ -1612,7 +1612,7 @@ There’s never been a more exciting career path offering the flexibility
 valued by women’s life styles. Go for it\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Dame_Stephanie_(Steve)_Shirley&oldid=108313>"
+"<http:ethw.orgindex.php?title=Oral-History:Dame_Stephanie_(Steve)_Shirley&oldid=108313>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1660,10 +1660,10 @@ Categories(Special:Categories "Special:Categories"):
     Computers(#Satisfaction_of_working_with_Computers)
   * 4\.16 Final Thoughts(#Final_Thoughts)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 

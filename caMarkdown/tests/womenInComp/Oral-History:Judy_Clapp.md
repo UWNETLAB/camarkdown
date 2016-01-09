@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Judy_Clapp&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Judy_Clapp&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Judy_Clapp&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Judy_Clapp)
   
-  * Discussion(index.php?title=Oral-History_talk:Judy_Clapp&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Judy_Clapp&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Judy_Clapp "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Judy_Clapp "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Judy_Clapp "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Judy_Clapp "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Judy_Clapp&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Judy_Clapp&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Judy_Clapp&oldid=113039 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Judy_Clapp&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Judy_Clapp)
+  * Browse properties(Special:BrowseOral-2DHistory:Judy_Clapp)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJudy+Clapp)
@@ -682,7 +682,7 @@ And I guess at the beginning . . .
 
 **Clapp:**
 
-Just getting it going was \enough\\! \[laughter.\] Do you know that
+Just getting it going was \enough\\! \laughter.\ Do you know that
 the SAGE system stayed in operation 25 years?
 
 **Abbate:**
@@ -2013,7 +2013,7 @@ complexity, so . . . . No more anecdotes\!
 All right.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Judy_Clapp&oldid=113039>"
+"<http:ethw.orgindex.php?title=Oral-History:Judy_Clapp&oldid=113039>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2057,10 +2057,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.14 Teamwork and Team Bonding(#Teamwork_and_Team_Bonding)
   * 4\.15 On High-Order Languages(#On_High-Order_Languages)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:06\.
 

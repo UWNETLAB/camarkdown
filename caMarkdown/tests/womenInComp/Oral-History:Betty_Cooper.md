@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Betty_Cooper&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Betty_Cooper&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Betty_Cooper&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Betty_Cooper)
   
-  * Discussion(index.php?title=Oral-History_talk:Betty_Cooper&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Betty_Cooper&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Betty_Cooper "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Betty_Cooper "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Betty_Cooper "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Betty_Cooper "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Betty_Cooper&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Betty_Cooper&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Betty_Cooper&oldid=108264 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Betty_Cooper&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Betty_Cooper)
+  * Browse properties(Special:BrowseOral-2DHistory:Betty_Cooper)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ABetty+Cooper)
@@ -1212,7 +1212,7 @@ So that was held periodically?
 
 Well yes, yes. It might be every couple of months, as much as that. As I
 say, we got the normal programming procedure instilled into us, and we
-kept to it—kept us working efficiently and \using\ good practice. \[It
+kept to it—kept us working efficiently and \using\ good practice. \It
 was\ worked out by somebody.
 
 ### Reflections on the LEO I and II projects
@@ -1602,7 +1602,7 @@ What did the programming sheet look like?
 
 **Cooper:**
 
-\Looking through papers:\ I don’t think I’ve got any. \[Beginning to
+\Looking through papers:\ I don’t think I’ve got any. \Beginning to
 draw:\ Well, it was just . . . I think we had . . .
 
 \Draws something like this, where the x’s represent spaces for 0’s and
@@ -1927,7 +1927,7 @@ I went to, I found that those girls had gone on to programming. So yes,
 they did move up\! They weren’t programming while I was there, but they
 were later.
 
-\Looking at more notes:\ That was our model job \[from the training
+\Looking at more notes:\ That was our model job \from the training
 course\. We had to write it, afterwards.
 
 **Abbate:**
@@ -2496,7 +2496,7 @@ All right. Well, thank you very much\!
 Okay.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Betty_Cooper&oldid=108264>"
+"<http:ethw.orgindex.php?title=Oral-History:Betty_Cooper&oldid=108264>"
 
 Category(Special:Categories "Special:Categories"):
 
@@ -2531,10 +2531,10 @@ Category(Special:Categories "Special:Categories"):
   * 4\.14 Reflections on Women in
     Computing(#Reflections_on_Women_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 

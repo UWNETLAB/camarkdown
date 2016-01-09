@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Rosemary_Candlin&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Rosemary_Candlin&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Rosemary_Candlin&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Rosemary_Candlin)
   
-  * Discussion(index.php?title=Oral-History_talk:Rosemary_Candlin&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Rosemary_Candlin&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Rosemary_Candlin "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Rosemary_Candlin "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Rosemary_Candlin "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Rosemary_Candlin "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Rosemary_Candlin&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Rosemary_Candlin&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Rosemary_Candlin&oldid=108217 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Rosemary_Candlin&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Rosemary_Candlin)
+  * Browse properties(Special:BrowseOral-2DHistory:Rosemary_Candlin)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ARosemary+Candlin)
@@ -2114,7 +2114,7 @@ maybe making the right choice.
 Well, thank you very much\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Rosemary_Candlin&oldid=108217>"
+"<http:ethw.orgindex.php?title=Oral-History:Rosemary_Candlin&oldid=108217>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2147,10 +2147,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.12 Advice for Young Women Who Are Considering a Career in
     Computing(#Advice_for_Young_Women_Who_Are_Considering_a_Career_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:41\.
 

@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Betty_Campbell&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Betty_Campbell&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Betty_Campbell&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Betty_Campbell)
   
-  * Discussion(index.php?title=Oral-History_talk:Betty_Campbell&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Betty_Campbell&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Betty_Campbell "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Betty_Campbell "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Betty_Campbell "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Betty_Campbell "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Betty_Campbell&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Betty_Campbell&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Betty_Campbell&oldid=108263 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Betty_Campbell&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Betty_Campbell)
+  * Browse properties(Special:BrowseOral-2DHistory:Betty_Campbell)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ABetty+Campbell)
@@ -265,7 +265,7 @@ didn’t have any discipline problems: because it was all boys and one
 girl, and they were all headed either to MIT or Tufts engineering
 school, and they knew that I was the only thing they had between them
 and graduation—and getting a good mark in this class so that they could
-get in \to the college of their choice\. The only \[way\] they
+get in \to the college of their choice\. The only \way\ they
 challenged me was to come in with problems that were difficult, to see
 if I could solve them; but I solved that problem by saying to them,
 “I’ll take it home and do it,” because I really liked the kids and
@@ -1309,7 +1309,7 @@ ones who used to check up on us all the time, when I had the group. I
 was using the keypunch one day—this was when we were using the 704—and
 he came in and he said, “Show me how it works,” and he slid into the
 chair beside me. Without even thinking, I went like this \waving her
-arm\—knocked him sprawling on the floor\! \laughter.\] And I had a
+arm\—knocked him sprawling on the floor\! \laughter.\ And I had a
 very young \employee\—very young, she had just gotten out of Smith
 \College\; she reminded me of myself at the time when I got out of
 college—and she started to giggle, and she couldn’t stop. He never came
@@ -1539,7 +1539,7 @@ international one, but only because it was in this country; I never got
 abroad, unfortunately. And I used to—we had a whole—there was a woman
 from Lincoln there . . . I got to know a lot of the people who also went
 to these meetings, and particularly the women from other places in the
-\Boston\ area. \[laughs.\] I remember, we all went off to some
+\Boston\ area. \laughs.\ I remember, we all went off to some
 meeting, I think it was in Chicago, and this woman reporter came up and
 she said, “I understand that only women under forty ever work in
 computers.” Well, two of us standing there were over forty, so we
@@ -2547,7 +2547,7 @@ Well, thank you so much\! I don’t want to keep you all day.
 That’s all right. Any time . . .
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Betty_Campbell&oldid=108263>"
+"<http:ethw.orgindex.php?title=Oral-History:Betty_Campbell&oldid=108263>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2598,10 +2598,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.20 Reflections on Life After Computer
     Programming(#Reflections_on_Life_After_Computer_Programming)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 

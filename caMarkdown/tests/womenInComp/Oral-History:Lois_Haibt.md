@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Lois_Haibt&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Lois_Haibt&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Lois_Haibt&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Lois_Haibt)
   
-  * Discussion(index.php?title=Oral-History_talk:Lois_Haibt&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Lois_Haibt&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Lois_Haibt "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Lois_Haibt "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Lois_Haibt "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Lois_Haibt "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Lois_Haibt&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Lois_Haibt&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Lois_Haibt&oldid=108604 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Lois_Haibt&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Lois_Haibt)
+  * Browse properties(Special:BrowseOral-2DHistory:Lois_Haibt)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ALois+Haibt)
@@ -464,7 +464,7 @@ machine, in case anybody needed assistance; but most of the time that
 meant sitting over on the side doing whatever. But programming was much
 more a pencil-and-paper operation, because machine time—even when we had
 the machine—was so scarce. You did a lot more by hand. Now you can just
-punch a button, see what happens\! \laughs.\ \[But back\] when you
+punch a button, see what happens\! \laughs.\ \But back\ when you
 scheduled time days—if not a week—in advance, you didn’t go down and see
 what happens; you made pretty sure it was \correct\.
 
@@ -647,7 +647,7 @@ This group was fairly small, probably?
 Yes. It was somewhere around eight to ten. I’m trying to remember: there
 was
 
-Harlan, and Peter \Sheridan\, and Bob \[Nelson\], and Sheldon \[Best\]
+Harlan, and Peter \Sheridan\, and Bob \Nelson\, and Sheldon \Best\
 . . . I think I was the seventh. And gradually we got several more, and
 then after a few years, when we went to the second release, we added
 about five more people, and two of those were women. In fact, when I
@@ -766,7 +766,7 @@ not in our group said to me, “I want to ask you something. Those guys,
 they’re committed, so they’re not going to tell; but you’re coming from
 the outside. What do you think about this? Is this ever going to work?”
 I’ve always been sorry I couldn’t remember which of a couple people it
-was, because it would have been fun to \remind him\. \[laughs.\] Or
+was, because it would have been fun to \remind him\. \laughs.\ Or
 maybe not\!
 
 **Abbate:**
@@ -1226,7 +1226,7 @@ This was seventy-one, I think, which was another one of these dips.
 Anyway, I went to talk to the people in Owego, and the personnel guy was
 so nice and so glad to see me, because he said, “We’ve now got four
 slots.” Two of them were for RF (which I presume is “Radio Frequency”)
-engineers, and two were for programmerarchitect/whatever. But he was so
+engineers, and two were for programmerarchitectwhatever. But he was so
 glad to have any slots that he could hire anybody for; he hadn’t had any
 for a couple years\! \laughs.\ It’s hard on somebody in personnel who
 would like to hire people.
@@ -1280,7 +1280,7 @@ I know wouldn’t be one to do something like that—had called Research to
 say that it was clear I would be moving back down here and wanting to
 transfer back to Research, and would Research be willing to take me
 back? And fortunately my friend said, “We’d love it\!” As I said, there
-was a time limit \for contract work\, there’s no \[permanent
+was a time limit \for contract work\, there’s no \permanent
 part-time\ jobs, it’s the way things go.
 
 **Abbate:**
@@ -2229,7 +2229,7 @@ Thank you for listening to me ramble\! \laughs\
 \END OF RECORDING\
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Lois_Haibt&oldid=108604>"
+"<http:ethw.orgindex.php?title=Oral-History:Lois_Haibt&oldid=108604>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -2278,10 +2278,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.13 Reflections on Working for
     IBM(#Reflections_on_Working_for_IBM)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:47\.
 

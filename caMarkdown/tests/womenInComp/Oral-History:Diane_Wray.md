@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Diane_Wray&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Diane_Wray&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Diane_Wray&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Diane_Wray)
   
-  * Discussion(index.php?title=Oral-History_talk:Diane_Wray&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Diane_Wray&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Diane_Wray "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Diane_Wray "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Diane_Wray "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Diane_Wray "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Diane_Wray&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Diane_Wray&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Diane_Wray&oldid=108331 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Diane_Wray&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Diane_Wray)
+  * Browse properties(Special:BrowseOral-2DHistory:Diane_Wray)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ADiane+Wray)
@@ -1238,7 +1238,7 @@ Do you have to project some kind of tough persona?
 
 I think that helps, but unfortunately, that’s not the way I do it. And
 that possibly hasn’t helped me. I mean, this is classic, really, was
-\when the new male ITSO was\ shouting and yelling and screaming \[at
+\when the new male ITSO was\ shouting and yelling and screaming \at
 my staff\ a couple of months ago. And Denise, my boss, had the two of
 us in afterwards, and she was absolutely brilliant—she’s really handled
 it well, I think—and she just said, “Right: I want you in, we’re going
@@ -1437,7 +1437,7 @@ What were you using?
 
 **Abbate:**
 
-I was doing C(C "C")/[Unix](/UNIX "UNIX") stuff, at MIT. It was
+I was doing C(C "C")Unix(UNIX "UNIX") stuff, at MIT. It was
 something called Project Athena, which had—that’s where the Kerberos
 security system came from, which you might have heard of.
 
@@ -1687,7 +1687,7 @@ All right, I think I’ll stop there, then. You’ve been really helpful.
 Thank you very much\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Diane_Wray&oldid=108331>"
+"<http:ethw.orgindex.php?title=Oral-History:Diane_Wray&oldid=108331>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1726,10 +1726,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.12 Mentors and Changes for Women in
     Computing(#Mentors_and_Changes_for_Women_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 

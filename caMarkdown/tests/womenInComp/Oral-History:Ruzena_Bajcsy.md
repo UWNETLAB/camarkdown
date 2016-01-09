@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Ruzena_Bajcsy_\(2002\))
   
-  * Discussion(index.php?title=Oral-History_talk:Ruzena_Bajcsy_\(2002\)&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Ruzena_Bajcsy_\(2002\)&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Ruzena_Bajcsy_\(2002\) "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Ruzena_Bajcsy_\(2002\) "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Ruzena_Bajcsy_\(2002\) "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Ruzena_Bajcsy_\(2002\) "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&oldid=108704 "Permanent link to this revision of the page")
@@ -65,7 +65,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     information(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=info)
   
   * Browse
-    properties(Special:Browse/Oral-2DHistory:Ruzena_Bajcsy_\(2002\))
+    properties(Special:BrowseOral-2DHistory:Ruzena_Bajcsy_\(2002\))
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3ARuzena+Bajcsy+%282002%29)
@@ -1167,7 +1167,7 @@ Well, thank you so much for talking with me again\!
 Okay\! Good, good\!
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Ruzena_Bajcsy_(2002)&oldid=108704>"
+"<http:ethw.orgindex.php?title=Oral-History:Ruzena_Bajcsy_(2002)&oldid=108704>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1200,10 +1200,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.12 On Mentoring(#On_Mentoring)
   * 4\.13 On Working with Computers(#On_Working_with_Computers)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:49\.
 

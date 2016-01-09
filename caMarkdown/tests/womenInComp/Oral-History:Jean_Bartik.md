@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Jean_Bartik&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Jean_Bartik&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Jean_Bartik&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Jean_Bartik)
   
-  * Discussion(index.php?title=Oral-History_talk:Jean_Bartik&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Jean_Bartik&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Jean_Bartik "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Jean_Bartik "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Jean_Bartik "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Jean_Bartik "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Jean_Bartik&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Jean_Bartik&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Jean_Bartik&oldid=108405 "Permanent link to this revision of the page")
@@ -64,7 +64,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   * Page
     information(index.php?title=Oral-History:Jean_Bartik&action=info)
   
-  * Browse properties(Special:Browse/Oral-2DHistory:Jean_Bartik)
+  * Browse properties(Special:BrowseOral-2DHistory:Jean_Bartik)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Bartik)
@@ -874,7 +874,7 @@ Journal. Here’s a copy. There were two of them, on two succeeding weeks.
 
 **Bartik:**
 
-Now, I’m curious if your friends \at IBM\ didn’t talk about [Betty
+Now, I’m curious if your friends \at IBM\ didn’t talk about Betty
 Holberton(Betty_Holberton "Betty Holberton"), Betty Snyder Holberton,
 because she was very instrumental in FORTRAN(FORTRAN "FORTRAN"). And
 also COBOL—which Grace Hopper never gave her credit for, but she was\!
@@ -1319,7 +1319,7 @@ along and kept going; and then Marlyn and Ruth did this trajectory. So
 we were all busily working away, and we got along fabulously.
 
 The later person that came on board was Fran
-\Bilas\](Frances_Spence "Frances Spence"), who was the sixth one.
+\Bilas\(Frances_Spence "Frances Spence"), who was the sixth one.
 Now, she ran the differential analyzer \with Kay\ during the war, and
 then Kay had left, so when we came back to Philadelphia, then Fran
 joined the group. Fran, of course, had not been in the course for the
@@ -1979,7 +1979,7 @@ say that he got his ideas from Atanasoff. Atanasoff had never even said
 that he invented the computer. It was Honeywell that went out and found
 him, and told him he did. In fact, those people at Ames, Iowa even say
 that he invented the binary number system\! That’s an invention?
-\laughs.\ That’s so stupid\! You will see a bunch of \[reviews of the
+\laughs.\ That’s so stupid\! You will see a bunch of \reviews of the
 McCartney book\ if you go on Amazon.com. I have one in there, too, but
 you have reviews from people from Ames, Iowa. Then some say Zuse did it;
 and you have people that say that Enigma; and then some say Atanasoff.
@@ -3646,7 +3646,7 @@ Well, she did these little jobs. I guess she must have taught Klara von
 Neumann to program the ENIAC.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Jean_Bartik&oldid=108405>"
+"<http:ethw.orgindex.php?title=Oral-History:Jean_Bartik&oldid=108405>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -3699,10 +3699,10 @@ Categories(Special:Categories "Special:Categories"):
     Computing and Career in
     Computing(#Reflections_on_the_Progress_of_Women_in_the_Field_of_Computing_and_Career_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:44\.
 

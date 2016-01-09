@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Thelma_Estrin_\(2002\))
   
-  * Discussion(index.php?title=Oral-History_talk:Thelma_Estrin_\(2002\)&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Thelma_Estrin_\(2002\)&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Thelma_Estrin_\(2002\) "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Thelma_Estrin_\(2002\) "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Thelma_Estrin_\(2002\) "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Thelma_Estrin_\(2002\) "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&oldid=117667 "Permanent link to this revision of the page")
@@ -65,7 +65,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     information(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=info)
   
   * Browse
-    properties(Special:Browse/Oral-2DHistory:Thelma_Estrin_\(2002\))
+    properties(Special:BrowseOral-2DHistory:Thelma_Estrin_\(2002\))
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AThelma+Estrin+%282002%29)
@@ -1529,7 +1529,7 @@ me\!
 August. Archived at IEEE History Center.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Thelma_Estrin_(2002)&oldid=117667>"
+"<http:ethw.orgindex.php?title=Oral-History:Thelma_Estrin_(2002)&oldid=117667>"
 
 Category(Special:Categories "Special:Categories"):
 
@@ -1568,10 +1568,10 @@ Category(Special:Categories "Special:Categories"):
     Computing(#On_the_Status_of_Women_in_Computing)
   * 4\.15 Notes(#Notes)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 April 2015, at 11:30\.
 

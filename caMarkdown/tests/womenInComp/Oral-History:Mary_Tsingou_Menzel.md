@@ -12,7 +12,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
   
   * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * LandmarksMilestones(Landmarks)
   
   * Archives(Archives:Archival_Collections)
   
@@ -37,26 +37,26 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     source(index.php?title=Oral-History:Mary_Tsingou_Menzel&action=edit "This page is protected.
     You can view its source e")
   
-  * History(index.php?title=Oral-History:Mary_Tsingou_Menzel&action=history "Past revisions of this page [h]")
+  * History(index.php?title=Oral-History:Mary_Tsingou_Menzel&action=history "Past revisions of this page h")
   
   * 
   * Oral-History(Oral-History:Mary_Tsingou_Menzel)
   
-  * Discussion(index.php?title=Oral-History_talk:Mary_Tsingou_Menzel&action=edit&redlink=1 "Discussion about the content page [t]")
+  * Discussion(index.php?title=Oral-History_talk:Mary_Tsingou_Menzel&action=edit&redlink=1 "Discussion about the content page t")
   
   * 
 * ** Tools ****()
   * What links
-    here(Special:WhatLinksHere/Oral-History:Mary_Tsingou_Menzel "A list of all wiki pages that link here j]")
+    here(Special:WhatLinksHereOral-History:Mary_Tsingou_Menzel "A list of all wiki pages that link here j")
   
   * Related
-    changes(Special:RecentChangesLinked/Oral-History:Mary_Tsingou_Menzel "Recent changes in pages linked from this page k]")
+    changes(Special:RecentChangesLinkedOral-History:Mary_Tsingou_Menzel "Recent changes in pages linked from this page k")
   
   * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
+    pages(Special:SpecialPages "A list of all special pages q")
   
   * Printable
-    version(index.php?title=Oral-History:Mary_Tsingou_Menzel&printable=yes "Printable version of this page p]")
+    version(index.php?title=Oral-History:Mary_Tsingou_Menzel&printable=yes "Printable version of this page p")
   
   * Permanent
     link(index.php?title=Oral-History:Mary_Tsingou_Menzel&oldid=108620 "Permanent link to this revision of the page")
@@ -65,7 +65,7 @@ ETHW Engineering and Technology History Wiki(Main_Page)
     information(index.php?title=Oral-History:Mary_Tsingou_Menzel&action=info)
   
   * Browse
-    properties(Special:Browse/Oral-2DHistory:Mary_Tsingou_Menzel)
+    properties(Special:BrowseOral-2DHistory:Mary_Tsingou_Menzel)
 * ** Account ****(# "Account")
   * Log
     in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Tsingou+Menzel)
@@ -1694,7 +1694,7 @@ more competitive.
 I just want to thank you for talking with me for so long.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Mary_Tsingou_Menzel&oldid=108620>"
+"<http:ethw.orgindex.php?title=Oral-History:Mary_Tsingou_Menzel&oldid=108620>"
 
 Categories(Special:Categories "Special:Categories"):
 
@@ -1766,10 +1766,10 @@ Categories(Special:Categories "Special:Categories"):
   * 4\.17 Advice for Women in
     Computing(#Advice_for_Women_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+!Powered by
+MediaWiki(resourcesassetspoweredby_mediawiki_88x31.png)(www.mediawiki.org)
+!Powered by Semantic
+MediaWiki(extensionsSemanticMediaWikiincludes..resourcesimagessmw_button.png)(https:www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:47\.
 
