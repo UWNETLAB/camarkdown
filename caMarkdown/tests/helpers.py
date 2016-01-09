@@ -4,6 +4,7 @@ import shutil
 import os.path
 
 from ..caExceptions import TestError
+from ..codes import codeSectionTypes
 
 def randomString():
     remainingChars = 20
@@ -64,3 +65,68 @@ def makeTestDir(name, targetfileDir, dirCount = 10, maxDepth = 10):
 
 def _quickTestDirMake():
     makeTestDir('tempDir', os.path.join(os.path.dirname(__file__), 'womenInComp'))
+
+def inRange(num, rang):
+    return num <= rang[0] or num >= rang[1]
+
+def getStartStop(AllowedRanges, maxIndex):
+        start = random.randint(0, maxIndex)
+        end = random.randint(0, maxIndex)
+        if start == end:
+            return getStartStop(AllowedRanges, maxIndex)
+        elif start > end:
+            start, end = end, start
+        for r in AllowedRanges:
+            if inRange(start, r) and not inRange(end, r):
+                return getStartStop(AllowedRanges, maxIndex)
+        return start, end
+
+def generateCodes(codeCount):
+    retCodes = []
+    codesCharLst = list(codeSectionTypes.keys())
+    for i in range(codeCount):
+        codeType = random.choice(codesCharLst)
+        codeString = randomString().lower()
+        retCodes.append(codeType + codeString)
+    return retCodes
+
+def generateBraces(codes):
+    retLst = []
+    length = 0
+    retLst.append('](')
+    retLst.append('{}'.format(random.choice(codes)))
+    while random.randint(0, 1) == 1:
+        retLst[1]+= ' {}'.format(random.choice(codes))
+    retLst.append(')')
+    return retLst, len(retLst[1]) + 3
+
+def addCodes(targetString, AnnoCount, codeCount):
+    maxIndex = len(targetString) - 1
+    starts = []
+    ends = []
+    ranges = []
+    codes = generateCodes(codeCount)
+    for i in range(AnnoCount):
+        s, e = getStartStop(ranges, maxIndex)
+        ranges.append((s, e))
+        starts.append(s)
+        ends.append(e)
+    inserts = {}
+    currentPos = 0
+    splitString = []
+    previousSplit = 0
+    for i in sorted(starts + ends):
+        splitString.append(targetString[previousSplit : i])
+        currentPos += i - previousSplit
+        previousSplit = i
+        if i in ends:
+            bStrings, lengMod = generateBraces(codes)
+            inserts[currentPos] = bStrings[1]
+            currentPos += lengMod
+            splitString += bStrings
+        else:
+            splitString.append('[')
+            inserts[currentPos] = ''
+            currentPos += 1
+    splitString.append(targetString[previousSplit : maxIndex])
+    return starts, inserts, ''.join(splitString)
