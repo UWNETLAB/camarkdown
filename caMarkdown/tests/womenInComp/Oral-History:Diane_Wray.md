@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Diane_Wray&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Diane_Wray&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Diane_Wray)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Diane_Wray&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Diane_Wray "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Diane_Wray "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Diane_Wray&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Diane_Wray&oldid=108331 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Diane_Wray&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Diane_Wray)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ADiane+Wray)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Diane_Wray&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Diane_Wray&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Diane_Wray)
+  
+  * Discussion(index.php?title=Oral-History_talk:Diane_Wray&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Diane_Wray "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Diane_Wray "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Diane_Wray&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Diane_Wray&oldid=108331 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Diane_Wray&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Diane_Wray)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ADiane+Wray)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Diane Wray
@@ -169,7 +169,7 @@ Did you have a big family?
 
 **Wray:**
 
-No, I was the only one. \[laughs.\]
+No, I was the only one. \laughs.\
 
 **Abbate:**
 
@@ -267,7 +267,7 @@ It was. I did Part One when I was in my twenties; and then I did Part
 Two—I actually sat the exams when I was 40—because somebody said to me,
 “I see you’re a member of the BCS.” I said, “Yes.” “Well, that’s just
 on experience.” So I thought, “All right, you: I’m going to go for
-this\!” \[laughs.\]
+this\!” \laughs.\
 
 So I did block release from work, and actually took the exams. And the
 pass rate isn’t very high, so it’s fairly tough; it wasn’t easy. But I
@@ -293,7 +293,7 @@ They used to sort of split, if I had to have help with homework: mum it
 was English and history; my father it would be the sciences, and maths.
 And I think—I’m not blaming my father, but I think he probably had less
 patience than my mother did. And that maybe didn’t help; I don’t know.
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -402,14 +402,14 @@ but no thank you.”
 So, that was the first attempt. Then—within about a year, it was, I
 think—they re-advertised, and I applied; and there was another female,
 who’d applied the first time and got to exactly the same point as me,
-and we were both taken on. \[The reason was that\] in the meanwhile, in
+and we were both taken on. \The reason was that\ in the meanwhile, in
 that gap between the two interviews, there had been a lady who had been
 working in the electricity industry, but it was atomic energy side of
 things, and she was working on very technical programs about moving all
 the bits around in the reactors and everything. She was getting married,
 and she was moving back to the Northeast, where I lived; and of course
 she applied for a transfer. So they didn’t have much option but to take
-Sandra, and that opened doors \[to other female programmers\],
+Sandra, and that opened doors \to other female programmers\,
 basically.
 
 ### Gender and Work
@@ -436,7 +436,7 @@ stand for. First question was—and this was my first interview: “Do you
 have a boyfriend?” And I had. “Ah\! Just out of general interest,
 whereabouts does he live?” Well, he didn’t live near to where I was
 living—and I think that possibly had something to do with it, because
-there they were, sitting \[and thinking\], “Well, we’re going to make
+there they were, sitting \and thinking\, “Well, we’re going to make
 some sort of investment, we’re going to train somebody, and we might
 lose them.” And that was very much the attitude there. Because I
 actually got asked that question at my second interview\!
@@ -447,13 +447,13 @@ And you said, “Oh, he lives right here\!”
 
 **Wray:**
 
-I said, “No, I don’t have \[a boyfriend\],” which I didn’t have at the
+I said, “No, I don’t have \a boyfriend\,” which I didn’t have at the
 time; but I actually got engaged one year later, because I had just met
 somebody. I got engaged one year later, and it was actually said: “But
 you said you didn’t have a serious relationship.” So I said, “Well, a
 year is long enough to become serious about somebody\!” It’s weird. I
 can remember the person who said it as well; and it was coming from one
-quarter, so I’m not saying that was how they all were. \[They were\] a
+quarter, so I’m not saying that was how they all were. \They were\ a
 bit worried, I think about investing in training and so on, and perhaps
 losing somebody.
 
@@ -481,7 +481,7 @@ the highest paid woman in the Electricity Board. She was a Senior
 Systems Analyst—and obviously, in the IT field, we were getting that
 little bit more anyway—and she kept breaking the boundaries. And they
 would say, “Oh, we’re going to have to redo the scales again\!”
-\[laughs.\] That was how it was\!
+\laughs.\ That was how it was\!
 
 **Abbate:**
 
@@ -490,8 +490,8 @@ scale”?
 
 **Wray:**
 
-I’m not sure. I don’t really know when that happened. \[Note: This
-happened with the Equal Pay Act of 1970\.\] When I left the Northeastern
+I’m not sure. I don’t really know when that happened. \Note: This
+happened with the Equal Pay Act of 1970\.\ When I left the Northeastern
 Electricity Board, as it was known then, I left there to join the Civil
 Service, and there was one pay scale within the Civil Service. So, I
 think probably it was the tail end of separate pay scales. But I don’t
@@ -551,7 +551,7 @@ assembler; and becoming reliant on those of us who had been there in the
 early days, who were still doing the maintenance of the machine code,
 while things were being converted. Eventually I found myself in a
 position of being the one person looking after machine code programs. So
-I thought, “This is it\! I’m off\!” \[laughs\]
+I thought, “This is it\! I’m off\!” \laughs\
 
 ### Joining the Civil Service
 
@@ -611,8 +611,8 @@ moved up there through programming to systems analyst, functional
 analyst. The last job I had up there, which would be the last job that I
 would say was on the development side, was probably mid-’80s, and—gosh,
 it doesn’t seem that long ago\!—and it was a very big software project.
-The National Insurance—you’ve got something similar, obviously, \[in the
-US\]—National Insurance in this country is a massive, massive, massive
+The National Insurance—you’ve got something similar, obviously, \in the
+US\—National Insurance in this country is a massive, massive, massive
 application that the Department of Social Security run. And we were
 developing a new system, but unfortunately, we were ahead of the
 technology. What we were wanting to do, technology wasn’t really in
@@ -911,7 +911,7 @@ Just do what they say?
 
 **Wray:**
 
-Yes\! \[laughs.\]
+Yes\! \laughs.\
 
 **Abbate:**
 
@@ -977,11 +977,11 @@ make yourself irreplaceable, because you won’t get promoted\!”
 
 **Abbate:**
 
-Ah, interesting\! \[laughs\]
+Ah, interesting\! \laughs\
 
 **Wray:**
 
-Yes? I think that might even be a Dilbertism. \[laughs.\]
+Yes? I think that might even be a Dilbertism. \laughs.\
 
 \
 It probably would have been sour grapes about a year ago, but when CCTA
@@ -1005,14 +1005,14 @@ was in Newcastle. I was in the job for about two or three months, and I
 was temporarily promoted. The boss there said, “Well, I want you to take
 on a team, do this, do that.” And when I came down to London, that
 continued: CCTA said, “We want you at that level. Come in at that
-level.” But, when I joined this department, \[the Department of
-Health\] where I am now, seven years ago. . . . I was just back to work
-and looking to see what I was going to do when \[CCTA\] folded in the
+level.” But, when I joined this department, \the Department of
+Health\ where I am now, seven years ago. . . . I was just back to work
+and looking to see what I was going to do when \CCTA\ folded in the
 July or August of 1994\. And there was a job advertised, and I thought,
 “I know the ITSO\!” So I rang up, and I said, “I see you’ve got a job
 advertised in the team”—basically, it’s his deputy—“Can you tell me a
 little bit more about it?” And the first thing he said was, “Well, do
-you know anything about IT security?” \[laughs.\] So I said, “Well, just
+you know anything about IT security?” \laughs.\ So I said, “Well, just
 a little bit\!” And I said to him, “I have been in security for X
 years,” you know, and then he suddenly went—he said, “Di? That’s Diane
 at the other end of the phone\!” And he just couldn’t believe it. You
@@ -1046,7 +1046,7 @@ yourself irreplaceable: that was slightly tongue-in-cheek, but I don’t
 think it was as tongue-in-cheek as all that, really, because they got
 the best of both worlds: they retained me, so they didn’t have to
 replace me, and they brought in somebody else—who I’ve basically carried
-for about fourteen, fifteen months, \[and who yells at\] my staff as
+for about fourteen, fifteen months, \and who yells at\ my staff as
 well. . . . I’m losing a member of staff, he was so fed up. . . . So,
 I’ve felt that I’ve almost been piggy-in-the-middle: trying to protect
 the staff that I’ve got, and trying to make sure that no dreadful gaffs
@@ -1056,7 +1056,7 @@ on its network connections, because of a lack of understanding of just
 what the setup was\!
 
 We’re very much into inquiries at the moment, in this country; very
-much. \[laughs.\]
+much. \laughs.\
 
 **Abbate:**
 
@@ -1064,13 +1064,13 @@ Was this a government agency?
 
 **Wray:**
 
-If it was an inquiry about—well, we got involved in the BSE \[“mad cow
-disease”\] inquiry: it’s a free-standing inquiry, but we give
+If it was an inquiry about—well, we got involved in the BSE \“mad cow
+disease”\ inquiry: it’s a free-standing inquiry, but we give
 assistance, in that we will help with the provision of the IT facilities
 for them, effectively, and we will let them use our technical support
 people. But the emphasis is very much independent. You know, none of the
 high officials in the department would be able to influence what the
-findings of the inquiry are. It’s very much aboveboard. \[laughs.\] But,
+findings of the inquiry are. It’s very much aboveboard. \laughs.\ But,
 I mean, Steve Lawrence—Stephen Lawrence was a young guy who was killed
 in South London; he was a black youngster, and I think he was stabbed
 and left dying at a bus stop. Now, that inquiry would have been funded
@@ -1108,7 +1108,7 @@ So he’s also a computer . . .
 **Wray:**
 
 He is, yes. He’s in security. So we have plenty to talk about\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1127,12 +1127,12 @@ So you haven’t had to worry about sort of balancing family with work . .
 
 No. I think that was a fairly definite decision, as well, that . . . I
 was talking to a friend just the other day—she’s an IT auditor—and it
-was \[about\] the fact that things started to move so rapidly; it would
+was \about\ the fact that things started to move so rapidly; it would
 probably have been in the early ‘80s. I thought, “Gosh, this is all
 speeding up,” and that was when I thought, “The biological clock is
 really ticking here.” But really, I wouldn’t—this is my personal view—I
 wouldn’t have wanted to return immediately to work; and I didn’t have
-\[anyone to help with childcare\]. My husband’s mother died; my parents
+\anyone to help with childcare\. My husband’s mother died; my parents
 are both dead; we have nobody, in any case, whom we could have asked—no
 relations . . .
 
@@ -1159,7 +1159,7 @@ during the holidays. And for the Easter holidays you see the mums coming
 in, and they’re bringing their little ones, and they put them into the
 crèche for the day. But there’s nothing sort of full-time; you know, you
 are expected to make your own arrangements for the majority of the time,
-definitely. But we’ve got some \[accommodations\]. I mean, for example,
+definitely. But we’ve got some \accommodations\. I mean, for example,
 Denise: She’s senior management, and Denise has two young children, and
 she’s managed. You know, she juggles her career and bringing up these
 two little girls she’s got, but she’s not in today; she works at home on
@@ -1212,18 +1212,18 @@ my own point of view, I feel I have reached my glass ceiling—definitely.
 **Abbate:**
 
 Do you think it’s harder or easier for women in IT, as compared to other
-parts \[of the Civil Service\]?
+parts \of the Civil Service\?
 
 **Wray:**
 
 I’m not sure. I wouldn’t like to say, because I haven’t really got wide
 experience elsewhere; but looking within the division I’m in, which is
-the IT division: our IT director has quite a few \[female\] senior
+the IT division: our IT director has quite a few \female\ senior
 managers, so there doesn’t seem to have been a bar here—certainly not in
 the Department of Health. But there’s another expression I nearly got my
 eyes poked out for using once: “To be thought half as good as a man, a
 woman actually has to be twice as good.” Have you heard that one?
-“Fortunately, this is not difficult\!” And then you run\! \[laughs.\]
+“Fortunately, this is not difficult\!” And then you run\! \laughs.\
 
 Yes, I think it is a bit harder. I think for a woman, you can be
 considered as being “soft” before you’ve even done or said anything.
@@ -1238,12 +1238,12 @@ Do you have to project some kind of tough persona?
 
 I think that helps, but unfortunately, that’s not the way I do it. And
 that possibly hasn’t helped me. I mean, this is classic, really, was
-\[when the new male ITSO was\] shouting and yelling and screaming \[at
-my staff\] a couple of months ago. And Denise, my boss, had the two of
+\when the new male ITSO was\ shouting and yelling and screaming \[at
+my staff\ a couple of months ago. And Denise, my boss, had the two of
 us in afterwards, and she was absolutely brilliant—she’s really handled
 it well, I think—and she just said, “Right: I want you in, we’re going
 to talk.” She’d obviously had a talk on her own with him, but I pointed
-out \[to him\] that you’ll actually get more out of somebody if you
+out \to him\ that you’ll actually get more out of somebody if you
 explain to them—and you don’t have to grovel or beg—but if you explain
 rather than banging the table and demanding, I think you actually get
 more in the long run. It might mean you’ve got to be that bit nicer than
@@ -1273,9 +1273,9 @@ social graces than men in other areas?
 Oh yes, definitely. Yes. Not everyone, I know. But, yes, I’ve come
 across some real oddballs, if that’s what you mean: definitely. I think,
 probably, yes, the IT field does attract its share of “weirdos.”
-\[laughs.\] Not a very nice thing to say\! And often people who are
+\laughs.\ Not a very nice thing to say\! And often people who are
 extremely clever—but I think there’s a fine line between being really,
-really clever and insanity\! \[laughs.\] And some of the people I have
+really clever and insanity\! \laughs.\ And some of the people I have
 known—and funnily enough, it’s been the men, as well—I mean, one guy
 used to come in to work—in the States it might be different, but over
 here\!—in Bermuda shirts and big floppy hat in the summer. I mean the
@@ -1345,7 +1345,7 @@ so I was still helping my staff, although I wasn’t doing much hands-on
 coding. But then we had middleware, and that was taking a lot of the fun
 away, you know—the challenge wasn’t there. The real challenge, I think,
 was actually being at the machine level, and tinkering and fine-tuning.
-Making it play tunes, even\! \[laughs.\]
+Making it play tunes, even\! \laughs.\
 
 **Abbate:**
 
@@ -1381,19 +1381,19 @@ I had never heard that about.
 **Wray:**
 
 That was probably not what its use was for; it was probably for the
-engineers when they were doing their \[diagnostics\].
+engineers when they were doing their \diagnostics\.
 
 You know, you had the big console, and there were the rows of lights,
 and when an instruction came up, you had the little neon lights, and
-you’d have banks of four—one, two, four, eight. \[Draws a row of four
-lights.\] So you could see your instructions. So if you had a 37, which
-was a pick-up instruction, that light \[points to rightmost light\]
-would be on, because that was a “one,” and that \[points to second light
-from right\] was the “two,” and so it was “pick up.” You know, that was
+you’d have banks of four—one, two, four, eight. \Draws a row of four
+lights.\ So you could see your instructions. So if you had a 37, which
+was a pick-up instruction, that light \points to rightmost light\
+would be on, because that was a “one,” and that \points to second light
+from right\ was the “two,” and so it was “pick up.” You know, that was
 three—and then your “seven,” you’d have whatever combination here
-\[draws a second row of lights\] would be for “seven.”
+\draws a second row of lights\ would be for “seven.”
 
-\[Drawing:\]
+\Drawing:\
 
 0011 = 3
 
@@ -1437,7 +1437,7 @@ What were you using?
 
 **Abbate:**
 
-I was doing [C](/C "C")/[Unix](/UNIX "UNIX") stuff, at MIT. It was
+I was doing C(C "C")/[Unix](/UNIX "UNIX") stuff, at MIT. It was
 something called Project Athena, which had—that’s where the Kerberos
 security system came from, which you might have heard of.
 
@@ -1526,7 +1526,7 @@ certain levels of security. It was partly the reorganization of the way
 the markings scheme worked—which sounds a bit strange, I know—but it had
 this knock-on ripple-down effect that meant that they said, “Well, in
 that case, we’ll push everything to the security service on the policy
-side of things.” And to the security group \[at CCTA\], “Thank you very
+side of things.” And to the security group \at CCTA\, “Thank you very
 much; find yourselves some other jobs.”
 
 ### Mentors and Changes for Women in Computing
@@ -1557,10 +1557,10 @@ friend every since\! I’m still in touch with her.
 
 And oddly enough, when she was taken on she didn’t like children at all,
 and she was never considered to be a “risk” in any way—and she’s got two
-children\! \[laughs.\] They’re very grown-up now, but at the time when I
+children\! \laughs.\ They’re very grown-up now, but at the time when I
 left to join the Civil Service, Sandra actually left to have her first
 child, much to everybody’s amazement\! We never thought she would have
-children\! \[laughs.\] There you go.
+children\! \laughs.\ There you go.
 
 **Abbate:**
 
@@ -1602,8 +1602,8 @@ trends in computing?
 It’s moving so much more rapidly\! Extremely rapidly. Well, I certainly
 find that with the things that I’m interested, in IT security.
 
-And I think I’ve said to you, I don’t think that you’re as close \[to
-the machine\]—there’s so much more done for people in IT now, so much
+And I think I’ve said to you, I don’t think that you’re as close \to
+the machine\—there’s so much more done for people in IT now, so much
 more that’s presented to you as a starting point. You don’t seem to
 start with a blank coding sheet. You will take maybe a piece of
 middleware, and you’ll bolt something on—and what you bolt on can maybe
@@ -1622,7 +1622,7 @@ they’re trapped at the desktop, but they’re not trapped at the gateway
 coming into our office network. But normally stuff coming into our
 office network comes from the government secure intranet, which is
 great, because that checks out for us. But, we have a link directly with
-the NHS, and \[the virus is\] coming from the NHS—so they’re sort of
+the NHS, and \the virus is\ coming from the NHS—so they’re sort of
 popping up all over the place\! And we had a phone call the other day,
 no kidding, from this lady, and she said, you know, “I’ve got this
 strange email”—and she wasn’t talking to me, she was talking to somebody
@@ -1632,10 +1632,10 @@ the technical people to do it, but he toddled up to see her, and when he
 got up there he said, “It’s the Anna Kornikova virus that you’ve got.”
 So he said, “I’ll just do a quick check, you know, make sure that
 everything’s okay,” and then she said, “You know, I have been feeling a
-bit off-color.” \[laughs.\] Honest to God, though\! And she said she had
-back and shoulder pains. I said \[to him\], “What did you do?” and he
+bit off-color.” \laughs.\ Honest to God, though\! And she said she had
+back and shoulder pains. I said \to him\, “What did you do?” and he
 said, “Well, I looked at her, but I realized she was really, really
-serious, so I just ran away and left her to it\!” \[laughs.\]
+serious, so I just ran away and left her to it\!” \laughs.\
 
 **Abbate:**
 
@@ -1670,7 +1670,7 @@ really, but perhaps not to stay locked into the Civil Service. I think
 that I could have probably progressed further. So I think I would
 suggest that it’s still an interesting career; and there’s always going
 to be a job there; it’s not going to go away. A bit like undertakers, I
-suppose, isn’t it? \[laughs.\] But to try not to fall into the trap of
+suppose, isn’t it? \laughs.\ But to try not to fall into the trap of
 staying in one place—one sort of regime, one line of work, even—for too
 long, because there are so many different angles to IT that you can try.
 You know: look at database design, and design administration; look at
@@ -1679,7 +1679,7 @@ wider areas, I think, and it’s probably very good to try and get a good
 cross-section. Project management\! Go for that; give that a try.
 
 Would I come in if I start all over again? Yes, I think I would.
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1687,55 +1687,55 @@ All right, I think I’ll stop there, then. You’ve been really helpful.
 Thank you very much\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Diane_Wray&oldid=108331>"
+"<http:/ethw.org/index.php?title=Oral-History:Diane_Wray&oldid=108331>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Workplace](/Category:Workplace "Category:Workplace")
-* [Profession](/Category:Profession "Category:Profession")
-* [Engineering
-  disciplines](/Category:Engineering_disciplines "Category:Engineering disciplines")
-* [Computer
-  engineering](/Category:Computer_engineering "Category:Computer engineering")
-* [Engineers](/Category:Engineers "Category:Engineers")
-* [Government](/Category:Government "Category:Government")
-* [Standardization](/Category:Standardization "Category:Standardization")
-* [Telecommunication
-  standards](/Category:Telecommunication_standards "Category:Telecommunication standards")
+* Workplace(Category:Workplace "Category:Workplace")
+* Profession(Category:Profession "Category:Profession")
+* Engineering
+  disciplines(Category:Engineering_disciplines "Category:Engineering disciplines")
+* Computer
+  engineering(Category:Computer_engineering "Category:Computer engineering")
+* Engineers(Category:Engineers "Category:Engineers")
+* Government(Category:Government "Category:Government")
+* Standardization(Category:Standardization "Category:Standardization")
+* Telecommunication
+  standards(Category:Telecommunication_standards "Category:Telecommunication standards")
 
 ## Contents
 
-* [1 About Diane Wray](#About_Diane_Wray)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family and Education](#Family_and_Education)
-  * [4\.2 First Job](#First_Job)
-  * [4\.3 Working with Computers](#Working_with_Computers)
-  * [4\.4 Gender and Work](#Gender_and_Work)
-  * [4\.5 Computer Programming at the Electricity
-    Board](#Computer_Programming_at_the_Electricity_Board)
-  * [4\.6 Joining the Civil Service](#Joining_the_Civil_Service)
-  * [4\.7 Security Work for Civil
-    Service](#Security_Work_for_Civil_Service)
-  * [4\.8 Work for the CCTA](#Work_for_the_CCTA)
-  * [4\.9 Balancing Family and Career with Government
-    Support](#Balancing_Family_and_Career_with_Government_Support)
-  * [4\.10 Gender and Technology Career](#Gender_and_Technology_Career)
-  * [4\.11 Overall Enjoyment of Career](#Overall_Enjoyment_of_Career)
-  * [4\.12 Mentors and Changes for Women in
-    Computing](#Mentors_and_Changes_for_Women_in_Computing)
+* 1 About Diane Wray(#About_Diane_Wray)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family and Education(#Family_and_Education)
+  * 4\.2 First Job(#First_Job)
+  * 4\.3 Working with Computers(#Working_with_Computers)
+  * 4\.4 Gender and Work(#Gender_and_Work)
+  * 4\.5 Computer Programming at the Electricity
+    Board(#Computer_Programming_at_the_Electricity_Board)
+  * 4\.6 Joining the Civil Service(#Joining_the_Civil_Service)
+  * 4\.7 Security Work for Civil
+    Service(#Security_Work_for_Civil_Service)
+  * 4\.8 Work for the CCTA(#Work_for_the_CCTA)
+  * 4\.9 Balancing Family and Career with Government
+    Support(#Balancing_Family_and_Career_with_Government_Support)
+  * 4\.10 Gender and Technology Career(#Gender_and_Technology_Career)
+  * 4\.11 Overall Enjoyment of Career(#Overall_Enjoyment_of_Career)
+  * 4\.12 Mentors and Changes for Women in
+    Computing(#Mentors_and_Changes_for_Women_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 
 * This page has been accessed 2,624 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

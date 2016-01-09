@@ -1,77 +1,77 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Mary_Tsingou_Menzel&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Mary_Tsingou_Menzel&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Mary_Tsingou_Menzel)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Mary_Tsingou_Menzel&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Mary_Tsingou_Menzel "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Mary_Tsingou_Menzel "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Mary_Tsingou_Menzel&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Mary_Tsingou_Menzel&oldid=108620 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Mary_Tsingou_Menzel&action=info)
-  
-  * [Browse
-    properties](/Special:Browse/Oral-2DHistory:Mary_Tsingou_Menzel)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Tsingou+Menzel)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Mary_Tsingou_Menzel&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Mary_Tsingou_Menzel&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Mary_Tsingou_Menzel)
+  
+  * Discussion(index.php?title=Oral-History_talk:Mary_Tsingou_Menzel&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Mary_Tsingou_Menzel "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Mary_Tsingou_Menzel "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Mary_Tsingou_Menzel&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Mary_Tsingou_Menzel&oldid=108620 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Mary_Tsingou_Menzel&action=info)
+  
+  * Browse
+    properties(Special:Browse/Oral-2DHistory:Mary_Tsingou_Menzel)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Tsingou+Menzel)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Mary Tsingou Menzel
@@ -104,7 +104,7 @@ being used for the "protron storage ring" in order to make the correct
 adjustments to those magnets. Throughout her long career at Los Alamos,
 Menzel worked in applied mathematics solving problems for the various
 projects being conducted at the Lab. Most of the programming she did was
-in [FORTRAN](/FORTRAN "FORTRAN").
+in FORTRAN(FORTRAN "FORTRAN").
 
 In this interview, Menzel talks at great length about her time working
 at Los Alamos and the different projects she participated in. She also
@@ -151,10 +151,10 @@ PLACE: Mary Menzel's home in Los Alamos
 
 Notes courtesy of the interviewer, Janet Abbate
 
-\[Note: After the interview, the conversation continued and was joined
+\Note: After the interview, the conversation continued and was joined
 by Dr. Anne Fitzpatrick, a researcher and historian of computing at Los
 Alamos National Lab. Two excerpts from this conversation have been
-inserted into appropriate sections of the interview, as indicated.\]
+inserted into appropriate sections of the interview, as indicated.\
 
 **Abbate:**
 
@@ -167,8 +167,8 @@ born and where you grew up?
 
 Well, I was born in Milwaukee, Wisconsin, October 14th, 1928\. I went to
 school there until I was about seven. My parents are from Greek descent,
-and they only spoke Greek at home, so when I went to school \[I didn’t
-know much English\]. I have a sister who is just a year older, and when
+and they only spoke Greek at home, so when I went to school \I didn’t
+know much English\. I have a sister who is just a year older, and when
 she went to school she didn’t know any English at all; but I was a year
 younger, so by that time I had picked some English up. But when I was
 seven, my parents decided to go to Europe, back to Bulgaria—that’s where
@@ -249,7 +249,7 @@ numerically: so you’d just multiply it by four, if you do Simpson’s
 rule, or multiply it by two and you add them up, and stuff like that. So
 there was just hand computing.
 
-But as soon as I came, the MANIAC Group was \[recruiting\]. We were on
+But as soon as I came, the MANIAC Group was \recruiting\. We were on
 the second floor, and they were on the first floor, and they said that
 they’d offer computing classes, so a group of us women took the class.
 But like I said, we were all young, just right out of school and twenty,
@@ -304,13 +304,13 @@ Washington, DC, but he passed away quite early; he was only sixty-two or
 so.) That’s where I did a lot of theoretical-type as well as some
 weapons-coding problems.
 
-\[One of the best known of these theoretical problems is described in E.
+\One of the best known of these theoretical problems is described in E.
 Fermi, J. Pasta, S. Ulam, M. Tsingou. Report LA-1940: “Studies of
 Nonlinear Problems.” May 1955\. A footnote on page 3 comments, “We thank
 Miss Mary Tsingou for efficient coding of the problems and for running
-the computations on the Los Alamos MANIAC machine.”\]
+the computations on the Los Alamos MANIAC machine.”\
 
-\[Excerpt from post-interview conversation:\]
+\Excerpt from post-interview conversation:\
 
 **Menzel:**
 
@@ -325,7 +325,7 @@ Yes, it was, but it was very famous.
 
 **Menzel:**
 
-Quite a few other people at the university \[were interested\]. We had a
+Quite a few other people at the university \were interested\. We had a
 couple of grad students come out who had done some work on it, too, and
 they wanted to continue with it.
 
@@ -333,7 +333,7 @@ What else did we do? We did some studies of different things, like the
 Schrödinger equation; we did something with that. Bill Barr, I think,
 was involved with that a little bit. . . . These were little things that
 we did on the side—it wasn’t a major project—and those are the things
-that are remembered more\! \[laughs.\] Those were just things that they
+that are remembered more\! \laughs.\ Those were just things that they
 would come up with. They’d say, “Oh, that would be interesting, to see
 what happens here.” Because the thing with these electronic computers
 was, you could grind the same thing over and over again, and to do
@@ -353,10 +353,10 @@ off now, he puts the data into his computer and it tells him what speed
 to take off, and what the wind speed it, and what type of thrust to use,
 and all that.
 
-\[End of excerpt\]
+\End of excerpt\
 
 At that time, of course—people can’t understand how computing was done
-\[back then\], because they had so small a memory that they didn’t have
+\back then\, because they had so small a memory that they didn’t have
 any of these software programs. Actually we coded machine language.
 Marge probably told you. If we wanted to add two numbers, we’d do “clear
 and add”; so you’d clear the register and add. That instruction was
@@ -381,7 +381,7 @@ That’s a punched paper tape?
 Punched paper tape, yes.
 
 But then at that time, a lot of the scientists that would come here to
-Los Alamos \[would do their own\]. Enrico Fermi was here that one
+Los Alamos \would do their own\. Enrico Fermi was here that one
 summer, and he would sit there and type his own little tape up. If I
 remember correctly, Elaine Alei was the one that did some programming
 for him. I had no direct contact; I mean, he was there in the office and
@@ -391,14 +391,14 @@ during the war and had gone back to universities would come here in the
 summertime and do some work.
 
 Of course, Nick Metropolis was our Group Leader. From what I understood,
-they started the design of the MANIAC the same time that [von
-Neumann](/John_von_Neumann "John von Neumann") started the design of the
+they started the design of the MANIAC the same time that von
+Neumann(John_von_Neumann "John von Neumann") started the design of the
 Johnniac, and we were supposed to keep the things going in a parallel
 direction; but most of the guys that were designing it were really
 young, almost in their early twenties; and for some reason, from what I
 understand, we veered from what they were doing at Princeton, and we got
-ours to work, and they never got theirs to work\! So whatever \[the Los
-Alamos group\] did, they did the right thing. That was MANIAC I, and
+ours to work, and they never got theirs to work\! So whatever \the Los
+Alamos group\ did, they did the right thing. That was MANIAC I, and
 that’s where I worked for most of the time: MANIAC I.
 
 Like I said, I did a lot of programming for Stan Ulam and John Pasta. In
@@ -414,10 +414,10 @@ symmetric, so it compresses it in all directions rather than
 erratically. But we’d actually plotted it. I had forgotten\! We had it
 plotted on this little scope, and it would show that; and when you got
 as far as the width of the scope, it would contract and then go ahead
-\[on a smaller scale\]. He mentioned it to me, because he was in
+\on a smaller scale\. He mentioned it to me, because he was in
 mathematics with the National Science Foundation, and he said, “I put
 that down, that we were one of the first to do graphics on computers.” I
-had forgotten\! \[laughs.\]
+had forgotten\! \laughs.\
 
 **Abbate:**
 
@@ -448,14 +448,14 @@ So you were doing numerical methods as well as coding.
 **Menzel:**
 
 Yes, yes. Actually, I was just telling my husband, Joe, when I was
-thinking about you coming \[to do this interview\]: Jack Jackson, who
+thinking about you coming \to do this interview\: Jack Jackson, who
 taught this class for us first on computing, asked us to do a little
 problem, and that was to compute the sine of an angle: given the angle,
 to compute the sine. That was my project, and I computed it and coded it
 up, and I kept checking it over and re-checking it; and then finally I
 punched the tape, and I put it in, and it worked immediately\! And like
 I told Joe: that was the first and last time I ever had a problem work
-immediately. I’ve never been able to duplicate it\! \[laughs.\] In all
+immediately. I’ve never been able to duplicate it\! \laughs.\ In all
 my almost forty years of programming, I was never able to do a problem
 and put it out and have it work immediately. So it was really a
 surprise, and that was one of the reasons Jack Jackson said, “Oh, get
@@ -539,14 +539,14 @@ So she went into working on . . .
 
 **Abbate:**
 
-SEAC? \[Standards Eastern Automatic Calculator\]
+SEAC? \Standards Eastern Automatic Calculator\
 
 **Menzel:**
 
 SEAC; maybe the SEAC machine. And so it was really ironic, the fact that
 we both went into computing—in different parts of the country. My
 parents were unhappy that we left Milwaukee, but you know how parents
-are: they want kids to stay home\! \[laughs.\]
+are: they want kids to stay home\! \laughs.\
 
 **Abbate:**
 
@@ -564,7 +564,7 @@ But I think both my sister and I, more or less, were self-driven
 individuals. They wanted us to go more into secretarial work, or
 women’s-type jobs, and they said, “Well, mathematics, you’ll never be
 able to get a job,” and stuff like that. But both of us were interested
-in mathematics, and \[fortunately\] it turned out that computers
+in mathematics, and \fortunately\ it turned out that computers
 came—otherwise it was very hard to get jobs in mathematics. Stan Ulam,
 whom I worked for there for a long time: he said that before the war, he
 had a Ph.D., and he said it was really hard to get jobs in mathematics.
@@ -670,16 +670,16 @@ Just because the hardware wasn’t reliable?
 **Menzel:**
 
 Well, no: because it took a long time. It’s not like now. I don’t know
-how many operations they do in a second, but at that time it was \[not
-very many\]. The computer was slow to start with, so if you wanted it to
+how many operations they do in a second, but at that time it was \not
+very many\. The computer was slow to start with, so if you wanted it to
 do a problem, it would take sometimes running ten hours: we’d come out
 with one answer, and then we’d run it again, and we’d come out with
-another answer\! \[laughs.\] So one of the things I think they did with
+another answer\! \laughs.\ So one of the things I think they did with
 the Stretch computer, one of the designs they did, is that every time
 anything was called from the memory, it had a sum of all the digits. I
 don’t know how much you know: the only thing computers can do is a light
-on or a light off; so it’s ones or zeros, basically. A word has \[a set
-of bits\] that indicate something. So one of the things they wanted to
+on or a light off; so it’s ones or zeros, basically. A word has \a set
+of bits\ that indicate something. So one of the things they wanted to
 do with the Stretch is add all those bits up and have the sum at the end
 of the word, so that when it’s called in again, they would do the same
 thing, and check to see that the sum is correct, so at least you know
@@ -691,24 +691,24 @@ success as they had hoped it was going to be.
 
 And then, as I said, the Cray computers came along. They started with
 150K of memory, or something like that, and everybody thought, “Boy,
-those are really \[advanced\]\!” But even those, a lot of times, had
+those are really \advanced\\!” But even those, a lot of times, had
 problems on weekends. We’d have people run our problems, and we’d sign
 up for four or five hours for the problem to run, to get some results.
 Probably it wouldn’t even finish, and they dumped the data onto a tape,
 and the next weekend—because a lot of times long problems would not be
 run except on weekends—you would pick it up. Also, for your own sake,
 when you were running your problem, after an hour or two you would dump
-it—because in case the machine went down, you lost \[your interim
-results\].
+it—because in case the machine went down, you lost \your interim
+results\.
 
 Now, as I say, things are so fast that people get a little disturbed
 when they get on the Internet and have to wait a few minutes\!
-\[laughs.\] But at that time . . .
+\laughs.\ But at that time . . .
 
 **Abbate:**
 
 . . . you were waiting weeks to run\!
-\[laughs.\]
+\laughs.\
 
 ### Moving to the Accelerator Group and Working on the "Proton Storage Ring"
 
@@ -739,21 +739,21 @@ Yes, a type. They had a big program, but Livermore had more of a success
 than we did, and finally they abolished that. So then I went with what’s
 called AT—Accelerator Group—building accelerators. That went into the
 Star Wars program that Reagan initiated—well, Reagan didn’t initiate it;
-he provided the funds. \[laughs.\] AT really expanded into that, to
+he provided the funds. \laughs.\ AT really expanded into that, to
 produce a beam that would be able to stop incoming missiles. So we
 worked on that.
 
 Then I helped do programming for designing what they called a “proton
 storage ring.” One of the things that they have here is what they call a
-Meson Facility: Los Alamos Meson Physics Facility (LAMPF)\]. It would
+Meson Facility: Los Alamos Meson Physics Facility (LAMPF)\. It would
 get the beam down a stream, and it would accelerate the beam; then it
 would bombard some material, and when it bombarded the material, it
 would release neutrons, and then they can study other materials. But the
 biggest thing is trying to get the beam at a high speed, so that it
 could break up the atoms. This was why they decided to design the
 storage ring, because the beam would go around instead of straight. The
-meson just goes straight down, and it was only 800 MEVs \[million
-electron volts\], if I remember. The storage ring would have the beam
+meson just goes straight down, and it was only 800 MEVs \million
+electron volts\, if I remember. The storage ring would have the beam
 keep going around and around and accelerating as it went round and
 round; and then, when it was at the height that they wanted, it would go
 into where they would do the research.
@@ -791,7 +791,7 @@ going to stay with Los Alamos. In fact, I think I had applied for a job
 with General Electric, and I was offered a position. He wrote to me and
 said, “Oh, don’t go into applied mathematics. You should stay in
 theoretical mathematics\!” And I said, “Well, I’ve got to make a
-living\!” \[laughs.\] Theoretical mathematics means you have to be at a
+living\!” \laughs.\ Theoretical mathematics means you have to be at a
 university, and probably have to have a Ph.D., so he thought I should go
 back and get my Ph.D. But I was mostly doing applied mathematics.
 
@@ -838,7 +838,7 @@ was interviewed at Johns Hopkins: she went to the University of New
 Mexico here, but she applied for the early entrance into medical school
 at Johns Hopkins, and she went there, and they asked her, “Do you think
 you can balance the medical profession and marriage?” She said, “Well,
-my mother has done it, so I think I can do it\!” \[laughs.\] It was
+my mother has done it, so I think I can do it\!” \laughs.\ It was
 surprising that she was accepted, because most of those others were from
 the elite colleges, and with only two years at UNM she was accepted at
 Hopkins into their five-year program in medical school. So in the five
@@ -864,7 +864,7 @@ Children’s Hospital in Pittsburgh is supposedly supporting them, but
 it’s really hard. Everything’s being cut. My husband thought once we
 paid for getting these kids through med school, they’d have it made; but
 it’s really hard, today, in medicine. So I think they would have been
-better off if they had gone into mathematics\! \[both laugh.\] Or
+better off if they had gone into mathematics\! \both laugh.\ Or
 something else. But usually what happens with children is that they want
 to follow what the other guy is doing. Carol—that’s our younger
 daughter—she said, “Well, I want to go to medical school, too”; so she
@@ -884,8 +884,8 @@ engineering courses during her second year; and when they called us to
 say that she was accepted—there were only eight or ten students from all
 over the country who were accepted into this program—that morning, I
 still remember, she said, “I’m not sure I want to go into medicine. I
-sort of like the engineering part\!” It was too early \[for her to have
-to make that decision\], because she was only nineteen at that time. I
+sort of like the engineering part\!” It was too early \for her to have
+to make that decision\, because she was only nineteen at that time. I
 said, “Well, why don’t you try it?” I mean, an opportunity like that
 doesn’t come very often. So I said, “Well, try it.” She really likes
 pediatrics, but it’s a hard field to be in. Things have changed so much.
@@ -931,14 +931,14 @@ She was writing editors, and operating system stuff.
 
 **Menzel:**
 
-Stuff like that—see, that’s \[systems?\] software. I never did that. I
+Stuff like that—see, that’s \systems?\ software. I never did that. I
 was always in applied mathematics, the problem-solving type thing. Now
 there are programs that do those things. In fact, some people who wrote
 some of these programs are making a living by just consulting on the
 program that they run. I think the Poisson Group Codes were done by
-\[Ronald\] Holsinger. I have the manual; I could look it up. He was
+\Ronald\ Holsinger. I have the manual; I could look it up. He was
 here. They are free; whoever wants them can get them, and they’ve been
-put on various computers: on PC’s; I was writing \[a program for\] it on
+put on various computers: on PC’s; I was writing \a program for\ it on
 the Cray computer before I left.
 
 ### On Using the Cray
@@ -961,13 +961,13 @@ a few things in between so you could check your program, because you
 were trying to debug to see if things came out. But later on, they had
 people to operate it; they wouldn’t allow you to go to the computer.
 You’d just put the cards in, and they would do it for you, and you’d
-get the printed material and you’d have to look at it. And that took \[a
-long time\]. Sometimes you’d only get one or two runs a day; so there
+get the printed material and you’d have to look at it. And that took \a
+long time\. Sometimes you’d only get one or two runs a day; so there
 wasn’t very much progress, because in between, you found a mistake,
 you’d correct it, and it would be five o’clock before you had your
 program run again and could see that it worked or it didn’t work.
 
-Then they were able to put \[card readers\] all over the Laboratory,
+Then they were able to put \card readers\ all over the Laboratory,
 where you could put your cards in right near the office where you
 worked. So the cards would go in, through, and onto the computer. So
 that helped.
@@ -978,7 +978,7 @@ So you had card readers on a local network or something?
 
 **Menzel:**
 
-Yes. It would connect directly to \[the Computer Center\]. And again,
+Yes. It would connect directly to \the Computer Center\. And again,
 you only had a certain amount of time during the day that was
 assigned—that you could get—in each group. They only had so much time,
 and if it was used up, we didn’t get any machine time with the Cray. So
@@ -993,18 +993,18 @@ Before, we would go into the main computers and store the material on
 tapes. I’ll bet they still have—well, they probably got rid of my tapes.
 But that’s the trouble with computing: you always store everything, and
 then you forget what you stored, and you don’t want to get rid of it\!
-\[laughs.\] So you keep storing and storing stuff, till one day they
+\laughs.\ So you keep storing and storing stuff, till one day they
 say, “You’ve used too much storage space. You’ve got to get rid of
 stuff.” So then you go back and you start getting rid of stuff. That’s
 why they said these various companies that are doing storage were the
 thing to invest in, because people are always going to store things.
 It’s so much easier to store it than to know if it’s worth storing\!
-\[laughs.\]
+\laughs.\
 
 Most of the programming I did was in FORTRAN: that’s a mathematical
 language for equations that IBM had done. I think even before I left,
 most of it was FORTRAN. New systems were coming in that would interpret
-\[other languages\], but FORTRAN was acceptable. They have so many
+\other languages\, but FORTRAN was acceptable. They have so many
 languages now: Java, C++, different languages. What was the one they had
 mostly for business?
 
@@ -1028,7 +1028,7 @@ computing?
 I think it was really great when you’d got a program, and you’d sit
 there—especially on the MANIAC: you’d actually see the lights
 flashing—and you’d look at it and say, “I actually did this\!” And
-they would just go flashing all around. \[laughs.\]
+they would just go flashing all around. \laughs.\
 
 It was very primitive. In order to debug the problem, we could do one
 step at a time. There was a little switch. I mentioned the operation
@@ -1057,7 +1057,7 @@ Marge was saying you could debug by the sound.
 
 **Menzel:**
 
-No, not by the sound\! \[laughs.\] It had sound, yes, but we’d just
+No, not by the sound\! \laughs.\ It had sound, yes, but we’d just
 print things out. We had a teletype printer, that’s what we had. It
 wasn’t much of a printer. It only printed numbers, I think; the MANIAC
 worked on the hexadecimal system, which means it used A, B, C, D, E, and
@@ -1069,8 +1069,8 @@ numbers meant yourself.
 
 Yes, it was quite primitive\! But people were very happy, because they
 were able to do computing. As I said, Fermi was here that summer, and
-another pair that did a lot of computing was the Rosenbluths \[Arianna
-and Marshall\]. They were a husband-and-wife team, and I think Marge
+another pair that did a lot of computing was the Rosenbluths \Arianna
+and Marshall\. They were a husband-and-wife team, and I think Marge
 worked with them. Did she mention them?
 
 **Abbate:**
@@ -1142,7 +1142,7 @@ correct?
 Yes, that we were correct. Then they’d want to put some more plutonium
 in; if we put more percentage of this, we would get a bigger yield. Or
 they wanted a smaller device; stuff like that. The program was there,
-and then they’d just make modifications of what the \[weapon\] was.
+and then they’d just make modifications of what the \weapon\ was.
 
 ### Witnessing Nuclear Testing
 
@@ -1168,7 +1168,7 @@ there, to see how they would stand a nuclear blast. Most of them, of
 course, were completely demolished.
 
 We were—I don’t know, was it ten, or seven, eight miles away? They had
-spectators. \[laughs.\] You know, people would come to see a device go
+spectators. \laughs.\ You know, people would come to see a device go
 off. They had warned us: you’ll see the blast, and then you’ll feel it;
 the sound would come later. First you’ll see the blast, and we had to
 wear glasses. We were about seven or eight miles away, and you saw the
@@ -1193,14 +1193,14 @@ Some were dropped from a plane, and some were on a tower. They’d put the
 bomb on a tower, and then blast it off, and keep testing it. They kept
 testing, I guess, until finally they made some agreement to stop air
 testing, and they went to underground testing for quite a long time. And
-now, under \[President George W.\] Bush: he wants to resume it, I guess.
+now, under \President George W.\ Bush: he wants to resume it, I guess.
 The Lab: I don’t know if they’re pushing for it. I have no idea.
 
 Actually, they have computer programs that can simulate what goes on in
 an explosion much better than anything that they can see, probably. But
 they still—you see, if they have a test, they can put the numbers in,
-and they can extrapolate; but if you don’t have a test, \[you don’t have
-the numbers\]—especially with the design of new weapons.
+and they can extrapolate; but if you don’t have a test, \you don’t have
+the numbers\—especially with the design of new weapons.
 
 ### Working on Classified Projects
 
@@ -1210,7 +1210,7 @@ Was your work classified?
 
 **Menzel:**
 
-It was classified when I was working in \[the Computer Division?\].
+It was classified when I was working in \the Computer Division?\.
 Until I moved into T Division, most of it was classified work. We did
 theoretical work, with just interesting problems that Stan Ulam would
 propose, and stuff. Then there was CTR, the Controlled Thermonuclear
@@ -1222,7 +1222,7 @@ There was a Reactor Group here, and they were going to design a reactor
 to go out in space. That group was called “Kiwi.” One of the people had
 done some programming; he was working on that, and he asked me to join
 the group, but I stayed with T Division at that time. Then Kiwi was
-\[disbanded?\]. The thing is, at first they thought that nuclear energy
+\disbanded?\. The thing is, at first they thought that nuclear energy
 was going to be the thing that was going to provide power and
 electricity and all that stuff, and they didn’t realize how they could
 not control radioactivity and all the byproducts. Like now: where to
@@ -1230,7 +1230,7 @@ store all these byproducts is a big problem.
 
 Stan Ulam told me—looking back, he said they thought, “With nuclear
 devices, we can control the weather. If a hurricane is coming, we can
-detonate a bomb and break it up\!” \[laughs.\] But what happens to the
+detonate a bomb and break it up\!” \laughs.\ But what happens to the
 area? You detonate a couple of big thermonuclear devices and pollute the
 area.
 
@@ -1247,11 +1247,11 @@ seems like their ideas worked; but they don’t describe all the failures
 they had. They just say, “From this we went to this,” rather than that
 some of the ideas were wrong.
 
-It’s just like \[Edward\] Teller, you know. I don’t know if you’ve heard
+It’s just like \Edward\ Teller, you know. I don’t know if you’ve heard
 of Teller. He claims to be—at least he wants to be—the father of the
-hydrogen bomb. He worked here with Stan Ulam, and \[Ulam\] told me,
+hydrogen bomb. He worked here with Stan Ulam, and \Ulam\ told me,
 “Well, he had a lot of bad ideas”—that his ideas wouldn’t have worked.
-“It \[the hydrogen bomb\] was a group design that we all came up with.
+“It \the hydrogen bomb\ was a group design that we all came up with.
 But a lot of Teller’s ideas would not have worked at all.” Like I say:
 when you read it, it seems like they went from the atomic bomb to the
 hydrogen bomb with no problems. But some people provided ideas; others,
@@ -1265,7 +1265,7 @@ When you were working, was it usually just you and a physicist?
 **Menzel:**
 
 Yes, a physicist. I worked with two or three people; sometimes two or
-three people would work \[together\]. I’d be the one they’d call the
+three people would work \together\. I’d be the one they’d call the
 Programmer, and did analysis and stuff like that: the mathematics; and
 the other people would give me the equations, or what they wanted to
 compute.
@@ -1304,9 +1304,9 @@ What did you think made a good programmer? Did you ever train anyone?
 **Menzel:**
 
 Well, I always had people working with me, and I had some new people
-that I \[trained\].
+that I \trained\.
 
-\[DISC 2\]
+\DISC 2\
 
 ### Reflection on Career in Computing
 
@@ -1326,7 +1326,7 @@ What was the most satisfying part of computing for you?
 **Menzel:**
 
 Well, seeing a program work. And then, people coming in and saying, “Can
-you make this do \[what I want\]?” And I’d say, “Oh sure, we’ll get it
+you make this do \what I want\?” And I’d say, “Oh sure, we’ll get it
 for you,” and get something out that they wanted, and be pretty
 confident that it was correct. That’s the thing: that the answers that
 we were getting were correct. I always checked my programs out really
@@ -1350,7 +1350,7 @@ We had a lot of interaction. A lot of the top scientists of the nation
 were here, and it was an exciting time. When we came, we felt we were
 doing something for the nation. All of us here were thinking that we
 were really helping keep our country strong, and that we were actually
-working towards \[that\]. Maybe because we were young: young people are
+working towards \that\. Maybe because we were young: young people are
 very optimistic, and feel they’re going to change the world, and stuff
 like that. So people worked hard at that time. We worked long hours;
 we’d come in long hours, especially if some computation had to be done
@@ -1390,7 +1390,7 @@ were done, and a lot of times you thought that it would give you the
 right answer, according to the equation, but then things would happen
 that you didn’t expect. One of the things: you’d divide by some number,
 and you never think it’s going to be zero, and it happens to be zero,
-and then the thing blows up\! \[laughs.\] It’s things like that that you
+and then the thing blows up\! \laughs.\ It’s things like that that you
 have to anticipate. You say, “Well, it’s never going to be zero,” but
 for some reason it got to be zero.
 
@@ -1412,22 +1412,22 @@ program and make some changes to accommodate what they wanted.
 
 **Menzel:**
 
-\[Excerpt from post-interview conversation:\]
+\Excerpt from post-interview conversation:\
 
 One of the biggest problems we had was that people would bring problems
 from Europe—from Germany, especially—and then we would have to try to
 get them to work on our computers. Most of the stuff would work, but
-just enough to cause you problems\! \[laughs.\] So anything that’s
-universal \[would make transferring code between machines easier\]. But
+just enough to cause you problems\! \laughs.\ So anything that’s
+universal \would make transferring code between machines easier\. But
 unfortunately, they want the old programs to work, and the programs are
 so embedded and so complicated that there’s no way that you can
 understand. They just want them translated exactly into the new
-machines, but I think they’re better off \[starting over\]. I tried to
+machines, but I think they’re better off \starting over\. I tried to
 tell my boss a couple of times, “It’s better off, at a certain stage, to
 forget that you have a program—no matter how big it is—and start over.”
 Because there are new techniques, new things.
 
-\[For example,\] we were always economical with storage, with words;
+\For example,\ we were always economical with storage, with words;
 what they call machine capacity. Instead of using a whole word for
 something, if you only needed a bit, you used portions of the word to do
 different things; so then you had to extract that portion out to look at
@@ -1435,8 +1435,8 @@ it. Now you don’t have to do that, because you have almost infinite
 memory; and the old method takes time—it has to be extracted. Those
 Poisson programs I was talking about were like that: and I mentioned
 that we should forget it, and instead of spending a couple of years on
-translating the old programs, start over and do it completely \[from
-scratch\].
+translating the old programs, start over and do it completely \from
+scratch\.
 
 It’s just like with any device: it’s better, after ten years, that you
 don’t keep it. You abandon your car and buy a new car, because you’ll be
@@ -1462,7 +1462,7 @@ machines, because their programs were running. But once they start using
 them they’ll be happy, because they’re faster and they can do a lot more
 things.
 
-\[End of excerpt\]
+\End of excerpt\
 
 **Abbate:**
 
@@ -1471,7 +1471,7 @@ Would you be working on several different problems at once?
 **Menzel:**
 
 Oh, yes\! Sure. More than one problem would be going. Especially when we
-only had five minutes on the computer \[laughs\]: you’d be working on
+only had five minutes on the computer \laughs\: you’d be working on
 something else, because you’re not going to get the answer for another
 four hours\! So you’d be working on something else. We had two or three
 things going at one time.
@@ -1496,19 +1496,19 @@ Even later on, when I was teaching in the university, they kept saying,
 “Well, we’re trying to bring you up to par”—because women weren’t
 getting paid the equivalent to what men were. “We’re trying to bring you
 up.” They always were “trying,” and I said, “Well, why don’t they do
-it?” \[laughs.\]
+it?” \laughs.\
 
 **Abbate:**
 
-How hard is that? \[laughs.\]
+How hard is that? \laughs.\
 
 **Menzel:**
 
 I mean, why not give that? But, on the other hand, we were paid better
 than industry would have paid at that time, and it was good work, and
 they were flexible. If my kid was sick and I didn’t get there, no one
-complained. Otherwise, if you had to be there from eight to five, \[it
-would have been difficult\]. So it worked out quite well, with a career
+complained. Otherwise, if you had to be there from eight to five, \it
+would have been difficult\. So it worked out quite well, with a career
 and a family. But most of these other women did stop. Like Marge
 Devaney: she worked part-time, didn’t she, for a long time, while her
 daughter was young. Most of the women did stay home for a while. I think
@@ -1544,7 +1544,7 @@ helped you along, or people you admired and wanted to be like?
 
 Well, some of these guys were pretty nice to me. When I went back and
 got my Master’s and came back, Stan Ulam went and tried to get me a 25
-dollar-a-month raise\! \[laughs.\] Things like that. But as I said, with
+dollar-a-month raise\! \laughs.\ Things like that. But as I said, with
 women, we were always second citizens. Things started improving, I
 think, in the last ten years before I retired; in the eighties they
 started improving. When I came, most people with a Bachelor’s degree
@@ -1570,7 +1570,7 @@ But you became a Staff Member after you got . . .
 
 After I got my Master’s.
 
-But then, when \[Norris\] Bradbury was Director, he had a woman—which
+But then, when \Norris\ Bradbury was Director, he had a woman—which
 was really surprising—as his Deputy Director of the Lab, when I came
 here. I can’t think of what her name was. She was a scientist, and then
 she went into the office. That was sort of surprising, that they did
@@ -1581,7 +1581,7 @@ Affirmative Action Program: to check, when they hired people, whether
 they could hire a woman or a minority. Percentage-wise, I think it was
 something like ten percent: we should have about ten percent women in
 this field. So when they would hire someone, I would look it over and
-try and get so that each group would bring their \[proportion of women\]
+try and get so that each group would bring their \proportion of women\
 up to ten percent—because that’s how many people were out in the field,
 available, you see.
 
@@ -1624,7 +1624,7 @@ would be in the sixties when you were trying to do this?
 
 The proportion of women? Most of the programmers were women. There were
 some men at that time. But there were only a few of us to start with.
-\[laughs.\] You know, there were just a handful\!
+\laughs.\ You know, there were just a handful\!
 
 **Abbate:**
 
@@ -1644,7 +1644,7 @@ doing the same thing. Some were actually not mathematicians or
 programmers; they were actually physicists who were keeping these
 programs going and supporting the programs.
 
-That’s about it. I’ve been talking a lot\! \[laughs.\]
+That’s about it. I’ve been talking a lot\! \laughs.\
 
 ### Advice for Women in Computing
 
@@ -1662,7 +1662,7 @@ product. It’s just like designing furniture: if you start and you
 actually build a thing from scratch, it’s much more satisfaction than
 just painting it, or doing just a minor little thing to it.
 
-But on the other hand, in software—people going into \[commercial\]
+But on the other hand, in software—people going into \commercial\
 software programming—I think it’s probably just as challenging, because
 they have to write these programs that people are using. For instance,
 Windows is a pretty good program that everybody uses now, and probably
@@ -1694,88 +1694,88 @@ more competitive.
 I just want to thank you for talking with me for so long.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Mary_Tsingou_Menzel&oldid=108620>"
+"<http:/ethw.org/index.php?title=Oral-History:Mary_Tsingou_Menzel&oldid=108620>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Engineers](/Category:Engineers "Category:Engineers")
-* [Government](/Category:Government "Category:Government")
-* [Research and development
-  labs](/Category:Research_and_development_labs "Category:Research and development labs")
-* [Defense
-  industry](/Category:Defense_industry "Category:Defense industry")
-* [Military
-  applications](/Category:Military_applications "Category:Military applications")
-* [Cold War](/Category:Cold_War "Category:Cold War")
-* [Workplace](/Category:Workplace "Category:Workplace")
-* [Military
-  computing](/Category:Military_computing "Category:Military computing")
-* [Programming](/Category:Programming "Category:Programming")
-* [Computing](/Category:Computing "Category:Computing")
-* [Codes](/Category:Codes "Category:Codes")
-* [Debugging](/Category:Debugging "Category:Debugging")
-* [Radar
-  applications](/Category:Radar_applications "Category:Radar applications")
-* [Radar](/Category:Radar "Category:Radar")
-* [Spaceborne
-  radar](/Category:Spaceborne_radar "Category:Spaceborne radar")
-* [Profession](/Category:Profession "Category:Profession")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Engineering and
-  society](/Category:Engineering_and_society "Category:Engineering and society")
-* [Environment](/Category:Environment "Category:Environment")
-* [Fields, waves &
-  electromagnetics](/Category:Fields,_waves_%26_electromagnetics "Category:Fields, waves & electromagnetics")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Engineers(Category:Engineers "Category:Engineers")
+* Government(Category:Government "Category:Government")
+* Research and development
+  labs(Category:Research_and_development_labs "Category:Research and development labs")
+* Defense
+  industry(Category:Defense_industry "Category:Defense industry")
+* Military
+  applications(Category:Military_applications "Category:Military applications")
+* Cold War(Category:Cold_War "Category:Cold War")
+* Workplace(Category:Workplace "Category:Workplace")
+* Military
+  computing(Category:Military_computing "Category:Military computing")
+* Programming(Category:Programming "Category:Programming")
+* Computing(Category:Computing "Category:Computing")
+* Codes(Category:Codes "Category:Codes")
+* Debugging(Category:Debugging "Category:Debugging")
+* Radar
+  applications(Category:Radar_applications "Category:Radar applications")
+* Radar(Category:Radar "Category:Radar")
+* Spaceborne
+  radar(Category:Spaceborne_radar "Category:Spaceborne radar")
+* Profession(Category:Profession "Category:Profession")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Engineering and
+  society(Category:Engineering_and_society "Category:Engineering and society")
+* Environment(Category:Environment "Category:Environment")
+* Fields, waves &
+  electromagnetics(Category:Fields,_waves_%26_electromagnetics "Category:Fields, waves & electromagnetics")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Mary Tsingou Menzel](#About_Mary_Tsingou_Menzel)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Working at Los Alamos: Hand Computing to
-    MANIAC](#Working_at_Los_Alamos:_Hand_Computing_to_MANIAC)
-  * [4\.3 Going Back to School and Working with MANIAC
-    II](#Going_Back_to_School_and_Working_with_MANIAC_II)
-  * [4\.4 Parents' Influence on Career](#Parents.27_Influence_on_Career)
-  * [4\.5 From IBM 704s to Cray to Stretch
-    Computers](#From_IBM_704s_to_Cray_to_Stretch_Computers)
-  * [4\.6 Moving to the Accelerator Group and Working on the "Proton
+* 1 About Mary Tsingou Menzel(#About_Mary_Tsingou_Menzel)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Working at Los Alamos: Hand Computing to
+    MANIAC(#Working_at_Los_Alamos:_Hand_Computing_to_MANIAC)
+  * 4\.3 Going Back to School and Working with MANIAC
+    II(#Going_Back_to_School_and_Working_with_MANIAC_II)
+  * 4\.4 Parents' Influence on Career(#Parents.27_Influence_on_Career)
+  * 4\.5 From IBM 704s to Cray to Stretch
+    Computers(#From_IBM_704s_to_Cray_to_Stretch_Computers)
+  * 4\.6 Moving to the Accelerator Group and Working on the "Proton
     Storage
-    Ring"](#Moving_to_the_Accelerator_Group_and_Working_on_the_.22Proton_Storage_Ring.22)
-  * [4\.7 Family Life](#Family_Life)
-  * [4\.8 Reflections on the Field of
-    Computing](#Reflections_on_the_Field_of_Computing)
-  * [4\.9 On Using the Cray](#On_Using_the_Cray)
-  * [4\.10 On MANIAC](#On_MANIAC)
-  * [4\.11 Witnessing Nuclear Testing](#Witnessing_Nuclear_Testing)
-  * [4\.12 Working on Classified
-    Projects](#Working_on_Classified_Projects)
-  * [4\.13 Reflection on Career in
-    Computing](#Reflection_on_Career_in_Computing)
-  * [4\.14 Details of Classified
-    Projects](#Details_of_Classified_Projects)
-  * [4\.15 Being a Woman in the Field, Striving for Equal
-    Pay](#Being_a_Woman_in_the_Field.2C_Striving_for_Equal_Pay)
-  * [4\.16 Reflection on Other Women at the
-    Lab](#Reflection_on_Other_Women_at_the_Lab)
-  * [4\.17 Advice for Women in
-    Computing](#Advice_for_Women_in_Computing)
+    Ring"(#Moving_to_the_Accelerator_Group_and_Working_on_the_.22Proton_Storage_Ring.22)
+  * 4\.7 Family Life(#Family_Life)
+  * 4\.8 Reflections on the Field of
+    Computing(#Reflections_on_the_Field_of_Computing)
+  * 4\.9 On Using the Cray(#On_Using_the_Cray)
+  * 4\.10 On MANIAC(#On_MANIAC)
+  * 4\.11 Witnessing Nuclear Testing(#Witnessing_Nuclear_Testing)
+  * 4\.12 Working on Classified
+    Projects(#Working_on_Classified_Projects)
+  * 4\.13 Reflection on Career in
+    Computing(#Reflection_on_Career_in_Computing)
+  * 4\.14 Details of Classified
+    Projects(#Details_of_Classified_Projects)
+  * 4\.15 Being a Woman in the Field, Striving for Equal
+    Pay(#Being_a_Woman_in_the_Field.2C_Striving_for_Equal_Pay)
+  * 4\.16 Reflection on Other Women at the
+    Lab(#Reflection_on_Other_Women_at_the_Lab)
+  * 4\.17 Advice for Women in
+    Computing(#Advice_for_Women_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:47\.
 
 * This page has been accessed 3,593 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

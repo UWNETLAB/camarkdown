@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Rosemary_Candlin&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Rosemary_Candlin&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Rosemary_Candlin)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Rosemary_Candlin&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Rosemary_Candlin "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Rosemary_Candlin "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Rosemary_Candlin&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Rosemary_Candlin&oldid=108217 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Rosemary_Candlin&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Rosemary_Candlin)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ARosemary+Candlin)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Rosemary_Candlin&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Rosemary_Candlin&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Rosemary_Candlin)
+  
+  * Discussion(index.php?title=Oral-History_talk:Rosemary_Candlin&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Rosemary_Candlin "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Rosemary_Candlin "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Rosemary_Candlin&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Rosemary_Candlin&oldid=108217 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Rosemary_Candlin&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Rosemary_Candlin)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ARosemary+Candlin)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Rosemary Candlin
@@ -220,10 +220,10 @@ Did you have any sense of following his footsteps?
 
 **Candlin:**
 
-Well, not into the Navy, no\! \[laughs\] I mean, I could have, I
+Well, not into the Navy, no\! \laughs\ I mean, I could have, I
 suppose, but no—not my kind of thing, really\! No, I don’t think I would
 have survived very long in that. Not very amenable to discipline\!
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -244,7 +244,7 @@ I don’t know. I mean, things were so disrupted then that you never
 looked more than about a week ahead. I expected things to change and to
 have to adapt. I didn’t really sit down and think, “Now I plan out my
 career: I’m going to go to university, and then I’m going to do
-something-or-other.” \[laughs\] In a sense, I feel I never made a
+something-or-other.” \laughs\ In a sense, I feel I never made a
 decision in my life\! Just sort of drifted into this or that.
 
 **Abbate:**
@@ -362,7 +362,7 @@ was put in for that. And also, of course, I knew that, being a
 collegiate university, it was more fun in a way than going to somewhere
 where you had to . . . Certainly at that stage, some of the others were
 rather boring. I don’t think it was that much better academically; in
-fact, I think the teaching was completely appalling\! \[laughs\] But
+fact, I think the teaching was completely appalling\! \laughs\ But
 from the social point of view, I think it was quite nice.
 
 **Abbate:**
@@ -385,7 +385,7 @@ It sounds challenging.
 
 **Candlin:**
 
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -405,7 +405,7 @@ And those were different people.
 
 They were different people. Yes, they were young Ph.D. students, mostly,
 who had just been through the course themselves a few years earlier, and
-had a bit more idea\! \[laughs\] But some of the people there were
+had a bit more idea\! \laughs\ But some of the people there were
 really pretty disgraceful.
 
 **Abbate:**
@@ -450,7 +450,7 @@ How did you choose crystallography?
 
 **Candlin:**
 
-It chose me\! \[laughs\] Well, my Director of Studies there was a quite
+It chose me\! \laughs\ Well, my Director of Studies there was a quite
 a well-known woman, and she was a crystallographer. Well, I liked it; I
 mean, I found it quite fun; but I think the thing that influenced me
 most was that there was quite a sort of female mafia in that subject.
@@ -482,7 +482,7 @@ the main emphasis was going over to protein work and that kind of thing,
 and I didn’t really want to get into that. I think, if you’re going to
 do it, you need to know a lot about chemistry and that kind of thing. So
 I didn’t find that all that enticing, really, as a long-term thing. But
-I got employment with it \[laughs\], so that was the immediate goal.
+I got employment with it \laughs\, so that was the immediate goal.
 
 ### Early Computing Experience
 
@@ -522,12 +522,12 @@ thing: to get it in and done\!
 So that was the first time I ever did computing: first of all using
 other people’s programs and simply running them. It was quite
 hair-raising, actually, because it was in a building which had been a
-store of some kind, full of wooden floors—terrible fire risk\!—and \[the
-EDSAC\], being made of valves (vacuum tubes, to you), would catch on
+store of some kind, full of wooden floors—terrible fire risk\!—and \the
+EDSAC\, being made of valves (vacuum tubes, to you), would catch on
 fire if it was set off. The first thing you did when you signed up to be
 a computer user was to say, first of all, you knew where to switch the
 electricity off; secondly, you knew how to put a fire out\! They
-wouldn’t let you use it unless you could do this. \[laughs\]
+wouldn’t let you use it unless you could do this. \laughs\
 
 **Abbate:**
 
@@ -656,7 +656,7 @@ analyzed?
 **Candlin:**
 
 That’s right, yes. Which I found extremely dull, as a matter of fact\!
-\[laughs\] But it was a rather nice life.
+\laughs\ But it was a rather nice life.
 
 **Abbate:**
 
@@ -695,10 +695,10 @@ things.
 **Candlin:**
 
 Yes. And then I—oh, what happened then? Then I had baby, and then I had
-another baby\! \[laughs\] And then we came to Edinburgh, and it was
+another baby\! \laughs\ And then we came to Edinburgh, and it was
 really extremely difficult to find anything to do here at all for quite
 a long time, and I just did Demonstrating jobs in their second-year
-physics lab—electricity and magnetism—which was . . . \[laughs\] I told
+physics lab—electricity and magnetism—which was . . . \laughs\ I told
 you, I never had any career plan\!
 
 And then a friend of mine from Oxford, who was also a crystallographer,
@@ -733,7 +733,7 @@ And that was in your field, more or less?
 
 Well, it was standard physics, you know; second-year physics; so in
 principle I knew it, but in fact I didn’t actually know a great deal
-about it\! \[laughs\]
+about it\! \laughs\
 
 **Abbate:**
 
@@ -789,7 +789,7 @@ think you really had to be a chemist at that point, and I didn’t want to
 be, and maybe I should look around for something new. So I asked, Could
 I do his diploma? Sydney said, “No no\! We’re far too busy. We’re just
 doing this new system. But you can come along, and you can be a Junior
-Lecturer and teach the first-year students how to program.” \[laughs\]
+Lecturer and teach the first-year students how to program.” \laughs\
 So this was how I got into computing\!
 
 **Abbate:**
@@ -812,7 +812,7 @@ Sydney hired me, because at least I could write a program, which then
 there weren’t that many people around who could. I think the group was
 something like about six: of whom two were actually Numerical Analysts
 at that point; and a couple of his students who had come up from
-Imperial \[College\] with him, I think; and maybe a couple of people
+Imperial \College\ with him, I think; and maybe a couple of people
 doing Ph.D.s in something-or-another—yes, probably two or three doing
 that. So it was quite a small group, and there wasn’t a great deal of
 actual teaching there, so he wanted somebody who could actually stand
@@ -868,7 +868,7 @@ numerical analysis things. And it didn’t work out like that at all,
 because in fact the main interest of the department was computer
 systems—you know, the actual computer systems themselves, whether
 theoretical or engineering aspects of it. And this didn’t go down
-entirely too well, I think, with certain people\! \[laughs\] So I
+entirely too well, I think, with certain people\! \laughs\ So I
 suspect that the original invitation came from Applied Maths, but I’m
 not sure about that. I couldn’t tell you. It was before I joined them.
 
@@ -892,8 +892,8 @@ And they weren’t building their own machines here?
 Not at that point. They did try—they did build some work stations,
 fairly well ahead of when other people did—but no, they weren’t building
 their own machines. They didn’t even have a machine for some time. Then
-this famous \[DEC\] PDP-8 appeared, and this was a great excitement: an
-actual computer\! \[laughs\]
+this famous \DEC\ PDP-8 appeared, and this was a great excitement: an
+actual computer\! \laughs\
 
 **Abbate:**
 
@@ -922,7 +922,7 @@ Once you were in the Computer Science Department, what was that like?
 
 **Candlin:**
 
-Well, it was a bit baffling, really\! \[laughs\] Because, you know, I’d
+Well, it was a bit baffling, really\! \laughs\ Because, you know, I’d
 lost my structures that I knew about: you know, things like conferences
 and journals. I had no idea where you looked for these. In fact, a lot
 of them didn’t really exist, because the subject was so new that there
@@ -983,7 +983,7 @@ Who decided what was going to be covered?
 
 **Candlin:**
 
-Well, we did, roughly speaking\! \[laughs\]
+Well, we did, roughly speaking\! \laughs\
 
 **Abbate:**
 
@@ -998,7 +998,7 @@ of what was going to be in it, and then the faculty would sit over it
 and say, “No, this is too much material,” or “Not enough,” or “Not high
 enough standard.” You had to put out a syllabus of some kind for that. I
 suppose Sydney invented it himself, probably. You know, he went off on
-his own quite a bit\! \[laughs\]
+his own quite a bit\! \laughs\
 
 But anyhow, somehow these things got into the official university
 calendar, that certain subjects were going to be taught. I mean, it was
@@ -1009,7 +1009,7 @@ allocated to teach some particular named course, usually for a
 term—three lectures a week for a term or something like that—and
 they’d decide themselves what they’d put in it. You had a very, very
 free hand, and that went on for quite a long time, actually—longer than
-you might think really was possible\! \[laughs\]
+you might think really was possible\! \laughs\
 
 **Abbate:**
 
@@ -1120,11 +1120,11 @@ don’t like this course that they’ve gone to, and could you find them
 something else? And you say, “Well, would you like to go to this, or
 would you like to go to that?” And they say, “Well, perhaps I’d like to
 go to something else”—but it turns out it’s completely impossible,
-because of the timetable or something. \[laughs\] And then you suggest
+because of the timetable or something. \laughs\ And then you suggest
 something else, and they say, “But would I have to write an essay?” And
 I’d say, “Well yes, you do have to write essays for History of Science”
 or whatever it is, and they say, “No, I don’t think I fancy that\!”
-\[laughs\] So that always took a very long time. Not most of them, but a
+\laughs\ So that always took a very long time. Not most of them, but a
 number of them were always on your doorstep.
 
 **Abbate:**
@@ -1250,7 +1250,7 @@ about four or five years I became a Director of Studies.
 
 But you see, I was quite old when I started on this lark\! I think I was
 38 or 39 when I started this new career, and a mother—so, you know, I
-was an obvious person to be a Director of Studies\! \[laughs\]
+was an obvious person to be a Director of Studies\! \laughs\
 
 **Abbate:**
 
@@ -1300,7 +1300,7 @@ Do you feel like you had a big impact on those students?
 
 **Candlin:**
 
-No\! \[laughs\] I don’t think I had any impact at all\! I don’t actually
+No\! \laughs\ I don’t think I had any impact at all\! I don’t actually
 think teachers do.
 
 **Abbate:**
@@ -1312,7 +1312,7 @@ Neither as a teacher nor as an advisor?
 No; except that I do go along around Edinburgh, and sometimes people
 come rushing up and they say, “Hello Dr. Candlin\!” And I think, “Who on
 earth is this?” And they say, “You were my Director of Studies\!”
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -1325,7 +1325,7 @@ No. Funnily enough, they all came from outside, the Ph.D. students;
 there seemed to be a quite a big turnover. I suppose some of them must
 have stayed on, but most of our undergraduates went off to jobs in
 industry. Not many of them were academics at all. They got very well
-paid—better than we did\! \[laughs\] And most of the Ph.D. students came
+paid—better than we did\! \laughs\ And most of the Ph.D. students came
 from elsewhere; at least it seemed to me that that’s how it worked out.
 
 **Abbate:**
@@ -1404,7 +1404,7 @@ apply artificial intelligence techniques to this and that. And it was
 clear that he wasn’t making much impact—because, I mean, the physics is
 known: the things basically go in a helix through a magnetic field, and
 that kind of thing, so that you’ve got a lot of information. You know
-how the thing should behave; it’s not an unknown situation\! \[laughs\]
+how the thing should behave; it’s not an unknown situation\! \laughs\
 
 Yes, it’s useful to have some idea, I think—though it’s not my
 background; I mean, the physics I knew about was solid state physics,
@@ -1534,7 +1534,7 @@ crystallography, just working in the mornings. But when I said to Sydney
 Michaelson, “Could you take me on?” he said “Oh yes,” and I said “It
 must be part-time,” and he said, “Oh yes.” And then when it turned up,
 he finally came along and said, “I fixed you up”—and it was a full-time
-job\! \[laughs\] But he was very understanding, so I didn’t actually
+job\! \laughs\ But he was very understanding, so I didn’t actually
 really do a full day’s work for the first bit. My youngest was three, I
 think, at that point, so going to nursery school but coming home at
 lunch time; and it was always a bit of a panic to see whether we could
@@ -1587,7 +1587,7 @@ it might be. I don’t think they do that now. In fact I don’t think they
 can, because everything’s much more official: you have to apply for a
 job, and you have to have a selection panel and all the rest of
 it—otherwise, a question’s asked in the papers about favoritism, and
-all that kind of thing\! \[laughs\] So I think that aspect of it is
+all that kind of thing\! \laughs\ So I think that aspect of it is
 actually more difficult than it was, because the whole thing’s more
 formal; you’re on the same footing as everybody else. And being on the
 same footing as everybody else is probably a good thing, on the whole,
@@ -1603,7 +1603,7 @@ background.
 **Candlin:**
 
 I think anybody with my background turning up now wouldn’t be considered
-for a moment\! \[laughs\]
+for a moment\! \laughs\
 
 **Abbate:**
 
@@ -1641,7 +1641,7 @@ Did any of your children go into computing?
 Well, they all did computing, but there’s no one . . . The only one, I
 suppose, who actually got a straightforward software job—they’re all in
 industry—is my son, who works for a small database company; and he did a
-degree in Chinese\! \[laughs\] The other ones all use computers, but
+degree in Chinese\! \laughs\ The other ones all use computers, but
 they’re application-oriented, rather than being pure computing.
 
 **Abbate:**
@@ -1650,7 +1650,7 @@ Did they learn anything about computers from you?
 
 **Candlin:**
 
-Well, I don’t know. Not really, no\! \[laughs\]
+Well, I don’t know. Not really, no\! \laughs\
 
 **Abbate:**
 
@@ -1660,7 +1660,7 @@ It wasn’t sort of something around the household?
 
 Well, I suppose there was something around the house. My eldest son was
 terribly keen at school, but he did physics in the end—just like all the
-rest of us, apart from the one who did Chinese\! \[laughs\]
+rest of us, apart from the one who did Chinese\! \laughs\
 
 ### On Changes in Computing
 
@@ -1702,7 +1702,7 @@ changed at all?
 
 **Candlin:**
 
-Well, all of these boys who get obsessed by it\! \[laughs\] I think they
+Well, all of these boys who get obsessed by it\! \laughs\ I think they
 still exist, probably. I think a lot of people go in for it because they
 think they’re going to get a good job at the end of it.
 
@@ -1739,10 +1739,10 @@ What have you found most satisfying about working with computing?
 
 **Candlin:**
 
-\[laughs\] Frustration\! I don’t know—satisfying? Things that never
-work; things break down just when you want to use them? \[laughs\]
+\laughs\ Frustration\! I don’t know—satisfying? Things that never
+work; things break down just when you want to use them? \laughs\
 Wasn’t there somebody who said, you know, that if cars had that degree
-of reliability . . . \[laughs\]
+of reliability . . . \laughs\
 
 **Abbate:**
 
@@ -1751,7 +1751,7 @@ But you obviously speak about them with enthusiasm.
 **Candlin:**
 
 Yes, I think it’s kind of fun. I think it is what you can do with them,
-really, that I find interesting, rather than in themselves. \[pause\]
+really, that I find interesting, rather than in themselves. \pause\
 And then, of course, I do like the problem-solving aspect of it. You
 know: how are you going to formulate a particular problem in terms of a
 computer? I suppose it’s a sort of design. I suppose I’m basically an
@@ -1783,7 +1783,7 @@ that you are proud of?
 **Candlin:**
 
 No. It’s an ephemeral kind of thing, you know: you do something, and a
-year later it’s quite obsolete\! \[laughs\]
+year later it’s quite obsolete\! \laughs\
 
 **Abbate:**
 
@@ -1794,7 +1794,7 @@ So more of a process than a concrete thing?
 I think so. No, I can’t look at anything and say, “You know, that’s . .
 .” I mean, at the time I thought, “Yes, that’s quite a nice bit of
 work.” But now I can’t say, “This is going to stand forever”—or even
-for five years\! \[laughs\] That’s something that’s a bit unsatisfactory
+for five years\! \laughs\ That’s something that’s a bit unsatisfactory
 about it: that everything seems so transient.
 
 ### On Early Computing Culture: Theory vs. Practice
@@ -1844,7 +1844,7 @@ Did you find it difficult to work with people in the department?
 
 **Candlin:**
 
-No, I found them delightful, mostly\! \[laughs\] But I did have a
+No, I found them delightful, mostly\! \laughs\ But I did have a
 feeling that things were going on behind my back, to some extent—in the
 beginning, at any rate.
 
@@ -1856,7 +1856,7 @@ In the sense that there was a group of people . . .
 
 Yes, because there was a group of people into which I came, and it was
 purely Sydney who had brought me in, and the others were thinking, “Who
-on earth is she?” \[laughs\]
+on earth is she?” \laughs\
 
 **Abbate:**
 
@@ -1876,8 +1876,8 @@ or what subjects should be taught?
 **Candlin:**
 
 I suppose we did, but it never seemed to have a great deal of effect.
-\[laughs\] I mean, yes, we talked like anything; we all sort of shouted
-each other down\! \[laughs\] It was very informal.
+\laughs\ I mean, yes, we talked like anything; we all sort of shouted
+each other down\! \laughs\ It was very informal.
 
 **Abbate:**
 
@@ -1899,7 +1899,7 @@ I don’t know. Yes, I suppose it was more practically oriented: it was
 the programming, and the systems design, and that kind of stuff.
 Certainly there was a feeling that the theory people didn’t do much on
 the way of teaching; and if they did, they were so unintelligible that
-no students would go to their courses\! \[laughs\] So yes, there was a
+no students would go to their courses\! \laughs\ So yes, there was a
 bit of a . . . And yet they got all the money; they got all the research
 money\! So I think there was a bit of bitter feeling about some
 people—not everybody, but some people.
@@ -1984,7 +1984,7 @@ Were women working in the systems area as well?
 
 **Candlin:**
 
-Only me, I think\! \[laughs\] There were one or two who did Ph.D.’s, but
+Only me, I think\! \laughs\ There were one or two who did Ph.D.’s, but
 not many.
 
 **Abbate:**
@@ -2019,7 +2019,7 @@ into computing?
 **Candlin:**
 
 I do think you have to continue to be flexible. I mean, I think I’ve
-perhaps shown more flexibility than one should \[laughs\], but I think
+perhaps shown more flexibility than one should \laughs\, but I think
 you do. And I think because it’s such a rapidly changing subject, you
 have to be very careful that you don’t go into what’s currently
 fashionable, and then find two years later that nobody wants that. I
@@ -2038,7 +2038,7 @@ don’t get too much into one specialist slot, because I think if you
 look at course descriptions, some of them look very, very specialized
 indeed, and then you’ll find you’re left with something which is no use
 after a few years. I think that might be my advice—but that’s not
-particularly to women; that’s to everybody\! \[laughs\]
+particularly to women; that’s to everybody\! \laughs\
 
 **Abbate:**
 
@@ -2114,49 +2114,49 @@ maybe making the right choice.
 Well, thank you very much\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Rosemary_Candlin&oldid=108217>"
+"<http:/ethw.org/index.php?title=Oral-History:Rosemary_Candlin&oldid=108217>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computer
-  science](/Category:Computer_science "Category:Computer science")
-* [Programming](/Category:Programming "Category:Programming")
-* [Computing](/Category:Computing "Category:Computing")
+* Computer
+  science(Category:Computer_science "Category:Computer science")
+* Programming(Category:Programming "Category:Programming")
+* Computing(Category:Computing "Category:Computing")
 
 ## Contents
 
-* [1 About Rosemary Candlin](#About_Rosemary_Candlin)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Early Education](#Early_Education)
-  * [4\.2 Studying at Cambridge](#Studying_at_Cambridge)
-  * [4\.3 Early Computing Experience](#Early_Computing_Experience)
-  * [4\.4 Work Experience in
-    Crystallography](#Work_Experience_in_Crystallography)
-  * [4\.5 Getting into Computing: Teaching Computer Science at
-    Edinburgh](#Getting_into_Computing:_Teaching_Computer_Science_at_Edinburgh)
-  * [4\.6 Serving as a Director of
-    Studies](#Serving_as_a_Director_of_Studies)
-  * [4\.7 Working at CERN in Geneva](#Working_at_CERN_in_Geneva)
-  * [4\.8 On Women in Computing](#On_Women_in_Computing)
-  * [4\.9 On Changes in Computing](#On_Changes_in_Computing)
-  * [4\.10 On Working with Computers](#On_Working_with_Computers)
-  * [4\.11 On Early Computing Culture: Theory vs.
-    Practice](#On_Early_Computing_Culture:_Theory_vs._Practice)
-  * [4\.12 Advice for Young Women Who Are Considering a Career in
-    Computing](#Advice_for_Young_Women_Who_Are_Considering_a_Career_in_Computing)
+* 1 About Rosemary Candlin(#About_Rosemary_Candlin)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Early Education(#Early_Education)
+  * 4\.2 Studying at Cambridge(#Studying_at_Cambridge)
+  * 4\.3 Early Computing Experience(#Early_Computing_Experience)
+  * 4\.4 Work Experience in
+    Crystallography(#Work_Experience_in_Crystallography)
+  * 4\.5 Getting into Computing: Teaching Computer Science at
+    Edinburgh(#Getting_into_Computing:_Teaching_Computer_Science_at_Edinburgh)
+  * 4\.6 Serving as a Director of
+    Studies(#Serving_as_a_Director_of_Studies)
+  * 4\.7 Working at CERN in Geneva(#Working_at_CERN_in_Geneva)
+  * 4\.8 On Women in Computing(#On_Women_in_Computing)
+  * 4\.9 On Changes in Computing(#On_Changes_in_Computing)
+  * 4\.10 On Working with Computers(#On_Working_with_Computers)
+  * 4\.11 On Early Computing Culture: Theory vs.
+    Practice(#On_Early_Computing_Culture:_Theory_vs._Practice)
+  * 4\.12 Advice for Young Women Who Are Considering a Career in
+    Computing(#Advice_for_Young_Women_Who_Are_Considering_a_Career_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:41\.
 
 * This page has been accessed 2,167 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

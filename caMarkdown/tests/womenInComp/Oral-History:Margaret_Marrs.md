@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Margaret_Marrs&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Margaret_Marrs&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Margaret_Marrs)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Margaret_Marrs&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Margaret_Marrs "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Margaret_Marrs "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Margaret_Marrs&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Margaret_Marrs&oldid=108366 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Margaret_Marrs&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Margaret_Marrs)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AMargaret+Marrs)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Margaret_Marrs&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Margaret_Marrs&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Margaret_Marrs)
+  
+  * Discussion(index.php?title=Oral-History_talk:Margaret_Marrs&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Margaret_Marrs "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Margaret_Marrs "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Margaret_Marrs&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Margaret_Marrs&oldid=108366 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Margaret_Marrs&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Margaret_Marrs)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMargaret+Marrs)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Margaret Marrs
@@ -141,8 +141,8 @@ And where did you grow up?
 
 **Marrs:**
 
-In Lancashire. I don’t know whether you will get that far \[on your
-research trip\]. Well, I lived in a village called Simonstone, which was
+In Lancashire. I don’t know whether you will get that far \on your
+research trip\. Well, I lived in a village called Simonstone, which was
 in the Burnley area, and went to the local school, which was a church
 school in those days; and then I went to the grammar school in
 Clitheroe, which was a country town, and the boroughs
@@ -161,7 +161,7 @@ the hills, and you only needed to go fifty yards and you were in the
 open country. A very, very attractive part to be . . .
 
 And then from there, I was lucky to get a scholarship to Girton
-\[College\] at Cambridge, and came up here for a very happy three years.
+\College\ at Cambridge, and came up here for a very happy three years.
 
 **Abbate:**
 
@@ -190,7 +190,7 @@ So were you interested in math from an early age?
 
 **Marrs:**
 
-Well, I had a knack, I suppose\! \[laughs.\] I think it ran in the
+Well, I had a knack, I suppose\! \laughs.\ I think it ran in the
 family for a very long time. My father’s family were farmers, but the
 ones that weren’t farmers—the younger sons—tended to be engineers,
 ships’ engineers, because they lived in the Isle of Mann; so of course
@@ -227,8 +227,8 @@ family name, in Queensland, and that was a sort of builders’ merchants
 and everything like that, so he was that sort of a person.
 
 But my parents met in the bank; my mother was in the bank as well\!
-\[laughs.\] So we’ve always had voluntary jobs as treasurers. \[both
-laugh.\]
+\laughs.\ So we’ve always had voluntary jobs as treasurers. \[both
+laugh.\
 
 **Abbate:**
 
@@ -263,7 +263,7 @@ And then my sister was like me. She did specialize in sciences; I think
 she did maths, physics, and—whether it was chemistry or what her other
 subject would be—in the sixth form, and she went to Liverpool
 University; and she ended up in computing as well. I don’t know whether
-you will talk to her, but the way she got in \[to computing\] was
+you will talk to her, but the way she got in \to computing\ was
 unusual. By the time she was at university, I was married in Cambridge,
 and we had somebody in our department—Dr. Miller, Jeff Miller—Lucy
 Slater may have mentioned him this morning, I don’t know. He was a great
@@ -285,8 +285,8 @@ So she was home in the summer, so she would come, she’d have a vacation
 job; and my sister was at the university, so we asked Dr. Miller. “Oh,
 yes, yes, he’d got something for her”—and, as I say, he was doing this
 second edition of his handbook to mathematical tables, and it was all at
-proof stage, but there was a vast amount of checking to be done, so \[my
-sister\] Helen had the job of this. Well, it was all on cards, like
+proof stage, but there was a vast amount of checking to be done, so \my
+sister\ Helen had the job of this. Well, it was all on cards, like
 this, written on cards what the reference was, and Helen had to go to
 the libraries and check these references. I don’t know whether she did
 that for a couple of years, I can’t remember; but she certainly did that
@@ -325,8 +325,8 @@ interview, because that was the first one, and I think this lady sensed
 that market research wasn’t my idea. But they also had a statistics
 department. They didn’t have any vacancies at the time, but it was a
 case of, “Well, one might turn up and we’ll bear you in mind.” Well
-then, later on, a friend of mine had been to MetroVicks \[The
-Metropolitan Vickers Company\] in Manchester. That’s a very big
+then, later on, a friend of mine had been to MetroVicks \The
+Metropolitan Vickers Company\ in Manchester. That’s a very big
 engineering firm; I don’t know that it’s still bearing that name now; it
 was one of the very big ones who took apprentices and graduate
 apprentices. She was very impressed with it, but as she was planning to
@@ -347,7 +347,7 @@ So Mrs. Baxter did this—she organized these two interviews—and I went
 there, and went up to Ferranti’s. I got there late for my interview,
 which was a very bad start, but I think they expected this, because it
 was something like a twenty-minute bus service, and you always just
-missed one bus\! \[laughs.\] It was a Dr. Bowden who was in charge of
+missed one bus\! \laughs.\ It was a Dr. Bowden who was in charge of
 this department, and he reckoned he didn’t know much about it. The way
 he talked was, “I’m told that if you like doing crosswords, you’ll like
 this\!” Anyway, I was offered a job there. I think I was offered the job
@@ -356,9 +356,9 @@ this Ferranti’s sounded quite passable, so I went there.
 
 They were very small in those days. I was certainly the juniorest in
 that department. There were three of us started the same autumn, and one
-of them—she’s on this list \[of people who used the Mark I\]—one of them
-had done a few years teaching, and the other one \[Mary Lee
-Berners-Lee\] had done research in Australia in—I think it was
+of them—she’s on this list \of people who used the Mark I\—one of them
+had done a few years teaching, and the other one \Mary Lee
+Berners-Lee\ had done research in Australia in—I think it was
 astronomy, was her subject—and come back; so they were ahead of me, and
 otherwise it was really quite senior staff. Girl called Audrey—Audrey
 Bates she was then—she’d done an M. Sc. at Manchester University in
@@ -376,7 +376,7 @@ I’d got various colleagues, and one in particular, who I’m still in
 touch with, said—well, he said, “I have a friend there.” He said, “You
 can inquire from him without any obligation”—and it was Eric Mutch, who
 was kind of a manager at the time—”and just have an informal chat about
-it.” So I wrote; and by return \[post\], I had a phone call: Could I go
+it.” So I wrote; and by return \post\, I had a phone call: Could I go
 for interview that Saturday? Sort of flung right in\! So I said,
 “There’s no reason why I shouldn’t.” So I did, and I went for this
 interview, and I was offered the job\! I mean, it came as a great
@@ -402,7 +402,7 @@ What did you actually do for Ferranti?
 
 I was a computer programmer. We did computer programming. I don’t know
 if—You won’t know anything about that; it was all done effectively in
-binary\! \[laughs.\]
+binary\! \laughs.\
 
 **Abbate:**
 
@@ -412,10 +412,10 @@ Was this with punch cards, or tape, or . . . ?
 
 It was paper tape in those days. And we had coding sheets, and they had
 . . . I can’t remember much of it, but this tells you it. It’s called
-“Stroke E,” is the club \[of people who worked on the computer\]. The
-sheets were 32 lines \[draws picture of coding sheet\], and then four
-boxes across, and the addresses were /, E, @, A, and so on. I think
-they’re related to the [ASCII](/ASCII "ASCII") codes, or something
+“Stroke E,” is the club \of people who worked on the computer\. The
+sheets were 32 lines \draws picture of coding sheet\, and then four
+boxes across, and the addresses were , E, @, A, and so on. I think
+they’re related to the ASCII(ASCII "ASCII") codes, or something
 like that—teleprinter codes. And in theory, it had 32 by 32—did it have
 32 by 32, the store? Possibly; I don’t know. Anyway, these characters
 represented five bits, and we programmed, and the instructions were
@@ -423,7 +423,7 @@ like: “colon, colon @”—might have been “@”—I can’t remember what t
 instructions were now. So we coded like that; it was at that level of
 stuff.
 
-Well, first of all, we had to get to know it. \[laughs.\] In fact the
+Well, first of all, we had to get to know it. \laughs.\ In fact the
 first job we were given: This Dr. Bowden who had interviewed me had
 written one of the early books, Faster Than Thought, about computers as
 he saw it at that stage; and Betty and I, who’d started a month before
@@ -431,9 +431,9 @@ Mary, we were given the job of reading this and proofreading and so on,
 so we got to know a bit about that. Then we were sent on a course up to
 Cambridge. Cambridge did this summer school every autumn—I think they
 got the idea from MIT—and it was a fortnight in September. So we learnt
-the Cambridge machine code there, but it helped having had a week \[at
-Ferranti\] before we’d gone. Then when we came back, it helped very much
-having that \[course\].
+the Cambridge machine code there, but it helped having had a week \at
+Ferranti\ before we’d gone. Then when we came back, it helped very much
+having that \course\.
 
 We were given projects: Betty was given something connected with payroll
 and income tax, and I—I suppose because I had come from a maths
@@ -447,7 +447,7 @@ Ferranti had in-house programmers doing programming for their clients?
 **Marrs:**
 
 Yes, that’s right; yes. And of course, in those days, there were hardly
-any clients\! \[both laugh.\]
+any clients\! \both laugh.\
 
 The man that I worked for—worked with, put it that way; he was senior to
 me—he had done a job for the Shirley Institute in Manchester before I
@@ -456,11 +456,11 @@ doing this. There was a paper published in the late 1940s, I suppose it
 was, by Stan Gill, and Stan had adapted the Runge-Kutta method of
 solving differential equations for automatic computers. You started with
 your equations and initial values, and you progressed everything on by
-one step. It was very easily adapted for computers. So [Cyril
-\[Veinott\]](/Cyril_G._Veinott "Cyril G. Veinott") and I were really
+one step. It was very easily adapted for computers. So Cyril
+\Veinott\](Cyril_G._Veinott "Cyril G. Veinott") and I were really
 doing that. Thirty-nine differential equations—some quite big number,
 anyway—was the project that we were on. Well, that was the whole year\!
-\[laughs.\] We were still doing it at the end of the year. But it was
+\laughs.\ We were still doing it at the end of the year. But it was
 early days of computers as well, so of course we had a lot of hardware
 troubles. We didn’t have our own at that stage; we used to use the
 computer at Manchester University. I don’t know whether you’re meeting
@@ -491,7 +491,7 @@ Is there anyone in particular you recommend I see?
 
 **Marrs:**
 
-Well, these people. \[Indicates list of Mark 1 people.\] We can have a
+Well, these people. \Indicates list of Mark 1 people.\ We can have a
 look at that afterwards.
 
 **Marrs:**
@@ -512,9 +512,9 @@ second husband—was blind, and we did family history, and he dealt with
 this by brailling all his stuff on cards. Well, when he died, in a lot
 of cases that was the only stuff, and I thought, “Well, I can’t just
 throw that away\!” So I’m transcribing, and I’m using cards in parallel
-with his; so I transcribe the braille to this \[punch card\], and then I
+with his; so I transcribe the braille to this \punch card\, and then I
 check it, and then I type it up on there, and a deck of about 50 cards
-is one page of A-4\. \[laughs.\] It’s sad, really\!
+is one page of A-4\. \laughs.\ It’s sad, really\!
 
 ### Working with EDSAC and Titan
 
@@ -526,12 +526,12 @@ when I came back from Cambridge and I was on this project, I was given
 four pieces of paper—and that was sort of very precious\! We didn’t have
 scrap paper or anything like that. So you wrote little, and you wrote on
 both sides. But once we got started on a computer: never short of paper;
-never, ever again\! \[both laugh.\]
+never, ever again\! \both laugh.\
 
 We had the use of the Manchester University’s computer on Mondays, and I
 think the University was very cunning about that, because the machine
 had been switched off over the weekend, so it always took several hours
-to get it up and running on the Monday morning\! \[laughs.\] So you
+to get it up and running on the Monday morning\! \laughs.\ So you
 didn’t go at half-past eight or nine; you knew very well it wouldn’t
 be up by then; but you’d roll along at about ten, and sometimes it was
 early the afternoon when it going. Sometimes it didn’t get going at all.
@@ -547,7 +547,7 @@ had a lovely story one time he told us about going over to America, to
 try and sell these computers, and wondering how he was going to get on.
 I think he was on the Queen Mary. Anyway, he didn’t feel so bad about
 it, when he met a man who was going over to try and sell lighthouses\!
-\[laughs.\]
+\laughs.\
 
 But they did sell a number of those Mark 1, and then they—after I—well,
 I think they were developing the Mark 1\* while I was there; I’m not
@@ -576,15 +576,15 @@ film.
 
 **Marrs:**
 
-Well, that \[computer\] was on paper tape as well, and they actually ran
+Well, that \computer\ was on paper tape as well, and they actually ran
 a physical queue there. They had—I think it was treasury tags—no, not
 treasury tags: crop clips hanging up on nails on the wall, and you came
 along with a little plastic bag with your paper tape rolled up and your
 instructions to the operator about: “Load program, press start, and at
 the first pause insert tape one, and then go back to this original tape,
 at the second stop insert tape two,” and things like that: all written
-instructions. \[You would use the first empty clip to hang your bag up
-on the wall and thus claim a place in the queue.\] And they had very
+instructions. \You would use the first empty clip to hang your bag up
+on the wall and thus claim a place in the queue.\ And they had very
 slow teleprinter for the output. And that was it. And the operator had
 to work this, and understand people’s hieroglyphics—you got used to
 them—and put the results in a rack with little—like a letter rack. I
@@ -602,8 +602,8 @@ working hours, and it was left on in the evenings, and senior research
 students—there was a list of people who were allowed to be left in
 charge of it, and they tended to be research students on big projects,
 that just had to sit and watch the machine while it slogged its way
-through their programs. And also, this Celia \[the junior operator?\]
-was at classes one day \[a week\], and one had to fit in lunch time, so
+through their programs. And also, this Celia \the junior operator?\
+was at classes one day \a week\, and one had to fit in lunch time, so
 you would go round these people and see would they like—they saw it as
 an hour and a quarter on the machine that they had in the daytime; they
 didn’t have to stay at night—and you’d find somebody to take over the
@@ -619,8 +619,8 @@ quite simple to use, and very versatile. And that was the one that
 people actually queued and put their own—fed their own things in. I
 think that developed at some stage; I don’t know whether it was always
 like that, I really can’t remember, but I know there was this actual
-physical queue of people. \[laughs.\] And that photograph with somebody
-feeding stuff in \[is of the EDSAC II user queue\].
+physical queue of people. \laughs.\ And that photograph with somebody
+feeding stuff in \is of the EDSAC II user queue\.
 
 They developed their peripherals then. They were developing them, of
 course, on EDSAC I, because they had magnetic tape going as well—these
@@ -636,7 +636,7 @@ be—no, IBM? I don’t know. . . But it was this 132 characters wide—120 or
 once; but it was this great mechanical thing, and all these 132 arms
 came up to the appropriate place and then a terrific crash as it
 printed—really noisy\! But it speeded up on the old teleprinter thing.
-At Ferranti’s, it \[the output\] certainly came out straight onto a
+At Ferranti’s, it \the output\ certainly came out straight onto a
 teleprinter, but I think by the time I got to Cambridge, it came out on
 paper tape, and then was fed through a teleprinter. So there was this
 delay between the two machines; but at any rate, it came out the speed
@@ -668,7 +668,7 @@ but they had to be very careful about those, because they couldn’t
 guarantee anything. They couldn’t guarantee turnaround, or completion of
 the jobs, because it was: if the machine packed up, the machine packed
 up, and that was it\! There wasn’t another one that you could use as a
-spare. \[laughs.\] So there wasn’t a lot of this that was taken on, but
+spare. \laughs.\ So there wasn’t a lot of this that was taken on, but
 I would be one of the people who was delegated these jobs to do.
 
 **Abbate:**
@@ -685,8 +685,8 @@ because he had shown an interest in computers due to one of his
 colleagues at school. Apparently this lad went to Metal Box Company in
 Worcester for a vacation job, and came back and told his friends his
 about it, and Robert thought, Oh, that sounded interesting. So the
-RNIB—Royal National Institute for the Blind—contacted Eric \[Mutch\],
-my husband, and \[asked\], “Any chance of this lad being trained as a
+RNIB—Royal National Institute for the Blind—contacted Eric \Mutch\,
+my husband, and \asked\, “Any chance of this lad being trained as a
 computer operator?” Well, it was all too visual, as I’ve said about
 that, and I wrote back and said, Well, it was too visual; I couldn’t see
 any way about that; but how about us having a go at teaching him
@@ -699,7 +699,7 @@ and they tended to be tabulating stuff. So we had my training, and we
 got it all beautifully tabulated. Well, in the end, he went to the
 school of agriculture; he was taken on by them; and this was invaluable,
 because most of their work was tabulated. Well, you can’t do what you
-want with \[software\] packages; you’re working within their
+want with \software\ packages; you’re working within their
 constraints. But I’d trained him to do this in machine code, so that he
 could go into machine code and do this stuff. I found that fun as well.
 
@@ -714,7 +714,7 @@ he enjoyed his work\! “Well,” I said, “So what? I enjoyed mine\!” And it
 was almost as if it hadn’t occurred to her—people worked to earn their
 money, but they didn’t necessarily enjoy what they were doing. I said,
 “I spent my whole career getting paid for doing puzzles all day\!”
-\[both laugh.\] I said, “What more can anybody ask?” \[laughs.\] And in
+\both laugh.\ I said, “What more can anybody ask?” \[laughs.\] And in
 a way, that’s how I saw it: I always enjoyed it\!
 
 **Abbate:**
@@ -727,7 +727,7 @@ sort of for the first time, how to do that particular thing?
 Oh, yes, yes. But it tended to be mathematical stuff. I did very little
 systems. It was only when they got Titan that I did some systems work,
 and the way of tackling it was done at a higher level. In fact, Karen
-\[Spärk-Jones’s\] husband was one of the people—Roger Needham—he was one
+\Spärk-Jones’s\ husband was one of the people—Roger Needham—he was one
 of the people that devised this. I mean, they saw the project as a
 whole, and little bits were farmed out to different people. By that
 time, they had quite a large staff, and there was quite a lot of helping
@@ -741,9 +741,9 @@ to be—I think you’d call it parameter fitting—where you have more
 equations than you have variables, so you’ve got to get a best fit. And
 they were really quite complicated things. There was one chap who I was
 sort of pushed onto straight away who was doing an economics—a model of
-the economy—and making very heavy weather of it, and \[they said\] “See
+the economy—and making very heavy weather of it, and \they said\ “See
 if you can’t help him push that along; it’s about time he submitted his
-Ph.D.\!” \[laughs.\] And there was another one who had a similar one; he
+Ph.D.\!” \laughs.\ And there was another one who had a similar one; he
 was perfectly competent, but I was to help him as well, and encourage
 him; and his was quite a lot of these equations, and I learned—I mean,
 this was a topic I didn’t know anything about at all\!
@@ -818,12 +818,12 @@ getting a new IBM computer, so ahead of this they’d got all their
 changes to the instructions of the COBOL, and how the COBOL worked—and
 most of it was the packing of data on magnetic tape—so that this
 enormous package of programs of theirs all had to be gone through, and
-converted for this new version of [FORTRAN](/FORTRAN "FORTRAN") \[for
-the IBM\]. But at one stage something came in, which was a new suite of
+converted for this new version of FORTRAN(FORTRAN "FORTRAN") \[for
+the IBM\. But at one stage something came in, which was a new suite of
 programs, so we were given one each, so at least we had something new to
 do; and then there was another one came in where it was machine-code
 programming, and again, we were given one of each, so we had that. But
-most of that time was updating these programs for the new \[machine\].
+most of that time was updating these programs for the new \machine\.
 
 Well, they had subjects, you see, that they were marked, and they had
 rules for working out which grade the students were in, so those had to
@@ -832,7 +832,7 @@ where E is the failure. This particular thing, I think the grades were
 changing from A to F, so they were different, and E and F were
 failures—something like that, anyway—so all the programs had to be
 changed like that. It was quite a big job, but a little bit
-soul-destroying. \[both laugh.\]
+soul-destroying. \both laugh.\
 
 I mean it was rather depressing altogether, and it got to the following
 Easter—I’d been there eight, eight or nine months, and ah\! it was
@@ -855,7 +855,7 @@ the year before they had taken on three people straight from university,
 so this particular year they were hoping to get somebody with more
 experience, and I just turned up at the right time. So I ended there,
 and it was the first time I’ve ever used a commercially available
-computer\! \[laughs.\]
+computer\! \laughs.\
 
 **Abbate:**
 
@@ -919,7 +919,7 @@ went there: “Statistical Program for Social Scientists,” I think it was.
 
 And it was something of a revelation going there; I think if you got an
 answer, that was all that was required. It didn’t necessarily have to be
-the right one\! \[laughs.\] Whereas when I’d been... And my second
+the right one\! \laughs.\ Whereas when I’d been... And my second
 husband was the same: He liked to check his work, that it was right; but
 the person who directed him was more concerned with getting on with the
 next job, and this upset him, like it would have upset me. But there, we
@@ -928,7 +928,7 @@ advisory desk. And there was a lot of doing documentation there—they did
 their own documentation—and the sort of thing was helping people in
 laymen’s terms . . .
 
-\[TAPE 1, SIDE 2\]
+\TAPE 1, SIDE 2\
 
 **Abbate:**
 
@@ -962,21 +962,21 @@ new to me, although I’d done programming—and the immediate boss was the
 one who organized this rota on the advisory desk. And I think it was at
 the end of the second week, the second Friday; but it was fairly early
 on: I’d read quite a bit, and somebody was away that day, and I said to
-Altman, “Can I do a session on the desk?” “Oh\!” \[gasps theatrically.\]
+Altman, “Can I do a session on the desk?” “Oh\!” \gasps theatrically.\
 He thought it was a bit too soon, I hadn’t been there long enough,
 really\! But anyway, he agreed in the end that I could do this session;
 so I was on the desk, and Liz, one of the other advisors, was to sit at
 the other side of the room in case I got into deep water. And the first
 customer came along, and his program hadn’t worked, and he said, “It
-worked yesterday, and I’ve only changed one instruction\!” \[laughs.\]
+worked yesterday, and I’ve only changed one instruction\!” \laughs.\
 And the second customer came along, and he’d got this program—his friend
 had given it to him, and it had worked, but he couldn’t get it work. And
 I thought, “This is where I came in.” I thought, “I’ve been answering
-questions like this all my career\!” \[laughs.\] And it didn’t matter
+questions like this all my career\!” \laughs.\ And it didn’t matter
 that it was a different computer, because you say, “What did you do?”
 and you narrow it down to “What did you change?” So it stands out like a
 sore thumb. And it was all right; I thought, “I’ve been here before\!”
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -984,20 +984,20 @@ Where were you actually living at that point?
 
 **Marrs:**
 
-Well, I’d still got my home here \[in Cambridge\], but it was July that
+Well, I’d still got my home here \in Cambridge\, but it was July that
 I went, so through the summer I was living on the campus and looking for
 a flat to buy. I didn’t know when I went over there what the situation
 was, whether I’d get digs, or what would happen. But property was a lot
-cheaper \[in Norwich\] than it was in Cambridge, and in fact, what
+cheaper \in Norwich\ than it was in Cambridge, and in fact, what
 happened: I had saved up for my next motorcar, so I’d got some money in
 the Building Society, and instead of buying a motorcar, I bought a flat
-in Norwich\! \[laughs.\] And then I realized, after a while, that it
+in Norwich\! \laughs.\ And then I realized, after a while, that it
 wasn’t just a temporary measure; it was the first permanent job I’d had.
 Because in Cambridge there were all these jobs that were financed by
 grants, and they’d be for five years, three years; and as I say, at
 Control Engineering, latterly, it was just one year at a time. And this
 was a permanent job; so I thought, “I’ll stay here.” So I was set up by
-then: I’d got this flat, and this house here that I came home \[to\]
+then: I’d got this flat, and this house here that I came home \to\
 most weekends. And that was how it went on. But when I think back, I
 wonder how I stuck it—because I usually drove up there on Monday morning
 and back on Friday night. Sometimes I’d use the bus or the train, just
@@ -1030,7 +1030,7 @@ This is Eric Mutch.
 
 **Marrs:**
 
-Yes, the one who had interviewed \[at Cambridge\] me this particular
+Yes, the one who had interviewed \at Cambridge\ me this particular
 Saturday morning, and in no time at all I’d been offered the job. Well,
 it turned out—I didn’t know, you see, but it turned out that he was
 going to America for a sabbatical summer, and helping at MIT—I suppose
@@ -1039,7 +1039,7 @@ he wanted to see this appointment sorted out before he went out, which
 was the urgency from this end; and I didn’t know that until a long time
 afterwards. And his story was always that people came and went, and I
 was so invaluable to the place that the only way of keeping me there was
-to marry me\! \[both laugh.\]
+to marry me\! \both laugh.\
 
 **Abbate:**
 
@@ -1047,7 +1047,7 @@ I’m sure there was a bit more to it than that\!
 
 **Marrs:**
 
-Well, I think there was, but I mean, it’s a good story\! \[laughs.\]
+Well, I think there was, but I mean, it’s a good story\! \laughs.\
 
 Well, Robert: We kept in touch with him, really having started him off.
 When first he came, he had just failed his A Level maths at school, and
@@ -1060,7 +1060,7 @@ specialist—but somehow I managed to enthuse him, I think. And I found
 what the weak points were, so I’d spend my week inventing examples and
 give them to him the next week, and he’d take them home and do them, so
 that he got this; and I think he—the second time he took it, he got
-nearly full marks\! \[laughs.\] So that was a good basis, which stood
+nearly full marks\! \laughs.\ So that was a good basis, which stood
 him in good stead, because particularly in the civil service—his
 department had university and civil service staff, at the school of
 agriculture—your qualifications determined what grade you went in,
@@ -1077,7 +1077,7 @@ I retired, I was here all the time. My story is that he wanted to get
 married, and I had no plans to get married again, and he was younger
 than I was, and I thought, “Well, what would happen when I’ve gone? What
 would he do when I’ve gone?” And my story is that he caught me in a weak
-moment, and I said yes\! \[both laugh.\]
+moment, and I said yes\! \both laugh.\
 
 But anyway, in spite of the difference in ages, it was a very happy
 time. But we’d been very good friends for years. We’d holiday’d together
@@ -1096,7 +1096,7 @@ since. I was building up to that before he died; we foresaw that that
 opportunity would come. But it’s only voluntary, to local organizations;
 I’ve never dealt seriously enough in it. But you still get very
 interesting sidelines from it; it makes an interesting talk that’s
-particular to yourself. \[laughs.\]
+particular to yourself. \laughs.\
 
 The next one I’m planning, I’ve been thinking about: You’ve not been
 here long enough to know, but about three weeks ago, on the radio
@@ -1121,7 +1121,7 @@ song, “I danced with a man who danced with a girl who danced with the
 Prince of Wales.” And they had that running through the background, and
 people sent in these things, and they were so trivial, and they were so
 funny\! There was one chap who had given an elastoplast to somebody who
-had climbed with Chris Bonnington\! \[laughs.\] And I just sat here,
+had climbed with Chris Bonnington\! \laughs.\ And I just sat here,
 roaring with laughter\! And they just came on, just these brief
 sentences, one after the other—most of the people I’ve never heard
 of—and there’s somebody had talked over the fence to somebody who had
@@ -1133,7 +1133,7 @@ they were dairy men; and I don’t know whether you know Thomas Hardy’s
 novels, but they were about the same area. Tess of the D’Ubervilles, I
 think it was that one, they did a dramatization on the radio a while
 ago, and it started off, “The great vale of the dairies.” And I thought,
-“And I know where that is\!” \[laughs\] —where his people came from. And
+“And I know where that is\!” \laughs\ —where his people came from. And
 one of his families came from the village of Higher Bockhampton, which
 is where Thomas Hardy’s family came from, so we liked to think that the
 Vines delivered milk to the Hardy family, and kept them going. So you
@@ -1157,16 +1157,16 @@ wedding in progress. Two men, the photographers, were in the churchyard,
 so we said to one of them about . . . Oh, we looked round, and there
 weren’t any—I think there were very few stones at all there; it was very
 grassed-over—and we talked to one of these men, and did he know when
-\[the wedding would be over\]. “Oh,” he said, “the church is beautiful;
+\the wedding would be over\. “Oh,” he said, “the church is beautiful;
 it’s worth waiting and having a look round the church.” And it was only
 then that Robert realized it was T. S. Eliot’s church, and he wrote a
 poem—he wrote four poems, and one of them was called “East Coker.” I
-mean, he \[Robert\] was a bit more literate than I was; I’m only
-numerate\! \[laughs.\] And so this man said, “Oh, it’s worth looking
+mean, he \Robert\ was a bit more literate than I was; I’m only
+numerate\! \laughs.\ And so this man said, “Oh, it’s worth looking
 round the church”; I should wait. So we said, “Well, do you know when
 the service is likely to end?” And he calls to his mate, “Charlie\!
 Charlie\! What time do they come out?” So the man pulls out this old
-slip, and reads out: “Twelve-sixteen precisely,” he said. \[laughs.\] So
+slip, and reads out: “Twelve-sixteen precisely,” he said. \laughs.\ So
 we sat in the churchyard and listened to this lovely music coming from
 the church, and sat in the sun—it was beautiful—and then we looked in
 this church, and sure enough there was a bust of T. S. Eliot in there,
@@ -1208,14 +1208,14 @@ they encouraged Edmund and Heather, “Oh, things are much better over
 here\!” Well it depended what you were doing, whether they were much
 better. Edmund and Heather spent a long time cruising around. They
 started off in the Los Angeles area, because, I think, Heather had a
-sister there, and \[she said\] “Oh\! There are plenty of opportunities
+sister there, and \she said\ “Oh\! There are plenty of opportunities
 here\!” So they went there: not in Edmund’s line. And then they—money
 was running out, and they were sight-seeing quite a lot, and so they set
 off in their vehicle, and he settled in Seattle. He didn’t work for
 Boeing, but he worked for a small firm that did a lot of contract work
 for Boeing, and I think that was basically his job for the rest of his
 career. He still goes in. Heather said he goes in, sees the chaps, and
-has a game of cards, and so on\! \[laughs.\] Very friendly place. I
+has a game of cards, and so on\! \laughs.\ Very friendly place. I
 know, he took me in there when I was there, and he showed me—and there
 all on—everything’s done on computers now. He never got to grips with
 computers, but the others were all doing this.
@@ -1285,10 +1285,10 @@ Glasgow. John was Brian’s best friend, actually, when they were students
 together in Cambridge—we knew them all—and I remember Joyce Wheeler and
 me having a little conversation, and it was a case of, “Jennifer’s going
 up to Glasgow; do you think there’s anything in it?” “Well . . . “ This
-sort of thing, you know. \[laughs.\] Well, they got married—I think
+sort of thing, you know. \laughs.\ Well, they got married—I think
 after a year, I’m not sure—and the boss wouldn’t have it\! And I think
 he tried to push Jennifer out, but John got a professorship at Stirling
-\[instead\]. \[laughs.\] That’s sort of gossip, really; but you do
+\instead\. \[laughs.\] That’s sort of gossip, really; but you do
 realize that people have different feelings on this.
 
 There must be lots of husband-and-wife pairs these days, because that’s
@@ -1377,8 +1377,8 @@ I mean, that’s . . .
 
 **Marrs:**
 
-So they were very surprised at Ferranti’s when \[I took the job at
-Cambridge\]; they said, “Oh, you’ll take a great cut in pay.” And I
+So they were very surprised at Ferranti’s when \I took the job at
+Cambridge\; they said, “Oh, you’ll take a great cut in pay.” And I
 said, “No. No, it’s more\!” Because it was equal—it was equal pay at
 Cambridge. And it has been, ever since, for the university.
 
@@ -1395,12 +1395,12 @@ more reasonable.
 
 But I mean, that’s all I know. But since then I’ve been in university,
 and they’ve always had equal pay. You might feel that you never had the
-same opportunities as a man—\[but\] I never wanted them; I was never
+same opportunities as a man—\but\ I never wanted them; I was never
 particularly ambitious. I always felt, when I was in the Maths Lab, I
 thought, “I’ve got the most perfect job anybody could have; I wouldn’t
 want to leave” sort of thing—and feel sorry for the rest of the world,
 because I was sitting in this job, and nobody else had a chance\!
-\[laughs.\]
+\laughs.\
 
 ### Reflecting on Computing
 
@@ -1439,7 +1439,7 @@ Yes, yes\! When I left Cambridge I was rather upset, because I thought
 “I won’t meet people the same”; but you met people, but they were
 different people, that’s all.
 
-The reason I’ve got the Amstrad \[computer\] there is that the last job
+The reason I’ve got the Amstrad \computer\ there is that the last job
 I did at Manchester—at Norwich—I . . . We used to have a lot of—micros,
 I think they were—and personal computers that would be linked, and so on
 . . .
@@ -1504,7 +1504,7 @@ departments, and give them little pep talks, and show them how to do the
 tapes—initialize the disks, I mean, not tapes—and get them going. And
 the first . . . what did they call it? . . . anyway, the first built-in
 thing had lots of errors in it, and you couldn’t have set up page
-numbers\! \[laughs.\] That caught everybody out, and they’d want to know
+numbers\! \laughs.\ That caught everybody out, and they’d want to know
 how to do that, and couldn’t make it do it. Anyway, there was a reissue,
 I think, the following year.
 
@@ -1515,7 +1515,7 @@ Of the word processor?
 **Marrs:**
 
 Yes, so that had been corrected, that particular one. That caught
-everybody\! \[laughs.\] But that was quite a challenge. And we used to
+everybody\! \laughs.\ But that was quite a challenge. And we used to
 run a lot of BASIC courses for these other—these various people that
 weren’t so scientific, as well.
 
@@ -1540,7 +1540,7 @@ About using the computer?
 
 **Marrs:**
 
-From them using the computer \[at Cambridge\], yes. They submitted the
+From them using the computer \at Cambridge\, yes. They submitted the
 job—in that case, I think they . . . no, they didn’t. Again, they
 submitted by cards as well; but basically, it was submitted from a
 console, and then sent along the link; and I think the output came back
@@ -1579,7 +1579,7 @@ Cambridge, they were always these one-off computers, which . . . They
 were built for the purpose, and they served the purpose, but you didn’t
 have any insurance if things went wrong. And since then, of course,
 they’ve got onto using manufacturers’ computers—so it’s somebody
-else’s fault\! \[both laugh.\]
+else’s fault\! \both laugh.\
 
 But now, of course, I’m right left behind. I was playing music with
 friends this morning, and one of them said, about the Internet—oh, she
@@ -1589,8 +1589,8 @@ know. My father does so-and-so, so-and-so, and so-and-so.” And he said,
 “Could I just use it, and I just go and type something in, and it
 tells me?” And she said, “Well, yes\!” He said, “What, like ‘music’?”
 “Yes.” Well, I thought, it’s not like that; it’s not like that, the
-Internet. And I told them my experience of it, which wasn’t me \[using
-the computer\], but it’s—about . . . probably something over a year ago,
+Internet. And I told them my experience of it, which wasn’t me \using
+the computer\, but it’s—about . . . probably something over a year ago,
 I went into the city library here to look up something about the
 swimming champion of the summer before; I can’t remember now what it
 was. So I went to the desk, and I said, Did they have the newspapers of
@@ -1604,8 +1604,8 @@ there; you could try on the Internet.” So she came, and of course she
 knew what she was doing, and she got onto the Internet, and she was
 querying on swimming and this and that. Well, I mean, we could have had
 a swimming pool built in our back garden by one of I don’t know how many
-suppliers, but we didn’t find anything about swimming champions\! \[both
-laugh.\]
+suppliers, but we didn’t find anything about swimming champions\! \both
+laugh.\
 
 And then I had another one, it’s only about a fortnight ago, and I was
 very cross, because I think the reference library have been getting rid
@@ -1634,7 +1634,7 @@ the Internet, and searches for Alice Collins—and I think Alice Collins
 was a netball player, and that was the only Alice Collins\! So I think
 what they’ve done is they’ve said, “Oh, we’ll chuck the books now; we’ve
 got all the information we want on Internet”—and they haven’t got all
-the information that the customer wants, I think. \[laughs.\]
+the information that the customer wants, I think. \laughs.\
 
 **Abbate:**
 
@@ -1664,15 +1664,15 @@ called Noble, and he had met this John Milburne in the Record Office,
 and they’d been chatting, and this Allen Noble is descended from the
 Marrses of . . . A Marrs married a Noble, something like that, so he is
 related—and they talk about what they get from the Internet. But I think
-you—I mean, you \[only\] get it once, unless somebody puts some more
+you—I mean, you \only\ get it once, unless somebody puts some more
 stuff. But this John Milburne once sent me some stuff: “I’ve got some
 information off the Internet\! I’ll send it to you\!” So there’s this
 sheet that came, and it was about two or three individuals, and then
 another sheet came, and then another sheet came—and this had come from
-North America. It came from me in the first place\! \[laughs.\] I’d
+North America. It came from me in the first place\! \laughs.\ I’d
 supplied it to Stella, and Stella had passed it to somebody else, I
 suppose, and it had got on the Internet, and it came full circle\!
-\[both laugh.\] I could tell, because it was some of my wording\!
+\both laugh.\ I could tell, because it was some of my wording\!
 
 She sent me some stuff about some other Marrses; her Marrses aren’t
 related. We think . . . I don’t know whether she’s discovered any more,
@@ -1720,10 +1720,10 @@ it automatically based on who sent it, so . . .
 **Marrs:**
 
 Oh, yes. Well, I know some people talk about . . . Well, I’m just trying
-to think which friend it was now \[who\] said, “Oh, you’re not tied to
+to think which friend it was now \who\ said, “Oh, you’re not tied to
 it, really.” She said, “We will go off to bed at night and think, ‘Oh\!
 we haven’t even logged in today’”—so they log in just to see if there
-are any messages. \[both laugh.\] But I feel—well, I use this very
+are any messages. \both laugh.\ But I feel—well, I use this very
 little; I only use it as a word processor; and I wouldn’t want to log in
 every day. My sister has something more; I think she’s got a Macintosh,
 I’m not sure. She could connect up to Internet, but she doesn’t email.
@@ -1816,7 +1816,7 @@ when you were starting out?
 It’s funny you say that, because when I was at Ferranti’s, there was
 just . . .
 
-\[TAPE 2, SIDE 1\]
+\TAPE 2, SIDE 1\
 
 **Marrs:**
 
@@ -1844,10 +1844,10 @@ Was it mostly women programming at Ferranti’s?
 **Marrs:**
 
 That first year, I think there were just the three of us, and we were
-women, yes. And then there was Audrey \[Bates\], who had done this M.Sc.
+women, yes. And then there was Audrey \Bates\, who had done this M.Sc.
 at Manchester, who was senior staff—she was kind of a year or two ahead
-of us; there was Cyril \[Veinott\], who was my immediate boss; and then
-there was John \[Bennett\], who was more senior; and Dr. Prince, who was
+of us; there was Cyril \Veinott\, who was my immediate boss; and then
+there was John \Bennett\, who was more senior; and Dr. Prince, who was
 very much a mathematician.
 
 **Abbate:**
@@ -1919,7 +1919,7 @@ Do you think it’s less fun now than it used to be?
 
 **Marrs:**
 
-I’m sure everything’s less fun now\! \[laughs.\] I don’t know how much
+I’m sure everything’s less fun now\! \laughs.\ I don’t know how much
 that is because I’m getting old, and how much . . . Well, there are so
 many people, and everything’s got to be much more regimented. It was all
 free and easy in the early days. Well, I was thinking about this queue
@@ -2009,13 +2009,13 @@ Interesting.
 I must tell you: When Robert once came over to Norwich when I was there,
 for some reason we went into the department out of hours; I don’t know
 whether I’d gone to collect something or what, but he was with me, and
-we went into the punched card room. \[laughs.\] And this is how people
+we went into the punched card room. \laughs.\ And this is how people
 worked, you see: you had—your deck of cards started off with “job,” and
 the job had a number, I think, and you had a user number; and then a
 card with your password; and then probably a card with which system it
 was that you were using. And people did multiple jobs, and they would
 leave them to run overnight—and there was this pile of cards: “password:
-x-y-zed-1-2-3-4-5\!” \[laughs.\] And if somebody—anybody could have
+x-y-zed-1-2-3-4-5\!” \laughs.\ And if somebody—anybody could have
 found those, and they would know who it belonged to, because the other
 relevant cards were lying around as well\! So it was all very casual,
 was that.
@@ -2023,8 +2023,8 @@ was that.
 I’m sure it was with the IBM that this lack of . . . You could tamper
 with people’s files, even, I think. I have a feeling that Cambridge
 brought something in that you had four categories of file, in the end,
-one \[of which\] nobody could touch. I expect people could read \[even
-those files\]—I don’t think they could block them out, now, I’m not
+one \of which\ nobody could touch. I expect people could read \[even
+those files\—I don’t think they could block them out, now, I’m not
 sure; and you had, perhaps, so that a group could refer to it, if it was
 one of the departments, and so on. But I’m sure there was no trouble
 before that—but then, I wasn’t in the computer lab at that stage, so I
@@ -2075,23 +2075,23 @@ something else; and she came away with that, and it was only when she
 got home she thought: “Oh\! I didn’t pursue the Dvorak\!” So she said,
 “If you can get that . . . “ So anyway, I went to Tower Records. I
 think you’ll hardly believe this: I asked about this CD—I’ll just go and
-fetch this book that she found \[takes music catalog off shelf\]—so I
+fetch this book that she found \takes music catalog off shelf\—so I
 asked the man about that, and he looked, and he said, “That’s gone out
 of the catalog.” Well I said, “Have you got any in?” And would you
 believe how he had to find out? He couldn’t put in “Dvorak, Te Deum:
-what have we got?” He had to do this \[reading catalog number from
-book\]: “D, I, C, D, so, so-so-so, so-so-so”—type that in, and see what
+what have we got?” He had to do this \reading catalog number from
+book\: “D, I, C, D, so, so-so-so, so-so-so”—type that in, and see what
 came up. The next one: eleven, eight, sixteen, twenty-one-dash-two—see
 there? He had to go through this list, typing in these CD numbers\!
 
 **Abbate:**
 
-They must have a terrible database\! \[laughs.\]
+They must have a terrible database\! \laughs.\
 
 **Marrs:**
 
 Mustn’t they\! Yes\! And I said to Helen that they didn’t have it; I
-said he told me that the Supraphon \[a Czech record label\] that she had
+said he told me that the Supraphon \a Czech record label\ that she had
 asked for was out of the catalog; they’d got the other Supraphon one on
 order, but because it comes from Czechoslovakia, he didn’t know when it
 would be in; but if I wanted, I could ring up and they’d put one by or
@@ -2117,17 +2117,17 @@ to be pretty good at finding them there.
 
 **Abbate:**
 
-Oh, well. \[both laugh.\]
+Oh, well. \both laugh.\
 
 Would you recommend computing as a career?
 
 **Marrs:**
 
-Oh, yes, I think so\! I wouldn’t have had anything else\! \[laughs.\]
+Oh, yes, I think so\! I wouldn’t have had anything else\! \laughs.\
 
 I always reckoned that I was one of these introverted mathematicians,
 and somehow, in computing, you can . . . There are some real, real weird
-people in it, I’m sure\! \[laughs.\] Well, I have seen some of them. But
+people in it, I’m sure\! \laughs.\ Well, I have seen some of them. But
 again, I don’t know whether there’s space for them anymore, these rather
 unconventional people—
 
@@ -2143,7 +2143,7 @@ you?
 
 **Abbate:**
 
-I’ve met plenty of them. \[both laugh.\]
+I’ve met plenty of them. \both laugh.\
 
 **Marrs:**
 
@@ -2159,11 +2159,11 @@ you would need to be dealing with people all the time.
 **Marrs**:
 
 Oh yes, yes. I’ve never had awkwardnesses, really. Well, actually, I say
-that\! All my career, \[laughs\] there’s been this funny thing about: In
+that\! All my career, \laughs\ there’s been this funny thing about: In
 Cambridge, and then in Norwich, you get some awkward user—you can
 imagine this, some awkward user—and then it comes to the end of their
-three years, and you \[think\], “Oh, at last So-and-so will be going\!”
-And there always another one to take his place\! \[both laugh.\]
+three years, and you \think\, “Oh, at last So-and-so will be going\!”
+And there always another one to take his place\! \both laugh.\
 
 **Abbate:**
 
@@ -2183,7 +2183,7 @@ know what it meant, even, and I wanted it written out in mathematical
 expressions; and he couldn’t do that; and I didn’t know it; and we sort
 of floundered around; and it ended up—I mean, I was floundering
 around—it ended up by him using the fact that I hadn’t produced his
-answers quickly enough \[as the reason\] that he hadn’t got his thesis
+answers quickly enough \as the reason\ that he hadn’t got his thesis
 in by the date\! And Robert, funnily enough, told me about a similar
 experience that they had in their department. I don’t know that he was
 the one who was involved, but anyway, it was somebody in their
@@ -2213,7 +2213,7 @@ Yes, yes, right.
 Mine, I suppose it was partly my fault, but . . . and I had somebody in
 charge of me as well, so I had somebody to refer to. This chap used to
 talk to me about his tame statistician—and I have no doubt he talked to
-her \[the statistician\] about his tame programmer\! \[laughs.\]
+her \the statistician\ about his tame programmer\! \[laughs.\]
 
 **Abbate:**
 
@@ -2226,7 +2226,7 @@ Well, no, but it is in textbooks; and if this SPSS had been there, for
 instance, we’d have just fed his data—it would have gone in; it was
 statistical analysis. He would have got an answer, whether it was the
 right one or not\! And he’d have been satisfied, if he was anything like
-the Norwich people were\! \[laughs.\] They just got the answer, and so
+the Norwich people were\! \laughs.\ They just got the answer, and so
 that was all they wanted.
 
 **Abbate:**
@@ -2254,11 +2254,11 @@ bigger things. But again, I’m not sure, because she talked about when
 she was at the World Bank, she was working with just herself and one man
 I think, who were on this particular thing—and she’d been applying for
 early retirement, and he would say, “Oh, Helen, wait another couple of
-years, and then I’ll be retiring at the same time\!” \[laughs.\]
+years, and then I’ll be retiring at the same time\!” \laughs.\
 
 **Abbate:**
 
-Can’t do without you\! \[laughs.\]
+Can’t do without you\! \laughs.\
 
 **Marrs**:
 
@@ -2269,7 +2269,7 @@ and somebody left; and they felt they needed to have an expert on the
 premises. She said it wasn’t necessary—the package was finished and it
 was all working—but they were so adamant, and they wanted her to go for
 interview, and, as she put it, they made her an offer that she couldn’t
-refuse\! \[laughs.\]
+refuse\! \laughs.\
 
 **Abbate:**
 
@@ -2318,7 +2318,7 @@ But there was still a lot of demand for computer people?
 
 Yes, yes, I think so. But, as I say, a lot more in the business world.
 They were probably coming in, weren’t they, at that stage, I suppose:
-business \[systems\].
+business \systems\.
 
 **Abbate:**
 
@@ -2351,10 +2351,10 @@ This stuff at local exams was vast amounts of data. They had a very good
 setup there. They had this programming pool, but they had a data
 preparation pool—I mean, we’re talking about millions, I think, not
 thousands, of examinees: people who’ve done these things. And they did
-records for \[word unclear\], and I think they were doing stuff for
+records for \word unclear\, and I think they were doing stuff for
 India, and there were vast quantities of stuff—and it all came in at
 once, and it all had to be dealt with as fast as possible. Well, they
-had a nucleus \[of programmers\] there, but all the people that had left
+had a nucleus \of programmers\ there, but all the people that had left
 to have families and so on: they were in contact with them, and when
 they’d get one of these rush jobs they had all these other people who
 had worked there that would come in.
@@ -2383,7 +2383,7 @@ for them to do, unless something did come in\!
 
 **Abbate:**
 
-\[laughs.\] That’s so funny\!
+\laughs.\ That’s so funny\!
 
 **Marrs:**
 
@@ -2444,7 +2444,7 @@ said, in those days there were—more experienced users were allowed to be
 . . . I always remember one—I think it was a Canadian chap—and he was in
 charge, and it was this upstairs room—the computer room—and he got up
 from the console, and he walked, and he thought he saw a ghost there,
-and it was his reflection in the window in the dark\! \[both laugh.\]
+and it was his reflection in the window in the dark\! \both laugh.\
 
 **Abbate:**
 
@@ -2463,7 +2463,7 @@ No, never.
 Never. Oh, no, no, they had engineers in those days. I don’t know how
 it’s done now, because . . . EDSAC I had two engineers: a senior and a
 junior one. The senior one had been on whatever is the appropriate thing
-in the Air Force during the war. I think the junior one, Wolfe\[sp?\],
+in the Air Force during the war. I think the junior one, Wolfe\sp?\,
 was probably similar; I think he’d got experience of electronics work
 during the war. And then when they got EDSAC II they took on more
 engineers;
@@ -2507,13 +2507,13 @@ I didn’t know about that. Was it defense-related?
 
 Well, yes. It was military training. It wasn’t really defense; it was
 just that it was a good idea, I suppose, to have these trained people.
-Well, you had the draft \[in the United States\], didn’t you?
+Well, you had the draft \in the United States\, didn’t you?
 
 **Abbate:**
 
 Right.
 
-\[Recording pauses\]
+\Recording pauses\
 
 **Abbate:**
 
@@ -2538,65 +2538,65 @@ Well, thank you so much for talking with me at such length.
 
 Well, it’s been interesting as well.
 
-\[END OF RECORDING\]
+\END OF RECORDING\
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Margaret_Marrs&oldid=108366>"
+"<http:/ethw.org/index.php?title=Oral-History:Margaret_Marrs&oldid=108366>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
-* [Corporations](/Category:Corporations "Category:Corporations")
-* [Engineers](/Category:Engineers "Category:Engineers")
-* [Non-profit](/Category:Non-profit "Category:Non-profit")
-* [Universities](/Category:Universities "Category:Universities")
-* [Profession](/Category:Profession "Category:Profession")
-* [Software development
-  management](/Category:Software_development_management "Category:Software development management")
-* [Workplace](/Category:Workplace "Category:Workplace")
-* [Engineering and
-  society](/Category:Engineering_and_society "Category:Engineering and society")
-* [Computer
-  engineering](/Category:Computer_engineering "Category:Computer engineering")
-* [Automation](/Category:Automation "Category:Automation")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Programming
-  environments](/Category:Programming_environments "Category:Programming environments")
-* [Mathematics](/Category:Mathematics "Category:Mathematics")
-* [Engineering
-  fundamentals](/Category:Engineering_fundamentals "Category:Engineering fundamentals")
-* [Engineering
-  disciplines](/Category:Engineering_disciplines "Category:Engineering disciplines")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
+* Corporations(Category:Corporations "Category:Corporations")
+* Engineers(Category:Engineers "Category:Engineers")
+* Non-profit(Category:Non-profit "Category:Non-profit")
+* Universities(Category:Universities "Category:Universities")
+* Profession(Category:Profession "Category:Profession")
+* Software development
+  management(Category:Software_development_management "Category:Software development management")
+* Workplace(Category:Workplace "Category:Workplace")
+* Engineering and
+  society(Category:Engineering_and_society "Category:Engineering and society")
+* Computer
+  engineering(Category:Computer_engineering "Category:Computer engineering")
+* Automation(Category:Automation "Category:Automation")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Programming
+  environments(Category:Programming_environments "Category:Programming environments")
+* Mathematics(Category:Mathematics "Category:Mathematics")
+* Engineering
+  fundamentals(Category:Engineering_fundamentals "Category:Engineering fundamentals")
+* Engineering
+  disciplines(Category:Engineering_disciplines "Category:Engineering disciplines")
 
 ## Contents
 
-* [1 About Margaret Marrs](#About_Margaret_Marrs)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Entering the Workforce](#Entering_the_Workforce)
-  * [4\.3 Working with EDSAC and Titan](#Working_with_EDSAC_and_Titan)
-  * [4\.4 Life and Work at Norwich](#Life_and_Work_at_Norwich)
-  * [4\.5 Balancing Work and Family](#Balancing_Work_and_Family)
-  * [4\.6 Women in the Workplace](#Women_in_the_Workplace)
-  * [4\.7 Reflecting on Computing](#Reflecting_on_Computing)
-  * [4\.8 Role Models in the Industry](#Role_Models_in_the_Industry)
-  * [4\.9 The Future for Women in
-    Computing](#The_Future_for_Women_in_Computing)
+* 1 About Margaret Marrs(#About_Margaret_Marrs)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Entering the Workforce(#Entering_the_Workforce)
+  * 4\.3 Working with EDSAC and Titan(#Working_with_EDSAC_and_Titan)
+  * 4\.4 Life and Work at Norwich(#Life_and_Work_at_Norwich)
+  * 4\.5 Balancing Work and Family(#Balancing_Work_and_Family)
+  * 4\.6 Women in the Workplace(#Women_in_the_Workplace)
+  * 4\.7 Reflecting on Computing(#Reflecting_on_Computing)
+  * 4\.8 Role Models in the Industry(#Role_Models_in_the_Industry)
+  * 4\.9 The Future for Women in
+    Computing(#The_Future_for_Women_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 
 * This page has been accessed 3,701 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

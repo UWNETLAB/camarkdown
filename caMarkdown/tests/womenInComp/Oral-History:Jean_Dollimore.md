@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Jean_Dollimore&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Jean_Dollimore&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Jean_Dollimore)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Jean_Dollimore&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Jean_Dollimore "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Jean_Dollimore "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Jean_Dollimore&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Jean_Dollimore&oldid=108535 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Jean_Dollimore&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Jean_Dollimore)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Dollimore)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Jean_Dollimore&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Jean_Dollimore&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Jean_Dollimore)
+  
+  * Discussion(index.php?title=Oral-History_talk:Jean_Dollimore&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Jean_Dollimore "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Jean_Dollimore "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Jean_Dollimore&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Jean_Dollimore&oldid=108535 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Jean_Dollimore&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Jean_Dollimore)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Dollimore)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Jean Dollimore
@@ -88,7 +88,7 @@ University College, where she began working in the chemistry department
 as a computer programmer. From there, she moved to the Institute of
 Computer Science, amending programs from home as she raised her
 children. She also taught courses at the Institute on
-[FORTRAN](/FORTRAN "FORTRAN"). Dollimore was also involved in the COSMOS
+FORTRAN(FORTRAN "FORTRAN"). Dollimore was also involved in the COSMOS
 project. She ended up specializing in distributed systems, co-authoring
 the influential book on the topic now in its 5th edition, *Distributed
 Systems: Concepts and Design*.
@@ -192,7 +192,7 @@ After the war?
 **Dollimore:**
 
 Well, they were born in ‘44 and ‘45\. I think they thought the war
-coming to an end\! \[laughs\]
+coming to an end\! \laughs\
 
 **Abbate:**
 
@@ -245,7 +245,7 @@ When did that change?
 
 **Abbate:**
 
-I didn’t realize that \[most schools weren’t co-ed\].
+I didn’t realize that \most schools weren’t co-ed\.
 
 So you started getting interested in math . . .
 
@@ -278,12 +278,12 @@ You went to Birkbeck College?
 Well, that was later on. I think I didn’t mention my first degree. I
 went to Bedford College, which was then part of London University. That
 was, what? ‘53 to ‘56\. And then I hadn’t quite worked out what I was
-going to do next, after I got this maths degree. \[laughs.\] So I went
+going to do next, after I got this maths degree. \laughs.\ So I went
 and did a postgraduate certificate in education, which took a year. Then
 I went and taught mathematics in a secondary school for two years. But
 somewhere around about that time I started hearing about computers. For
 some reason I didn’t know about them when I was an undergraduate. I
-can’t think why not\! \[laughs.\]
+can’t think why not\! \laughs.\
 
 **Abbate:**
 
@@ -295,7 +295,7 @@ I think IBM had a little center in London. I don’t know when it opened.
 But this is where Birkbeck College came in. There was a chap there
 called A. D. Booth, who’d made his own computer, and they ran some
 evening classes. I got a diploma in numerical analysis, although it was
-actually programming\! \[laughing\] They had some people from the
+actually programming\! \laughing\ They had some people from the
 physics department who did the numerical analysis part of it, and he
 taught the hardware, and his wife taught the programming.
 
@@ -337,7 +337,7 @@ Teaching math in secondary school wasn’t all that exciting?
 
 **Dollimore:**
 
-That’s right\! \[laughs.\] That was a girls’ school, too; and in fact,
+That’s right\! \laughs.\ That was a girls’ school, too; and in fact,
 the attitude there was pretty terrible. Most of the girls just said, you
 know, “I want to get married; what’s the point of learning all this
 maths?”
@@ -357,7 +357,7 @@ You had that one teacher who . . .
 **Dollimore:**
 
 Yes, that’s right. I think most of my classmates at the school I went to
-thought I was pretty mad liking maths\! \[laughs.\] I mean, there were
+thought I was pretty mad liking maths\! \laughs.\ I mean, there were
 only two of us that did maths in the sixth form\! You know, so I . . .
 
 **Abbate:**
@@ -469,7 +469,7 @@ programs so that when you’d done your instruction, it either had to be
 on—the next instruction had to be on the next location of the drum; or
 else, if you jumped it, you had to try to get it to a place where it
 would have rotated to about the right place, in order to make it work.
-Which was quite fun\! \[laughs\]
+Which was quite fun\! \laughs\
 
 **Abbate:**
 
@@ -503,7 +503,7 @@ Did that have mercury delay lines? Is that why it was called Mercury?
 **Dollimore:**
 
 No, it just was called Mercury, because it sound like a Greek god\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -526,7 +526,7 @@ What was your first job after that?
 As a programmer? I went to various . . . I went for interviews at
 various sorts of companies that wanted programmers; but then Being a bit
 feeble, I decided to go there, rather than, you know, dress up in a
-smart suit, and work at a company\! \[laughs.\]
+smart suit, and work at a company\! \laughs.\
 
 **Abbate:**
 
@@ -537,7 +537,7 @@ Were the companies willing to hire?
 I went to some interviews, and yes, I was offered jobs. But they were
 mostly in rather inconvenient locations. That was probably my main
 motivation against them. Everybody said, “Oh she’s mad—she only works
-when it’s near\!” \[laughs.\]
+when it’s near\!” \laughs.\
 
 **Abbate:**
 
@@ -619,7 +619,7 @@ certainly in those early days.
 **Dollimore:**
 
 Yes, yes there was—often by quite primitive methods, like people posting
-things to one another\! \[laughs.\] No email or anything like that.
+things to one another\! \laughs.\ No email or anything like that.
 
 **Abbate:**
 
@@ -637,9 +637,9 @@ got a copy of software from some other university?
 **Dollimore:**
 
 Yes, I think so. I think we always put our names on it somewhere\!
-\[laughs.\] Yes, we did know. When I come to think about other people’s
+\laughs.\ Yes, we did know. When I come to think about other people’s
 compilers and things that I used—often you would go and visit them,
-because you could not understand how to make them work\! \[laughs.\]
+because you could not understand how to make them work\! \laughs.\
 
 ### Computer Programming Languages
 
@@ -652,11 +652,11 @@ I was wondering if you ever got a phone call from someone: “How do I . .
 
 Yes, because in fact, when the Atlas came, there was a bit of a debate
 as to what programming language to use. There was the option of using
-[FORTRAN](/FORTRAN "FORTRAN"); and then the people in Manchester
+FORTRAN(FORTRAN "FORTRAN"); and then the people in Manchester
 developed their own language, called Atlas Autocode, which was the one I
 chose to use for my programs; and the people in London Institute of
 Computer Science were developing a language of their own. So it was all
-very chaotic. \[laughs.\] So I do remember going to Manchester, and
+very chaotic. \laughs.\ So I do remember going to Manchester, and
 talking to the people that designed the Atlas Autocode, because I
 couldn’t understand how to make it do certain things.
 
@@ -685,8 +685,8 @@ sort of milestone. I also don’t know, in terms of over here . . .
 
 Yes, well, by then there were other languages, like ALGOL, which were
 much higher-level than FORTRAN. I think FORTRAN ‘77 was trying to sort
-of fix some of those things, by putting things like IF/ELSE in the
-language, instead of just IF \[laughs\], and making a more useful sort
+of fix some of those things, by putting things like IFELSE in the
+language, instead of just IF \laughs\, and making a more useful sort
 of FOR loop, and things like that.
 
 But there were people in industry that went on using it—I suppose
@@ -709,7 +709,7 @@ get them out of retirement to fix it?
 
 **Dollimore:**
 
-Yes, yes\! But in fact nothing really happened. \[laughs.\]
+Yes, yes\! But in fact nothing really happened. \laughs.\
 
 ### Moving to the Institute of Computer Science
 
@@ -743,7 +743,7 @@ only computer.
 A few years later, it split into two parts: The University of London
 Computer Center and the Institute. And then later on, the Institute was
 disbanded into the various colleges. But that was—I think it was ‘73 it
-got disbanded. And I suppose Sylvia \[Wilbur\] was right when she said a
+got disbanded. And I suppose Sylvia \Wilbur\ was right when she said a
 lot of them did go to University College; but about three of us came to
 Queen Mary—and then probably a larger number, like half a dozen, went to
 Imperial College.
@@ -761,7 +761,7 @@ there was more just fixing things than actually trying to be creative
 and doing new things; and I sort of said, “Well, make it half-time,” so
 they made it half-time. They let me work at home quite a lot, and there
 was someone there who used to make my amendments to the programs, and
-run them, and print them out, and post them to me\! \[laughs.\]
+run them, and print them out, and post them to me\! \laughs.\
 
 **Abbate:**
 
@@ -782,7 +782,7 @@ then mail them in?
 
 **Dollimore:**
 
-Yes, that’s right\! It’s funny, isn’t it? \[laughs.\]
+Yes, that’s right\! It’s funny, isn’t it? \laughs.\
 
 **Abbate:**
 
@@ -797,7 +797,7 @@ Let’s think . . . My third child was born in ‘68, so I suppose it was
 only getting towards about ‘72 or so that I started actually going into
 the Institute again, but that was still only at half-time; and then
 about a year later they disbanded the Institute, and I moved down here
-\[to Queen Mary\].
+\to Queen Mary\.
 
 ### Moving to Queen Mary College
 
@@ -815,12 +815,12 @@ finished. In fact . . . it’s hard . . . There was someone I knew, a
 psychiatrist who was doing work with EEGs, and I started doing some
 programming for him. It was still sort of officially Institute work
 though. And in fact we got quite a lot of publications out of that,
-which made me a bit more respectable than I really was\! \[laughs.\] I
+which made me a bit more respectable than I really was\! \laughs.\ I
 don’t put them on my C.V. now; it was so long ago.
 
 But that sort of gave me something to do. And that was what I was doing
 when I came here. But when I came here, I found that—I began to find out
-what computer science really was. \[laughs.\]
+what computer science really was. \laughs.\
 
 **Abbate:**
 
@@ -915,7 +915,7 @@ What kind of projects have you done in distributed computing?
 **Dollimore:**
 
 There was another one—it was a strange project, actually—the sort of
-crazy thing that happens with European funding. You know \[laughs\]:
+crazy thing that happens with European funding. You know \laughs\:
 There was a company in Germany, a hardware company in Germany; and a
 software company in the Netherlands; and there was also—I think there
 were some people from Sussex University . . . It’s hard to remember who
@@ -946,7 +946,7 @@ Well, it sounds like one.
 **Dollimore:**
 
 The third edition has been really successful, so far, and it seems as
-though we learned how to get it right after three times\! \[laughs\]
+though we learned how to get it right after three times\! \laughs\
 
 **Abbate:**
 
@@ -996,7 +996,7 @@ are using it seem to be master’s courses.
 One thing that’s been quite fun is—we’ve got a really good Web site for
 the third edition, but we did have a Web site for the second edition, so
 you get lots of feedback from students and teachers. They email you and
-point out all the errors\! \[laughs.\]
+point out all the errors\! \laughs.\
 
 **Abbate:**
 
@@ -1019,7 +1019,7 @@ department? To say, “This is important; we should teach it”?
 Yes, because I . . . We started by having a master’s. There was a
 master’s degree that we had here, which was quite fun: it had four
 different areas, one of the areas being distributed systems. In fact, it
-was distributed and parallel systems, and Heather \[Liddell\], with her
+was distributed and parallel systems, and Heather \Liddell\, with her
 parallel interests, was involved in it as well. And that went on until—
 In fact it finished just the year after I retired, because there wasn’t
 anyone left to teach that, so they changed the orientation of it.
@@ -1094,7 +1094,7 @@ not talking to her this time around . . .
 **Dollimore:**
 
 She’s a good deal younger than we are, so you can get her next time you
-come out\! \[laughs.\]
+come out\! \laughs.\
 
 **Abbate:**
 
@@ -1120,7 +1120,7 @@ She does AI at University of Salford in Manchester.
 
 Of course, when I was chair of the Examiners, I always insisted on
 getting female External Examiners—much to everybody’s amazement\!
-\[laughs.\] I was trying to think who they all were\! I had Jean Bacon
+\laughs.\ I was trying to think who they all were\! I had Jean Bacon
 for one of them . . .
 
 **Abbate:**
@@ -1172,7 +1172,7 @@ That’s interesting. Why did you want women?
 **Dollimore:**
 
 Well I just thought, “Well, they’ve always had two men; why not get one
-man and one woman\!” \[laughs.\] It would have been a bit hard to get
+man and one woman\!” \laughs.\ It would have been a bit hard to get
 two women\!
 
 **Abbate:**
@@ -1210,7 +1210,7 @@ And did it?
 But it’s hard to remember whether they discontinued that practice or . .
 .
 
-It was quite peaceful having all these girls\! \[laughs.\]
+It was quite peaceful having all these girls\! \laughs.\
 
 **Abbate:**
 
@@ -1296,7 +1296,7 @@ On the whole, not. There have been sexist comments, but it’s always been
 in a place where there were a lot of people about, and somebody always
 shuts the person up. And I don’t think it’s very intentional; you know,
 some people just got used to saying these male chauvinist things\!
-\[laughs.\] And somebody says, “You know, you watch out, Jean’ll hit
+\laughs.\ And somebody says, “You know, you watch out, Jean’ll hit
 you\!” So Jean doesn’t hit them because they said that, but . . . But,
 you know, it’s been a very small minority of people that have acted like
 that. Considering there were only ever about three women on the academic
@@ -1468,7 +1468,7 @@ one of my Ph.D. students was also working on security, so that one was
 interesting. That was probably the most friendly one, in that, although
 we had all these people in different countries, everybody got on very
 well with one another. We all enjoyed going on the Eurostar to Paris and
-having the meetings\! \[laughs.\]
+having the meetings\! \laughs.\
 
 **Abbate:**
 
@@ -1476,7 +1476,7 @@ What became of that system?
 
 **Dollimore:**
 
-Well \[laughs\], like all of them, nothing much\! But, you sort of put
+Well \laughs\, like all of them, nothing much\! But, you sort of put
 it on the Web at the end, and then people express interest, and . . .
 
 **Abbate:**
@@ -1514,7 +1514,7 @@ So it’s more a sort of proof of concept? Work out ideas, and . . .
 Because we did get lots of publications out of it, so I suppose people
 will carry on with the ideas. In fact, some of them are still working on
 something related; but I decided that as I was retiring, I was retiring.
-\[laughs.\] And that was the end of it\!
+\laughs.\ And that was the end of it\!
 
 **Abbate:**
 
@@ -1539,7 +1539,7 @@ P-E-R-D-I-S?
 **Dollimore:**
 
 Persistent Distributed Memory, it was meant to be. Yes, P-E-R-D-I-S\!
-\[laughs\]
+\laughs\
 
 Well, the first time we wrote the proposal, we called it “Musketeers”—I
 mean in French: “Mousquetaires\!” But then that . . . When they make you
@@ -1672,7 +1672,7 @@ these bad things about the language, and they’d say “Why do you teach us
 that if it’s so bad?\!” It’s hard to convey the benefits of object
 orientation when using such a poor example of it.
 
-\[TAPE 1, SIDE 2\]
+\TAPE 1, SIDE 2\
 
 ### Balancing Work and Family
 
@@ -1739,7 +1739,7 @@ Yes. It’s different now. I mean, women academics that have babies
 usually take a few months off and then come back and work full time. I
 don’t know . . . I presume some of them stop, but I think it would be
 much harder for them. I suppose if you’re clever, though, you can do
-anything, can’t you? \[laughs.\]
+anything, can’t you? \laughs.\
 
 **Abbate:**
 
@@ -1928,7 +1928,7 @@ career in computing?
 
 **Dollimore:**
 
-I think it’s a good idea\! \[laughs.\] I’ve enjoyed it. Although I
+I think it’s a good idea\! \laughs.\ I’ve enjoyed it. Although I
 didn’t manage to persuade any of my children to do it\!
 
 **Abbate:**
@@ -1970,7 +1970,7 @@ Oh, that’s great\!
 
 **Dollimore:**
 
-Yes, it’s quite fun\! \[laughs\]
+Yes, it’s quite fun\! \laughs\
 
 **Abbate:**
 
@@ -1984,7 +1984,7 @@ All right\! I think I’ve probably . . .
 
 **Dollimore:**
 
-I think you’ve probably found out most things\! \[laughs.\]
+I think you’ve probably found out most things\! \laughs.\
 
 **Abbate:**
 
@@ -1995,60 +1995,60 @@ Thanks very much for talking to me\! It was really fun.
 Well, you’re welcome\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Jean_Dollimore&oldid=108535>"
+"<http:/ethw.org/index.php?title=Oral-History:Jean_Dollimore&oldid=108535>"
 
-[Category](/Special:Categories "Special:Categories"):
+Category(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
 
 ## Contents
 
-* [1 About Jean Dollimore](#About_Jean_Dollimore)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Introduction to Computer
-    Programming](#Introduction_to_Computer_Programming)
-  * [4\.3 Working as a Computer
-    Programmer](#Working_as_a_Computer_Programmer)
-  * [4\.4 Computer Programming
-    Languages](#Computer_Programming_Languages)
-  * [4\.5 Moving to the Institute of Computer
-    Science](#Moving_to_the_Institute_of_Computer_Science)
-  * [4\.6 Moving to Queen Mary College](#Moving_to_Queen_Mary_College)
-  * [4\.7 Working on the COSMOS Project](#Working_on_the_COSMOS_Project)
-  * [4\.8 Specializing in Distributed Systems and Writing a
-    Book](#Specializing_in_Distributed_Systems_and_Writing_a_Book)
-  * [4\.9 Reflection on Women in the Computer Science Department at
+* 1 About Jean Dollimore(#About_Jean_Dollimore)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Introduction to Computer
+    Programming(#Introduction_to_Computer_Programming)
+  * 4\.3 Working as a Computer
+    Programmer(#Working_as_a_Computer_Programmer)
+  * 4\.4 Computer Programming
+    Languages(#Computer_Programming_Languages)
+  * 4\.5 Moving to the Institute of Computer
+    Science(#Moving_to_the_Institute_of_Computer_Science)
+  * 4\.6 Moving to Queen Mary College(#Moving_to_Queen_Mary_College)
+  * 4\.7 Working on the COSMOS Project(#Working_on_the_COSMOS_Project)
+  * 4\.8 Specializing in Distributed Systems and Writing a
+    Book(#Specializing_in_Distributed_Systems_and_Writing_a_Book)
+  * 4\.9 Reflection on Women in the Computer Science Department at
     Queen Mary
-    College](#Reflection_on_Women_in_the_Computer_Science_Department_at_Queen_Mary_College)
-  * [4\.10 Reflection on Professional
-    Societies](#Reflection_on_Professional_Societies)
-  * [4\.11 As a Woman in the Field of Computer
-    Programming](#As_a_Woman_in_the_Field_of_Computer_Programming)
-  * [4\.12 Reflections on Career in
-    Computing](#Reflections_on_Career_in_Computing)
-  * [4\.13 Working on Projects in the
-    Field](#Working_on_Projects_in_the_Field)
-  * [4\.14 Reflections on Teaching
-    Computing](#Reflections_on_Teaching_Computing)
-  * [4\.15 Balancing Work and Family](#Balancing_Work_and_Family)
-  * [4\.16 Reflections on the Field of
-    Computing](#Reflections_on_the_Field_of_Computing)
-  * [4\.17 Final Reflections](#Final_Reflections)
+    College(#Reflection_on_Women_in_the_Computer_Science_Department_at_Queen_Mary_College)
+  * 4\.10 Reflection on Professional
+    Societies(#Reflection_on_Professional_Societies)
+  * 4\.11 As a Woman in the Field of Computer
+    Programming(#As_a_Woman_in_the_Field_of_Computer_Programming)
+  * 4\.12 Reflections on Career in
+    Computing(#Reflections_on_Career_in_Computing)
+  * 4\.13 Working on Projects in the
+    Field(#Working_on_Projects_in_the_Field)
+  * 4\.14 Reflections on Teaching
+    Computing(#Reflections_on_Teaching_Computing)
+  * 4\.15 Balancing Work and Family(#Balancing_Work_and_Family)
+  * 4\.16 Reflections on the Field of
+    Computing(#Reflections_on_the_Field_of_Computing)
+  * 4\.17 Final Reflections(#Final_Reflections)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:45\.
 
 * This page has been accessed 2,315 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

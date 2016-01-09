@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Carol_Shanesy&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Carol_Shanesy&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Carol_Shanesy)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Carol_Shanesy&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Carol_Shanesy "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Carol_Shanesy "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Carol_Shanesy&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Carol_Shanesy&oldid=108287 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Carol_Shanesy&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Carol_Shanesy)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ACarol+Shanesy)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Carol_Shanesy&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Carol_Shanesy&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Carol_Shanesy)
+  
+  * Discussion(index.php?title=Oral-History_talk:Carol_Shanesy&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Carol_Shanesy "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Carol_Shanesy "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Carol_Shanesy&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Carol_Shanesy&oldid=108287 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Carol_Shanesy&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Carol_Shanesy)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ACarol+Shanesy)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Carol Shanesy
@@ -261,7 +261,7 @@ easier; I was more comfortable with it. I remember when I was a junior
 in high school, they offered a speech class. You had to take English,
 four years, but they offered in addition an English speech class and an
 English journalism class; and since I was terrified to get up in front
-of anybody, \[the speech class\] was certainly out, and I hated to write
+of anybody, \the speech class\ was certainly out, and I hated to write
 as well, so I thought anybody would be out of their gourd to sign up for
 one of these things. I made the mistake of mentioning it to my
 father—pretty much in jest—and he, in a very uncharacteristic
@@ -352,10 +352,10 @@ been at the right age. And so a friend of mine (who was also a math
 major) and I sort of had our ears open for programming. That was the
 word in use, and we were math students, so we got that mixed up with
 linear programming: I mean, two completely different things\!
-\[laughs.\] We didn’t even know the difference at that time\!
+\laughs.\ We didn’t even know the difference at that time\!
 
 There was nothing at Denison, and no thought of it at that time.
-Northwestern had a 650, I think, and I took one course \[there\] because
+Northwestern had a 650, I think, and I took one course \there\ because
 I needed some credits, and we coded in machine language—and I mean
 machine language. Do you know the 650 at all?
 
@@ -377,7 +377,7 @@ Well, that’s what it was. It had a drum—the memory was a drum—and it was
 a two-address system, so you had an op code and one operand, and then
 the second operand was where you were going to go next; so you bounced
 around the drum for efficiency. You didn’t go from instruction to
-instruction, or from location to location. \[laughs.\] So I can’t
+instruction, or from location to location. \laughs.\ So I can’t
 remember what program we wrote—I mean, it was probably to add two
 numbers; just the basics.
 
@@ -401,7 +401,7 @@ advising was dreadful. I mean, I had had a course at Denison called
 “Analysis,” and when I got to Northwestern they said, “Oh\! You’ve had
 Analysis? You’ll go into second-year Analysis.” Well, the content of the
 first course was completely different, and I had a terrible time doing
-it\! But in the end it caused me to get a job at IBM\! \[laughs.\]
+it\! But in the end it caused me to get a job at IBM\! \laughs.\
 
 **Abbate:**
 
@@ -410,7 +410,7 @@ because you were a woman with a math degree?
 
 **Shanesy:**
 
-No. My advisor was a woman, \[but\] if that was part of her motive, I
+No. My advisor was a woman, \but\ if that was part of her motive, I
 didn’t pick up on it at the time. We were close as an advisor and a
 student, and liked each other, and I think she just thought I had what
 it took and that I should do it. She enjoyed teaching very much, but I
@@ -472,11 +472,11 @@ class, and he said, “Please do me a favor. I am so embarrassed,” he
 said, “I allowed the recruiter to come from IBM, and he’s been here
 since eight in the morning”—it was about ten o’clock by now—”and
 nobody’s been to see him, because I forgot. He just came, and I hadn’t
-announced it. Go up there and act like you want a job\!” \[both laugh.\]
+announced it. Go up there and act like you want a job\!” \both laugh.\
 So there were four of us, and we did\! At some point in this interview
 I’m getting increasingly uncomfortable, because he wants me to come
 out to New York—this was for IBM Research in New York—and I’m
-\[thinking\], “This whole thing is a charade\!” I didn’t ever tell him
+\thinking\, “This whole thing is a charade\!” I didn’t ever tell him
 the truth, but what I told him was: I didn’t really understand it was in
 New York, and I would be wasting his money, and I really shouldn’t
 accept his invitation. And he insisted\! I made it very clear that I
@@ -484,11 +484,11 @@ probably wouldn’t take the job, and he said, “That’s all right. I think
 we’d like to have you. Come on out and take a look.” And I took the
 job\!
 
-That’s how I got my job. Isn’t that awful? \[laughs.\]
+That’s how I got my job. Isn’t that awful? \laughs.\
 
 **Abbate:**
 
-No, that’s a great story\! \[laughs.\]
+No, that’s a great story\! \laughs.\
 
 **Shanesy:**
 
@@ -504,7 +504,7 @@ It was a programming job. They took us around Research, and showed us
 some of the things that they were doing, which included little to do
 with hardware, but there was an experiment going on with how crabs’ eyes
 worked, and there was a lot of mathematical stuff. The unit they were
-hiring me into was a very small unit, probably ten or twelve \[people\],
+hiring me into was a very small unit, probably ten or twelve \people\,
 that did programming for mathematicians and some other types of
 scientists—mostly mathematicians—so it was a lot of applied math, and
 they wanted you to have a math background so that you could understand
@@ -524,7 +524,7 @@ For college teaching?
 
 **Shanesy:**
 
-No, high school and secondary. These were regular \[college students\];
+No, high school and secondary. These were regular \college students\;
 these were not graduate degrees.
 
 It sounded awfully good; it sounded interesting; and I thought, “Well, I
@@ -624,8 +624,8 @@ programmed them. He was a neat fellow, and it was fun to work with him.
 
 **Abbate:**
 
-Was this research center possibly akin to Bell Labs or [Xerox
-PARC](/Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")?
+Was this research center possibly akin to Bell Labs or Xerox
+PARC(Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")?
 
 **Shanesy:**
 
@@ -669,11 +669,11 @@ system.
 **Shanesy:**
 
 Yes\! You could look at how it was coded—if you were feeling really
-strong\! \[laughs\]
+strong\! \laughs\
 
 **Abbate:**
 
-If you really wanted to\! \[laughs.\]
+If you really wanted to\! \laughs.\
 
 **Shanesy:**
 
@@ -689,12 +689,12 @@ The source was in machine code, or assembler?
 **Shanesy:**
 
 Assembler language, yes. I never coded machine after Northwestern
-\[laughs\], although we used to patch in machine language. I think
+\laughs\, although we used to patch in machine language. I think
 nobody could understand this now, but when you assembled a program: I
 told you that we worked in Westchester, but the computer was still in
 Poughkeepsie; so twice a day, a station wagon would make a run up with
-all the decks \[of punched cards\] to run on the machine. So you
-\[only\] got two runs a day, and if you had to reassemble your program,
+all the decks \of punched cards\ to run on the machine. So you
+\only\ got two runs a day, and if you had to reassemble your program,
 it was a separate run; you couldn’t assemble and execute back-to-back
 like you can now. So first of all, we desk-checked like mad\! We
 wouldn’t want anybody to do that now, because it’s too
@@ -733,7 +733,7 @@ eventually fix the source?
 
 **Shanesy:**
 
-Eventually, when you got it all done and you had it \[correct\], you’d
+Eventually, when you got it all done and you had it \correct\, you’d
 reassemble it and retest it, just to make sure you didn’t mess something
 up—which you usually did\!—and then that deck was the program. It wasn’t
 down on disk some place; they loaded the deck\!
@@ -745,8 +745,8 @@ reassemble it next time you ran it.
 
 **Shanesy:**
 
-Right. I mean, people would have an assembly deck in a drawer \[gestures
-as if holding a large stack of punch cards\], and for a big program
+Right. I mean, people would have an assembly deck in a drawer \gestures
+as if holding a large stack of punch cards\, and for a big program
 there would be a foot of binary and a foot-and-a-half of correction
 cards.
 
@@ -757,12 +757,12 @@ Really\!
 **Shanesy:**
 
 Sometimes, yes. We didn’t recommend that, but people did it\!
-\[laughs.\] I remember, after I’d been there a while, I sort of ran the
+\laughs.\ I remember, after I’d been there a while, I sort of ran the
 help desk. The help desk in those days: I don’t even think there was a
 sign, but people knew that I’d been around a while and could fix things,
 and so they would just come into the room with their problem, and lay it
 on your desk. And this one fellow used to show up with this drawer of
-cards \[laughs\]—it was our payroll program, as a matter of fact—with
+cards \laughs\—it was our payroll program, as a matter of fact—with
 this wad of correction cards in it\! And after you put that many
 correction cards in, you’re afraid to reassemble it, because when you’re
 doing everything in absolute addresses, you make mistakes transcribing
@@ -871,7 +871,7 @@ and output. The first step in running jobs was to make an input tape out
 of them; so there was a queue as you waited to get on the input tape,
 and then you would wait for the entire input tape to be run before
 anything else would happen, and then you waited for the output tapes.
-There actually were two to three \[types of output\]: you had printed
+There actually were two to three \types of output\: you had printed
 output, punched output from programs, and plotted output in many cases.
 All those tapes had to be run through before you could get your output.
 So two hours was actually very, very good.
@@ -886,7 +886,7 @@ children: we got equipment last. If there was something like a disk that
 all the customers wanted, it was hard for us to get it, because of
 course you wanted the customers to get first choice—and certainly the
 marketing reps wanted the customers to get first choice\! So we wound up
-writing an operating system for a coupled 7040/7090 system that we could
+writing an operating system for a coupled 70407090 system that we could
 do this with, and we had this big disk that we stored things on. And so
 we wrote that: two of us, primarily. A fellow named Peter Markstein, who
 was really a very, very smart, good guy (I think he’s at the University
@@ -920,11 +920,11 @@ And I went.
 
 **Abbate:**
 
-Well, that’s motivation\! \[laughs.\]
+Well, that’s motivation\! \laughs.\
 
 **Shanesy:**
 
-Yes, it was\! \[laughs.\] And I’m sure that I went in ‘65; I’m pretty
+Yes, it was\! \laughs.\ And I’m sure that I went in ‘65; I’m pretty
 sure.
 
 **Abbate:**
@@ -943,8 +943,8 @@ What kind of background did you have in operating systems?
 
 **Shanesy:**
 
-In those days, you just programmed. We didn’t have any \[background\],
-much. We had gotten a little skeleton \[of an operating system\] from a
+In those days, you just programmed. We didn’t have any \background\,
+much. We had gotten a little skeleton \of an operating system\ from a
 professor at the University of Chicago, who told us that he had a
 working system and we could just adapt it; all we had to do was change a
 couple little things. Well, when we got this system, it turned out to be
@@ -957,7 +957,7 @@ wrong, too; I don’t know.
 
 But at any rate, there wasn’t that nice distinction at all between
 systems and applications, back then. In fact, I actually started in
-[FORTRAN](/FORTRAN "FORTRAN") first. No, that’s not quite true: I wrote
+FORTRAN(FORTRAN "FORTRAN") first. No, that’s not quite true: I wrote
 an assembler language program first, but then they wanted me to learn
 FORTRAN, which was very new at that time. We did a lot of our
 programming in FORTRAN, because it was very well suited to the kind of
@@ -984,7 +984,7 @@ I think Fran Allen had made some comments about FORTRAN . . .
 
 **Shanesy:**
 
-Of course, Lois \[Haibt\] worked on the original FORTRAN, with the
+Of course, Lois \Haibt\ worked on the original FORTRAN, with the
 inventor, John Backus.
 
 **Abbate:**
@@ -1012,7 +1012,7 @@ more or less. You know, little changes. The 1401 came in about that
 time; that was, I think, fallout from a government contract. That had a
 completely different organization, and I did learn that, because I
 needed to. But there wasn’t so much stuff, and the operating system was
-so minimal that we’d \[just\] get some manuals, and we’d read the code.
+so minimal that we’d \just\ get some manuals, and we’d read the code.
 In fact, that’s the way I learned FORTRAN. “You want to learn FORTRAN?
 Here’s a manual.” And that was enough\! You know, it wasn’t all that
 complicated. But today, it’s stunning—and it’s very hard for me to keep
@@ -1036,7 +1036,7 @@ now know all the latest stuff, but they don’t know the . . .
 Actually, it’s interesting: They have a very different view of what
 machines do, which helps them in some regards. I think my generation is
 a little bit handicapped with some of the new stuff by understanding too
-much. \[We wonder,\] “Well, how is it doing that? And why is it doing
+much. \We wonder,\ “Well, how is it doing that? And why is it doing
 that?” If you learn it in third grade or kindergarten, that never occurs
 to you. You learn, the way you learn language, how to manipulate it. You
 discover by accident, “that means this; this causes this,” and that’s
@@ -1058,8 +1058,8 @@ different way; see if you like it”—and so you participated a little.
 Particularly with Gomory, I participated a lot, and it was a nice
 relationship.
 
-Debugging, as frustrating as it was at times: when you found \[the
-bug\], it was just such a turn-on\! And we used to help each other. That
+Debugging, as frustrating as it was at times: when you found \the
+bug\, it was just such a turn-on\! And we used to help each other. That
 was another thing: when I’d supervise—I supervised before I was actually
 a manager, and that was within a year of starting—I always used to tell
 people, “Don’t look for more than a couple of hours for a bug. Go to
@@ -1135,7 +1135,7 @@ know, all your subject-matter experts leave, and you’ve got this thing
 that works, but heaven help you if you have to change it—or the
 operating system changes, and suddenly it doesn’t work\!
 
-### CICS \[Customer Information Control System\]\
+### CICS \Customer Information Control System\\
 
 **Abbate:**
 
@@ -1143,8 +1143,8 @@ Did you have anything to do with Y2K bug-fixing?
 
 **Shanesy:**
 
-Very little. I now work with CICS \[Customer Information Control
-System\]. Some huge percentage of the commercial transactions in the
+Very little. I now work with CICS \Customer Information Control
+System\. Some huge percentage of the commercial transactions in the
 world run under CICS.
 
 **Abbate:**
@@ -1171,7 +1171,7 @@ in the middle.
 It comes out in versions (every once in a while there’s an upgrade), and
 the current versions at the time were all Y2K-ready, but some of our
 customers were still on older versions; so we had a lot of alerts, and
-we were all on call over that weekend \[of January 1, 2000\] in case
+we were all on call over that weekend \of January 1, 2000\ in case
 anything bad happened. And the customer work that was done was
 incredible. Big companies, like the big stock brokers and so on, had to
 get separate systems for testing, and they tested for ages. It wasn’t
@@ -1191,11 +1191,11 @@ layout, done on an earlier system called “Faster”; and in those days,
 memory was extremely scarce—and also so was disk space—and so the
 designer had a four-byte date. It had four bits for the month: that took
 them up to twelve (in fact sixteen); they had five bits for the day; and
-then they had six bits left over for the year. \[CS explained in
+then they had six bits left over for the year. \CS explained in
 subsequent correspondence that technically seven bits would have been
-left over, but “we avoided the sign bit.”\].
+left over, but “we avoided the sign bit.”\.
 
-\[recording pauses\]
+\recording pauses\
 
 **Shanesy:**
 
@@ -1206,7 +1206,7 @@ people who were older than 77 or something (we figured they were not too
 harmful), so six bits was enough for a number of years. One year, over
 New Year’s, I got this call: “Carol, the fingerprints don’t work\!” And
 I knew immediately we had wrapped over that barrier. So that was a case
-of a one-\[byte\], or less than one-\[byte\], year, which was really
+of a one-\byte\, or less than one-\[byte\], year, which was really
 risky, but even the two-digit technique meant that a lot of code had to
 be changed for Y2K. There was a huge effort—and I guess it paid off,
 because we had almost no calls at all. My group didn’t have any.
@@ -1272,7 +1272,7 @@ force at the other end—and of course you want a powerful stream, because
 you’ve got to get it up, in many cases, a couple of stories. So they put
 this polymer in the line, and that allowed them to get much higher
 pressure on the hoses. Unfortunately, it also made everybody fall down,
-on the street\! \[laughs.\] Because it would get on the street. And the
+on the street\! \laughs.\ Because it would get on the street. And the
 firemen were a little bit against innovation sometimes, and they didn’t
 really like this stuff, so I don’t think it ever took off long-term; but
 we did certainly experiment with it for a while.
@@ -1310,7 +1310,7 @@ crude\!—it rang its own number in a central office for the borough—so
 Queens would have their boxes, and Manhattan would have their boxes; and
 a dispatcher would pull out a card for that box and radio the equipment
 that was on the first line of the card. That’s the origin of the term “a
-one-alarm fire”: you dispatched \[what was\] on the first line; a
+one-alarm fire”: you dispatched \what was\ on the first line; a
 two-alarm fire, you went to the second line of the card—and of course,
 they brought equipment from further and further away as you went down to
 the fifth line of the card. The problem was that we didn’t have much
@@ -1344,7 +1344,7 @@ Right, because the box doesn’t tell you.
 
 **Shanesy:**
 
-Yes. But that’s what we did; we reduced \[the data\].
+Yes. But that’s what we did; we reduced \the data\.
 
 And then: the alarm assignment cards were typed, and it was a horrible
 process; they’d get very dog-eared, because some of the boxes would just
@@ -1393,7 +1393,7 @@ That’s incredible\!
 **Shanesy:**
 
 It was incredible. I’d go there and I’d think, “How’d they do that?”
-\[laughs.\] But they got very good at it.
+\laughs.\ But they got very good at it.
 
 They were great guys, and as a reward, when we got all the alarm
 assignment cards in, they asked us—this is another women’s issue: The
@@ -1408,7 +1408,7 @@ They wouldn’t?
 **Shanesy:**
 
 Oh, absolutely not\! Absolutely not. “It would upset the men in the
-firehouse.” Suddenly there were “insurance issues”—\[as if\] men aren’t
+firehouse.” Suddenly there were “insurance issues”—\as if\ men aren’t
 insured\! Anyway, when we finished this alarm assignment card, they were
 really very grateful; we worked very hard on it, three of us—two of us,
 primarily, but a third girl also. And the deputy commissioner said,
@@ -1485,7 +1485,7 @@ branch offices were specialized. So there was Insurance, and there was
 Manufacturing, and there was Banking, and there was Public Sector. And
 Public Sector had, in a way, the least productive and most troublesome
 accounts, because city governments don’t get a lot of money. We always
-called ourselves “the trailing edge.” \[both laugh.\]
+called ourselves “the trailing edge.” \both laugh.\
 
 **Abbate:**
 
@@ -1517,11 +1517,11 @@ You must have been there during one of the blackouts.
 
 **Shanesy:**
 
-I was there during two of them. Oh, it was wonderful\! \[laughs.\] We
+I was there during two of them. Oh, it was wonderful\! \laughs.\ We
 had a fairly deaf person on our staff; he wore a hearing aid, and when
 he couldn’t hear, he would take it out, and start fussing with it. He
 was quite good at fixing it, and it was old-fashioned, and it was always
-acting up. \[When the blackout started,\] we lost the power on the
+acting up. \When the blackout started,\ we lost the power on the
 machines before we lost the lights—I guess we actually had some
 emergency lighting—and there was Eddie: he had lost this drone that we
 always had from the machines, and he figured, “Well it must be my
@@ -1620,7 +1620,7 @@ glass, and it’s half of a finger, and you don’t know . . .
 **Shanesy:**
 
 Right. So you have very little information. Now, half of one finger,
-they probably wouldn’t \[bother\]; you’d get so many hits it wouldn’t be
+they probably wouldn’t \bother\; you’d get so many hits it wouldn’t be
 worth it. But sometimes you’d have enough to know that you had—maybe
 you’d know it was either these two fingers or those two, based on the
 angle. You wouldn’t know what hand it was, but you’d know that this
@@ -1757,7 +1757,7 @@ that’s what we did. I worked with our dispatch system. We have a big old
 system: when your machine fails, you call a number and a Customer
 Engineer is dispatched—that’s the system that does all that dispatch
 work. Now the machines actually call in themselves—you know, “call home”
-\[laughs\]—and they actually report on-line data that “I’m getting too
+\laughs\—and they actually report on-line data that “I’m getting too
 many of this kind of soft error.” So it’s a very complicated system, and
 I worked on it in the early days when it was mostly manual input. I
 worked with the Burlington Manufacturing Plant; I worked with everybody.
@@ -1779,7 +1779,7 @@ that’s how heavily it was used, and we were busy. Practically every
 big installation had a number of CICS systems. In those days, some of
 them used IMS as well.
 
-\[DISC 2\]
+\DISC 2\
 
 **Abbate:**
 
@@ -1797,7 +1797,7 @@ something come up on the screen, than to go to some room with files and
 start sorting through papers. That’s just one example. It was a huge
 increase in productivity, and companies found that if they didn’t have
 that, they couldn’t compete sometimes. Now, your telephone company is a
-monopoly, but it was \[still\] an enormous advantage. If you think about
+monopoly, but it was \still\ an enormous advantage. If you think about
 something like airline reservations, where you’ve got people all over
 the country trying to get at the same resource, it’s just the way to go
 to be on line, so that you can find out immediately whether a flight is
@@ -1860,8 +1860,8 @@ it allows a great many terminal users to work at the same time, and you
 don’t really have this problem on a PC; there’s only one person there;
 so it never really caught on terribly. There’s something called the
 “CICS client,” which is a way that your PC or practically any system
-can access host CICS. But it’s primarily an OS/390 product—or zOS,
-whatever the name is these days\! \[laughs.\]
+can access host CICS. But it’s primarily an OS390 product—or zOS,
+whatever the name is these days\! \laughs.\
 
 **Abbate:**
 
@@ -1870,7 +1870,7 @@ You started doing that back in ‘84 or so?
 **Shanesy:**
 
 Yes. I’ve made a career of CICS. And I’m still doing it. It’s almost
-embarrassing\! \[laughs\]. And now I work in the center of competence
+embarrassing\! \laughs\. And now I work in the center of competence
 for CICS, which is in Dallas, so I work remotely.
 
 **Abbate:**
@@ -1938,7 +1938,7 @@ to pay—or training, promotion, anything like that?
 Yes, I did feel that sometimes. I must say I grew up not expecting to
 have equal access, and I was surprised later in life at how ingrained
 that was in me. My parents were probably modern for their age: my mother
-worked, and my father never let her \[do all the housework\]—if I
+worked, and my father never let her \do all the housework\—if I
 weren’t home, she didn’t do the dishes alone; they did them together,
 and he didn’t have to be asked: they shared the work. There wasn’t a
 real fine line of “you do this and I do that.” But first of all, I’m not
@@ -2010,7 +2010,7 @@ on me, period; I don’t think it had much to do with work—although I was
 working very hard also—but they wouldn’t have forced me to work that
 hard.
 
-\[recording pauses\]
+\recording pauses\
 
 **Abbate:**
 
@@ -2036,7 +2036,7 @@ A day.
 
 **Shanesy:**
 
-Yes. And particularly at the Police Department, \[because\] I used to
+Yes. And particularly at the Police Department, \because\ I used to
 like to hit two shifts. The way they worked was, they’d work a week on
 eight to four, and then the next week would be four to twelve, and then
 the third week would be twelve to eight; and so if we were working on a
@@ -2191,7 +2191,7 @@ money? Do I want to make a lot of money? Do I want to make just enough
 money to be happy and comfortable? How do I want to spend my free time?
 What are my family’s needs? How important is it to me to be very
 important in a company?” All those things. But their mothers can tell
-them that\! \[laughs.\]
+them that\! \laughs.\
 
 **Abbate:**
 
@@ -2199,7 +2199,7 @@ Let’s hope so\!
 
 **Shanesy:**
 
-Fran \[Allen\] will give you—I mean, Fran is a good mentor, and will
+Fran \Allen\ will give you—I mean, Fran is a good mentor, and will
 give you a lot of insights when you talk to her.
 
 **Abbate:**
@@ -2265,7 +2265,7 @@ know one of them was a teacher; one of them was a chemist; I don’t think
 I know what the others were. So they had just come in, after their
 families grew up. We had two absolutely amazing key-punch operators that
 sort of ran the whole place. We called them “The Two Margarets”: they
-had the same first name and they looked alike\! \[laughs.\] Unrelated.
+had the same first name and they looked alike\! \laughs.\ Unrelated.
 And they came in when they were probably fifty, and they were one of our
 mainstays.
 
@@ -2390,52 +2390,52 @@ I should put you through . . .
 Oh, it was a pleasure, Janet\! It really was. I don’t know if I’ve given
 you anything of use, but it’s interesting to hear your questions.
 
-\[END OF RECORDING\]
+\END OF RECORDING\
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Carol_Shanesy&oldid=108287>"
+"<http:/ethw.org/index.php?title=Oral-History:Carol_Shanesy&oldid=108287>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Profession](/Category:Profession "Category:Profession")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Engineering and
-  society](/Category:Engineering_and_society "Category:Engineering and society")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Profession(Category:Profession "Category:Profession")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Engineering and
+  society(Category:Engineering_and_society "Category:Engineering and society")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Carol Shanesy](#About_Carol_Shanesy)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Attending Northwestern](#Attending_Northwestern)
-  * [4\.3 Recruitment by IBM](#Recruitment_by.C2.A0IBM)
-  * [4\.4 Working for IBM](#Working_for_IBM)
-  * [4\.5 CICS \[Customer Information Control
-    System\]](#CICS_.5BCustomer_Information_Control_System.5D)
-  * [4\.6 Working for Rand](#Working_for_Rand)
-  * [4\.7 Return to IBM as a Systems Engineer New York City Police
+* 1 About Carol Shanesy(#About_Carol_Shanesy)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Attending Northwestern(#Attending_Northwestern)
+  * 4\.3 Recruitment by IBM(#Recruitment_by.C2.A0IBM)
+  * 4\.4 Working for IBM(#Working_for_IBM)
+  * 4\.5 CICS \[Customer Information Control
+    System\](#CICS_.5BCustomer_Information_Control_System.5D)
+  * 4\.6 Working for Rand(#Working_for_Rand)
+  * 4\.7 Return to IBM as a Systems Engineer New York City Police
     Department as a
-    Client](#Return_to_IBM_as_a_Systems_Engineer_New_York_City_Police_Department_as_a_Client)
-  * [4\.8 Reflections on CICS](#Reflections_on_CICS)
-  * [4\.9 Reflections on Career](#Reflections_on_Career)
-  * [4\.10 Reflections on the Field of
-    Computing](#Reflections_on_the_Field_of_Computing)
+    Client(#Return_to_IBM_as_a_Systems_Engineer_New_York_City_Police_Department_as_a_Client)
+  * 4\.8 Reflections on CICS(#Reflections_on_CICS)
+  * 4\.9 Reflections on Career(#Reflections_on_Career)
+  * 4\.10 Reflections on the Field of
+    Computing(#Reflections_on_the_Field_of_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 
 * This page has been accessed 4,846 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

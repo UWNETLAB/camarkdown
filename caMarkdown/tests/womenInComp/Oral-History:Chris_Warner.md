@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Chris_Warner&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Chris_Warner&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Chris_Warner)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Chris_Warner&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Chris_Warner "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Chris_Warner "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Chris_Warner&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Chris_Warner&oldid=108309 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Chris_Warner&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Chris_Warner)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AChris+Warner)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Chris_Warner&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Chris_Warner&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Chris_Warner)
+  
+  * Discussion(index.php?title=Oral-History_talk:Chris_Warner&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Chris_Warner "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Chris_Warner "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Chris_Warner&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Chris_Warner&oldid=108309 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Chris_Warner&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Chris_Warner)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AChris+Warner)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Chris Warner
@@ -82,7 +82,7 @@ school in London. Believing she had gone as far as she could with that
 career, she accepted a position as a trainer with the computer company
 ICL. The class she took in computing at the beginning of her employment
 at ICL was the beginning of a career as technology educator and
-researcher. She has held training / teaching posts at ICL, South Bank,
+researcher. She has held training  teaching posts at ICL, South Bank,
 Open University, Kingston University and Reed Connections. These jobs
 provided her the opportunity to earn her Bachlors and Masters Degrees.
 
@@ -269,7 +269,7 @@ got my promotion after my probationary year, and then I would have to
 wait another ten years, and it wouldn’t be an academic promotion; I
 couldn’t become head of school, I could only become housemistress or
 something like that. So I decided ten years was too long for me\!
-\[laughs.\]
+\laughs.\
 
 There were two of us who started about the same time, and we decided
 that computing was interesting. There were agencies at that stage who
@@ -326,7 +326,7 @@ And it was punched tape? Punched cards?
 
 Oh, I used punched tape, punched cards, yes; and the operating was good,
 because they’d reshuffle the stuff that I always got in the wrong order,
-and so my job would run\! \[laughs.\] But, left to myself, it didn’t run
+and so my job would run\! \laughs.\ But, left to myself, it didn’t run
 very well. I was quite good with punch tape, because you couldn’t really
 get that wrong, but the punch cards were a nightmare for me.
 
@@ -350,15 +350,15 @@ remember exactly. I mean, it didn’t seem long at all. It was probably a
 year and a half in total before we were deemed qualified. I think if you
 were able to teach and communicate, then you were very quickly one of
 the team who did it—because we worked as teams. So for the initial
-courses, it was a standard pack (exercises and \[so forth\]), so that
-in-company, for the open courses, it was pretty standard, \[although\]
+courses, it was a standard pack (exercises and \so forth\), so that
+in-company, for the open courses, it was pretty standard, \although\
 you’d get questions. Doing the tailored courses for companies obviously
 required more in-depth, and because we had met people around the
-company, one could pick up \[technical information\]—we weren’t meant to
+company, one could pick up \technical information\—we weren’t meant to
 be talking to the people who were developing the software, but one
 always did. So you’d got the binary dumps , and they’d say, “Now, that’s
 the bit you’ve got to look at. If you can work out the code, then you’ll
-find out what it does\!” \[laughs.\] You know, they’d spend a little
+find out what it does\!” \laughs.\ You know, they’d spend a little
 time showing you, and then you’d. . .
 
 **Abbate:**
@@ -395,11 +395,11 @@ greet you, and you’d probably spend some time. In Russia, my flight was
 delayed for 24 hours, but I had a phone number, and I could find the ICL
 office. I mean, it’s just part of what going abroad was like in those
 days\! You couldn’t be too precise about when you’d get back, or
-\[anything like that\]. It was exciting\! It was really exciting.
+\anything like that\. It was exciting\! It was really exciting.
 
 Because we were still on training, ICL was happy to give us privileges
 which perhaps you wouldn’t have got otherwise. That was when I started
-doing my degree at Birkbeck \[College of the University of London\],
+doing my degree at Birkbeck \College of the University of London\,
 when I was with ICL.
 
 **Abbate:**
@@ -414,15 +414,15 @@ Glasgow—statistics, or numerical methods, something like that—and I
 wasn’t particularly good at that. Any other subjects I could really do
 without extra revision classes; but it was coming up for exams, and
 unfortunately it was the middle of the week. They were happy for me to
-come back to do my evening \[class\], as long as I would go back that
+come back to do my evening \class\, as long as I would go back that
 night and be able to teach the next morning—and they sent another
 lecturer up just for the half-day, so that I could get back. So it was
 really very positive support. I wasn’t just, “Oh, you are off on a
 course”; it was very positive. And it was close enough: it was Birkbeck,
 and I was at ICL in London, and so it was walking distance to the
-college. And it was evening only, so it fitted in, \[though\] sometimes
+college. And it was evening only, so it fitted in, \though\ sometimes
 I had to miss the lectures because I was away. Obviously it was this
-Wednesday one that I normally missed\! \[laughs.\]
+Wednesday one that I normally missed\! \laughs.\
 
 **Abbate:**
 
@@ -454,15 +454,15 @@ that three out of five were women?
 
 I think it just happened. At the end, why I left ICL was that it was the
 men who were promoted, and as far as I know, neither of the other two
-\[women\] were offered promotion. I was still doing my degree, and their
-comment \[to justify not promoting me\] was, “Well, we thought you’d
+\women\ were offered promotion. I was still doing my degree, and their
+comment \to justify not promoting me\ was, “Well, we thought you’d
 have enough on your plate with your job and your degree.” I then got
 another job, and I said I was leaving—and at that stage, you know, it
 was very much negotiation. Perhaps with maturity, I would have stayed
 with them, but I was perhaps young, and right was right; wrong was
 wrong; and if I’d made a commitment elsewhere, I had to honor that. That
 was just before I finished my degree, and I joined a small software
-company, “1900 Programming.” Dates it, doesn’t it? \[laughs.\]
+company, “1900 Programming.” Dates it, doesn’t it? \laughs.\
 
 **Abbate:**
 
@@ -542,7 +542,7 @@ I didn’t come back with any sale of software, but they were interested
 in some of the other products the company did, and so it was very
 satisfying that I actually managed to at least bring home a contact for
 something that they were interested in, rather than coming back
-empty-handed and a nervous wreck\! \[laughs.\]
+empty-handed and a nervous wreck\! \laughs.\
 
 **Abbate:**
 
@@ -583,9 +583,9 @@ Well, I had various options. Having done my degree, my professor in the
 physics department offered me a Ph.D.—and it was quite exciting: it was
 satellite-tracking, so it would combine my physics and my computing, and
 it was down at Dartmoor. I’d also got the option of a teaching job at
-\[Polytechnic of the\] South Bank. At the time, I was getting married as
+\Polytechnic of the\ South Bank. At the time, I was getting married as
 well, and so Dartmoor seemed a big change, and so I decided that I would
-do \[the teaching job\]. It was a polytechnic, very much like the
+do \the teaching job\. It was a polytechnic, very much like the
 universities here now: very much a technical kind of university,
 producing degrees and qualifications for people who were doing British
 Computer Society exams. It had Stage One, which was pretty basic
@@ -688,7 +688,7 @@ Only slightly\!
 
 **Warner:**
 
-You’re happy with the \[description of the\] possibilities, yes? Now,
+You’re happy with the \description of the\ possibilities, yes? Now,
 sometimes there wouldn’t be any entries in that. So if you think of
 storing it in the computer, and if you had to store all that stuff even
 where there weren’t any entries, you would be wasting a lot of
@@ -714,8 +714,8 @@ through, as it went through the different processes which were applied
 to it, and whether one could draw these links through the data, and
 mathematically whether one could prove that they were correctly linked
 or not. It would have been nice to follow that up, but I didn’t. But the
-ideas which came out—I think, by looking back, I can \[look at current
-products and\] say, “Oh, yes\! Still analysis,” and “Still something
+ideas which came out—I think, by looking back, I can \look at current
+products and\ say, “Oh, yes\! Still analysis,” and “Still something
 about decisions support. Yes, all right.” Knowing about sparse data
 meant that I understood very quickly some of the hardware constraints of
 some of these wonderful new products. I knew why some were good and some
@@ -728,7 +728,7 @@ academic and the real world. Because in the real world, you have a
 company image—it might only be dress code, but it’s still: you are an
 ICL person, or a Reed person, or whatever else. In the academic world,
 there’s much more freedom to be much broader. There are constraints here
-\[at Reed\] on the kinds of software we need to look at: it’s partly
+\at Reed\ on the kinds of software we need to look at: it’s partly
 price, but it’s partly track record and what’s gone before.
 
 **Abbate:**
@@ -748,12 +748,12 @@ of the sparseness and not using the unused values?
 **Warner:**
 
 I would guess. I don’t know much about the communication; networking
-hasn’t really been an area \[of mine\]. It’s a bit the same with the
+hasn’t really been an area \of mine\. It’s a bit the same with the
 hardware; I’ve been taught about it, and I understand it, and so when
 somebody explains things to me I can understand, but I haven’t really
 applied it in that area at all. But I would think that some of the
 compression is also giving flags—giving indicators of what would follow;
-I think that’s some of the network compression. \[But\] I don’t see why
+I think that’s some of the network compression. \But\ I don’t see why
 the other shouldn’t apply as well.
 
 **Abbate:**
@@ -787,7 +787,7 @@ at all like your experience at all.
 
 Oh, no\! It’s not. No, no. Being able to bridge the gap . . .
 
-I went on to work at the Open University \[from 1975 to 1977\], and
+I went on to work at the Open University \from 1975 to 1977\, and
 there I was employed as part of a data processing team, so I had systems
 to work on, and users. I was an analyst, and I worked in their data
 warehouse. They’re a mail-order university, and so the warehouse had
@@ -873,7 +873,7 @@ now. Some time in the past year she had just become the chair.
 
 **Warner:**
 
-Excellent\! That’s nice\! \[laughs\]
+Excellent\! That’s nice\! \laughs\
 
 **Abbate:**
 
@@ -905,11 +905,11 @@ There was a sort of correction factor for each tutor?
 
 **Warner:**
 
-Yes: whether you mark really harshly or really softly. So I know \[from
-the computer\] I’m sort of in the middle, but towards the harsh end. But
+Yes: whether you mark really harshly or really softly. So I know \from
+the computer\ I’m sort of in the middle, but towards the harsh end. But
 I’m probably not in that area anymore, because once you know that
-information, you say, “Hmm . . . “ \[and make an adjustment\]\!
-\[laughs.\] But it gives you also a degree of knowledge about your own
+information, you say, “Hmm . . . “ \and make an adjustment\\!
+\laughs.\ But it gives you also a degree of knowledge about your own
 work. If you’re not really severe, you don’t have to do anything about
 it, but if you’re on that margin—if your marks are ever questioned by an
 external—you think, “I’m sure I will have retained that slight severity,
@@ -920,7 +920,7 @@ move your marks up?” “Oh, yes, that’s fine.”
 
 So that was a good experience. And of course it was a different type of
 communication at the Open University: it was very much written
-communication; writing \[course\] modules. That was in the database
+communication; writing \course\ modules. That was in the database
 area.
 
 **Warner:**
@@ -930,7 +930,7 @@ Maths faculty, and I did the normal work of an academic. I taught maths
 summer schools, was course director in those summer schools; wrote
 modules; and we were doing database courses. So we were looking at
 CODASYL databases—it must be fifteen, twenty years ago—and then also the
-then-new area of relational databases. And \[we were looking\] not just
+then-new area of relational databases. And \we were looking\ not just
 at the technology: we were also looking at the analysis and the
 modeling, so we had to explain the modeling.
 
@@ -966,7 +966,7 @@ modeled local authorities, utility companies—and the television program
 gave the context; one could see the pictures. I had to learn how to do
 face-to-camera work. One thinks it’s so easy; you know, you see people
 with boards saying, “Take one, take two, take three”—but it wasn’t quite
-as easy as that\! \[laughs.\] You thought you’d done it fantastically,
+as easy as that\! \laughs.\ You thought you’d done it fantastically,
 and people fell around laughing, and you thought, “Well, what’s wrong?”
 And there would be all kinds of things happening in the background, but
 of course you couldn’t see it, because you were face-to-camera. Or there
@@ -1013,20 +1013,20 @@ Why did you move to London?
 
 Because my husband had a job that he wanted to come to down here, which
 was a very good opportunity. So: no longer a four hundred-year-old
-cottage; \[just\] one of a number of houses\! It’s a good family house,
+cottage; \just\ one of a number of houses\! It’s a good family house,
 and a cottage would have been a hopeless family house, because you had
 all the echoes: you could hear what was happening downstairs; any
 conversation wasn’t private, and with the kids making noise, it would be
 quite difficult, I think, to live there. But very, very exciting at the
-time\! \[laughs.\]
+time\! \laughs.\
 
 I continued to do television programs, particularly recording over, even
 when I’d just had my son. The television producer came to the old
-cottage and did a recording in the snow when I’d just had \[my son\] for
+cottage and did a recording in the snow when I’d just had \my son\ for
 less than six weeks. And then we needed something recorded on another
 program in the BBC studios in London, and my mum came down with me and
-looked after my son whilst I did my recording\! \[laughs.\] So, lots of
-ways of \[balancing work and family\]. So I continued, part-time. I
+looked after my son whilst I did my recording\! \laughs.\ So, lots of
+ways of \balancing work and family\. So I continued, part-time. I
 obviously had to take six weeks off, and we extended the time I could
 take off, but I would work part-time. Mum lived in Guildford still,
 where I’d grown up. There was a nursery at the Open University, and when
@@ -1037,7 +1037,7 @@ the nursery there. It’s on the site, and I could be called if I was
 needed.
 
 So I went down to London, and it was really just looking to see what
-sort of jobs \[were available\]. There was a possibility of a research
+sort of jobs \were available\. There was a possibility of a research
 job at Surrey, and the lecturing job at Kingston; and I was lucky enough
 to get the lecturing job. I was a Principle Lecturer, and the
 appointment was to take over the undergraduate course as Course
@@ -1050,15 +1050,15 @@ was a small department, a specialized department of information systems,
 as opposed to computer science. Then when the head of school left, he
 recommended I should become Masters Course Director, and I’ve done this
 for quite a long time. Then I decided I’d had enough of playing
-politics\! \[laughs.\] It was the influence of being able to be involved
+politics\! \laughs.\ It was the influence of being able to be involved
 in university decisions: because with the Masters’ Program, the
 procedures that we wrote for course changes and things like that were
 taken on board by the head of quality, and became the first draft of the
 University Standards for Masters’ Courses and how they should be
 permitted to change. So it wasn’t really playing politics, but it was
 influencing and direction, and getting involved in some of the
-committees and some of the new education areas. \[For example, the\] CAT
-\[Credit Accumulation and Transfer\] scheme: giving credit accumulation
+committees and some of the new education areas. \For example, the\ CAT
+\Credit Accumulation and Transfer\ scheme: giving credit accumulation
 for previous qualifications that hadn’t been already credited, and also
 for experiential credit, so if somebody’s been working in an
 organization, then they can get credit on some of the modules for the
@@ -1136,8 +1136,8 @@ backgrounds, I think.
 
 **Abbate:**
 
-Did you get fairly high enrollments from women in the I.S. course? \[Or
-was it mainly men?\]
+Did you get fairly high enrollments from women in the I.S. course? \Or
+was it mainly men?\
 
 **Warner:**
 
@@ -1157,7 +1157,7 @@ they were so dismissive. “I’m going to be a hair dresser; what can I use
 a computer for?” You know. We’d spend a little time thinking about,
 “Well, what can we use a computer for?” “I don’t think computers are
 any good.” There was no way through to say to them, “Well, they’re just
-a tool, and they’d help you with \[your business\]; they’d ease it. If
+a tool, and they’d help you with \your business\; they’d ease it. If
 you could put things in once, you didn’t have to do an order every
 single week.”
 
@@ -1187,12 +1187,12 @@ because it was emerging, you were the trend-setters.
 There weren’t barriers. You didn’t have to conform to a standard. I
 never felt, when we started, there was a male-female thing. There might
 have been once you were being promoted. But certainly ICL showed as much
-encouragement for educational opportunities \[for women as for men\],
+encouragement for educational opportunities \for women as for men\,
 and at many of the interviews that I went to after that stage, they were
 more interested in my being able to manage my job and do a degree: Why
-did I do this, and how did I manage it? \[laughs.\] Periodically they’d
-say, “What about a family as well?” \[and I’d reply,\] “Well, yes, I
-expect I’ll manage that too at some stage.” \[laughs.\]
+did I do this, and how did I manage it? \laughs.\ Periodically they’d
+say, “What about a family as well?” \and I’d reply,\ “Well, yes, I
+expect I’ll manage that too at some stage.” \laughs.\
 
 **Abbate:**
 
@@ -1202,11 +1202,11 @@ So you think the image of computing has changed?
 
 Because it’s everywhere now. It’s in organizations, and I think that the
 computing is only part of the organization; people in computing work the
-same hours \[other employees\]. We’ve just had a change of location
+same hours \other employees\. We’ve just had a change of location
 here; we’re going to be moving to Raynes Park, just down the road, quite
 soon, and so the computing people worked over the weekend to set it up.
 The computers now don’t really fall to pieces—or the programs don’t fall
-to pieces—quite so often as they used to do when we started \[laughs\];
+to pieces—quite so often as they used to do when we started \laughs\;
 so one doesn’t have to recognize that the computing department have been
 in most of the last week working 24 hours a day, because they’re
 probably working the same number of hours. So now it’s the company
@@ -1308,13 +1308,13 @@ How did you end up at Reed?
 
 **Warner:**
 
-\[laughs.\] Well, when I stopped being Course Director: I was teaching,
+\laughs.\ Well, when I stopped being Course Director: I was teaching,
 but most of my time and energy went into managing, and what I wanted to
 do was to do some solid learning in some of the emerging technologies.
 So I said that that’s what I wanted to do. The two areas which I’ve been
-involved in: \[one was\] the data warehousing, which I did partly
+involved in: \one was\ the data warehousing, which I did partly
 through the teaching of my modules, particularly in the master’s
-program, \[where\] we talked about how data warehousing fitted on top of
+program, \where\ we talked about how data warehousing fitted on top of
 databases; I was also teaching a decision support module, and there I
 looked much more at the business aspects of data warehousing. Because
 there was a funding though students and organizations, we could bring in
@@ -1322,12 +1322,12 @@ external consultants onto these modules, so that developed a network of
 consultants and organizations.
 
 Then eventually I decided that it was about time I did some teaching,
-and so I did an O.U. \[course\]. There were no books around when I first
+and so I did an O.U. \course\. There were no books around when I first
 did it, and there weren’t even chapters in database books, and so I had
 to do my slides, and I did a brief write-up. I did it first of all to
-\[inaudible\] a database module, and I also three weeks later was
-teaching a database module for MEd students, the Masters \[of
-Education\] students. They were the kinds of occasions where the
+\inaudible\ a database module, and I also three weeks later was
+teaching a database module for MEd students, the Masters \of
+Education\ students. They were the kinds of occasions where the
 students are sitting there watching you, and nodding their heads—and I
 had a really bad cold as well; I felt awful, I had a temperature—but I
 could feel that they were really enjoying it, and I was really enjoying
@@ -1387,16 +1387,16 @@ Royal Academy of Engineering—it was through my new head of
 department—and I said, “What I really want is to go out and do
 something. I want to work for an organization; I need that now. I used
 to have it, and I don’t have the practical experience.” And he suggested
-that \[RAE\] was a good organization to go to, and then I had to decide
-which organization \[to work for\]—and Reed was the first choice, really
+that \RAE\ was a good organization to go to, and then I had to decide
+which organization \to work for\—and Reed was the first choice, really
 because of the people here. I felt that after I’d been in the academic
 world for such a long time, I might not fit in—and, you know, getting a
-bit older, and that might not be appropriate\! \[laughs.\] But I’d seen
+bit older, and that might not be appropriate\! \laughs.\ But I’d seen
 students come back and work here one day a week, and they offered them
 jobs at the end, and so I thought there weren’t going to be too
 strait-jacketed about who they would like to work with. And also, even
 just looking around here, there’s quite a mix—a lot of very young
-people, but they’re also some little grey hairs around\! \[laughs.\] And
+people, but they’re also some little grey hairs around\! \laughs.\ And
 I’d met quite a few of the managers, and I’m pleased that I came to an
 organization where I did know people; it made the first couple of weeks
 very easy. The ex-student I mentioned: she was very good. She’s on the
@@ -1408,9 +1408,9 @@ students; we’d met in meetings, and that was good. It was good to know
 those people, and it was good there were some students who were are
 going back to Kingston next year.
 
-What was needed in the application \[to the RAE\] was support from my
-head of department \[and\] support from Reed. In my normal way, I’d got
-all the information, \[but\] it wasn’t till the person responsible for
+What was needed in the application \to the RAE\ was support from my
+head of department \and\ support from Reed. In my normal way, I’d got
+all the information, \but\ it wasn’t till the person responsible for
 the grant said, “Now, come on, I want you to do it by such-and-such a
 date\!” I found Anita, whom you’ve met just now, and she said, “Right, I
 will take it on board and I’ll get the IT director to write it. How
@@ -1418,7 +1418,7 @@ about coming down here and we’ll talk about the content of the letter?”
 And somebody at Kingston had already showed me the kind of thing he had
 done for his application, and I got nothing but support from Kingston
 University, and from my colleagues as well. Obviously they’ve picked up
-some of the \[teaching\] load: they shouldn’t have done, because I’ve
+some of the \teaching\ load: they shouldn’t have done, because I’ve
 been bought out, but they have done.
 
 **Abbate:**
@@ -1446,12 +1446,12 @@ Do you have a research position here? What is your position here?
 
 **Warner:**
 
-That’s quite interesting\! \[laughs.\] I’m part of a team—and the
+That’s quite interesting\! \laughs.\ I’m part of a team—and the
 academic work, the knowledge of influencing without actually necessarily
 having the status, has been brilliant. Because putting in a warehouse
 project into an organization: Reed is big, but it’s not like a banking
-organization; it’s not a giant; so it’s a large cost expenditure \[for
-them\]. So in terms of a system, the users are at director level, and so
+organization; it’s not a giant; so it’s a large cost expenditure \for
+them\. So in terms of a system, the users are at director level, and so
 it’s been the influence of being able to move things forward. The IT
 team are part of the sponsor’s team—one of the sponsors is the IT
 director. So initially I was called a Database Consultant. We’re using a
@@ -1469,7 +1469,7 @@ I’m helping to design the system, yes. And initially it’s justifying it,
 working out what suppliers are appropriate, inviting suppliers in,
 finding out about the product, working out how we can evaluate, whether
 we need more information, trying to get some costings from the different
-suppliers. “Data warehouse consultant” is what \[I call myself\]. When
+suppliers. “Data warehouse consultant” is what \I call myself\. When
 we go around the table and have to introduce ourselves, there’s a pause,
 and then I say, “Data Warehouse Consultant.” I mean, there’s been
 discussion in the team as to the role I’m actually playing, as opposed
@@ -1481,7 +1481,7 @@ Which is nicely vague\! You could be doing anything.
 
 **Warner:**
 
-\[laughs.\] That’s right\!
+\laughs.\ That’s right\!
 
 **Abbate:**
 
@@ -1505,13 +1505,13 @@ new module for fourth year. But having written a syllabus, I’ve been
 told that it’s probably a bit too late for next year—they need to go
 through the formality of doing it—so we’ll just have to see. I don’t
 know what Reed might do. It would be nice to keep a finger in the pie\!
-\[laughs.\] I’d like the two hats, but I don’t want to wear them
+\laughs.\ I’d like the two hats, but I don’t want to wear them
 simultaneously. One after the other’s fine, but I think if I’d been
 trying to hold down any teaching, I would have found it a bit
 frustrating—although, having said that, sometimes, here, I’m thinking,
 “I would quite like to go back and do a bit of teaching now. This is
 really interesting.” But it would be the deadlines; the teaching
-deadlines would always fall \[at awkward times\]; and we’re sometimes
+deadlines would always fall \at awkward times\; and we’re sometimes
 exhausted just trying to set things up. When we got the suppliers in, we
 had a brief for them: we had a requirement that we wanted them to
 satisfy, and we gave them some test data so that they could demonstrate
@@ -1520,10 +1520,10 @@ four suppliers, and one consultancy, so five different organizations
 coming in, and a team of director level to evaluate—and the small group
 of us in IT, we were really tired after Friday. It was a long day; and
 on Monday, we were all really quite droopy\! It seems to take so much
-emotional energy. I felt really low, and then I talked to Mai \[sp\] and
+emotional energy. I felt really low, and then I talked to Mai \sp\ and
 Carmen—the three of us worked closest together on it, and they will be
 here next year as well—and I found that they were feeling just the same:
-really, really tired and flat\! No \[energy to ask\], “What do we need
+really, really tired and flat\! No \energy to ask\, “What do we need
 to do next?” and “What’s our direction next?”
 
 ### Balancing Work and Family Responsibilities
@@ -1547,23 +1547,23 @@ given me . . .
 \
 **Warner:**
 
-I suppose, if I’m fair, \[I should mention\] also that in the position I
+I suppose, if I’m fair, \I should mention\ also that in the position I
 was in, there was usually a course administrator and an admin person who
 would be taking my calls and knowing where I was—I mean, that was
 necessary for the job. My Filofax used to have home commitments and work
 commitments all together, so that at one time I was just photocopying my
-Filofax so that they had a record, so that they \[knew which\] were days
+Filofax so that they had a record, so that they \knew which\ were days
 when they could put me. So there was always somebody at the end of a
 phone, so if one of the children was ill, or there was a problem at
 school, there was always somebody who would take the message and judge
 whether it was urgent or not. I think the academic world is geared up to
 understanding human problems, and so I think there was always that
 support there. I guess some organizations would have that as well . . .
-Well, maybe\! \[laughs.\]
+Well, maybe\! \laughs.\
 
 But at the Open University there was a crèche, so I was close to them
 when they were little, and I’ve always worked very close to home, so
-it’s been a quarter of an hour \[commute\], probably. I think I
+it’s been a quarter of an hour \commute\, probably. I think I
 learned that when I was at the Open University. I was in London, and my
 car broke down on the motorway. I wasn’t allowed to leave my car on the
 motorway to go pick up our son from the crèche, I didn’t have a phone
@@ -1579,9 +1579,9 @@ going down into London—and if I weren’t back by such-and-such a time,
 would they check back? And I’d know where to find the kids if necessary.
 I think it’s just planning, but there’s always somebody else who can
 double for you, because you’re not infallible. And transport’s not
-infallible\! \[laughs.\]
+infallible\! \laughs.\
 
-But I suppose there is \[a trade-off\]. Whereas I would have been much
+But I suppose there is \a trade-off\. Whereas I would have been much
 more spontaneous about doing things, particularly in the ICL days, with
 the family it needed to be planned, and I guess I didn’t do as much. I
 haven’t traveled around as much. I talked to one of the professors when
@@ -1592,8 +1592,8 @@ It’s not worthwhile unless you can devote the time to that. And you’ve
 got a family. Is that your choice, that you want to leave your family in
 England whilst you do the European circuit of conferences?” He said,
 “It’s no good doing the U.K. ones; they won’t give you any
-credibility.” \[So I didn’t end up pursuing the Ph.D.\] I mean, I’ve
-managed the odd \[trip\]. I had a validation in Hong Kong, which was
+credibility.” \So I didn’t end up pursuing the Ph.D.\ I mean, I’ve
+managed the odd \trip\. I had a validation in Hong Kong, which was
 brilliant. My sister lives in Australia, so that tied up nicely. I’ve
 been very selective about where I’ve gone, and things like that. But
 that advice was good—for me, with a family. I think the choice of being
@@ -1614,10 +1614,10 @@ computer; he always seems to be the one who can sort out problems; but
 he didn’t want to do a computing degree. Our daughter had dyslexia; and
 of course the computer knew everything, it would correct her spellings,
 but quite early on it told her— her name’s Sally, and it told her she’d
-spelled it incorrectly\! \[laughs.\] Of course she hadn’t, and so she
+spelled it incorrectly\! \laughs.\ Of course she hadn’t, and so she
 treats computers in a way that I think we should all treat computers:
 it’s really good for things it’s good at, but it doesn’t get
-everything right\! \[laughs.\] It’s like the telephone: if she wants to
+everything right\! \laughs.\ It’s like the telephone: if she wants to
 find something out, she’ll use the Web. If I decide that I’d like to do
 a standard letter—because I look after my dad’s finances now, so I might
 want to do the standard mailing—she’s the one who sits down and decides
@@ -1646,7 +1646,7 @@ well. The acquisitions involve sites: Are they sufficiently clean? And,
 more recently, legal application as well: how the different companies
 have to work together and sort out compensation or whatever else. I
 don’t understand much about that, and obviously I don’t know a lot
-about it, because I shouldn’t know a lot about it\! \[laughs.\]
+about it, because I shouldn’t know a lot about it\! \laughs.\
 
 ### Mentors and Satisfaction of Career
 
@@ -1657,17 +1657,17 @@ way?
 
 **Warner:**
 
-Oh, I think so. I’d say Jill \[Johnson\] was a great person in directing
+Oh, I think so. I’d say Jill \Johnson\ was a great person in directing
 me. In ICL, too, there have been people who have helped me achieve
 things, and encouraged me along the way. Sometimes there have been gaps,
 particularly when the children were young and I didn’t go to many
-conferences; and then I picked up with people, and \[got\] advice, and
+conferences; and then I picked up with people, and \got\ advice, and
 checking that everything’s going well. And then at Birkbeck, Peter King;
 he was the professor when I did my degrees. When I wanted to do my first
 degree. . . I’ve said I tend to think a long time, and then I go for it
 right at the end. The course started in October, and it was in the
 summer that I went to him and said, “Yes, that’s what I really want to
-do\!” \[laughs.\] And it happened. So Peter King—well, I’ve seen him at
+do\!” \laughs.\ And it happened. So Peter King—well, I’ve seen him at
 conferences, and I’ve asked him for advice, and he’s written references
 for me.
 
@@ -1682,7 +1682,7 @@ The flexibility. And it does change; it changes very rapidly. I worked
 on a British Computer Society working party quite early, and I made some
 really good friends there, and I remember one of them saying, “If you’re
 still teaching or working in the same area as you did five years ago,
-you’re out of date\!” \[laughs.\] So the most satisfying thing, I think,
+you’re out of date\!” \laughs.\ So the most satisfying thing, I think,
 is that knowledge. Very early in my career, I knew what I was in for: it
 was always going to be changing, and when the kind of thing one was
 teaching or thinking about was seven years out of date, it was time for
@@ -1695,8 +1695,8 @@ subroutines, other people needed to pick it up—and even if other people
 weren’t going to, you needed to pick it up yourself\! So you learned
 that if you did it in a structured, methodical way, then you would be
 able to follow things through. So the deep lessons that I learned years
-ago \[still apply\]—testing, making sure the bits integrated together;
-\[because\] you’d get the core of it okay, but the problems would happen
+ago \still apply\—testing, making sure the bits integrated together;
+\because\ you’d get the core of it okay, but the problems would happen
 in how you connected it together. Although the technology changes, some
 of these fundamental things don’t change, and one of the things coming
 back here I’ve learned is: yes, the technology’s changed, but the
@@ -1722,7 +1722,7 @@ compliment the other day: One of them said, “I don’t mind going to this
 half-day seminar, but why don’t you come too?” And I thought, “That’s
 brilliant\! Yes, we’d have a good laugh\!” The only way to cope with
 some of these seminars is that two of you go, and you laugh at the bits
-which are boring and enjoy the bits which are good\! \[laughs.\]
+which are boring and enjoy the bits which are good\! \laughs.\
 
 **Abbate:**
 
@@ -1741,7 +1741,7 @@ to use.
 How has it changed? I don’t think it’s quite so exciting. You don’t have
 the challenge of being able to make it work, and having to sort out how
 to get the technology to work, because I think when technology doesn’t
-work \[today\], it’s normally human error. And the challenges are to
+work \today\, it’s normally human error. And the challenges are to
 actually make it work for people now, within organizations, to meet
 objectives. It’s like the telephone system now—but it needs to be as
 inconspicuous as the telephone system: it’s just there; it’s just
@@ -1776,14 +1776,14 @@ feeling is, we’ll probably have to read about it, and then try it for
 ourselves. The inquiring mind; that’s great\! The IT Director: because I
 was writing that syllabus, I asked for an inspection copy of a book, and
 the IT Director said, “Oh, that was good; I hope you’ll let us all read
-that as well\!” \[laughs.\] You know, that’s nice\! \[laughs.\] Just
+that as well\!” \laughs.\ You know, that’s nice\! \[laughs.\] Just
 keeping up with the reading and finding out for oneself, as well as
 doing.
 
 I think Reed is brilliant—and maybe there are other organizations who
 encourage that approach as well—but it’s been nice for me, because the
 academic side has been appreciated. I don’t know how I’m going to cope
-with going back into education\! \[laughs.\]
+with going back into education\! \laughs.\
 
 **Abbate:**
 
@@ -1798,12 +1798,12 @@ should be off the record . . .
 
 OK.
 
-\[recording pauses\]
+\recording pauses\
 
 **Abbate:**
 
-So when you came to Reed, they had you take these DSDM \[Dynamic Systems
-Development Method\] courses so that you could get the rest of the team
+So when you came to Reed, they had you take these DSDM \Dynamic Systems
+Development Method\ courses so that you could get the rest of the team
 up to speed?
 
 **Warner:**
@@ -1812,7 +1812,7 @@ Yes, and it was a nice way in to the team, because they were tailored
 courses for Reed. The first one was an introductory one, and there I met
 some of the senior management. It was quite a big course. I met the one
 of the finance directors, and I also met Tom Miller, who’s M.D.
-\[Managing Director\] of IT Connections, and many, many users. It was
+\Managing Director\ of IT Connections, and many, many users. It was
 interesting to hear their perception, and to hear what they thought
 about how IT and users worked together. So my first day was really
 attending a course with these people. Then, about a week later, we had a
@@ -1838,11 +1838,11 @@ Who teaches the courses? Is that in-house?
 This was an external person, who’s trained in DSDM. One can get DSDM
 training through writing a report of one’s experience with DSDM. I think
 it’s British Computer Society give qualification as a practitioner. So
-that could be another option for next year\! \[laughs.\]
+that could be another option for next year\! \laughs.\
 
 **Abbate:**
 
-That’s right\! \[laughs.\]
+That’s right\! \laughs.\
 
 **Warner:**
 
@@ -1850,8 +1850,8 @@ But certainly I’m going back to help on the DSDM course. I was told
 before I came here, once they heard I was doing this—we teach it, but
 none of us have any experience of doing it in practice. Of course, for
 this warehousing project, I’ve got lots of experience; and I’ve got lots
-of areas where I think \[sounding skeptical\], “Hmm, well . . .”
-\[laughs.\] I think it’s quite difficult; we should be empowered to make
+of areas where I think \sounding skeptical\, “Hmm, well . . .”
+\laughs.\ I think it’s quite difficult; we should be empowered to make
 the decisions, but when it’s a project that’s potentially with as much
 impact as the data warehousing project has, and the spend is so great,
 it’s a senior management decision. It’s not just like buying another bit
@@ -1864,7 +1864,7 @@ is made up of about five different organizations within the Reed group),
 and I’ve learnt that the computing arena doesn’t have a standard way of
 licensing products; so if you’re going to one supplier, the costing will
 be different to another supplier. There’s no uniformity in the computing
-industry. So, \[for example,\] a piece of paper: you see a cost, and
+industry. So, \for example,\ a piece of paper: you see a cost, and
 then one needs to work out the implications of that. Is it really very
 expensive, because you’ve got lots of different copies, or is that a
 once-off cost? It’s interesting.
@@ -1890,18 +1890,18 @@ organizational problems and issues. When I taught in Russia, when I was
 with ICL, I was very much aware that people were asking me questions
 because of the company and the political environment. So I was very much
 aware of the business scene, and it’s been really fascinating—although
-frustrating at times\! \[laughs\]—to see all these different aspects of
-it. \[For example\], this costing: Why can’t they all have a standard
+frustrating at times\! \laughs\—to see all these different aspects of
+it. \For example\, this costing: Why can’t they all have a standard
 costing? It would make my life a lot easier; I could compare one against
 the other\!
 
 **Abbate:**
 
-But hopefully not as bad as Soviet Russia\! \[laughs.\]
+But hopefully not as bad as Soviet Russia\! \laughs.\
 
 **Warner:**
 
-\[laughs.\] Oh yes\! There it was very much a political thing, and this
+\laughs.\ Oh yes\! There it was very much a political thing, and this
 is much more of a business thing and a financial thing. I can do my best
 shot here, but my feeling is, we’ll be doing this project in the
 financial area, so if we’re doing it for financial directors, they
@@ -1915,68 +1915,68 @@ that much better than I can\! But it’s interesting to see it happening.
 
 **Abbate:**
 
-So, thank you for the interview\! \[laughs\]
+So, thank you for the interview\! \laughs\
 
 **Warner:**
 
 Right\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Chris_Warner&oldid=108309>"
+"<http:/ethw.org/index.php?title=Oral-History:Chris_Warner&oldid=108309>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Data systems](/Category:Data_systems "Category:Data systems")
-* [Data handling](/Category:Data_handling "Category:Data handling")
-* [Data
-  processing](/Category:Data_processing "Category:Data processing")
-* [Data storage
-  systems](/Category:Data_storage_systems "Category:Data storage systems")
-* [Education](/Category:Education "Category:Education")
-* [Educational
-  institutions](/Category:Educational_institutions "Category:Educational institutions")
-* [Workplace](/Category:Workplace "Category:Workplace")
+* Data systems(Category:Data_systems "Category:Data systems")
+* Data handling(Category:Data_handling "Category:Data handling")
+* Data
+  processing(Category:Data_processing "Category:Data processing")
+* Data storage
+  systems(Category:Data_storage_systems "Category:Data storage systems")
+* Education(Category:Education "Category:Education")
+* Educational
+  institutions(Category:Educational_institutions "Category:Educational institutions")
+* Workplace(Category:Workplace "Category:Workplace")
 
 ## Contents
 
-* [1 About Chris Warner](#About_Chris_Warner)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family and Early Education](#Family_and_Early_Education)
-  * [4\.2 Teaching School and Transition to Working at
-    ICL](#Teaching_School_and_Transition_to_Working_at_ICL)
-  * [4\.3 Details of Time at ICL](#Details_of_Time_at_ICL)
-  * [4\.4 Working in Software Sales](#Working_in_Software_Sales)
-  * [4\.5 Teaching and Researching at South Bank
-    Polytechnic](#Teaching_and_Researching_at_South_Bank_Polytechnic)
-  * [4\.6 Decision Tables](#Decision_Tables)
-  * [4\.7 Gender and Computer Science](#Gender_and_Computer_Science)
-  * [4\.8 Time at Open University](#Time_at_Open_University)
-  * [4\.9 Moving Back to London and Lecturing at
-    Kingston](#Moving_Back_to_London_and_Lecturing_at_Kingston)
-  * [4\.10 Gender Divisions in Computer
-    Science](#Gender_Divisions_in_Computer_Science)
-  * [4\.11 Changes in Teaching Content over
-    Career](#Changes_in_Teaching_Content_over_Career)
-  * [4\.12 Working at Reed](#Working_at_Reed)
-  * [4\.13 Details of Time at Reed](#Details_of_Time_at_Reed)
-  * [4\.14 Balancing Work and Family
-    Responsibilities](#Balancing_Work_and_Family_Responsibilities)
-  * [4\.15 Mentors and Satisfaction of
-    Career](#Mentors_and_Satisfaction_of_Career)
-  * [4\.16 Final Thoughts](#Final_Thoughts)
+* 1 About Chris Warner(#About_Chris_Warner)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family and Early Education(#Family_and_Early_Education)
+  * 4\.2 Teaching School and Transition to Working at
+    ICL(#Teaching_School_and_Transition_to_Working_at_ICL)
+  * 4\.3 Details of Time at ICL(#Details_of_Time_at_ICL)
+  * 4\.4 Working in Software Sales(#Working_in_Software_Sales)
+  * 4\.5 Teaching and Researching at South Bank
+    Polytechnic(#Teaching_and_Researching_at_South_Bank_Polytechnic)
+  * 4\.6 Decision Tables(#Decision_Tables)
+  * 4\.7 Gender and Computer Science(#Gender_and_Computer_Science)
+  * 4\.8 Time at Open University(#Time_at_Open_University)
+  * 4\.9 Moving Back to London and Lecturing at
+    Kingston(#Moving_Back_to_London_and_Lecturing_at_Kingston)
+  * 4\.10 Gender Divisions in Computer
+    Science(#Gender_Divisions_in_Computer_Science)
+  * 4\.11 Changes in Teaching Content over
+    Career(#Changes_in_Teaching_Content_over_Career)
+  * 4\.12 Working at Reed(#Working_at_Reed)
+  * 4\.13 Details of Time at Reed(#Details_of_Time_at_Reed)
+  * 4\.14 Balancing Work and Family
+    Responsibilities(#Balancing_Work_and_Family_Responsibilities)
+  * 4\.15 Mentors and Satisfaction of
+    Career(#Mentors_and_Satisfaction_of_Career)
+  * 4\.16 Final Thoughts(#Final_Thoughts)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 
 * This page has been accessed 2,389 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

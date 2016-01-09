@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Telle_Whitney&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Telle_Whitney&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Telle_Whitney)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Telle_Whitney&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Telle_Whitney "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Telle_Whitney "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Telle_Whitney&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Telle_Whitney&oldid=108729 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Telle_Whitney&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Telle_Whitney)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ATelle+Whitney)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Telle_Whitney&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Telle_Whitney&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Telle_Whitney)
+  
+  * Discussion(index.php?title=Oral-History_talk:Telle_Whitney&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Telle_Whitney "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Telle_Whitney "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Telle_Whitney&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Telle_Whitney&oldid=108729 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Telle_Whitney&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Telle_Whitney)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ATelle+Whitney)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Telle Whitney
@@ -164,7 +164,7 @@ I didn’t know that.
 
 **Whitney:**
 
-Yes, half of Utah’s descended from Brigham Young\! \[laughs.\] I’m long
+Yes, half of Utah’s descended from Brigham Young\! \laughs.\ I’m long
 since not practicing. I did move to Southern California when I was
 seven, and I spent about half of my life in Southern California. I moved
 back to Utah when I was fifteen, when my mother died.
@@ -203,7 +203,7 @@ Did any of them go into anything technical?
 
 **Whitney:**
 
-Not at all\! \[laughs.\] Not even remotely technical. My family . . . I
+Not at all\! \laughs.\ Not even remotely technical. My family . . . I
 mean, in this day and age, they’ve all now got computers, so I can send
 email to all of them; but it’s very much the liberal arts, humanities,
 and not technical at all.
@@ -259,7 +259,7 @@ that have been?
 
 **Whitney:**
 
-It was a [UNIVAC](/UNIVAC "UNIVAC"). I don’t remember the name anymore.
+It was a UNIVAC(UNIVAC "UNIVAC"). I don’t remember the name anymore.
 In my undergraduate computer science curriculum, we had punch cards: you
 typed them up, and you turned them in, and then you got back a listing,
 and you evaluated your programming, and then you resubmitted it; and
@@ -280,11 +280,11 @@ I worked for a networking project for the Israeli Army. It was a really
 cool little project; it sort of set the theme for the fact that I love
 working on innovative new projects, and that was the first time I had
 done that. They convinced the powers that be that they were going to
-redevelop their operating system\! \[laughs.\] Everything from scratch\!
+redevelop their operating system\! \laughs.\ Everything from scratch\!
 In hindsight, it was a really stupid project; but it was a great first
 job, because we got to sit in front of the computer, with the switches,
-and we had a debugger that we actually could \[use to interact with the
-computer in\] hex: you’d input hex into the computer. I certainly got a
+and we had a debugger that we actually could \use to interact with the
+computer in\ hex: you’d input hex into the computer. I certainly got a
 very good understanding of how computers worked from the ground up, with
 that first job. So it was a great experience.
 
@@ -295,7 +295,7 @@ you did?
 
 **Whitney:**
 
-Actually, yes. Rich Riesenfeld: I took \[his course\]. I loved computer
+Actually, yes. Rich Riesenfeld: I took \his course\. I loved computer
 graphics, and in particular I had this hankering to work on CAD, which
 at the time really meant, to me, architecture CAD. I had a friend who
 was working in architecture, and that just seemed really neat. I had
@@ -311,7 +311,7 @@ introduced me to Ivan—so Rich was really in essence my first mentor, and
 he really believed in me where I would never have even considered doing
 something like that. He introduced me to Ivan, and through Ivan I was
 accepted at Cal—the California Institute of Technology—for graduate
-school. I turned them down\! \[laughs.\] I had some personal things, and
+school. I turned them down\! \laughs.\ I had some personal things, and
 I said, “I need to take a year off,” and I took a year off. Then I went
 back to them, and they let me go in, and so I went out there to go to
 graduate school.
@@ -326,12 +326,12 @@ They must have really wanted you\!
 
 Well, I hope so; yes\! I mean, it’s a great school. It’s a very odd
 school, but it’s a great school. But they were really just starting up
-their department, and I came \[well recommended\]. This is all in
+their department, and I came \well recommended\. This is all in
 hindsight, but Rich gave me a remarkable recommendation, and he
 convinced somebody else there to give me a remarkable recommendation,
 and with those two recommendations they wanted me—because my academic
 credentials weren’t that great. From the time I chose computer science,
-I had straight A’s; but prior to that I certainly didn’t\! \[laughs.\]
+I had straight A’s; but prior to that I certainly didn’t\! \laughs.\
 It was a calling for me. But Cal Tech is a remarkable school. You know,
 there’s many places where it would be very difficult to get in there,
 and I’m sure I was fortunate, because it was really just starting out,
@@ -344,7 +344,7 @@ on a CAD project—although it was CAD for integrated circuits; chips.
 Really, most of my professional life has been working on chips, but that
 was the first place.
 
-And then Ivan had the audacity to leave\! \[laughs.\]
+And then Ivan had the audacity to leave\! \laughs.\
 
 **Abbate:**
 
@@ -354,7 +354,7 @@ In the middle of your . . . ?
 
 When I’d just been there for a year. I mean, I went there to be with
 him, and he left—and reminded me that he had no commitment to stay for
-me\! \[laughs.\]
+me\! \laughs.\
 
 **Abbate:**
 
@@ -370,8 +370,8 @@ Ivan and Bob Sproull are there. I see Ivan on occasion, but I haven’t
 seen him, recently.
 
 But my Ph.D. thesis advisor, the person whom I went to work with
-subsequently, was Carver Mead. He’s kind of the father of VLSI \[very
-large scale integration\]. He’s a fairly well-known figure within
+subsequently, was Carver Mead. He’s kind of the father of VLSI \very
+large scale integration\. He’s a fairly well-known figure within
 computer science, and in fact he’s getting one of the Computer History
 Museum’s Pioneer Awards this fall.
 
@@ -395,7 +395,7 @@ all of your design description on the computer, and then there’s a whole
 bunch of numerical crunching that happens that really lays the
 groundwork, and then you “tape out,” which means you send these big
 tapes off to a fabrication house. (You don’t send tapes anymore, but
-they still call it “tape out”\! \[laughs.\]) And by having these
+they still call it “tape out”\! \laughs.\) And by having these
 representations, you can really ensure that all of those boxes
 coherently stay together in a reasonable fashion. If you don’t—if you
 just have a bunch of boxes—you don’t know that right here there is the
@@ -450,7 +450,7 @@ representation for chips, Carver, during the course while I was there,
 really moved more into the neural net area; so most of my colleagues,
 the people that I worked with, were doing very different things. They
 were really more on this neural net thing, and there was this cool lab
-where they were building computer eyes and computer ears. \[laughs.\]
+where they were building computer eyes and computer ears. \laughs.\
 
 **Abbate:**
 
@@ -465,7 +465,7 @@ to conferences in Europe and he’d be able to pay for that. I’d have a
 paper submitted, so I’d go over there and present these papers; but I’d
 never been to Europe, and I got to go there. There was a very
 interesting community going on, and the chips were really just
-happening, so hanging out with Carver, I met \[everyone\]. John Doerr
+happening, so hanging out with Carver, I met \everyone\. John Doerr
 was around—I mean, I’ve worked at Silicon Compilers, and was the
 President of that company; and Jim Clark was just presenting his first
 chip, the graphics chip that went off and became Silicon Graphics. It
@@ -474,7 +474,7 @@ really interesting.
 
 Now: that’s all the intellectual side. I have to tell you that being at
 Cal Tech and being one of the few women there was incredibly
-challenging\! \[laughs.\]
+challenging\! \laughs.\
 
 ### Impact of Gender on Early Career
 
@@ -485,7 +485,7 @@ I was wondering.
 **Whitney:**
 
 As a woman who went to Cal Tech, you just got automatically got all of
-this attention. All sorts: students and \[faculty\]. All these people
+this attention. All sorts: students and \faculty\. All these people
 with their left brain—the intellectual side—over-developed, and their
 social side: they had no social skills. I’d walk into the room, and
 whatever I said, went. It’s a very odd kind of environment.
@@ -508,7 +508,7 @@ fifty best women or something; top-notch entrepreneurs. Fortune, I think
 it was. Anyway, Lynette Dyer was one of them, and she was an
 entrepreneur in Silicon Valley. She’s now in New York, I think. I
 haven’t talked to her recently. Marion Mayer, who went on to do MEMS
-\[Micro-Electro-Mechanical Systems\] work. I think she’s at a small
+\Micro-Electro-Mechanical Systems\ work. I think she’s at a small
 start-up doing some sort of MEMS work, which is these little
 micromachines. Really cool\! But there weren’t very many around, and
 most women I knew would get themselves attached to a man, and that
@@ -529,7 +529,7 @@ science and engineering?
 No. The COBOL teacher was a woman, so there were a few women around; but
 there weren’t very many women. Years later when I went to work, I ran
 into a guy who had been on the faculty there, and he had noticed me. I
-mean, everywhere you went, people knew who you were\! \[laughs.\] You
+mean, everywhere you went, people knew who you were\! \laughs.\ You
 were just noticed\! At Cal Tech there was something called the Silicon
 Structures Project: we had these ten or twelve companies, and they’d
 send these people to come out twice a year to all of us little graduate
@@ -537,7 +537,7 @@ students, and we had to get up and present our work. So there were all
 these people in industry, and without exception, they noticed me\! I
 mean, I was the oddity in this group; in the Silicon Structures I
 probably was the only woman. But, being 22—I was 22 to 29 while I was at
-Cal—I just assumed that I would be judged on my work. \[laughs.\]
+Cal—I just assumed that I would be judged on my work. \laughs.\
 
 **Abbate:**
 
@@ -549,7 +549,7 @@ Well, ultimately, I was given the Ph.D. for the work I was doing; and
 when you talked to people, it was a technical conversation. But I think
 the faculty really liked the idea of having a female student. That was
 kind of a straw in their cap. So at some level, I was wooed to being
-their student\! \[laughs.\] I do think that’s true.
+their student\! \laughs.\ I do think that’s true.
 
 **Abbate:**
 
@@ -558,7 +558,7 @@ strange?
 
 **Whitney:**
 
-They always were \[supportive\]. You know, it was my father and
+They always were \supportive\. You know, it was my father and
 stepmother, and because I didn’t go to live with them till I was
 fifteen, it was not always a smooth relationship; but they were always
 very supportive of this. They thought it was wonderful that I was doing
@@ -568,9 +568,9 @@ supportive of it.
 
 They don’t, to this day, really understand what I do. I’ve spent many an
 hour trying to explain what I do, but they don’t really understand it\!
-\[laughs.\] I worked in an FPGA company for years, and chip companies
+\laughs.\ I worked in an FPGA company for years, and chip companies
 are pretty esoteric, and so to try to explain to one’s parents what
-\[one does is difficult\].
+\one does is difficult\.
 
 **Abbate:**
 
@@ -610,10 +610,10 @@ Because there are more computer people in general?
 
 **Whitney:**
 
-Silicon Valley was up here, and I worked in \[the chip area\]. I wanted
+Silicon Valley was up here, and I worked in \the chip area\. I wanted
 to live near San Francisco; I liked the whole chip industry; but I also
 thought that in the work world, I would get to know some interesting
-women. And in fact, the way that I met Anita \[Borg\] was: the first
+women. And in fact, the way that I met Anita \Borg\ was: the first
 year that I was here, I was working in a research lab. The wife of my
 boss had a Stanford Ph.D. in Computer Science, and she had introduced me
 to a few people at Stanford. I had gone up there to a panel, and I had
@@ -622,7 +622,7 @@ dinner with a big group of people after that panel. I subsequently went
 to my boss’s house for a Halloween party, and Barbara Simons was there
 with Anita. I had had a little bit too much to drink—or at least enough
 to drink so that I had gotten my nerve up—and I approached Barbara and
-Anita, and I said “Hi, we’re going to be friends\!” \[laughs.\] And we
+Anita, and I said “Hi, we’re going to be friends\!” \laughs.\ And we
 were\! At that point, there was a number of women Ph.D.s, and we got
 together once a month for dinner, and I got to know both Anita and
 Barbara better. Anita and I over time became much closer friends than
@@ -649,7 +649,7 @@ withdrawing. I left a year after that, so I was there for only eighteen
 months, and they closed the lab a year after that. So it kind of showed
 me that you can think—I mean, I spent a lot of time thinking about what
 I was going to do, and there was nothing I could do about that\!
-\[laughs.\]
+\laughs.\
 
 From Schlumberger Palo Alto Research Center, which is very close to
 here, I went to Actel, which at that time was making something called
@@ -679,7 +679,7 @@ ideas. I was coming in as a young engineer—I’d had my Ph.D. for a year
 and a half—and I stayed there for eleven years and really built my
 career at Actel. We did a lot of technical work; we did a lot of chip
 development; and I moved into management. I found that I had a real
-knack for that, and I can cross \[boundaries\]: with my technical
+knack for that, and I can cross \boundaries\: with my technical
 background and my people skills, I can really pull those two together in
 a way that is pretty unique. I do think that as a general rule, women
 tend to be better at some of those communication things.
@@ -690,7 +690,7 @@ in Computing, which was her brainchild.
 
 **Abbate:**
 
-Did Systers \[the mailing list for women in computer systems research\]
+Did Systers \the mailing list for women in computer systems research\
 come first?
 
 **Whitney:**
@@ -701,7 +701,7 @@ literally almost had a life of its own. Kind of a cool thing\!
 
 **Abbate:**
 
-She told me a story about meeting in the women’s room\! \[laughs.\]
+She told me a story about meeting in the women’s room\! \laughs.\
 
 **Whitney:**
 
@@ -710,7 +710,7 @@ celebrate the achievements of technical women, and I said, “Okay, we can
 do this\!” She was still at DEC, and we sat down in a restaurant, and we
 had a blank sheet of paper. Neither one of us had ever done a conference
 before, and we just sort of looked at each other, and we started\! It’s
-like anything in life: you just start\! \[laughs.\] And it grew from
+like anything in life: you just start\! \laughs.\ And it grew from
 there.
 
 You know, we were very fortunate. CRA, the Computer Research
@@ -719,8 +719,8 @@ you couldn’t do from scratch. You needed a big organization to
 underwrite it, and ACM sent us all this paperwork, and CRA just said,
 “We’ll underwrite it”; and with that, we could then set a date, and we
 could set a hotel, and we could start calling people that she knew. On
-that first conference, we had Fran Allen speak, and [Ruzena
-Bajcsy](/Ruzena_Bajcsy "Ruzena Bajcsy"), and Irene Greif, and Susan
+that first conference, we had Fran Allen speak, and Ruzena
+Bajcsy(Ruzena_Bajcsy "Ruzena Bajcsy"), and Irene Greif, and Susan
 Graham; it was really these top-notch, very technical women who’d been
 around for a long time, and it was phenomenal. I had worked in the chip
 industry my whole professional life, and loved it: I really love the
@@ -733,8 +733,8 @@ very different.
 So: the Grace Hopper celebration started in 1994, while I was still at
 Actel. Then I left. I had ended up in management—I became a Director at
 Actel, which was significant—and then wanted to do a start-up, so I left
-Actel and joined this small start-up called Malleable Technologies \[in
-1998\]. It was a chip start-up—in the telecommunications industry,
+Actel and joined this small start-up called Malleable Technologies \in
+1998\. It was a chip start-up—in the telecommunications industry,
 although when I joined, we didn’t know that. Once again, it was:
 somebody I knew, a smart guy, had a cool chip idea, and I felt like I
 could come in and help develop the product. I was the fourth person
@@ -745,8 +745,8 @@ success.
 
 Now, PMC-Sierra: about six months after I got there, the market itself
 started to fall apart. We sold in June of 2000—a good time; a great
-time—and I didn’t want to sell. I mean, I’ve never been in it \[for
-the money\]. It’s nice to make money, but that was never my driving
+time—and I didn’t want to sell. I mean, I’ve never been in it \for
+the money\. It’s nice to make money, but that was never my driving
 force, and I would have liked to have seen us make a go of it. In
 hindsight, we wouldn’t have\! The market for this product—it was
 voice-over-packet, basically taking voice and putting it out over the
@@ -843,7 +843,7 @@ on an ASIC?
 
 Absolutely\! I mean, people do all the time. But FPGA companies are
 betting on the fact that nine times out of ten, you like the fact that
-you can do that, but in actual fact you won’t\! \[laughs.\] Because
+you can do that, but in actual fact you won’t\! \laughs.\ Because
 you’re always being pushed, in this market of rapid change; you can
 always do the next better thing. To be successful as a chip company in
 the FPGA business, you need the volume, and so you don’t really want
@@ -864,7 +864,7 @@ systems, and they use FPGAs all the time. Now, for a researcher, what
 they do is: If you go to Xilinx, they have the newest and hottest and
 best product, which costs, usually, a thousand dollars for a chip, and
 it’s got two million gates and all these really exciting features.
-\[But\] for a researcher, you buy the two-thousand-gate chip, which is
+\But\ for a researcher, you buy the two-thousand-gate chip, which is
 really cheap; I think these days it’s probably a dollar.
 
 **Abbate:**
@@ -874,7 +874,7 @@ So you could have your students buy them?
 **Whitney:**
 
 Absolutely. Not only can you, but Actel and Xilinx and Altera have set
-them up \[to use in courses\], because logic design courses these days
+them up \to use in courses\, because logic design courses these days
 are taught with FPGAs.
 
 **Abbate:**
@@ -883,7 +883,7 @@ And of course you want them to learn yours\!
 
 **Whitney:**
 
-Of course\! \[laughs.\] Apple got that model down really pat\! And it is
+Of course\! \laughs.\ Apple got that model down really pat\! And it is
 so true, that if you go into industry . . . Actel, it turns out,
 unfortunately, is not a big player. It’s really Xilinx and Altera who
 are the two big players, and Actel has really ended up in more of a
@@ -902,7 +902,7 @@ that’s the cycle.
 
 **Abbate:**
 
-If you’re any good\! \[laughs.\]
+If you’re any good\! \laughs.\
 
 **Whitney:**
 
@@ -920,19 +920,19 @@ Were there some particular high points of your time at Actel?
 **Whitney:**
 
 Well, the really exciting time at Actel: we did the largest FPGA in the
-world\! That was called the 1280\. We were a year late. \[laughs.\] It
+world\! That was called the 1280\. We were a year late. \laughs.\ It
 was a small team, and there were all these politics going on in the
 management that I was kind of oblivious to. We were designing this chip:
 my Ph.D. thesis was about transistor-level representation for chips, and
 what I was doing at Actel was developing this program that helped to
-generate large portions of the chip, and so we were just doing \[what I
-had described in my thesis\].
+generate large portions of the chip, and so we were just doing \what I
+had described in my thesis\.
 
 There was three of us that worked very closely together, and it was very
 interactive. I remember sitting in this room with four computers, and
 just rolling on a chair and moving between those computers and doing
 four different things at the same time, trying to get this chip out\!
-\[laughs.\] You know, at the time it was massive; we were breaking every
+\laughs.\ You know, at the time it was massive; we were breaking every
 single software program that was out there. There was Cadence software,
 and it wouldn’t run on our size chip: there wasn’t enough disk, and
 there wasn’t enough memory, and there wasn’t enough time, and it would
@@ -956,7 +956,7 @@ was a proprietary processor—you know, a processor like the Intel—and
 this had these three data paths that did a unique set of functions on
 this chip, and they did a particular class of algorithms really well.
 There were six of them—or maybe four; it’s hard for me to remember—and
-then there were some I/O systems. So we had to create the processor, and
+then there were some IO systems. So we had to create the processor, and
 then we had to program it to process voice. So it was different\! But it
 had some of the same characteristics. The processor was brand new;
 nobody had done anything like that; and we needed to do it quickly. We
@@ -979,7 +979,7 @@ That was a commercial product before you got bought out?
 
 Yes. Yes, we had customers.
 
-Now, here’s the downside. \[laughs.\] Although, as you can see, I’ve
+Now, here’s the downside. \laughs.\ Although, as you can see, I’ve
 spent a fair part on my career designing chips, I’m really a software
 person by training; and all of these products had software pieces and
 hardware pieces: they both had to be present in order to make this
@@ -994,7 +994,7 @@ Did that mean the software was late, or was it expensive?
 **Whitney:**
 
 Both. We couldn’t hire enough DSP engineers. I mean, the DSP engineers
-have a particular style of \[programming\].
+have a particular style of \programming\.
 
 **Abbate:**
 
@@ -1045,19 +1045,19 @@ Did they have other women managers at your level, or was that an issue?
 
 **Whitney:**
 
-\[laughs.\] No\! \[laughs.\] I was their first female Director. I was VP
+\laughs.\ No\! \[laughs.\] I was their first female Director. I was VP
 of a start-up, and it’s very common, once it gets bought, that you get
 demoted by one level. My boss was the CEO; he became VP. I was their
 first woman Director, ever\! And not only that, but PMC-Sierra is a
 Canadian company. So: chip company, Canadian company, old boy—I’m sure a
 lot like the computer companies of the seventies. It’s hard to explain,
 but when I went up there—I mean, I’ve always had people go before me,
-the real pioneers breaking new ground; and \[now\] I knew what it was
-like for them\! \[laughs.\] They were not used to me. I had always been
+the real pioneers breaking new ground; and \now\ I knew what it was
+like for them\! \laughs.\ They were not used to me. I had always been
 unusual, being a woman in technology, but I was basically supported; at
 some level or another, my managers attempted to be supportive of what I
 was doing. Even when they had their own issues having to do with it,
-they made an attempt to really support me. \[But at PMC-Sierra,\] they
+they made an attempt to really support me. \But at PMC-Sierra,\ they
 just didn’t know what to do with me. It was very much old-school.
 Canada, I think, is behind the U.S. in that way. It’s very much more
 like business was twenty years ago, or ten years ago.
@@ -1082,14 +1082,14 @@ Did you have to actually move to Canada for that?
 
 No. They were in Vancouver, but they were attempting to develop a pretty
 significant California presence, so they packed their stuff and they
-leased this beautiful building on Great America \[Parkway\] and
-\[Highway\] 101: Mission Towers. I think they’re stuck with the lease
+leased this beautiful building on Great America \Parkway\ and
+\Highway\ 101: Mission Towers. I think they’re stuck with the lease
 now, because they just are basically empty, and there’s really not a
 California presence. They intended to really grow; they were gearing up
 for pretty significant growth, and the bottom fell out of the
 telecommunications business. I’ve still got a lot of their stock; it’s
 not worth very much. I’m one of those people that you keep reading about
-in the newspaper\! \[laughs.\] Hey, at least I didn’t lose money on it\!
+in the newspaper\! \laughs.\ Hey, at least I didn’t lose money on it\!
 
 **Abbate:**
 
@@ -1123,8 +1123,8 @@ work.
 But PMC-Sierra was the first place that was not a very good place to be
 a woman. There wasn’t any explicit discrimination. In fact, I think that
 if you talk to Bob Bailey, who’s President, or Greg Aasen, or Kevin
-\[Huscroft\]—there was a triad of power, Bob Bailey being the CEO, Greg
-Aasen being the COO, and Kevin \[Huscroft\] was VP of engineering and
+\Huscroft\—there was a triad of power, Bob Bailey being the CEO, Greg
+Aasen being the COO, and Kevin \Huscroft\ was VP of engineering and
 CTO—they would think that they were quite open to a woman who was
 capable; it would be just fine. But they don’t have any women, and it’s
 not a particularly inviting environment for women to be in.
@@ -1144,7 +1144,7 @@ what you do; so a woman will be respected, and there’s a lot of
 opportunity if that’s what you so choose. But in general, even today,
 women tend to be the ones that are trying to balance career and family
 more frequently; and it’s not a good place to balance work and family\!
-\[laughs.\] It’s just not. And it’s also high risk, and in general, more
+\laughs.\ It’s just not. And it’s also high risk, and in general, more
 women worry about the risk—I think, once again, because they’re trying
 to balance different aspects of their life. I hired the entire
 engineering staff at Malleable, and it was very hard for me to hire
@@ -1168,14 +1168,14 @@ company. So in that sense, they were able to attract a lot of women.
 
 I don’t know. Like I said, in chip companies, you really don’t see that
 many women; but I know some phenomenal women who do this, so there are
-some. You get to know them, and it’s really exciting\! \[laughs.\] For
+some. You get to know them, and it’s really exciting\! \laughs.\ For
 example, the woman who chaired the Malleable processor: we actually
 subcontracted with this little design consulting company in Palo Alto,
 and there was this woman named Beth Cooper with twenty years of design
 engineering; processor designing. You don’t see many women CPU
 designers, but she was phenomenal\! She and I are still in contact. I
 observe that as I meet these really interesting women, the women are the
-ones that I tend \[to stay in touch with\]. We make a connection and we
+ones that I tend \to stay in touch with\. We make a connection and we
 stay in contact, more so than the men that I meet along the way.
 
 **Abbate:**
@@ -1217,8 +1217,8 @@ they were really comfortable with it. One in particular I’m thinking of,
 he’s gone back to a much larger company; but he was a risk-taker, and he
 enjoyed the risk-taking.
 
-I should talk at least a little bit about the Institute \[for Women and
-Technology, now the Anita Bog Institute\].
+I should talk at least a little bit about the Institute \for Women and
+Technology, now the Anita Bog Institute\.
 
 ### Officer Role at the Anita Borg Institute of Women and Technology
 
@@ -1241,14 +1241,14 @@ particular, finding a way to work with start-ups, which I love—there’s
 nothing I love more than creating something from scratch; figuring out
 what this new thing is and then doing it—but doing it, perhaps, in a
 consulting capacity. So that was my vision. I started in September of
-last year \[2001\], and I’ve worked with a start-up in Southern
+last year \2001\, and I’ve worked with a start-up in Southern
 California since then. When I first went back to work I was working
 half-time with them. They had a couple of Cal Tech grads; young
 management team; seasoned CEO: he knew his executives needed some help,
 and I worked half-time with them initially, and now I go down just once
 a month. But my idea was to do that with a lot of different companies.
 
-In January \[2002, I started to work for the Institute\]. Anita’s a
+In January \2002, I started to work for the Institute\. Anita’s a
 close friend: we started the Grace Hopper together; when I got married,
 she and I went on a backpacking trip for my bachelorette party. I knew
 that she needed help with the Institute. The part that she needed help
@@ -1264,7 +1264,7 @@ When did you actually become Interim President?
 
 **Whitney:**
 
-Around June first. Six weeks ago\! \[laughs.\]
+Around June first. Six weeks ago\! \laughs.\
 
 **Abbate:**
 
@@ -1283,8 +1283,8 @@ passion is developing technology: I like building things. The Institute
 really is more about developing a new way of thinking about technology,
 as opposed to developing technology; so there may be a marriage there,
 but right now, in an ideal world, this would be something that I would
-help with \[temporarily\]. I mean, it’s something I believe in, but I
-didn’t intend to do it full-time. And yet, here I am\! \[laughs.\]
+help with \temporarily\. I mean, it’s something I believe in, but I
+didn’t intend to do it full-time. And yet, here I am\! \laughs.\
 Having said that, I’ve got a great team, and we’re really excited about
 what we’re doing—and remember, I said that what I like to do is build
 things from scratch, and the entrepreneur side is very much present
@@ -1321,7 +1321,7 @@ So are there demonstration projects underway?
 
 We have four programs. One is Systers. That’s really where we started,
 and I think that we need to upgrade it. We’ve actually got a new
-technology under development that Ellen Spertus \[is working on\]. Do
+technology under development that Ellen Spertus \is working on\. Do
 you know her?
 
 **Abbate:**
@@ -1331,7 +1331,7 @@ know her personally.
 
 **Whitney:**
 
-Okay\! Well, she’s at Mills \[College\], a wonderful woman, and she is
+Okay\! Well, she’s at Mills \College\, a wonderful woman, and she is
 actually developing the next generation Systers in her spare time. She’s
 working with a woman named Robin Jeffries, who’s a distinguished
 engineer at Sun: another wonderful woman with an illustrious computing
@@ -1365,7 +1365,7 @@ computer field and social change. And then finally there’s something
 called the Virtual Development Center, which is the newest program, and
 it’s really taking a model class to universities. We’re working with
 nine universities, and it’s a year-long class that includes a workshop
-that really allows non-technical women and \[technical\] women to come
+that really allows non-technical women and \technical\ women to come
 together and talk about products that would be of interest to the
 community which it serves.
 
@@ -1380,7 +1380,7 @@ our sites, and they work with the disabled. So they’ve got a set of
 students, and they work with a community group that includes blind and
 hearing-impaired, and they’ve developed products that are really
 targeted for them. We have a women’s support group for abused women that
-\[develops\] products for them. There’s one site that actually works
+\develops\ products for them. There’s one site that actually works
 with middle schools, so they’re developing products that are for young
 girls. But the key is that we start off the year by bringing this group
 of people together that includes non-technical and technical people to
@@ -1424,7 +1424,7 @@ Reallini. She was the CEO of a software company called Chordiant
 Software, and I actually got in touch with her through a mentoring
 program; so it was actually a mentoring training, and you connected up
 with somebody. She’s on the Institute Board, so actually I’m seeing her
-tomorrow\! \[laughs.\] She’s chairing the new President search
+tomorrow\! \laughs.\ She’s chairing the new President search
 committee. And Anita: Anita and I kind of mentored each other—we were
 close personal friends—and Amy the same way. So I did, in that sense,
 have female mentors. In fact, I think at this point in my career, my
@@ -1438,8 +1438,8 @@ spending most of my time right now fundraising and networking and going
 and asking people for money, and when Anita and I did this in 1994, I
 could not even imagine doing fundraising. It was beyond my model of
 being able to do that, because I just feel so awful when you call and
-they say No\! \[laughs.\] But, by showing up, I \[found that I could do
-it after all\].
+they say No\! \laughs.\ But, by showing up, I \[found that I could do
+it after all\.
 
 ### Changes for Women over Career and Final Thoughts
 
@@ -1452,7 +1452,7 @@ open to women over the years? Or less, or about the same?
 
 Well, you know, I got in it in ‘75, so . . . It was such a new field
 that you could—and it was open to women. In some ways, in fact, the
-\[female\] enrollment in computer science departments is going down, and
+\female\ enrollment in computer science departments is going down, and
 I do think it’s kind of solidifying itself into more of what feels more
 masculine, and sometimes that’s less inviting to women. Having said
 that, society as a whole has really adopted a more open attitude towards
@@ -1486,7 +1486,7 @@ Within computing? It’s funny: you see certain technical topics that have
 more women present. Human-computer interface, I think, you would find
 more women than other areas. Chip design, you really don’t. I really
 think that, when you look at the numbers, it’s almost like it doesn’t
-fit the DNA of many women\! \[laughs.\] I don’t know why that is, but
+fit the DNA of many women\! \laughs.\ I don’t know why that is, but
 the numbers are significantly lower in chip design than human-computer
 interface, so I think you’d find that that’s more attractive
 technically.
@@ -1496,8 +1496,8 @@ certain areas more than others; but then there’s the working side, and
 one of the sad things is that you find that in the lowest-paying
 positions, there are always a lot more women. There was a study done in
 Silicon Valley that I found fascinating, because it talks about how in
-junior high school math and science, it’s fifty-fifty \[men and women\];
-and somewhere socially, as \[women\] go through high school, they start
+junior high school math and science, it’s fifty-fifty \men and women\;
+and somewhere socially, as \women\ go through high school, they start
 dropping out of math and science, because it’s not cool. It’s just not
 cool in our society right now. But what happens is that, years later, as
 they actually go out to get a job, the jobs are in technology; and so
@@ -1526,7 +1526,7 @@ What do you find most satisfying about working with computers?
 
 I love technology\! Just seeing the results of your actions. So you put
 together this team, and they build a chip, and it works, and there’s
-this cool thing\! \[laughs.\] Or you run a computer program, and it sort
+this cool thing\! \laughs.\ Or you run a computer program, and it sort
 of does this thing, and you just watch it work. It’s very tactile.
 That’s what I find. I love seeing the results of what we do.
 
@@ -1554,59 +1554,59 @@ Okay.
 Thank you so much for talking with me.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Telle_Whitney&oldid=108729>"
+"<http:/ethw.org/index.php?title=Oral-History:Telle_Whitney&oldid=108729>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Market
-  research](/Category:Market_research "Category:Market research")
-* [Computer
-  industry](/Category:Computer_industry "Category:Computer industry")
-* [Management](/Category:Management "Category:Management")
-* [Research and development
-  management](/Category:Research_and_development_management "Category:Research and development management")
-* [Educational
-  institutions](/Category:Educational_institutions "Category:Educational institutions")
-* [Environment](/Category:Environment "Category:Environment")
-* [Workplace](/Category:Workplace "Category:Workplace")
-* [Profession](/Category:Profession "Category:Profession")
-* [Research and
-  development](/Category:Research_and_development "Category:Research and development")
+* Market
+  research(Category:Market_research "Category:Market research")
+* Computer
+  industry(Category:Computer_industry "Category:Computer industry")
+* Management(Category:Management "Category:Management")
+* Research and development
+  management(Category:Research_and_development_management "Category:Research and development management")
+* Educational
+  institutions(Category:Educational_institutions "Category:Educational institutions")
+* Environment(Category:Environment "Category:Environment")
+* Workplace(Category:Workplace "Category:Workplace")
+* Profession(Category:Profession "Category:Profession")
+* Research and
+  development(Category:Research_and_development "Category:Research and development")
 
 ## Contents
 
-* [1 About Telle Whitney](#About_Telle_Whitney)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family](#Family)
-  * [4\.2 College and Working with
-    Computers](#College_and_Working_with_Computers)
-  * [4\.3 Graduate School at Caltech](#Graduate_School_at_Caltech)
-  * [4\.4 Impact of Gender on Early
-    Career](#Impact_of_Gender_on_Early_Career)
-  * [4\.5 Career in Silicon Valley](#Career_in_Silicon_Valley)
-  * [4\.6 Technical Discussion of FPGAs and the Computer Chip Market in
-    General](#Technical_Discussion_of_FPGAs_and_the_Computer_Chip_Market_in_General)
-  * [4\.7 Additional Details of Career](#Additional_Details_of_Career)
-  * [4\.8 Gender and Later Period of
-    Career](#Gender_and_Later_Period_of_Career)
-  * [4\.9 Officer Role at the Anita Borg Institute of Women and
-    Technology](#Officer_Role_at_the_Anita_Borg_Institute_of_Women_and_Technology)
-  * [4\.10 Mentors over Career](#Mentors_over_Career)
-  * [4\.11 Changes for Women over Career and Final
-    Thoughts](#Changes_for_Women_over_Career_and_Final_Thoughts)
+* 1 About Telle Whitney(#About_Telle_Whitney)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family(#Family)
+  * 4\.2 College and Working with
+    Computers(#College_and_Working_with_Computers)
+  * 4\.3 Graduate School at Caltech(#Graduate_School_at_Caltech)
+  * 4\.4 Impact of Gender on Early
+    Career(#Impact_of_Gender_on_Early_Career)
+  * 4\.5 Career in Silicon Valley(#Career_in_Silicon_Valley)
+  * 4\.6 Technical Discussion of FPGAs and the Computer Chip Market in
+    General(#Technical_Discussion_of_FPGAs_and_the_Computer_Chip_Market_in_General)
+  * 4\.7 Additional Details of Career(#Additional_Details_of_Career)
+  * 4\.8 Gender and Later Period of
+    Career(#Gender_and_Later_Period_of_Career)
+  * 4\.9 Officer Role at the Anita Borg Institute of Women and
+    Technology(#Officer_Role_at_the_Anita_Borg_Institute_of_Women_and_Technology)
+  * 4\.10 Mentors over Career(#Mentors_over_Career)
+  * 4\.11 Changes for Women over Career and Final
+    Thoughts(#Changes_for_Women_over_Career_and_Final_Thoughts)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:49\.
 
 * This page has been accessed 3,923 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

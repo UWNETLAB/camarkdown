@@ -1,77 +1,77 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Fan_Chung-Graham&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Fan_Chung-Graham&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Fan_Chung-Graham)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Fan_Chung-Graham&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Fan_Chung-Graham "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Fan_Chung-Graham "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Fan_Chung-Graham&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Fan_Chung-Graham&oldid=113030 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Fan_Chung-Graham&action=info)
-  
-  * [Browse
-    properties](/Special:Browse/Oral-2DHistory:Fan_Chung-2DGraham)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AFan+Chung-Graham)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Fan_Chung-Graham&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Fan_Chung-Graham&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Fan_Chung-Graham)
+  
+  * Discussion(index.php?title=Oral-History_talk:Fan_Chung-Graham&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Fan_Chung-Graham "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Fan_Chung-Graham "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Fan_Chung-Graham&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Fan_Chung-Graham&oldid=113030 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Fan_Chung-Graham&action=info)
+  
+  * Browse
+    properties(Special:Browse/Oral-2DHistory:Fan_Chung-2DGraham)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AFan+Chung-Graham)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Fan Chung-Graham
@@ -222,7 +222,7 @@ Yes.
 When I was in middle or high school, it was an all-girls’ school. It was
 very conservative then; but you got a very good education. Later on,
 when I went to college, even in the first and second year of my college
-days the books we were using \[in Taiwan\] were quite a bit more
+days the books we were using \in Taiwan\ were quite a bit more
 advanced than those I see here. However, when I went to grad school at
 the University of Pennsylvania, I found out that the best way to learn
 is by using what you learn yourself.
@@ -268,7 +268,7 @@ So there were a lot of women in the Math Department?
 **Graham:**
 
 I think my year had more than usual. And they have all been doing great
-now, too\! \[laughs.\]
+now, too\! \laughs.\
 
 **Abbate:**
 
@@ -326,10 +326,10 @@ So when did you actually first use a computer?
 
 **Graham:**
 
-I took [FORTRAN](/FORTRAN "FORTRAN") in my senior year. For the
+I took FORTRAN(FORTRAN "FORTRAN") in my senior year. For the
 homework, in the old days, you had these punch cards. I wrote up my
 assignments usually very fast—and I heard later on that a lot of boys in
-the dorms tried to copy mine\! \[both laugh.\]
+the dorms tried to copy mine\! \both laugh.\
 
 **Abbate:**
 
@@ -338,8 +338,8 @@ Did you think, “Ah, this computer stuff can be fun”?
 
 **Graham:**
 
-Well, you know, doing FORTRAN is not quite computer science\! \[both
-laugh.\] But it’s a game. It’s an interesting game, and mathematics
+Well, you know, doing FORTRAN is not quite computer science\! \both
+laugh.\ But it’s a game. It’s an interesting game, and mathematics
 helps.
 
 **Abbate:**
@@ -392,9 +392,9 @@ problem.
 
 **Abbate:**
 
-Right. \[There is a relatively large number of women at the lower
+Right. \There is a relatively large number of women at the lower
 levels, but fewer and fewer as you move up the pipeline to the faculty
-and other senior positions.\]
+and other senior positions.\
 
 **Graham:**
 
@@ -452,13 +452,13 @@ straight to Bell Labs after that?
 
 **Graham:**
 
-Yes. In my last year of dissertation, I was very pregnant\! \[laughs.\]
+Yes. In my last year of dissertation, I was very pregnant\! \laughs.\
 That was a wonderful year for having a child, because I had a research
 fellowship and I only had to work on my dissertation so I could stay
 home if I wanted to. I was in no shape to interview for jobs—although I
 was relatively small for my first pregnancy. I got two offers, both
 without interviewing. One was very, very far away; they didn’t want to
-pay me to go to Hawaii to interview\! \[laughs.\] And the other one was
+pay me to go to Hawaii to interview\! \laughs.\ And the other one was
 from Bell Labs, and they didn’t have to interview me, because I already
 had some joint paper resulting from collaborations one year before.
 
@@ -539,7 +539,7 @@ Labs.
 When I first went to the Labs, it was a fascinating experience. I saw
 name tags at the doors of the offices with so many well-known stars
 there. You got the feeling if you put your arms out in the corridor, you
-could catch some of these good problems\! \[laughs.\] It was a wonderful
+could catch some of these good problems\! \laughs.\ It was a wonderful
 experience. It was the Labs in its golden days with many very smart
 people. It’s different from a university, because there’s no boundary
 between different disciplines. When you try to solve problems, you use
@@ -599,7 +599,7 @@ because I think it is always good to ask for help when you need it and
 not try to overload yourself, which is no good for yourself or for your
 children. So I always try to get whatever help I can. At that time, we
 lived close to New York, so I was lucky to get very good help. Actually,
-I had \[help\] living in with us, for many years. If you can have good
+I had \help\ living in with us, for many years. If you can have good
 help at home, then you can enjoy your work without worrying.
 
 **Abbate:**
@@ -614,10 +614,10 @@ husband then had a job there. For various reasons, for one year I was
 commuting. So they said, “Take Wednesday off, work at home.” I had to
 drive quite substantially on the New Jersey Turnpike, and I enjoyed the
 morning drive—at that time; I don’t think I would do it again\!
-\[laughs.\] It was always going like this: The first thing in the
+\laughs.\ It was always going like this: The first thing in the
 morning I had all these ideas, while I was driving; and then at the end
-of the day, you kill them all\! \[both laugh.\] I actually have pleasant
-memories about it—and not too many accidents\! \[laughs.\]
+of the day, you kill them all\! \both laugh.\ I actually have pleasant
+memories about it—and not too many accidents\! \laughs.\
 
 **Abbate:**
 
@@ -635,7 +635,7 @@ But you could think. You had an hour free to think.
 **Graham:**
 
 Yes. I don’t think I want to go back to those days of driving
-\[laughs\], but I sort of had a lot of fun.
+\laughs\, but I sort of had a lot of fun.
 
 **Abbate:**
 
@@ -740,7 +740,7 @@ Because the only way up is probably into management?
 
 **Graham:**
 
-Yes. You have to be too tough for your own good\! \[laughs.\] You know:
+Yes. You have to be too tough for your own good\! \laughs.\ You know:
 management means hire and fire. It toughens you up\!
 
 **Abbate:**
@@ -781,7 +781,7 @@ But I was still doing useful things for the Labs. For example, I did a
 big report on reliable communication and computing after a serious
 problem with the signal system SS7\. There was a telephone
 outage—Washington, DC and all over the places—and it was just because
-three bits were off\! \[laughs.\] I pulled together people from the
+three bits were off\! \laughs.\ I pulled together people from the
 practical community and from the research community, to survey the state
 of the art from protocols, software, networking to foundations. So I
 wrote such a report, which was very fun to do.
@@ -798,7 +798,7 @@ Northern Telecom, I think.
 
 **Abbate:**
 
-The rival to Bell Labs\! \[laughs.\]
+The rival to Bell Labs\! \laughs.\
 
 **Graham:**
 
@@ -812,10 +812,10 @@ So you were in the Math Department then, or where?
 
 **Graham:**
 
-Math. At Harvard, the Math Department is a very pure place\! \[laughs.\]
+Math. At Harvard, the Math Department is a very pure place\! \laughs.\
 At that time it was actually a little bit better, because Persi Diaconis
 is somewhat in statistics, and Dave Mumford was in computer vision, both
-still in the \[Math\] Department. Later on they left.
+still in the \Math\ Department. Later on they left.
 
 I visited there for two years, and I perhaps have set the record of
 having collaboration with the most number of their senior faculty. I
@@ -830,14 +830,14 @@ in my book.
 
 We started to do some joint work, and he segmented—you see, in computer
 vision, you have to segment all these pictures, so I said, “Why not
-segment my paintings?” \[laughs.\] I can show you later on some very
+segment my paintings?” \laughs.\ I can show you later on some very
 nice pictures\! We have a project of evaluating the paintings. If I
 really say “evaluating a painting,” that’s too broad a goal, which is
 hardly attainable; so we have a much simpler goal. You see, when you do
 water colors, it is very conceptual. You have to partition the whole
 picture into many different layers, and do them in the right order. I
 always use my eyes to judge what you should do. It would be good if the
-computer could help you\! \[laughs.\] So we sort of have a pet project
+computer could help you\! \laughs.\ So we sort of have a pet project
 on the side.
 
 **Abbate:**
@@ -848,7 +848,7 @@ That’s segmenting in the third dimension, rather than pixelating it?
 
 Yes. When you do water colors, you do one wash at a time. If you’re
 impatient and do not let it dry out, you start to fuss with it. Then
-you’ll create something called “mud”\! \[both laugh.\] So you have to
+you’ll create something called “mud”\! \both laugh.\ So you have to
 visualize how it will come out. But of course, the fun of the whole
 thing is that it’s unpredictable\!
 
@@ -897,11 +897,11 @@ evaluations, and people tend to be more critical if you’re spread too
 far away. There is a danger, unfortunately. But I think nowadays, given
 all the challenging problems we are facing, we need to use all tools and
 knowledge from whatever fields we can master: to throw those darts on\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
-Did you know [Ruzena Bajcsy](/Ruzena_Bajcsy "Ruzena Bajcsy")?
+Did you know Ruzena Bajcsy(Ruzena_Bajcsy "Ruzena Bajcsy")?
 
 **Graham:**
 
@@ -955,7 +955,7 @@ So he traveled with you to Boston?
 **Graham:**
 
 He was very supportive when I was taking my sabbatical. He was saying,
-“Go\! Go\!” \[laughs.\] I always want to live just right next to work,
+“Go\! Go\!” \laughs.\ I always want to live just right next to work,
 so we had an apartment right at Harvard Square. Ron helped setting it
 up, and he would come now and then. I also commuted a little.
 
@@ -986,9 +986,9 @@ At that time, they spent some time with us, some time with my
 ex-husband. My first marriage lasted about nine years, but I think we
 grew apart. With Ron, we’ve been together for a long time, more than
 twenty years, almost. We are actually in the same field—so I always say
-we have a wider communication bandwidth\! \[both laugh.\] I think it
+we have a wider communication bandwidth\! \both laugh.\ I think it
 happens to women a lot, because you run into people at work, and most of
-them are men\! \[laughs.\] And he’s great fun to be with, even after so
+them are men\! \laughs.\ And he’s great fun to be with, even after so
 many years. We have a wonderful time\!
 
 ### Moving to California
@@ -1160,7 +1160,7 @@ Both math and CS. I have served in various capacities, such as
 Editor-in-Chief and as a member of editorial boards; I’m on more than a
 dozen of editorial boards and Editor-in-Chief of two. I recently stepped
 down from co-Editor-in-Chief of the Electronic Journal of Combinatorics.
-It’s too much work\! \[laughs.\] However, I just started an exciting new
+It’s too much work\! \laughs.\ However, I just started an exciting new
 journal, Internet Mathematics.
 
 **Abbate:**
@@ -1179,7 +1179,7 @@ Either way.
 
 That is a hard question\! And I’ll tell you why: because I think my best
 accomplishment is probably down the line, a couple years from now\!
-\[laughs.\] I have a few remaining projects, starting to bear fruit.
+\laughs.\ I have a few remaining projects, starting to bear fruit.
 
 **Abbate:**
 
@@ -1189,7 +1189,7 @@ That must be a great feeling\!
 
 **Graham:**
 
-Yes\! So I’m looking into the future for this answer. \[laughs.\] In
+Yes\! So I’m looking into the future for this answer. \laughs.\ In
 fact, some of my women friends were joking among us; we were saying the
 growth curves for men and women are different. You know, in mathematics
 one of the most famous awards is the Fields Medal.
@@ -1200,7 +1200,7 @@ Right.
 
 **Graham:**
 
-And it has an age limit of forty\! \[laughs.\] So there is either a myth
+And it has an age limit of forty\! \laughs.\ So there is either a myth
 or a misguided belief that if you have any brilliant ideas, they must
 surface very early—really early on\! I don’t know the truth about that.
 I see people showing their brilliance in different times of their life.
@@ -1210,7 +1210,7 @@ to reach the right density. It’s a different curve.
 **Abbate:**
 
 Did you read a book by Margaret Murray, who I think is a math Professor
-at Virginia, called Women Becoming Mathematicians? \[MIT Press, 2000\.\]
+at Virginia, called Women Becoming Mathematicians? \MIT Press, 2000\.\
 It might be interesting, because it’s a study of women who got math
 Ph.D.’s, I think in the 1950s and ‘60s, and she has that same argument:
 that there’s this myth that you have to do everything when you’re
@@ -1227,7 +1227,7 @@ things all at the same time. You have to handle family, children,
 husband, career—and doing technical work. Very often, I think you can
 use that as an advantage. You don’t just work on one topic but handle
 several topics at the same time: so you cook, and you think\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1250,7 +1250,7 @@ are emerging and theory can make a real difference. We are facing the
 task of building a sound scientific foundation to deal with these
 difficult problems of such enormous scale. All sorts of problems are
 opened up, and it’s so much fun. It’s hard to imagine I’m paid to do
-such fun work\! \[both laugh.\]
+such fun work\! \both laugh.\
 
 **Abbate:**
 
@@ -1298,7 +1298,7 @@ beard, or like my husband: blonde and tall. In order to overcome such a
 “handicap”, you have to work extra hard to compensate. As a result,
 you get stronger and better and most people will recognize that. And it
 is true that, for some people, they probably will never quite see you\!
-\[laughs.\] You walk by and they don’t see you—which is perhaps the
+\laughs.\ You walk by and they don’t see you—which is perhaps the
 worst. Those people are not the ones that I care about anyway. I
 certainly hope things will work out better for a lot of young people, so
 they don’t get discouraged.
@@ -1358,7 +1358,7 @@ Yes. My usual advice is for them not to get intimidated. In a way, in
 science—it’s not entirely black or white, but it has clear definitions,
 and if you get it, you are on equal ground. When I first went to
 college, I ran into these guys—I’m pretty sure that in every class there
-are a few—who seemed to already know everything\! \[laughs\] Later on, I
+are a few—who seemed to already know everything\! \laughs\ Later on, I
 found out that it was not the case. In fact, the worst thing that can
 happen is that you pretend you know something and you don’t.
 
@@ -1383,49 +1383,49 @@ Well, thank you so much for speaking with me\! It’s been really fun\!
 Well, thanks\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Fan_Chung-Graham&oldid=113030>"
+"<http:/ethw.org/index.php?title=Oral-History:Fan_Chung-Graham&oldid=113030>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Research and development
-  labs](/Category:Research_and_development_labs "Category:Research and development labs")
-* [Educational
-  institutions](/Category:Educational_institutions "Category:Educational institutions")
-* [Mathematics](/Category:Mathematics "Category:Mathematics")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* Research and development
+  labs(Category:Research_and_development_labs "Category:Research and development labs")
+* Educational
+  institutions(Category:Educational_institutions "Category:Educational institutions")
+* Mathematics(Category:Mathematics "Category:Mathematics")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
 
 ## Contents
 
-* [1 About Fan Chung Graham](#About_Fan_Chung_Graham)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Growing up in Taiwan and Family
-    Life](#Growing_up_in_Taiwan_and_Family_Life)
-  * [4\.2 Women and Math in Taiwan](#Women_and_Math_in_Taiwan)
-  * [4\.3 Graduate School at UPenn](#Graduate_School_at_UPenn)
-  * [4\.4 Working at Bell Labs](#Working_at_Bell_Labs)
-  * [4\.5 Working at Harvard](#Working_at_Harvard)
-  * [4\.6 From Harvard to UPenn](#From_Harvard_to_UPenn)
-  * [4\.7 Moving to California](#Moving_to_California)
-  * [4\.8 Researching Information
-    Networks](#Researching_Information_Networks)
-  * [4\.9 Participation in Professional Societies and
-    Publications](#Participation_in_Professional_Societies_and_Publications)
-  * [4\.10 Reflections on Women in
-    Mathematics](#Reflections_on_Women_in_Mathematics)
+* 1 About Fan Chung Graham(#About_Fan_Chung_Graham)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Growing up in Taiwan and Family
+    Life(#Growing_up_in_Taiwan_and_Family_Life)
+  * 4\.2 Women and Math in Taiwan(#Women_and_Math_in_Taiwan)
+  * 4\.3 Graduate School at UPenn(#Graduate_School_at_UPenn)
+  * 4\.4 Working at Bell Labs(#Working_at_Bell_Labs)
+  * 4\.5 Working at Harvard(#Working_at_Harvard)
+  * 4\.6 From Harvard to UPenn(#From_Harvard_to_UPenn)
+  * 4\.7 Moving to California(#Moving_to_California)
+  * 4\.8 Researching Information
+    Networks(#Researching_Information_Networks)
+  * 4\.9 Participation in Professional Societies and
+    Publications(#Participation_in_Professional_Societies_and_Publications)
+  * 4\.10 Reflections on Women in
+    Mathematics(#Reflections_on_Women_in_Mathematics)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:01\.
 
 * This page has been accessed 2,807 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

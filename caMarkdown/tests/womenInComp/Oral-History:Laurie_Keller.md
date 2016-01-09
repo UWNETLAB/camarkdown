@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Laurie_Keller&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Laurie_Keller&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Laurie_Keller)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Laurie_Keller&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Laurie_Keller "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Laurie_Keller "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Laurie_Keller&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Laurie_Keller&oldid=113076 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Laurie_Keller&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Laurie_Keller)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ALaurie+Keller)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Laurie_Keller&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Laurie_Keller&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Laurie_Keller)
+  
+  * Discussion(index.php?title=Oral-History_talk:Laurie_Keller&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Laurie_Keller "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Laurie_Keller "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Laurie_Keller&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Laurie_Keller&oldid=113076 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Laurie_Keller&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Laurie_Keller)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ALaurie+Keller)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Laurie Keller
@@ -136,9 +136,9 @@ PLACE: Laurie Keller's home in Bedford, UK
 
 **Abbate:**
 
-This is an interview with Laurie Keller on September 26th, 2001\. \[This
+This is an interview with Laurie Keller on September 26th, 2001\. \This
 interview replaces one that was recorded but later lost, so we will be
-revisiting\] some old territory.
+revisiting\ some old territory.
 
 So, just to go back to the beginning: If you would just say briefly when
 you were born and where you grew up.
@@ -173,7 +173,7 @@ material, and so on and so forth.
 
 **Abbate:**
 
-So you just moved—you didn’t \[spend any time in Chicago\].
+So you just moved—you didn’t \spend any time in Chicago\.
 
 **Keller:**
 
@@ -189,8 +189,8 @@ Well, that’s actually interesting, because I came late in my parents’
 life; they’d been married for thirteen years. My mother was still
 working, and she was going to stop work on the 24th of December, go back
 to California, and have me. The only trouble is, I came on the 15th\!
-\[laughs.\] That was a Saturday, and she was actually working on the
-Friday, and thinking she had indigestion\! \[laughs.\] I sometimes
+\laughs.\ That was a Saturday, and she was actually working on the
+Friday, and thinking she had indigestion\! \laughs.\ I sometimes
 jokingly say I was nearly born in an office. Not quite, but . . .
 
 **Abbate:**
@@ -252,7 +252,7 @@ Did you know her?
 
 **Keller:**
 
-Well, I have pictures of me standing next to her, \[but\] I have no
+Well, I have pictures of me standing next to her, \but\ I have no
 memories of her. She died when I was about four.
 
 But my mother’s mother, who was a farmer’s wife: after they moved off
@@ -267,7 +267,7 @@ support yourself?
 **Keller:**
 
 I was quite shocked when I realized that some people’s mothers didn’t
-work\! \[laughs.\] And that must have hit me really in my teens; because
+work\! \laughs.\ And that must have hit me really in my teens; because
 almost all the girlfriends I had, their mothers did something outside
 the home, or they took in children and were paid for it; so I just
 thought everybody worked. I never had a concept of somebody not doing
@@ -284,14 +284,14 @@ it was really important to have a career of some kind—as a backup, if
 nothing else. There was always this: “If you have this, you can take
 care of yourself, no matter what happens. And who knows what happens in
 life?” That was their approach. I’m not sure that I quite understood it
-at the time, because as I say, I saw all these women I knew \[who
-worked\]; I was in contact with female teachers and nurses and so on. I
+at the time, because as I say, I saw all these women I knew \who
+worked\; I was in contact with female teachers and nurses and so on. I
 just didn’t realize what the flip side of what they were saying was,
 this economic dependence thing; I really didn’t realize that. I just
 thought everybody did these things.
 
 I had a number of different ambitions—you know, the usual things when
-you’re little. I wanted to be a fireman \[laughs\]—various sorts of
+you’re little. I wanted to be a fireman \laughs\—various sorts of
 things like that\! But what I finally settled for when I was in my teens
 was, I thought I’d like to live an academic life. I’d like to be a
 writer, write lots of things. I realized it was probably difficult to
@@ -303,7 +303,7 @@ college teaching English, and then once every seven years I’d take my
 sabbatical and go spend lots of time in England, digging around archives
 and old libraries.
 
-So, I got here \[to England, and\] I write a lot, but it’s not at all
+So, I got here \to England, and\ I write a lot, but it’s not at all
 what I planned initially\! It was purely by chance, I think, that I
 ended up being where I’d initially thought I’d like to be—but in a
 completely different capacity.
@@ -314,7 +314,7 @@ You were going to write fiction?
 
 **Keller:**
 
-Oh yes\! Yes. I was going to be a great poet\! \[laughs.\]
+Oh yes\! Yes. I was going to be a great poet\! \laughs.\
 
 **Abbate:**
 
@@ -326,8 +326,8 @@ I’ve always been particularly fond of 17th-century English literature,
 so it was John Donne, Herbert, Ben Jonson, Shakespeare, things like that
 that moved me. I’m not a great fan of 18th or 19th century literature,
 particularly. The 20th-century American literature I was fond of, so
-another possible ambition was to write the Great American Novel\! \[both
-laugh.\]
+another possible ambition was to write the Great American Novel\! \both
+laugh.\
 
 **Abbate:**
 
@@ -361,18 +361,18 @@ What were your favorite subjects?
 
 **Keller:**
 
-Everything\! \[laughs.\] I loved science. I did Spanish as a foreign
+Everything\! \laughs.\ I loved science. I did Spanish as a foreign
 language, and I really enjoyed that. I really did love English. I loved
 to write; I always have. I mean, from the time I was a little kid I used
 to write little books and illustrate them myself and staple them
-together\! \[laughs.\] So I loved English. I think math was about the
+together\! \laughs.\ So I loved English. I think math was about the
 only thing that I really didn’t like. I did well at it, but very early
-on I decided it was designed to torture children\! \[laughs.\] I always
+on I decided it was designed to torture children\! \laughs.\ I always
 looked at it as a kind of hurdle that was put in your way, that you had
 to get over in order to go to college, and I never really looked at the
 value of it in its own right—until, I would say, only about ten years
 ago, when it really started sinking in to me how valuable a skill and a
-knowledge area it is. I did it, but I hated it\! \[laughs.\]
+knowledge area it is. I did it, but I hated it\! \laughs.\
 
 **Abbate:**
 
@@ -456,7 +456,7 @@ And then went on and got an English degree, as planned.
 
 **Keller:**
 
-Yes; yes. \[laughs.\] Then went on and got the degree as planned.
+Yes; yes. \laughs.\ Then went on and got the degree as planned.
 
 ### Introduction to Computer Programming, FORTRAN and COBOL
 
@@ -479,7 +479,7 @@ Yes. He’d graduated in engineering from UCLA, and when he went up to
 Berkeley he was actually doing what was then a very new degree, the MBA.
 But there was a free course put on—meaning you didn’t have to pay a fee
 for it—by the engineering school, and he went for a refresher; it was in
-[FORTRAN](/FORTRAN "FORTRAN"). He’d mentioned that was going to go to
+FORTRAN(FORTRAN "FORTRAN"). He’d mentioned that was going to go to
 this course in FORTRAN, and I said “What’s FORTRAN?” And he said, “Oh,
 it’s a programming language, for computers.” And because I was so
 focused on language, this really interested me: How could you possibly
@@ -489,7 +489,7 @@ kind of syntax does it have? What kind of semantics does it have?” So I
 went along and sat in this room with him and went through the little
 course, and I wrote myself a little FORTRAN program—which I seem to
 remember did something like add two numbers. Something really exciting\!
-\[laughs.\] But it did give me a feel for what programming was.
+\laughs.\ But it did give me a feel for what programming was.
 
 **Abbate:**
 
@@ -529,7 +529,7 @@ Now, you got your first job at the L.A. Philharmonic?
 **Keller:**
 
 Well, yes. My first real job was: I was doing a Master’s Degree, and I’d
-got about halfway through it, and \[I was\] getting short of funds, and
+got about halfway through it, and \I was\ getting short of funds, and
 I didn’t want to keep asking my parents and stuff. I had been working
 part-time, and I thought, “Well, I’ll swap from being full-time student,
 part-time worker to the other way around.” I applied for a number of
@@ -557,7 +557,7 @@ was doing this left, and I was the only other person in the office who
 had a degree, so they came to me and said, “Would you be interested in
 taking this woman’s job?” Well, it was more money, and it sounded more
 interesting than spending my time going through lifestyle magazines
-\[laughs\], and so I took it. This involved me not directly with
+\laughs\, and so I took it. This involved me not directly with
 computers, but with the company which was doing the work, which was an
 arm of Computer Sciences Corporation. And I suppose because I had this
 familiarity with programming, I was probably able to do a reasonable job
@@ -570,9 +570,9 @@ came to an end. Everything was, then, computerized, and so the job kind
 of disappeared. The Computer Sciences people came to me and they said,
 “You understand how the system works, because you’ve been using it,
 and you still speak English; so you can write user manuals\!”
-\[laughs.\] It was a chance to write, which was something I’d always
+\laughs.\ It was a chance to write, which was something I’d always
 wanted to do, so I thought, “Yes, all right; I’ll take that on.” So my
-initial job with them \[in 1968\] was actually as a technical writer.
+initial job with them \in 1968\ was actually as a technical writer.
 But they really needed programmers, and the programmers were so busy
 they couldn’t explain how the programs worked, so they’d just give me
 the listing and say, “You figure it out.” And after a while of doing
@@ -614,7 +614,7 @@ worked for Computer Sciences Corporation and done that. Another woman
 had started out working for Goldwater’s Department Store in Arizona.
 When they started computerizing their stock-taking, they sent somebody
 off to learn how to punch cards, and the woman they sent didn’t like it,
-and so \[this other woman\] said, “Oh, show me how, and I’ll take it
+and so \this other woman\ said, “Oh, show me how, and I’ll take it
 up.” Eventually she worked her way from being the key-punch operator
 to being a computer operator. Then she and her husband had moved to
 California, where the law said that she could not work as a computer
@@ -641,7 +641,7 @@ So you ended up programming for . . .
 **Keller:**
 
 I ended up programming for Computer Sciences Corporation. The little
-\[group I was in\]—first it started out as a division, then it became a
+\group I was in\—first it started out as a division, then it became a
 subsidiary, and then it became a free-standing company, and then it went
 bankrupt—was called Computicket. I had started when it was a division,
 and then it kept getting more and more distant from the parent company,
@@ -736,7 +736,7 @@ These were mostly IBM machines?
 It was mostly IBM machines, except for the CDC 6600s, which were the
 ones that did the online order processing, where it came in from
 brokerage offices all over the U.S. and would be sent electronically. Of
-course, they used to break down all the time\! \[laughs.\]
+course, they used to break down all the time\! \laughs.\
 
 **Abbate:**
 
@@ -747,7 +747,7 @@ Which did?
 The CDC 6600s. There was a pair of them; one would be the active one,
 the other would be the backup. But the active one would go down, the
 backup one would start up, and then most of the time it would it would
-collapse under the load as well. \[laughs.\] The backup to that was,
+collapse under the load as well. \laughs.\ The backup to that was,
 they had a huge room with banks of phones, and people would go rushing
 in there and go back to the old way of taking the orders over the phones
 and writing them on little slips of paper, which were then put on little
@@ -758,7 +758,7 @@ so the ultimate backup was this room with all these phones and the
 little rubber conveyor belts and pads of paper. It was an interesting
 experience. One of the things I learned was, “Never throw away the old
 system until you’re absolutely certain that the new system works\!”
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -779,16 +779,16 @@ at EDS.
 **Keller:**
 
 No, that was later. From New York I went to England; then, I was here
-\[in England\] five years; then I went back to the States. It was when I
+\in England\ five years; then I went back to the States. It was when I
 went back to the States that I went to SHARE and GUIDE, because by then
 I was a Systems Programmer for TRW. I’d go to SHARE and GUIDE, and that
-was always an interesting experience. One \[reason\] was that there were
+was always an interesting experience. One \reason\ was that there were
 very few women there, so if you were a woman you got lots of
 attention—some of it not particularly welcome. The other thing: I
 would have loved to have had a video camera or a recorder at the time,
 because one of the things that really amused me was the way men from
-different companies would sort of \[boast\]—it was this “mine is bigger
-than yours” thing\! \[laughs.\] You’d get two men meeting, and they’d
+different companies would sort of \boast\—it was this “mine is bigger
+than yours” thing\! \laughs.\ You’d get two men meeting, and they’d
 start talking about their equipment, which was why they were there:
 their IBM setup. So you’d get one saying, “We’re running twin 168s, with
 disk farm of so many disks and so many tape drives”; and the other one
@@ -802,7 +802,7 @@ companies and stuff—who were running quite large computer installations
 anyway. But it was just this rather funny thing, and I always wondered
 if there were people who came from small companies with little systems
 who kept very quiet because they felt embarrassed or something\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -816,7 +816,7 @@ them, and partly to act as a voice by IBM users to IBM about what they
 wanted, what their problems were. So that was the reason why these
 places existed. They normally went on for three days or so. But there
 was also a lot of this socializing and macho posturing to go with it\!
-\[laughs.\]
+\laughs.\
 
 ### Moving to Britain
 
@@ -866,7 +866,7 @@ A software service bureau?
 **Keller:**
 
 Yes, it was a service bureau type of arrangement. The service bureau, of
-course, had CDC machines that they were running \[the programs\] on, and
+course, had CDC machines that they were running \the programs\ on, and
 they were large, so the size of the program actually didn’t matter too
 much. What they bought to replace it was an IBM 1130, which had a 16K
 memory; so part of the problem was actually working out how to take 200K
@@ -880,7 +880,7 @@ executed; and how you could group together things, where you’re doing a
 lot of work in a small bit of code, which you can then put into memory
 and just work away, and keep out of memory those things that you don’t
 use very often. It’s a technique called “program folding,” which nobody
-ever does anymore; it’s long dead\! \[laughs.\] But it was very
+ever does anymore; it’s long dead\! \laughs.\ But it was very
 interesting and intricate work, to rewrite these programs. You couldn’t
 just take a program and stick it in and do anything with it. You had to
 really understand what it was doing, where it was spending a lot of
@@ -982,11 +982,11 @@ service bureau, which was about three miles away, I think. And she
 actually thought that these cards were being rolled up, put in a kind of
 pneumatic tube, zipped down these three miles, read at a card reader
 down in Victoria—we were up on Oxford Circus; this was down in
-Victoria—read down there; rolled back up; stuck in a tube \[and sent
-back\]\! \[laughs.\] And I said, “But look, when you start running this,
+Victoria—read down there; rolled back up; stuck in a tube \and sent
+back\\! \laughs.\] And I said, “But look, when you start running this,
 it’s only really a fraction of a second between the time the card
 disappears and it reappears on the other side. It couldn’t possibly be
-going three miles down\!” \[both laugh.\] But that was her mental model
+going three miles down\!” \both laugh.\ But that was her mental model
 of how this was working, and she couldn’t really understand—despite the
 fact she operated the equipment—how you could get information physically
 from one place to another place without this physical medium of the
@@ -1035,7 +1035,7 @@ Bizarre\!
 
 **Keller:**
 
-Yes, it was very bizarre. It was a very bizarre experience. \[laughs.\]
+Yes, it was very bizarre. It was a very bizarre experience. \laughs.\
 And I thought it was funny, because my colleague was actually repeating
 what I said. Now, this man was sitting there in the room, understood
 English, must have been able to hear it; and yet somehow it was
@@ -1048,7 +1048,7 @@ things in . . .
 
 **Keller:**
 
-And he wouldn’t have known. Maybe\! \[both laugh.\]
+And he wouldn’t have known. Maybe\! \both laugh.\
 
 My mother, the business that she ran: she imported shellac into the
 United States—or lac, actually, and made shellac. One of the things that
@@ -1060,8 +1060,8 @@ business.” So she never put “Mrs.” on anything; she wrote “Clara Smith,�
 but she never put “Mrs.” on anything, so that they wouldn’t know. I
 suppose they didn’t know enough about Western names to twig, or maybe
 they just ignored the fact and thought, “Well never mind. She pays her
-bills on time\!” \[laughs.\] But yes, there was this problem with
-dealing with \[certain countries\].
+bills on time\!” \laughs.\ But yes, there was this problem with
+dealing with \certain countries\.
 
 **Abbate:**
 
@@ -1074,14 +1074,14 @@ She actually started with it shortly after my parents came back to
 California with me as an infant. She started out doing book-keeping for
 a father-and-son firm, and they couldn’t afford to pay her cash, so they
 paid her stock; and she eventually ended up owning a third of the
-company\! \[laughs.\] By “eventually,” I’m talking about a period of
+company\! \laughs.\ By “eventually,” I’m talking about a period of
 maybe three or four years. She ended up owning a third of the company,
 at which point the father and son had a falling out; and rather than
 have a stranger come in, she bought out the father’s share, and he left;
 and then eventually she bought out the son—so by the time we’re talking
 about, it was her sole business, and had been for some years. I think
 they left probably in the mid-fifties, and she’d had it from the
-mid-fifties until she retired—when she was eighty-seven\! \[laughs.\] We
+mid-fifties until she retired—when she was eighty-seven\! \laughs.\ We
 think she was the only female shellac maker, probably, in the world.
 
 **Abbate:**
@@ -1116,8 +1116,8 @@ So how did you end up leaving the Iraqi . . .
 Iraq Petroleum Company. It was this short-term conversion work, and that
 went on for about six months. Then, because the Iraqis had nationalized,
 there was an IBM 1401 out in Iraq that they had nationalized and taken
-away, and it was the one that did the stock control for \[one of the oil
-fields\]. Iraq Petroleum had three major sites, and this was the one up
+away, and it was the one that did the stock control for \one of the oil
+fields\. Iraq Petroleum had three major sites, and this was the one up
 in Kirkuk oil field, which is the area that’s right in the north of
 Iraq; and so for months, the people at this huge warehousing facility
 had had to keep track by hand of what was going in and out. We had to
@@ -1127,16 +1127,16 @@ were keeping track on punched paper tape, so we had to write something
 to read punched paper tape, because the IBM 1130 didn’t normally have a
 punched paper tape facility. So we had to write something to read paper
 tape, and we wrote the stock control program; we had to do it fairly
-quickly. Then when they sent us \[the data on\] all these movements in
+quickly. Then when they sent us \the data on\ all these movements in
 and out of this warehouse on punched paper tape, it came in three or
 four great big tea chests full of paper tape, and somebody had to run it
 through the machine, and they loaded it backwards. A lot of it was
 loaded backwards, and so when this was finally done it turned out that
-it was all backwards\! \[laughs.\] And so we then had to write another
+it was all backwards\! \laughs.\ And so we then had to write another
 program to flip all the records. The records were right—you know, the
 boundaries between records were right—but the actual characters were
 backwards, and so we had to write a program quick to find all these and
-flip them around\! \[laughs.\] So yes, it was an interesting experience,
+flip them around\! \laughs.\ So yes, it was an interesting experience,
 to catch up with all this.
 
 Anyway, at the end of that I left. But in the meantime, my husband had
@@ -1149,7 +1149,7 @@ work there as a Senior Programmer Analyst. When I was hired, they said,
 suitable for senior people. It was the most boring job I’ve ever had in
 my life. There was nothing to do, or very rarely anything to do. It
 wasn’t just me; it was an open-plan office, and there was a cluster of
-about six of us who worked for \[a subsidiary of Philips\]. We were
+about six of us who worked for \a subsidiary of Philips\. We were
 organized along the subsidiary line, so the group that I was in worked
 for a subsidiary of Philips called C.E.S., which did selling and
 maintenance of consumer electronics, primarily things like washing
@@ -1158,7 +1158,7 @@ they also sold insurance to people who had bought Philips products. And
 we were all bored, and we’d sit there every day: everybody would bring
 in a different newspaper; we’d trade newspapers around till we’d all
 read all the newspapers; and we’d solve all the problems in the world.
-\[laughs.\] The Senior Analyst used to lie down on top of his desk at
+\laughs.\ The Senior Analyst used to lie down on top of his desk at
 three o’clock every afternoon and have a half-hour nap. It was really
 boring\!
 
@@ -1178,7 +1178,7 @@ still not something you can solve very easily. I worked on that for a
 bit, just mapping possible natural language statements onto controls for
 the program to produce the right sort of reports; and for a single set
 of reports, I think I ended up with something like 990 different ways
-that you could ask for it in English\! \[laughs.\] But anyway, that
+that you could ask for it in English\! \laughs.\ But anyway, that
 never got anywhere.
 
 I suppose because I was so bored, I applied my skills and I started
@@ -1192,7 +1192,7 @@ moved down to another charging band, my boss was very unhappy, because
 A) they hadn’t paid me to do this work—the subsidiary hadn’t paid for my
 time to do this work, and B) we were now getting less money from them,
 because their programs were running so much more efficiently\!
-\[laughs.\] So I thought, “I’d better leave.” At that point I went,
+\laughs.\ So I thought, “I’d better leave.” At that point I went,
 again, looking for a permanent job, and I got a job with Texas
 Instruments, also in Croydon.
 
@@ -1204,7 +1204,7 @@ Before we leave Philips, you have to tell me the pinup story again.
 
 **Keller:**
 
-Oh yes\! \[laughs.\] Because it was an open-plan office, a number of men
+Oh yes\! \laughs.\ Because it was an open-plan office, a number of men
 had nudie calendars. This is 1974, and they’d have Playboy calendars and
 things like this up. But it was an open-plan office, and the women who
 worked there used to get really annoyed at this in-your face
@@ -1214,7 +1214,7 @@ putting it somewhere else, and getting the “Oh ho ho, look at you\!
 You’re obviously so terribly upset by the idea of beautiful women with
 their breasts hanging out,” we were wondering what to do. Playgirl
 magazine started being published just then, and I think their very first
-centerfold was Burt Reynolds. \[laughs.\] We went down and we bought a
+centerfold was Burt Reynolds. \laughs.\ We went down and we bought a
 copy of Playgirl, we took Burt Reynolds out, and we pinned him up—and
 all hell broke loose, because the men were really outraged. I mean, here
 was this naked man, sitting there looking at them\! They called in the
@@ -1224,12 +1224,12 @@ Girl over there?” And in the end, what they told the men was that they
 had to take down the obviously visible girlie pictures; that they could
 only have something that was on their desk, facing them. So a little
 discreet calendar was okay, but they couldn’t put it on public display;
-and we agreed to take Burt Reynolds down. \[laughs.\] It was a minor
+and we agreed to take Burt Reynolds down. \laughs.\ It was a minor
 victory, but it was a victory of sorts.
 
 **Abbate:**
 
-\[laughs.\] A little consciousness raising.
+\laughs.\ A little consciousness raising.
 
 **Keller:**
 
@@ -1242,7 +1242,7 @@ Good for Burt\!
 
 **Keller:**
 
-Yes. Burt doesn’t know what he did\! \[laughs.\]
+Yes. Burt doesn’t know what he did\! \laughs.\
 
 ### Moving to Texas Instruments
 
@@ -1261,13 +1261,13 @@ A London subsidiary?
 **Keller:**
 
 It was called their “European Information Centre,” and it was the hub of
-\[their European operations\]. They had quite a distributed operation:
+\their European operations\. They had quite a distributed operation:
 so they had an office in Germany; they had two in Holland; two in Italy;
 two in France; one in Spain; one in Portugal; and they were mostly
 manufacturing facilities. They were linked to this European Information
 Centre, which was in Croydon, which also provided services for a Texas
 Instruments subsidiary called Geophysical Services, which did oil
-prospecting. For those people, it was \[data from\] the North Sea, the
+prospecting. For those people, it was \data from\ the North Sea, the
 west coast of Africa, Saudi Arabia, and that sort of area that was
 coming into the London thing; and that was linked to Dallas, which was
 linked to Attleboro, and then there was something out in the Far East.
@@ -1300,7 +1300,7 @@ friendships developed over that network very, very quickly. I mean, it
 was almost instantaneous that you got to know people, and in a very
 personal way. You’ve never seen them; you’ve never heard their voices,
 or anything like this; but you got to know lots about them, because—I
-suppose subsequently people have noticed that \[with\] email, people
+suppose subsequently people have noticed that \with\ email, people
 will reveal all sorts of things that they wouldn’t do face-to-face, or
 even over the phone. So that was one of the really nice aspects of that
 particular system.
@@ -1309,12 +1309,12 @@ My job was as a systems troubleshooter, so I was getting messages from
 all kinds of people, that they were having problems with this, that , or
 the other, or they needed to know how to work some piece of equipment
 which had been delivered without any instructions—which was a very
-interesting exercise\! \[both laugh.\] How do you tell somebody how to
+interesting exercise\! \both laugh.\ How do you tell somebody how to
 operate a piece of equipment that you can’t see? I think I learned an
 awful lot about writing instructions from that experience, including
 things like—it sounds silly, but things like: “Is the light on in the
 front? If not, look behind and see if it’s plugged in. Is the plug
-switched on?” \[laughs.\] Right down to quite detailed difficulties with
+switched on?” \laughs.\ Right down to quite detailed difficulties with
 systems compatibilities and so on.
 
 **Abbate:**
@@ -1352,7 +1352,7 @@ Source routing.
 Yes. It was a bit primitive Almost all the terminals were not screens;
 they were thermal paper with dot-matrix-type printing heads—which was
 nice, because you could tear off the piece of paper and go show
-somebody\! \[laughs.\] So there are advantages to paper. And I’ve kept a
+somebody\! \laughs.\ So there are advantages to paper. And I’ve kept a
 lot of the messages, actually, that I had from people. When I left,
 people sent me messages, which I ended up keeping.
 
@@ -1362,14 +1362,14 @@ Dallas—who I still am in communication with, twenty-five later—he was
 a great enthusiast for this system. So much so—I mean, I thought it was
 wonderful, but he was just so ecstatic about it—that I thought, “Well,
 yes, it’s nice, but really, do you have to be that ecstatic about it?”
-And when I met him for the first time, \[I realized that\] he has a
+And when I met him for the first time, \I realized that\ he has a
 terrible stammer, which has obvious had an enormous impact on his life,
-and for him, this was the first time that he had a medium \[through
-which\] he could communicate with people fluently. I could suddenly see,
+and for him, this was the first time that he had a medium \through
+which\ he could communicate with people fluently. I could suddenly see,
 when I spoke to him for the first time: “Gosh, you know, this must
 really be good for him, because he doesn’t stammer in print.”
 Subsequently, it actually gave him, I think, the courage to address his
-\[speech problem\]. He still has a terrible stammer, but he’s been an
+\speech problem\. He still has a terrible stammer, but he’s been an
 award-winning—what’s the organization called in the States that provides
 dinner speakers?
 
@@ -1392,7 +1392,7 @@ How long were you at TI?
 **Keller:**
 
 Unfortunately, again, only a year; because at the end of the year,
-\[laughs\] that was when Mobil finally said to my husband, “We don’t
+\laughs\ that was when Mobil finally said to my husband, “We don’t
 need you in England anymore,” and we were supposed to move back to New
 York. He was supposed to join the company back in New York; in fact, he
 only did that for a few months and then resigned, and we moved back to
@@ -1410,7 +1410,7 @@ support him, before you had a job?
 
 **Keller:**
 
-Yes\! \[laughs.\] Possibly a very shaky thing to do, but those were
+Yes\! \laughs.\ Possibly a very shaky thing to do, but those were
 pretty good times in terms of jobs in the computing industry, and I
 didn’t have grave worries that I would be unemployed for any extended
 period of time. It was more whether I could find something quickly that
@@ -1435,7 +1435,7 @@ In English Literature?
 
 **Keller:**
 
-Yes. \[laughs.\]
+Yes. \laughs.\
 
 But anyway, I got the job with TRW then, with their Management Systems
 Division, but as a Systems Programmer. It was a funny kind of job,
@@ -1449,8 +1449,8 @@ training. I did a lot of debugging—there was an enormous amount of
 debugging to do—and that was actually how I started training people on a
 sort of regular basis, because I kept thinking, “If they only knew a
 little bit more about what they were doing, they’d be able to do it for
-themselves instead of bothering me\!” \[both laugh.\] So I did things
-like \[teaching\] them how to make use of some of the facilities that
+themselves instead of bothering me\!” \both laugh.\ So I did things
+like \teaching\ them how to make use of some of the facilities that
 compilers provided for them—to learn how to read data maps and procedure
 maps—so they could do their own debugging. How to understand what the
 various error codes meant, and how different error codes had to be dealt
@@ -1488,7 +1488,7 @@ about distributed systems, which was just beginning to kind of poke its
 head over the horizon back then. So one of my first things was a little
 research project to go down and look through various journals and write
 a report on what distributed processing was; whether we had any
-\[laughs\] or should have any; and if we should have any, what sort of
+\laughs\ or should have any; and if we should have any, what sort of
 form it might take. That was one of the first things that I did with
 them, which was quite interesting, but it was a terribly intellectual
 exercise, in that I spent a lot of time looking through journals and
@@ -1498,7 +1498,7 @@ then gave a report on all this to senior TRW management and some
 generals from the Air Force. They decided, in fact, that we already had
 distributed processing, because we had—would you believe—a machine in
 another building where somebody took a magnetic tape off, and walked it
-over and put it up on ours\! \[both laugh.\] So the idea of distributed
+over and put it up on ours\! \both laugh.\ So the idea of distributed
 processing was a bit shaky there. They hadn’t quite made the leap to the
 fact that they didn’t need to put it on a tape and walk it across; they
 could send it electronically.
@@ -1516,7 +1516,7 @@ integration. So I had about five or six people working for me, and we
 took care of all the system aspects, which ranged right from making sure
 that the applications were compatible with the operating system, through
 to the fact that various bits of software needed to be compatible with
-the hardware. Anybody still using these \[mainframes?\] knows that
+the hardware. Anybody still using these \mainframes?\ knows that
 sometimes you get a piece of software and it suddenly falls over,
 because in fact you now need some piece of hardware that you haven’t
 got, or the hardware that you have doesn’t support some aspect of the
@@ -1526,7 +1526,7 @@ less closely with the telecommunications group, because we were
 providing the underlying support for the telecommunications group, so
 that they could actually conduct their work. They were a systems
 programming group as well, but they only did the telecoms side of it.
-Then there was a modeling group—a group of two\! \[laughs\]—who did
+Then there was a modeling group—a group of two\! \laughs\—who did
 systems modeling, to work out how to keep the same hardware that we had
 and just push it harder and harder and harder. Because at that time we
 were starting to guarantee 24-hour access, quick response times, and so
@@ -1535,7 +1535,7 @@ were constantly having to readjust things, so that you could do this
 without having to buy a whole new mainframe, because they liked to run
 between 98 percent and 99\.5 percent availability all the time. So we
 were always running very close to the edge of what the system could
-actually cope with\! \[laughs.\]
+actually cope with\! \laughs.\
 
 **Abbate:**
 
@@ -1551,10 +1551,10 @@ access time reasonably quick. One of them was so large that reorganizing
 it was a terrible problem. They could only do it over Christmas or
 Thanksgiving weekends, because it would take more than two days just to
 read all the records—well, back them up first, obviously, in case
-something went terribly wrong; read all of \[the records; and then
-reorganize them and write them back. (OK? End of sentence cut off.)\]
+something went terribly wrong; read all of \the records; and then
+reorganize them and write them back. (OK? End of sentence cut off.)\
 
-\[DISC 2\]
+\DISC 2\
 
 **Abbate:**
 
@@ -1566,7 +1566,7 @@ this?
 I was supervising a group of people, as well as doing some of the work
 myself. I don’t know why, but my boss decided I was good at dealing with
 difficult people—so I always got the really difficult ones to deal
-with\! \[laughs.\]
+with\! \laughs.\
 
 **Abbate:**
 
@@ -1579,7 +1579,7 @@ For instance, we had a couple of database administrators: they knew what
 they wanted, and it wasn’t always realistic, and they used to get very
 upset about this, and I was the one who had to go and break the bad
 news, or do what I could to try to go some way towards what they wanted.
-One of those \[occasions?\], I always felt, was my real triumph in
+One of those \occasions?\, I always felt, was my real triumph in
 optimizing code. He had charge of this huge database—this was the one
 that took 48 hours just to sort—and he asked me if I could do anything,
 because sometimes the sort would fail partway through, and because it
@@ -1587,7 +1587,7 @@ took forty-eight hours and you rarely ever had more than a weekend, the
 database would have to go on in this unreorganized state for maybe as
 much as six months or a year before he could get another weekend to do
 it. So he asked me to look at this, and I got his sort from forty-eight
-hours down to two hours. \[laughs.\]
+hours down to two hours. \laughs.\
 
 **Abbate:**
 
@@ -1596,7 +1596,7 @@ Wow\!
 **Keller:**
 
 When I realized, of course, that he was doing this on weekends and
-nobody else was around, \[I saw that\] you could afford to take all the
+nobody else was around, \I saw that\ you could afford to take all the
 memory that was available; he’d only been using a small portion of the
 memory to do this, and so it took a long time. It wasn’t any great
 technical trick, it was just sort of realizing, “If you’re there all by
@@ -1609,7 +1609,7 @@ were way out in “no man’s land,” and you didn’t mind if it took you a
 second or two seconds to get at them.
 
 But I think that was the most startling bit of optimization I ever did,
-in terms of results\! \[laughs.\]
+in terms of results\! \laughs.\
 
 **Abbate:**
 
@@ -1625,7 +1625,7 @@ while I worked there, for instance, my salary went up by leaps and
 bounds, because they used to compare the job I was doing with the
 average male doing that job, and then I would get quite a bit larger
 than normal increase, in order to bring me up to that sort of level. So
-they were very good in that way, \[and\] they were very good with
+they were very good in that way, \and\ they were very good with
 training and things, but I got caught when I moved between the two
 divisions, because they had different means of setting grades. So I came
 across as a Grade Five, and I was actually wanting to apply for Grade
@@ -1640,11 +1640,11 @@ so well on that, because I didn’t have a technical degree. And they
 weren’t sure whether they were going to change from that system to the
 Three-Five-Seven-Nine system, or what; and so I just got caught in this.
 
-\[telephone rings; recording pauses\]
+\telephone rings; recording pauses\
 
 **Abbate:**
 
-\[We were talking about\] promotion systems . . .
+\We were talking about\ promotion systems . . .
 
 **Keller:**
 
@@ -1665,7 +1665,7 @@ him, particularly; so I thought, “Well, maybe it’s time to go.”
 
 In fact, I followed my old boss to Continental Airlines. He’d gone to
 Continental Airlines to effect a conversion; they were really living in
-the second generation \[of programming languages?\]. And with airlines,
+the second generation \of programming languages?\. And with airlines,
 you need 24-hours-a-day availability, seven days a week; and so the
 conversion isn’t a particularly simple matter, because you have this
 live system, and you have to do all your programming and your testing
@@ -1695,15 +1695,15 @@ Or so they say.
 **Keller:**
 
 Yes. So all this was going on, and I came along actually to train
-\[people\] in all of those areas.
+\people\ in all of those areas.
 
 What do I say about this job? It was an interesting job. I had to learn
 how the whole airline control program thing worked. It’s now called
 TPF-2, but at that time it was called ACP, I think: Airline Control
 Program. It had derived directly from work done in the very early ‘60’s
 with IBM and American Airlines, called
-[SABRE](/SABRE_Airline_Reservation_System "SABRE Airline Reservation System"),
-so it was sort of a child of SABRE—not even a grandchild\! \[laughs.\]
+SABRE(SABRE_Airline_Reservation_System "SABRE Airline Reservation System"),
+so it was sort of a child of SABRE—not even a grandchild\! \laughs.\
 As I say, there was this business of it all having to come together at
 some point, where somebody was going to flip the switch and it was going
 to go from one to the other.
@@ -1713,7 +1713,7 @@ shown the door. It turned out he was running a little business of his
 own on the side, which they weren’t too happy about, because he was
 using Continental facilities to do so. He ran a little magazine for
 airline employees, and he was using their systems to do things like keep
-track of his subscribers, and so forth. \[laughs.\] Anyway, they showed
+track of his subscribers, and so forth. \laughs.\ Anyway, they showed
 him the door, which really left me in sole occupation. Then they
 decided: they had never really had standards as such; there were ways of
 working that they had, but they’d never had standards that they’d all
@@ -1740,7 +1740,7 @@ us. It was interesting, because I really had to work with all different
 areas. I worked with, for instance, the computer operators; the
 programmers in all these three different areas; managers; so really I
 was working with a spread of people right from the bottom to very near
-the top of the company. And I got cheap flights\! \[laughs.\]
+the top of the company. And I got cheap flights\! \laughs.\
 
 **Abbate:**
 
@@ -1759,9 +1759,9 @@ think one of the very first things that happened that really got to me
 and made me realize what a leap there was to make, was: they hired a new
 programmer, and they sent him in to me and said, “This man has never
 seen a key-punch machine. Would you please show him how to use one?”
-\[both laugh.\]
+\both laugh.\
 
-\[recording pauses\]
+\recording pauses\
 
 **Abbate:**
 
@@ -1782,7 +1782,7 @@ working nights, weekends, and everything else—on the day, they flipped
 the switch and it worked\! So, for all the software projects I’ve known
 in my life that failed in some way, or had terrible problems, that was
 one where it actually happened on time, and it worked—and they didn’t
-have to go back to the old system\! \[laughs.\]
+have to go back to the old system\! \laughs.\
 
 **Abbate:**
 
@@ -1811,19 +1811,19 @@ was—he’d been with Geophysical Services, so he was working the
 geophysical side, and I got together with him. We’d been good friends
 anyway; we got to know each other fairly well when I was working at TI,
 and we’d kept in touch. Anyway, at the end of the week, he proposed to
-me\! \[laughs.\] And I said I’d think about it, and I went away and
+me\! \laughs.\ And I said I’d think about it, and I went away and
 thought for about two days, and phoned up and said “Yes\!”
 
 It took us about another year to actually get married. We decided we had
 to get married, because our phone bills were running into four figures a
-month\! \[laughs.\] We kept saying we wouldn’t do this, \[but\] we did,
+month\! \laughs.\ We kept saying we wouldn’t do this, \[but\] we did,
 and in those days private email didn’t exist, so there was no cheap way
 to talk to each other except on the international telephone line. So, in
 the end, that was what caused me to leave Continental Airlines. I got
 married in January, and I left in March—which was enough time to pack up
 things in the States and use one last free flying privilege to go on
 honeymoon to Hawaii, and then to go to England with one dog and twenty
-bags. \[laughs.\]
+bags. \laughs.\
 
 **Abbate:**
 
@@ -1841,11 +1841,11 @@ and I was still really suffering from it—getting really, really tired,
 for instance—so I decided I just wouldn’t take work immediately. I came
 end of March, ‘81; started looking for a job in October; and got the job
 here at Open University—I was called for an interview in December.
-Universities are notorious for not being very quick to \[expect you to
-start working\] once they offer you the job. They sort of assume you’re
+Universities are notorious for not being very quick to \expect you to
+start working\ once they offer you the job. They sort of assume you’re
 already on some kind of academic contract and you have a whole term at
 least to work off; and when they offered me and they said, “When can you
-start?” and I said, “Monday,” they couldn’t cope\! \[laughs.\] But I was
+start?” and I said, “Monday,” they couldn’t cope\! \laughs.\ But I was
 unemployed at the time, and I was now really looking forward to getting
 back to work.
 
@@ -1867,14 +1867,14 @@ expecting to talk to one, maybe two people, and I walked into a room and
 here was a panel of five. When I finished the interview, they said,
 “Well, everyone else has done this written assignment for us, but you
 haven’t. Would you go away and do the written assignment?” So I had to
-go and buy a typewriter\! \[laughs.\] Didn’t have one. Bought a
+go and buy a typewriter\! \laughs.\ Didn’t have one. Bought a
 typewriter, went down to the library, and discovered there were no books
 on computing at all, so I had to pick something that I could do right
 out of my head. The assignment was to write about a computing topic for
 somebody who knew nothing. I think I chose something like parallelism in
 operating systems, which isn’t terribly easy to do, but it was something
 I knew very well; so I thought, “Well, I’ll do it”—and evidently they
-liked it, because they offered me the job\! \[laughs.\] But I actually
+liked it, because they offered me the job\! \laughs.\ But I actually
 had not been on the original short list. Somebody had dropped out.
 They’d obviously thought carefully about me, and because this person
 had dropped out, they phoned me up—literally that day—and said, “Can you
@@ -1883,7 +1883,7 @@ so I never twigged that there was something a bit funny about this.
 
 Anyway, when they offered me the job and I said, “I can start on
 Monday,” they said, “Well, we really can’t cope with that\!”
-\[laughs.\] So the first two weeks they got for free, because I came in.
+\laughs.\ So the first two weeks they got for free, because I came in.
 I wasn’t being paid, but I came in. I thought I might as well get to
 know the place, and get to know the people and the job.
 
@@ -1901,7 +1901,7 @@ not “Lecturer in Mathematics”—which was something else I didn’t realize
 when I came here. And that led to some funny things, because we have a
 requirement in our contract that we must have student contact, one way
 or another, and the normal method at that time was through summer
-schools; you would teach two weeks of summer school. \[But\] there were
+schools; you would teach two weeks of summer school. \But\ there were
 no computing summer schools, and in fact there were only two rather
 small computing courses available. So they said, “Of course you’ll teach
 a summer school, won’t you?” And I said, “Oh yes, of course. I’m happy
@@ -1921,9 +1921,9 @@ yes, I can cope with this.” Well, that’s what the students would have
 been studying that week, but what they were actually studying at summer
 school was something quite different. And when I came to the summer
 school they said, “Would you rather do differentiation or integration?”
-And I said “What?\!” \[laughs.\] And it was terrible, actually. I almost
-ran away\! \[laughs.\] I almost thought, “Just chuck the job\! Get in
-the car, drive over the horizon, and never see them again\!” \[laughs.\]
+And I said “What?\!” \laughs.\ And it was terrible, actually. I almost
+ran away\! \laughs.\ I almost thought, “Just chuck the job\! Get in
+the car, drive over the horizon, and never see them again\!” \laughs.\
 I did stick with it, and the second week, the guy who was directing
 summer school was actually very good. He’d sit down with me each night
 and help me prepare for the next day. So I was literally only just the
@@ -1940,14 +1940,14 @@ flavor of how to program in BASIC and do some simple mathematical
 programming. But they decided it would be useful to have somebody who
 did that, as opposed to passing it around amongst the mathematicians. So
 thereafter I was able to sit and teach basic BASIC for two weeks\!
-\[laughs.\] Subsequently, I discovered I didn’t have to do it in my
+\laughs.\ Subsequently, I discovered I didn’t have to do it in my
 faculty; I could do it in another faculty; so since then, I’ve done it
 in the Technology Faculty, which is basically an engineering faculty.
 For some of their summer schools, I’ve been their subject expert in IT,
 which is much more congenial to me, because it’s really something I
 don’t need to prepare a great deal for, and I feel I can really bring
 something to it—but when I was supposed to be this generalist
-mathematician, there was no hope\! \[laughs.\] I mean, I can do
+mathematician, there was no hope\! \laughs.\ I mean, I can do
 differentiation; I can do integration; but I do them by rote. It’s a
 pattern, and I fill in things in the pattern. I don’t really understand
 what I’m doing, which doesn’t make you a very good teacher.
@@ -1970,7 +1970,7 @@ statistical principles to select those things. Performance tuning
 involves statistics, like, “Where are your hits occurring most
 frequently? And where do you put those to get the best use out of the
 machine?” So I felt comfortable with that; but that was not what was
-taught in the summer school\! \[laughs.\]
+taught in the summer school\! \laughs.\
 
 ### Main Course Projects and Human-Computer Interaction
 
@@ -1989,7 +1989,7 @@ originally, and I was told to take that and turn it into a “Teach
 Yourself COBOL” pack, which the university was then going to market. The
 first thing that happened was, I looked at this and I thought, “You
 can’t teach them in the same way.” So I had to write from scratch,
-basically, this COBOL course. Because \[with\] COBOL, you can’t very
+basically, this COBOL course. Because \with\ COBOL, you can’t very
 well write a little program that says, “Write ‘Hello world’” and get
 something out. Nothing happens\! There’s all this background that has to
 go into it, and a structure that has to appear before you can do
@@ -1998,7 +1998,7 @@ sale; it hung around for quite some time. Quite frankly, I think it was
 terribly overpriced for what it was, since you could go down to the
 bookshop and buy yourself a book for about a quarter of the price and
 get about the same thing out of it. But anyway, it was an interesting
-exercise\! \[laughs.\]
+exercise\! \laughs.\
 
 In the meantime, they’d firmed up this money that the university got
 from the government to carry out this industrial project. This was
@@ -2008,20 +2008,20 @@ manufacturing, all kinds of industrial processes. So the idea was to
 grab the manufacturing industry of Britain by the scruff and pull it
 into the late 20th century, and for that we got some millions of pounds
 to develop a series of courses in manufacturing and in what was called
-the “Industrial Applications of Computers” at the time, \[which\]
+the “Industrial Applications of Computers” at the time, \which\
 included things like robotics, real-time monitoring, real-time control.
 My particular part was the Computer Architectures and Operating Systems,
 because that was my expertise, but I did do a bit of work on the
-real-time monitoring course. There was \[also\] Project Management,
+real-time monitoring course. There was \also\ Project Management,
 which, since I’d been a project manager at TRW, they sort of pointed at
-me and said, “You\! Do Project Management.” \[laughs.\]
+me and said, “You\! Do Project Management.” \laughs.\
 
 I worked on a number of courses in this. As I say, the Computer
 Architectures and Operating Systems was the first one; a bit of the
 Real-Time Monitoring; then the Project Management; and then the last one
 was initially called “Man-Machine Interface”—and it turned out to be an
 all-female course team, so the first thing we did was chuck out the word
-“man”\! \[both laugh.\] “Human-computer interaction” was just beginning
+“man”\! \both laugh.\ “Human-computer interaction” was just beginning
 to be a term that was appearing in place of things like “man-machine
 interface,” so it became a Human-Computer Interaction course. Although I
 didn’t have a great deal of expertise in that area, I suppose I’ve had a
@@ -2037,7 +2037,7 @@ contributions to it, too, just based on my experience. The other thing
 was, I was the only foreigner on the team, and you’d find people saying
 things like, “All light switches work this way,” and I was able to say,
 “No, they don’t\! In America, the light switches are the other way
-up.” \[both laugh.\] From that point of view, there was a lot of
+up.” \both laugh.\ From that point of view, there was a lot of
 experience that I could bring to the course, and I really enjoyed
 working on that one. And it was one of the first human-computer
 interaction courses around, I think. It wasn’t the first, but certainly
@@ -2047,14 +2047,14 @@ I also got lots of journal papers out of it—with Jenny Preece, who’s now
 at the University of Maryland at Baltimore County—writing about
 engineering education and bringing HCI to the forefront of computing
 education. They were basically engineering education–type papers. We got
-quite a few out, \[and\] we got out a collection as a book. We got out
+quite a few out, \and\ we got out a collection as a book. We got out
 another book, which the British Department of Trade and Industry
 commissioned, called “Usability Now.” They paid us to put this together
 from material that we’d gathered for the course. We didn’t use all the
 material, but we had this large body of material about usability, so we
-did that. Then \[Addison Wesley\] decided it was such a good thing that
-they would produce it as a \[commercial book\]. The DTI gave it out free
-to companies; \[Addison Wesley\] actually, I suppose, made a fair income
+did that. Then \Addison Wesley\ decided it was such a good thing that
+they would produce it as a \commercial book\. The DTI gave it out free
+to companies; \Addison Wesley\ actually, I suppose, made a fair income
 out of selling it, because they could sell it on a worldwide market, not
 just within Britain. So there were a number of outgrowths of that
 particular one.
@@ -2065,8 +2065,8 @@ Did you have a philosophy of human-computer interaction? Or principles?
 
 **Keller:**
 
-Well, we tried to keep it away from a sort of cookbook approach \[and
-toward\] getting people aware of the underlying concepts and the
+Well, we tried to keep it away from a sort of cookbook approach \and
+toward\ getting people aware of the underlying concepts and the
 underlying necessary knowledge. For instance, it included quite a bit
 about cognitive psychology. It was trying very hard, and I think it
 succeeded in being a multi-disciplinary thing. One of the team members
@@ -2075,20 +2075,20 @@ to do with the social systems that surround computing systems. It was
 really to get people to think about their computing systems in a
 completely different way, which had to do with not just their function,
 but how usable they were, what kinds of usability problems you can get,
-\[and\] what kind of disasters you can get from usability problems—like
+\and\ what kind of disasters you can get from usability problems—like
 Three Mile Island, for instance, or the plane crash here on the M1 in
 Leicestershire, where the controls weren’t terribly clear. The pilots
 knew what to do, but they were doing it with the wrong engine; they were
 actually trying to use the engine that had failed, because the display
-that told them what was happening was unclear as to \[which engine had
-failed\]. They knew one of their engines had failed, in a two-engine
+that told them what was happening was unclear as to \which engine had
+failed\. They knew one of their engines had failed, in a two-engine
 aircraft, and they shut what they thought was the failed one down, and
 it was the other one. So there were a number of things to draw on there
 that I think, at that time in Britain, really were at the forefront of
 thinking about how disaster avoidance is actually an important aspect of
 human-computer interaction. From what I’ve said, you should be able to
 work out that we weren’t just strictly talking about computers, but
-\[also\] systems within which computers might be embedded, like control
+\also\ systems within which computers might be embedded, like control
 systems for nuclear power plants.
 
 **Abbate:**
@@ -2103,13 +2103,13 @@ manipulating a machine tool, and safety considerations like having a
 gate drop down before the hammer hits, so you can’t accidentally put
 your hand underneath; dead-man’s controls and stuff like that. So it was
 terribly nineteenth-century industrial, I think. At least in this
-country, \[that\] was the focus, and there wasn’t a great deal of focus
+country, \that\ was the focus, and there wasn’t a great deal of focus
 on the kinds of systems that were beginning to appear here, more and
 more, without somebody stepping back and taking that same kind of safety
 and ergonomic view that had been happening with, say, machine tools or
 robots.
 
-\[telephone rings; recording pauses\]
+\telephone rings; recording pauses\
 
 **Abbate:**
 
@@ -2117,7 +2117,7 @@ You said the class was all women, the HCI class.
 
 **Keller:**
 
-Oh, not the class; it was the team that did the \[course\].
+Oh, not the class; it was the team that did the \course\.
 
 **Abbate:**
 
@@ -2149,7 +2149,7 @@ all-female, the other one was all-male. And we used to have a good
 chuckle, because as we were sitting there in our all-female team, we’d
 hear the other team meeting down the corridor, and these voices would be
 sort of shouting at each other: “SURELY YOU CAN’T THINK SUCH-AND-SUCH\!”
-\[both laugh.\] We thought it would have been a very interesting thing
+\both laugh.\ We thought it would have been a very interesting thing
 to have an outside observer of the two teams, to see how they might have
 worked completely differently. I’m sure they did, because ours was much
 more egalitarian. Jenny was supposed to be in charge, but basically,
@@ -2157,7 +2157,7 @@ everything was decided in a fairly democratic way, and there weren’t
 great arguments. We would discuss things for a while, and then somebody
 would say, “Okay, I’ll do that,” and that was it—which sounded
 completely different from what was coming down the corridor. I may be
-wrong; but that’s what it sounded like\! \[laughs.\]
+wrong; but that’s what it sounded like\! \laughs.\
 
 ### Thoughts on Women and HCI
 
@@ -2182,11 +2182,11 @@ that men aren’t frustrated by things that don’t work at the other end,
 but I just think that there is this thing with women that . . . You
 know, I’m not really interested in my washing machine. If necessary, I
 probably could mend it, but all I want it to do is do a good job of
-washing my clothes. \[In contrast,\] I’ve got two men up the corridor
+washing my clothes. \In contrast,\ I’ve got two men up the corridor
 here who are really keen on developing a course in robotics, and they’ve
 got a hold of this Lego robot kit, and you can tell that it’s the toy
 aspect that has actually attracted this—because this thing goes up and
-down the corridor every so often. \[laughs.\] It’s just something that
+down the corridor every so often. \laughs.\ It’s just something that
 doesn’t really interest me, and yet I’m very interested in programming.
 But the idea of trying to cajole people into programming by playing
 around with a little thing on wheels that learns how to follow a light
@@ -2215,7 +2215,7 @@ Which I guess could be true of databases as well?
 
 Oh yes, I’m sure it is. But it was just that, after doing my performance
 tuning of databases, it wasn’t really something that I felt deeply
-wedded to\! \[laughs.\]
+wedded to\! \laughs.\
 
 ### More on HCI
 
@@ -2280,7 +2280,7 @@ Maybe it has an image problem?
 
 **Keller:**
 
-Yes. I mean, we’ve changed the name now \[more than once\], because
+Yes. I mean, we’ve changed the name now \more than once\, because
 initially it was just called “Human-Computing Interaction,” and a lot of
 people didn’t really understand what that meant. They thought it meant
 designing interfaces, and of course it was much more than that: it was
@@ -2291,25 +2291,25 @@ psychology aspect. It was funny, because students who came with a
 software development or hardware background came to this course, and
 they couldn’t cope with the psychology; and the psychologists would
 come, and they couldn’t cope with the software development parts of it
-very easily. \[both laugh.\] So there was obviously this gap of people
+very easily. \both laugh.\ So there was obviously this gap of people
 coming from two different cultures and meeting in this course. But, as I
-say, \[for\] the students who’ve gone on to do their M.Sc.
+say, \for\ the students who’ve gone on to do their M.Sc.
 dissertations, it’s obviously been extremely influential, which is
 interesting.
 
 We’re now calling it—I can’t remember the exact title, but it has the
 word “usability” in it, because that’s something companies are more
 likely to sponsor students on. If it says, “How to make your systems
-usable,” and they’ve just ended up paying for \[computer?\] stuff that
+usable,” and they’ve just ended up paying for \computer?\ stuff that
 gets left to get dusty, they’re probably interested in that as something
 they would be willing to sponsor their students on.
 
 So, yes: I think it has a bit of an image problem. I think, again, the
 hard people sort of think, “Oh, gosh, all this wishy-washy stuff about
 people’s mental models of their heating systems at home, and stuff\!”
-\[laughs.\] But, it does have an influence, and I think more and more
+\laughs.\ But, it does have an influence, and I think more and more
 people are beginning to realize that in the end, you can write the best
-system in the world, \[but\] if it isn’t usable, or if it isn’t properly
+system in the world, \but\ if it isn’t usable, or if it isn’t properly
 usable, it’s nothing but trouble, or it’s been a waste of time.
 
 ### Earning a Master of Science Degree
@@ -2320,18 +2320,18 @@ Now, you yourself got an M.Sc. at some point.
 
 **Keller:**
 
-Yes; in fact, it was just before we started on the HCI course. \[I did
-it\] because my first degree was English Language and Literature, and
+Yes; in fact, it was just before we started on the HCI course. \I did
+it\ because my first degree was English Language and Literature, and
 one of the questions I was constantly being asked was, “How can you
 possibly be teaching computer science in higher education, without
 having a computer science degree?” Well, the first thing is, computer
 science degrees didn’t exist when I graduated; but then, those people
 here who are about my same age came from backgrounds like physics or
 engineering. So I didn’t have this technical degree, and it just really
-got to irritating me\! \[laughs.\] So I thought “Okay, I’ll go off and
+got to irritating me\! \laughs.\ So I thought “Okay, I’ll go off and
 I’ll do an M.Sc.”—Master of Science degree—and I actually wanted to do
-what they call a “conversion” Master of Science degree, because \[they
-are very general?, and\] my knowledge is actually quite spotty in many
+what they call a “conversion” Master of Science degree, because \they
+are very general?, and\ my knowledge is actually quite spotty in many
 ways. I know lots and lots about operating systems; I know lots and lots
 about computer architectures; I know less about compilers—I know almost
 nothing about theory of compilers, for instance; and I thought, “At
@@ -2346,11 +2346,11 @@ I was the data communications networks. Unfortunately, it turned out to
 be about seven-eighths data communications and networks and one-¬eighth
 distributed systems\! But that’s all right. I just learned an awful lot
 about telephony, and radios, and things like this that I didn’t really
-\[want to know\]. \[laughs.\] And designing waveguides: that was where I
+\want to know\. \[laughs.\] And designing waveguides: that was where I
 used my differentiation and my integration, was in the electronics part
 of that course—which I hasten to add, I passed by the skin of my teeth\!
-\[laughs.\] So now I’m an informed buyer of hi-fi equipment, if I need
-to be. \[laughs.\]
+\laughs.\ So now I’m an informed buyer of hi-fi equipment, if I need
+to be. \laughs.\
 
 As I say, I learned an awful lot about telephony that I didn’t
 particularly want to know and wasn’t interested in. I still think
@@ -2360,11 +2360,11 @@ even though everything has become digital—and people who are actually
 wanting to do things on those networks. There still is a gap of
 terminology and all sorts of things. If you’re developing an application
 and you’ve got a good network, you’re not going to be terribly concerned
-with noise, for instance; \[and\] now most networks have lots of
+with noise, for instance; \and\ now most networks have lots of
 redundancy in them, so if a part of the network breaks, you almost don’t
 notice, because it’s going by another path, because they’re
-self-routing. At one time you might have wanted to know this—\[and the
-telephony people still focus on this?\]—but if you’ve got a stable
+self-routing. At one time you might have wanted to know this—\and the
+telephony people still focus on this?\—but if you’ve got a stable
 network, you really don’t worry about that. All that happens is you get
 really upset when your local area network goes down, and you’ve got to
 go find the little guy somewhere—the man with the screwdriver, who needs
@@ -2390,7 +2390,7 @@ or something like that—and I can do it, because I’ve got the background.
 Conversely, I sometimes call them over when I’ve got projects from
 students that have a heavy element of data communications networks, and
 I want really the most up-to-date knowledge applied to it. But that’s
-about it. I have not wired up my home\! \[both laugh.\]
+about it. I have not wired up my home\! \both laugh.\
 
 **Abbate:**
 
@@ -2433,10 +2433,10 @@ It’s not like passing a bar exam?
 **Keller:**
 
 It’s a little bit like passing a bar exam, except it’s not a legal
-requirement in the sense that I can also go out \[without the C.E.\] and
+requirement in the sense that I can also go out \without the C.E.\ and
 hang up a shingle that says “I’ll do this for you.” But the Chartered
 Engineering status, I suppose, says that you will adhere to certain
-ethical principles; you will be insured; \[and\] they are offering to
+ethical principles; you will be insured; \and\ they are offering to
 your clients some kind of guarantee that someone has looked at your
 qualifications and decided that you’re qualified to practice. Britain is
 a funny society, in that very few things are regulated in the way that
@@ -2472,7 +2472,7 @@ yourself—this is peculiar to the Open University, now: it tends to have
 to have all kinds of superlatives in it. We joke about it. We say, “You
 have to say things like ‘catches bullets in bare teeth’; ‘leaps over
 tall buildings in a single bound’; ‘stops railway trains with a raised
-hand’”—these kinds of things\! \[laughs.\] But it is actually that kind
+hand’”—these kinds of things\! \laughs.\ But it is actually that kind
 of superlative, because the criteria for promotion are excellence—and
 the word “sustained” appears there—so “sustained excellence,” and
 “innovation,” and things like this. So you really have to be jumping
@@ -2498,7 +2498,7 @@ Had there been any system of mentorship?
 **Keller:**
 
 That’s really come in more. I mean, when I came here, I was just shown a
-room and left to get on with it\! \[laughs.\] And now, people coming in:
+room and left to get on with it\! \laughs.\ And now, people coming in:
 I’ve got five people coming on Monday. They each get a probation
 supervisor; they get an induction supervisor; they get a mentor; they
 sit down and they negotiate specific objectives; the objectives are
@@ -2517,10 +2517,10 @@ Have you had people that you considered to be mentors?
 Well, I’ve had people I’ve considered to be mentors, I suppose, really
 throughout my working life—without necessarily putting the term “mentor”
 to them. When I worked for Computer Sciences Corporation, our boss was
-Larry Cannon \[sp?\], and we always used to refer to him as “Old Tab-Man
+Larry Cannon \sp?\, and we always used to refer to him as “Old Tab-Man
 Larry,” because he learned his computing at the end of the Second World
 War, using tabulating equipment to keep track of soldiers who had
-contracted venereal disease in Paris\! \[laughs.\] Would you believe? He
+contracted venereal disease in Paris\! \laughs.\ Would you believe? He
 was stationed in Paris, doing this. Anyway, he was the age of my
 parents, and he was always a kind of father figure, and he gave me
 advice and stuff like this.
@@ -2534,12 +2534,12 @@ when they had problems; to protect them when they’d done something
 stupid. He was very good at that; he would protect you. He would say,
 “The department takes responsibility.” He would never name an
 individual—which of course, needless to say, endeared him to those of us
-who occasionally did some really stupid things\! \[laughs.\] I took a
+who occasionally did some really stupid things\! \laughs.\ I took a
 lot of what I hope is my management style from what I saw as his way of
 approaching people. Also, technically he was very good, and he was good
 at giving people chances to do things.
 
-Here \[at the OU\], I didn’t really find somebody until I ran into Jenny
+Here \at the OU\, I didn’t really find somebody until I ran into Jenny
 Preece. She’s actually slightly younger than I am, and I’d been here
 longer than she had, but she had the research background and stuff that
 I didn’t have, and was very helpful in that and very supportive in that.
@@ -2552,7 +2552,7 @@ papers’”—which was not terribly useful.
 
 **Abbate:**
 
-There’s a novel idea\! \[laughs.\]
+There’s a novel idea\! \laughs.\
 
 **Keller:**
 
@@ -2576,7 +2576,7 @@ sitting down and teaching people about COBOL, what I did when I wrote
 that pack was to teach them about solving problems, using COBOL as a
 language in which to solve those problems. I don’t know if it was a
 particularly unique approach, but they accepted my paper and published
-it\! \[laughs.\]
+it\! \laughs.\
 
 **Abbate:**
 
@@ -2594,7 +2594,7 @@ hadn’t seen it before.
 
 **Keller:**
 
-Well, I find that \[in\] an awful lot of programming classes—even when I
+Well, I find that \in\ an awful lot of programming classes—even when I
 was working at Continental Airlines; of course, I was teaching
 programming as well—the poor people who were sitting there would get all
 this detail dumped on them and not really understand what the heck they
@@ -2610,11 +2610,11 @@ step-by-step descriptions into statements in this programming language.”
 And then the programming language, the details of it, have meaning, in a
 way that I don’t think they do if you start with, “Every COBOL program
 has to start with a statement that says, ‘Identification Division.’”
-\[laughs.\] You know: why?
+\laughs.\ You know: why?
 
 **Abbate:**
 
-\[mock excitement:\] “Let’s talk about data types\!”
+\mock excitement:\ “Let’s talk about data types\!”
 
 **Keller:**
 
@@ -2659,7 +2659,7 @@ You did that in a year?
 
 Well, it was three years by the time it went all the way to the top. The
 first year, we went from losing three hundred thousand to losing fifty
-\[thousand\]. The next year we went to just over breaking even, and then
+\thousand\. The next year we went to just over breaking even, and then
 the third year it really took off.
 
 A lot of the things that I did were: for instance, we looked at what
@@ -2675,7 +2675,7 @@ the industrial market is actually quite small.
 
 **Abbate:**
 
-\[The former name\] sounds like you’re just making machine tools or
+\The former name\ sounds like you’re just making machine tools or
 something.
 
 **Keller:**
@@ -2693,13 +2693,13 @@ around—or, these days, electronic equivalents of paper and money.
 **Abbate:**
 
 Let’s see. So you were head of that program, and I know you’re the
-\[Department\] Chair now. Were there other \[administrative positions\]?
+\Department\ Chair now. Were there other \[administrative positions\]?
 
 **Keller:**
 
 No, after that I sort of went back to being a normal member of staff\!
-\[laughs.\] Let’s see, I left that in ‘95, so between ‘95 and 2000, I
-was really just being “one of the boys” \[laughs\] doing teaching work.
+\laughs.\ Let’s see, I left that in ‘95, so between ‘95 and 2000, I
+was really just being “one of the boys” \laughs\ doing teaching work.
 A number of things came up. I had an opportunity to work on a course:
 there was originally a course called “Women’s Studies,” and then they
 wanted to replace it with a course which became, I think, “Issues in
@@ -2713,7 +2713,7 @@ a specifically male environment, which was engineering;
 quasi-engineering. And I thought, “I’ve got lots of experience with
 this, and I would like to abstract that, to see what it’s like for other
 people elsewhere.” So I worked on that course, and that’s the only
-undergraduate course I’ve worked on up until \[now\]; I’ve just started
+undergraduate course I’ve worked on up until \now\; I’ve just started
 a new one here. That was great fun, and a book came out of that, which
 is called Inventing Women by Gill Kirkup and myself, which we had great
 fun doing. It’s partly collected papers, partly stuff we wrote
@@ -2724,7 +2724,7 @@ broad-brush, and we wanted it to have a really worldwide feel to it, so
 for instance we addressed Third World technologies and women, and
 development and women. It was a real eye-opener. The Open University has
 a long tradition of “If you don’t know something about it, and you’re
-interested in it, go and teach it\!” \[laughs.\] Which means that you
+interested in it, go and teach it\!” \laughs.\ Which means that you
 have to do all the background scholarship to get up to speed, and that
 was extremely interesting. I did that; and rewrote the Computer
 Architectures and Operating Systems course; rewrote the Project
@@ -2744,12 +2744,12 @@ to ignore them. He was gone a lot; he typically was gone two to three
 days a week, every week. A lot of people were unhappy, and I just
 thought, “Either I have to leave here, if it stays like this, or I have
 to do something.” We have elected Heads, so I put myself forward as
-Head; got it; and here I am\! \[laughs.\]
+Head; got it; and here I am\! \laughs.\
 
 So now my influence is much more . . . We’re spending a lot of time
 looking at curriculum, both at undergraduate and postgraduate level,
 because up to now we’ve had this collection of courses that don’t quite
-mesh up. \[This is\] because of the way the OU degree used to be, and
+mesh up. \This is\ because of the way the OU degree used to be, and
 still is in some cases: it was a general degree, so people could just
 come here, and as long as they did so much at Level One, so much at
 Level Two, so much at Level Three, it didn’t matter what. I mean, they
@@ -2757,7 +2757,7 @@ could mix and match to their heart’s content: it was a degree. Most
 people did tend to specialize in something, but there wasn’t a great
 deal of guidance, and the degrees didn’t say anything after them. They
 just said, “Bachelor of Arts, Open University.” And then the first
-\[change\] was, students—particularly in the sciences area—wanted a
+\change\ was, students—particularly in the sciences area—wanted a
 Bachelor of Science degree; so it became a general degree that could be
 either a B.A. or a B.S., but if it was a B.S., then it had to have a
 goodly chunk of things that were qualified as B.S. But it still was very
@@ -2772,7 +2772,7 @@ electronics degree, but it still didn’t say “Electronics”; it just said
 “Bachelor of Science.” Now, due to student demand, we have what they
 call in Britain “named degrees,” which means that it’ll now say “B.A.”
 and then in brackets “English Literature,” or “B.Sc.” brackets
-“Materials Science,” or something like this. \[This\] means that all
+“Materials Science,” or something like this. \This\ means that all
 these course where we didn’t really care that people came and went, we
 now actually have to have a progression through them. And it has to make
 sense; there has to be some kind of starting point and end point—because
@@ -2813,11 +2813,11 @@ Yes.
 
 **Abbate:**
 
-. . . which could be good or bad for \[faculty\] relations, depending.
+. . . which could be good or bad for \faculty\ relations, depending.
 
 **Keller:**
 
-Yes, I think it will \[be good\]. I think in the end it will. I mean,
+Yes, I think it will \be good\. I think in the end it will. I mean,
 there’s still a lot of old-timers around here who like it the old way
 and get terribly upset when you start talking about changing things. For
 instance, the Mathematical Sciences Degree, as it’s called, got slated
@@ -2833,14 +2833,14 @@ won’t wash now, in the outside world, anymore. You can’t just say,
 it, who cares?” So, new thinking is having to blow in to these people.
 They’re good teachers, but I think they’re still teaching exactly the
 way they taught twenty-five years ago. Nothing much has changed. They’ve
-changed the courses; they’ve updated them; \[on the\] TV programs
+changed the courses; they’ve updated them; \on the\ TV programs
 they’ve done away with the guys in kipper ties and flares, and they’re
-now balding and dressed in pinstripe suits \[both laugh\]; but
+now balding and dressed in pinstripe suits \both laugh\; but
 nonetheless, the basic methodology that they’ve been using to teach has
 stayed the same. The notion that anybody can do anything in any order is
 going to die hard, I think.
 
-\[DISC 3\]
+\DISC 3\
 
 ### Recent Research and Interests on Gender and Computing
 
@@ -2870,14 +2870,14 @@ to give this seminar. In the end I gave the seminar to the combined
 engineering departments of three universities in western Australia,
 which was a bit daunting, because initially I thought I was going to
 have this rather small group, and I sort of ended up with two hundred
-people\! \[laughs.\] And I hope it was thought-provoking when I gave it;
+people\! \laughs.\ And I hope it was thought-provoking when I gave it;
 because they’d been trying various things to get women to come into
 engineering, which included computing—I mean, computer science actually
 sat in the Engineering Faculty at UWA; they’d been trying various things
 and just not having any success, or any noticeable success. So they
 asked me to give this seminar, and I hope I was very thought-provoking,
 because I was really kind of nasty to the engineering profession\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -2894,10 +2894,10 @@ investigated, to be unveiled, and so on and so forth—that led women to
 just feel “this isn’t really the place for me”; and now you couldn’t
 suddenly stand there and say, “Hey girls, the door is open; come on in,”
 and expect people to come rushing through, because it wasn’t happening.
-So that was basically what I said\! \[laughs.\] So yes; I was a bit
+So that was basically what I said\! \laughs.\ So yes; I was a bit
 nasty about the way it’s practiced: about the fact that often projects
 in engineering schools are highly competitive, which is a problem,
-\[and\] how sometimes male instructors don’t really understand that
+\and\ how sometimes male instructors don’t really understand that
 women’s tentativeness is not their inability, it’s just a kind of
 gendered approach to things, where you don’t put yourself forward as
 positive of what the answer is. So it was that sort of thing that I
@@ -2911,11 +2911,11 @@ out of the research. And I ran a group for not just my two, but Ph.D.
 students elsewhere in this university and also University of
 Hartfordshire’s Department of Occupational Psychology, all of whom were
 looking at some aspect of gender and occupation, and most of that
-impinged on computing or computers in some way. \[For example,\] one
+impinged on computing or computers in some way. \For example,\ one
 woman who was at University of Hartfordshire was looking at nonstandard
 gender choices in training and employment, and to do this she was
 looking at males who went into radiotherapy. In this country that’s
-almost a completely female \[occupation\].
+almost a completely female \occupation\.
 
 **Abbate:**
 
@@ -2929,11 +2929,11 @@ radiotherapists, who are the ones who—you might call them
 
 **Abbate:**
 
-\[In the U.S., yes.\]
+\In the U.S., yes.\
 
 **Keller:**
 
-Anyway, \[she was looking at men\] going into radiology, which is almost
+Anyway, \she was looking at men\ going into radiology, which is almost
 a completely female occupation here, but you have some men going into
 it; and she was looking at women who went into programming. So it was
 that kind of thing.
@@ -2951,8 +2951,8 @@ employers, going on a course at university where they might be the only
 one of their sex in a class. Very interesting\! So that’s what I’ve kept
 up with.
 
-But since I’ve been Head of Department, I’m afraid I’ve done \[nothing
-in that area?\]. No, that’s not quite true. I’ve also been looking at:
+But since I’ve been Head of Department, I’m afraid I’ve done \nothing
+in that area?\. No, that’s not quite true. I’ve also been looking at:
 we now have had almost four hundred students pass through our M.Sc.
 project and dissertation, and it’s quite a rigorous one—it’s actually
 probably more rigorous than most in this country—and one of the things I
@@ -2982,7 +2982,7 @@ methods that they applied, their justification for the use of the
 methods, and so on. Only a small minority passes on the first attempt.
 Then there’s a larger minority that gets minor corrections. Now, these
 aren’t just simply two or three minor corrections; they tend to be what
-I would call “major minor corrections.” \[laughs.\] They can’t write, is
+I would call “major minor corrections.” \laughs.\ They can’t write, is
 usually the reason that they get minor corrections. And then there were
 people who essentially failed and had to do it again. We called that
 “major corrections,” although that’s a bit of a misnomer, because the
@@ -3000,11 +3000,11 @@ not they were being supported by their employer, whether they were
 married, how many kids they might have: I’ve got all of that. We turned
 the statistical handle on all of this to find out what correlations
 might exist. What their previous educational attainment was: now, you
-would think \[that would be an indicator.\] We’re open as to people
+would think \that would be an indicator.\ We’re open as to people
 coming in, so people do not have to have a first degree in order to
 study for the postgraduate diploma; but they do have to be working in
 the area for five to seven years before they’ll have enough experience,
-so you could kind of call \[the degree\] “post-experience” as well as
+so you could kind of call \the degree\ “post-experience” as well as
 postgraduate. So we get people who come with almost no qualifications,
 because they left school before taking what used to be called
 “O-Levels,” and are now called GCSEs; or they might have a couple of
@@ -3014,11 +3014,11 @@ three-year degree, and it tended to be more practically oriented and
 less theoretical; or you might have people with first degrees. So: does
 their previous educational attainment tell you anything about their
 chances of success? And the answer is no, not at all\! No correlation
-whatever. \[laughs.\] What did have a correlation was whether, in the
+whatever. \laughs.\ What did have a correlation was whether, in the
 taught part of the program, they had studied the human-computer
 interaction course, interestingly enough, and the project management
 course. I don’t know quite why. My two guesses, which I still have to
-follow up, are that, \[first,\] in both of them, the assessment is
+follow up, are that, \first,\ in both of them, the assessment is
 project-based—in other words, they have to follow through the steps of a
 project in order to do their assessment; and the second is that their
 work is described discursively, so they have to write; it gives them
@@ -3028,7 +3028,7 @@ two courses and doing well on the M.Sc. There’s also a perfect
 correlation between doing perfectly on the taught part and passing the
 first time on the dissertation. But once you break that “perfect”—so
 there’s eight courses; if you do seven of them with “distinctions” and
-one with \[only\] a “merit”—the correlation falls apart totally. Don’t
+one with \only\ a “merit”—the correlation falls apart totally. Don’t
 ask me why; I don’t know; but if you do everything perfectly, your
 chances of success on the M.Sc. are just about one hundred percent. Just
 a slight deviation from that, and it goes right back to the same as the
@@ -3097,7 +3097,7 @@ things like, for instance, getting your requirements right initially;
 understanding the materials you’re working with¬: the programming
 language you’re working with, the underlying computing system, the
 underlying network system, and so on—is important. So that aspect of it
-\[is similar\].
+\is similar\.
 
 On the other hand, it’s got lots and lots of elements to it that really
 don’t have a lot to do with classical engineering, if you think about
@@ -3109,9 +3109,9 @@ some of them don’t. I mean, we’ve got four of them sitting down the
 hall, and one of them is really a graphical designer who then learned
 some computing, and the other three are computing people who’ve learned
 some graphical design—and yet they’re all doing basically the same job,
-having come at it from very different \[directions\]. Interestingly, the
+having come at it from very different \directions\. Interestingly, the
 one who started as a graphical designer is female, and the other three
-are male. \[laughs.\]
+are male. \laughs.\
 
 **Abbate:**
 
@@ -3147,7 +3147,7 @@ working: people would say, “What do you do for a living?” and I’d say
 “I’m a programmer,” and they’d say, “Oh\! You must be terribly
 mathematical\!” It was with this kind of awe. On the other hand, they’d
 also very quickly find some reason to go and speak to someone else\!
-\[laughs.\] So it’s a two-edged sword\! But I think there is this kind
+\laughs.\ So it’s a two-edged sword\! But I think there is this kind
 of envy that drives a lot of that. I think rather than just say, “There
 are things that we can borrow from engineering which would be useful in
 computing,” we’re really saying, “Gee we’d really like to be engineers.”
@@ -3174,20 +3174,20 @@ or something\!
 
 Yes, yes\! This department is funny that way, because I am the
 bits-and-bytes person, or as my colleague Darrell used to introduce me:
-“Laurie is our bits-and-bytes man\!” \[laughs.\] I suppose \[it was\]
+“Laurie is our bits-and-bytes man\!” \laughs.\ I suppose \[it was\]
 because I was the only one who ever had any hands-on experience with the
 equipment. Maybe the anecdote comes from the fact that Darrell used to
 have several machines in his office. This was at a time when not
 everybody had machines in his office, but his looked like the deck of
 the Starship Enterprise; and of course things wouldn’t work, and he was
 in the next office, and I’d hear this tremendous THUMP and a loud and
-naughty word\! \[laughs.\] I’d go in, and usually something had knocked
-loose off the back—because he was always thumping things \[laughs\]—and
+naughty word\! \laughs.\ I’d go in, and usually something had knocked
+loose off the back—because he was always thumping things \laughs\—and
 I’d get my screwdriver out and tighten it.
 
 But it was funny. I think it was more like they wanted to be at the
 mathematical end of it, the very abstract end, and somehow, actually
-understanding how the machine worked was just not there\! \[laughs.\]
+understanding how the machine worked was just not there\! \laughs.\
 You know, knowing how the machine works: that’s not interesting. It was
 at a time when formal methods were the coming things, and a lot of these
 people were very interested in formal methods. We still have a formal
@@ -3198,7 +3198,7 @@ mathematics, formal methods: that’s the way of the future. We need not
 get our hands dirty on these machines.” So the fact that I was the one
 who could understand how the operating system was working; could, if
 necessary, get out my screwdriver and tighten things up so that the
-connections weren’t \[loose\]—I actually understood that connections
+connections weren’t \loose\—I actually understood that connections
 need to be tight\!—was quite funny.
 
 **Abbate:**
@@ -3211,7 +3211,7 @@ that would be more stereotypically male, to be the one doing that.
 Yes.
 
 I think I’m still the only person here who has a set of screwdrivers in
-my desk drawer \[laughs\], except for now we have support people
+my desk drawer \laughs\, except for now we have support people
 downstairs who have screwdrivers.
 
 **Abbate:**
@@ -3244,10 +3244,10 @@ the U.S. and the U.K.?
 Not a great deal. I suppose one thing that does come out is, I think
 Americans are slightly more inclined to just jump in and try it and see
 if they can do it than Britons are—although there’s a certain subgroup
-of British men working in computing who are very much the \[type who
-say\], “Well, let’s go in and hack a solution really quickly and see
+of British men working in computing who are very much the \type who
+say\, “Well, let’s go in and hack a solution really quickly and see
 what we get.” But then they generally tend to lose interest in it, and
-it passes to someone else to get it working right\! \[laughs.\] So there
+it passes to someone else to get it working right\! \laughs.\ So there
 is a bit of a geeky culture here; but that’s much more recent, I think.
 I wouldn’t have said that was true twenty years ago. I think twenty
 years ago it was much more: it’s a different—it’s a British way of doing
@@ -3255,19 +3255,19 @@ things. I mean, Americans come to a river and they think, “We need a
 bridge,” and so they go looking for logs and throw logs across the
 thing. The British get there and they look at this and they think,
 “Right: let’s get out the paper and pencil, and measure the distance
-across the river, and start . . .” \[both laugh.\] I think they both end
+across the river, and start . . .” \both laugh.\ I think they both end
 up in the same place, oddly enough, but I think the approach is
-\[different\]. They were more different than they are now.
+\different\. They were more different than they are now.
 
 **Abbate:**
 
-Hmm. I guess the timing \[of that change in approach\] sounds like it’s
+Hmm. I guess the timing \of that change in approach\ sounds like it’s
 post–personal computer. Is there a correlation with technology?
 
 **Keller:**
 
 Probably. I mean, there’s probably a correlation there, but—correlation
-not being causation—I won’t say\! \[laughs.\]
+not being causation—I won’t say\! \laughs.\
 
 **Abbate:**
 
@@ -3301,9 +3301,9 @@ put it in. I remember the first one I worked on at Computer Sciences
 Corporation; they had just bought this, and it had 128K memory, and I
 remember everybody sort of went down and peered through the window at
 this. Of course, it looked just like the one next to it, which only had
-64K memory, but \[people were saying\], “Gosh\! It’s got 128K memory\!”
-And that one \[points to personal computer on desk\] has sixteen
-megabytes; that one \[points to another\] has even more.
+64K memory, but \people were saying\, “Gosh\! It’s got 128K memory\!”
+And that one \points to personal computer on desk\ has sixteen
+megabytes; that one \points to another\ has even more.
 
 This shrinkage in a sense makes a lot more things possible. Things were
 always possible; for instance, you could always do text processing on a
@@ -3312,17 +3312,17 @@ means that you can do text processing on very large documents, because
 you’ve got the whole of memory that you can load these things into, and
 you can do things that would have been very, very difficult. You could
 have done them, but they would have taken a long time, and they would
-have been difficult before. Weather forecasting is an\[other\]
+have been difficult before. Weather forecasting is an\other\
 outstanding example. At one time, sure, you could use computers to do
 weather forecasting; the trouble was, it took twenty-six hours to
 forecast the weather twenty-four hours from now, which meant it was
-nothing more than a curiosity. Now these things happen very \[fast\].
+nothing more than a curiosity. Now these things happen very \fast\.
 Fancy graphics is another thing. You could have done them before, but it
 would have been very, very slow: too slow to make it worth your effort;
 you can do it faster by hand. But now you can do amazing things, because
 you’ve got the speed, and you’ve got this size now, which means that you
 don’t need to give over whole buildings to these kinds of things. That’s
-probably the most noticeable \[change\], in terms of what would strike
+probably the most noticeable \change\, in terms of what would strike
 you visually, over the time, as well as just changes in culture.
 
 I think the other thing I’ve noticed is the real change from what you
@@ -3339,9 +3339,9 @@ can know pretty well up to the minute what my balance is, and I don’t
 have to go in to the branch anymore; I can go to a hole in the wall at
 my supermarket or the gas station or something.
 
-And the ubiquity of \[computing\], now that it’s moved into all kinds of
+And the ubiquity of \computing\, now that it’s moved into all kinds of
 things. I mean, my washing machine now does things like weighs the wash
-and decides how much water should go into it\! \[laughs.\] It’s a nice
+and decides how much water should go into it\! \laughs.\ It’s a nice
 water-saving thing; and it’s got a delay button on it, so if I don’t
 want to listen to the noise, I can have it start in the middle of the
 night. It’s got all these sorts of things that are now hidden. Your car,
@@ -3378,7 +3378,7 @@ actually debits your account; so basically, your gas pump is wired to
 the bank through a network. It’s a very wired world. And I think the
 change that is coming . . .
 
-\[Interrupted by phone ringing.\]
+\Interrupted by phone ringing.\
 
 Anyway, I suppose the last thing that’s happening now is, not only are
 these things now hidden in things like your washing machine and so on,
@@ -3386,7 +3386,7 @@ but things like your telephone and your television are beginning to take
 over functions that formerly a desktop computer would have done. So you
 can send and receive email through your television, and shop on the Web
 through your television, and you can get Web-enabled phones to—I don’t
-know what you’d want one for, frankly, but you can get one\! \[laughs.\]
+know what you’d want one for, frankly, but you can get one\! \laughs.\
 I see that as being more and more the case, and I think what’s going to
 happen is: for a lot of people, the machine that’s sitting there on the
 desk at home, or even at work, is going to disappear in favor of other
@@ -3394,8 +3394,8 @@ smart appliances that you’re going to be able to use to get what you
 want. Now we’ve got desks that are designed specifically to hold
 computers; maybe in ten years we’ll be back to having a phone, for
 instance, with a screen and a little keyboard, and you can do everything
-through that, and you won’t need something like this \[indicates desktop
-computer\].
+through that, and you won’t need something like this \indicates desktop
+computer\.
 
 ### Reflection on Women in Computing
 
@@ -3421,7 +3421,7 @@ worked for TRW, they made a point of promoting women into that area, so
 again it tended to be—I couldn’t do the figures in my head, but I’d say
 almost fifty-fifty male and female, in the systems programming area. And
 then you’d go to something like SHARE and GUIDE and discover, “I’m here
-alone\!” \[laughs.\] So it was very spotty, but you could get in, and
+alone\!” \laughs.\ So it was very spotty, but you could get in, and
 you certainly could make your way. It depended a lot more, I think, on
 personal aptitude and personal interest than anything.
 
@@ -3437,7 +3437,7 @@ but just recently I went to a thing put on by the government about
 getting more women into computing, and they were saying exactly the same
 things that they’d said in the early ‘90s, and this obviously isn’t
 working. Partly it’s that wonderful British business of, “We’ll all
-agree to do this, won’t we?”\[laughs\], rather than any kind of
+agree to do this, won’t we?”\laughs\, rather than any kind of
 regulation or attempt by the government to push things any harder than
 this kind of gentle “This would be a good idea” type of approach. So
 it’s still low. I mean, this university has probably one of the
@@ -3460,7 +3460,7 @@ joining next week—she used to work here as a Lecturer, left, and is
 coming back as a Senior Lecturing post; I’ve got a female Senior
 Research Fellow, who is one of three Senior Research Fellows. So we’re
 beginning to bubble up; but when I first joined the faculty, the faculty
-as a whole had eight percent of the senior faculty \[who\] were
+as a whole had eight percent of the senior faculty \who\ were
 female—no Professors—and thirteen percent of the faculty as a whole
 was female. So it’s now much greater, and there are more women in
 positions of at least some power. For instance, I’m not the only female
@@ -3537,7 +3537,7 @@ like that, but everybody else was, and you sort of feel like you’ve got
 to go along with it, even if you’re not especially interested in it. It
 takes a while before you get old enough to realize, “I can be what I
 want to be, and if I don’t want to wear lipstick, I don’t have to wear
-lipstick\!” \[laughs.\] I think that kind of thing is operating just at
+lipstick\!” \laughs.\ I think that kind of thing is operating just at
 the point when girls are actually making the choices that are going to
 be important to them later in life. In this country, I think you do find
 that there are more mature women coming to computing than there are
@@ -3555,14 +3555,14 @@ to take?
 
 **Keller:**
 
-Yes. Yes, it does. This is the great British compromise\! \[laughs.\]
+Yes. Yes, it does. This is the great British compromise\! \laughs.\
 Some years ago, they thought, “We’re going to do away with this business
-\[of Eleven Plus exams\].” Kids used to sit something called the “Eleven
+\of Eleven Plus exams\.” Kids used to sit something called the “Eleven
 Plus,” which decided whether you went to a grammar school, which was an
 academic school, or you went to a secondary modern school, which was the
 sort where they taught you enough to be a decent plumber. I mean,
 deciding that at the age of eleven, on the basis of an examination, is
-\[unreasonable?\].
+\unreasonable?\.
 
 **Abbate:**
 
@@ -3597,13 +3597,13 @@ I never knew that\!
 **Keller:**
 
 It makes a little bit more sense when you know that; but I must have
-lived here for fifteen years before I found out\! \[laughs.\]
+lived here for fifteen years before I found out\! \laughs.\
 
 There are still places—this county, for instance, is one—where there is
 still the Eleven Plus, but they now have it mixed in with the
-comprehensive school system. The old system, as I said, was \[either\]
+comprehensive school system. The old system, as I said, was \either\
 grammar school, which was the academic one—you’d go to grammar school
-and you’d study Latin and Greek and mathematics and science—\[or\] you’d
+and you’d study Latin and Greek and mathematics and science—\or\ you’d
 go the secondary modern, and the mathematics would be add, subtract,
 multiply, and divide; English might be just learning how to write a
 business letter; so it was fairly low-level. And, at least when that
@@ -3632,8 +3632,8 @@ put on as sort of additional layers, so that they have these magnet
 school–type things, where they specialize in, for instance, theater, or
 they might specialize in science or something like that. And these are
 just layers on top of a system that I don’t think anybody ever designed
-in the first place anyway\! \[both laugh.\] But even at that \[type of
-school\], you do your GCSEs.
+in the first place anyway\! \both laugh.\ But even at that \[type of
+school\, you do your GCSEs.
 
 At fifteen to sixteen, you would sit your GCSEs, and you’d probably do
 nine or ten, and they would cover a wide range of subjects; so they
@@ -3680,10 +3680,10 @@ Oh, it’s the same in the U.S.
 
 And I suspect it’s the influence of the notion of, “Gosh, I’m just in
 puberty; I’ve got to attract the opposite sex,” and you get very wound
-up into this sort of femininity/masculinity divide. I think boys suffer
+up into this sort of femininitymasculinity divide. I think boys suffer
 equally, perhaps, but just less obviously—because the things that they
-end up doing tend to be better paid and more prestigious\! \[both
-laugh.\] But it’s just exactly at that point when you shouldn’t be
+end up doing tend to be better paid and more prestigious\! \both
+laugh.\ But it’s just exactly at that point when you shouldn’t be
 asking them to make a choice, and that’s where you get these girls
 saying things like, “Oh, I’d love to be hairdresser.”
 
@@ -3706,13 +3706,13 @@ then you run into the problem that sometimes the guidance isn’t
 wonderful, either. Sometimes it’s very old-fashioned. I know when I was
 at school, they had a program whereby the bright students could go and
 study at UCLA for one hour a day, I think it was; and I applied for
-that, and they told me that it was only open to boys\! \[laughs.\] And I
+that, and they told me that it was only open to boys\! \laughs.\ And I
 remember asking my counselor whether I should go on and do mathematics,
 and he said, “Oh, you’ll never need it.” And it was just this
 assumption: “Girls don’t do mathematics, so you’ll never need it.” I
 don’t know what he thought I was going to end up being, but I could
 have used some more dispassionate advice, I think, at the time\!
-\[laughs.\] Because unfortunately, it reflected my prejudices against
+\laughs.\ Because unfortunately, it reflected my prejudices against
 mathematics. I was not bad at it, but I hated it, so somebody sitting
 there saying, “Oh, you’ll never need it again” was just exactly what I
 wanted to hear. And I think you still get some of that, although
@@ -3739,8 +3739,8 @@ having kids or maybe taking care of other family members.
 
 I don’t think I really thought . . . Well, I suppose it must have
 crossed my mind, because . . . Well, it did; but I think at seventeen I
-decided I would never get married. \[laughs.\] And here I am on Man
-Number Three\! \[both laugh.\] You know, I decided I would never get
+decided I would never get married. \laughs.\ And here I am on Man
+Number Three\! \both laugh.\ You know, I decided I would never get
 married, and it was a decision that I made at seventeen. So I sort of
 said to myself, “As a result of that, I will never have children.” So
 I’d thought through it that way, I think.
@@ -3754,7 +3754,7 @@ when I was really little, the lady next door took care of me while my
 mother was out at work, and when we moved away from there, she had a
 woman come in at three o’clock in the afternoon, so when my brother and
 I came home from school there was somebody there until she got home at
-five-thirty or six. So to me, that was \[normal?\]; you would do that.
+five-thirty or six. So to me, that was \normal?\; you would do that.
 But I would imagine for a lot of people that’s not the case, and it can
 be inhibiting when you’re thinking about your future—especially if
 you’re sitting there at sixteen, and if you’ve been used to a mother
@@ -3765,7 +3765,7 @@ difficult to think what those coping mechanisms might be.
 
 **Abbate:**
 
-Do you think computing is, and/or seems like, a field that can
+Do you think computing is, andor seems like, a field that can
 accommodate family responsibilities?
 
 **Keller:**
@@ -3786,13 +3786,13 @@ consulate in Dusseldorf to have some change made to my passport, and
 Time magazine was there. I hadn’t seen any news for a month or more, and
 I picked up Time magazine, and it said “IBM announces the System 370\.”
 I’d been working on 360s, and I remember sitting there thinking, “Gosh\!
-When I get back, I won’t be able to get a job at all\!” \[laughs.\] In
+When I get back, I won’t be able to get a job at all\!” \laughs.\ In
 fact, they were very similar; there were lots of similarities, and
 anyway, all the 360s didn’t suddenly disappear the day that the 370 was
 announced. So I used to think, “It’s such a fast-moving field that if
 you’re not right up to date, you’re going to have real problems,”
-\[but\] I don’t think that’s actually true if you get a good grasp of
-the fundamentals; you can always teach \[yourself\]. You might be a
+\but\ I don’t think that’s actually true if you get a good grasp of
+the fundamentals; you can always teach \yourself\. You might be a
 little bit behind if you stay away for a while, but you should be able
 to pick things up, because you’ve got the basic skills and you’ve got
 the basic conceptual knowledge.
@@ -3816,7 +3816,7 @@ computers?
 
 **Keller:**
 
-The sense of power and control that you can get\! \[laughs.\] When I
+The sense of power and control that you can get\! \laughs.\ When I
 worked for TRW, I went in, one of these long weekends, to do some
 testing on the operating system. I was there all by myself—there were no
 operators; nobody—and I went in there, and there’s millions of dollars'
@@ -3826,17 +3826,17 @@ conditioning start up, and I remember having this enormous sense of
 power: just standing there and thinking, “This is all mine\! I can make
 it do anything I want. I’m here by myself; there’s nobody to tell me
 anything.” And it just gave me such an enormous sense of power. It was
-fairly momentary, but it was just so real. I can still—you know, \[the
-way that\] years afterwards you can taste a really good meal: I can
+fairly momentary, but it was just so real. I can still—you know, \the
+way that\ years afterwards you can taste a really good meal: I can
 still taste that sense of going in there and turning on tens of millions
 of dollars' worth of equipment; turning that all on and realizing I was
 in sole charge of this. You know, just this enormous sense of pride. It
-isn’t quite as good with these little machines\! \[Indicates desktop
-computer; laughs.\] Even though this has probably got more memory, and
+isn’t quite as good with these little machines\! \Indicates desktop
+computer; laughs.\ Even though this has probably got more memory, and
 is faster and everything else, it’s a desktop machine. But again, I’m a
 sole charge: I can make it my machine, make it do what I want. So
 there’s an enormous sense of power and control that’s there. I know
-that doesn’t sound like a terribly feminine thing to say \[laughs\], but
+that doesn’t sound like a terribly feminine thing to say \laughs\, but
 that’s one of the things I have really, really enjoyed.
 
 The other thing I think I’ve got out of it is, it’s given me enormous
@@ -3857,7 +3857,7 @@ much more confident with electrical or mechanical systems.
 
 **Abbate:**
 
-\[You would think,\] “I can debug this.”
+\You would think,\ “I can debug this.”
 
 **Keller:**
 
@@ -3877,10 +3877,10 @@ about going into computing?
 
 **Keller:**
 
-Yes. Go for it\! \[laughs.\] I mean, no two ways about it: it can be
+Yes. Go for it\! \laughs.\ I mean, no two ways about it: it can be
 really, really satisfying; it pays very well; I have been able to work
-on both sides of the Atlantic. If I’d had really good \[language
-skills\]—I mean, I do speak German and I speak Spanish, but if I’d had
+on both sides of the Atlantic. If I’d had really good \language
+skills\—I mean, I do speak German and I speak Spanish, but if I’d had
 really good foreign language skills, I could just as easily have gone to
 Germany or Spain or somewhere else to work, because in that sense it’s
 wide open. It pays well. It’s not difficult to find positions; you can’t
@@ -3908,74 +3908,74 @@ Great\! Well, thank you so much for talking with me\!
 Okay\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Laurie_Keller&oldid=113076>"
+"<http:/ethw.org/index.php?title=Oral-History:Laurie_Keller&oldid=113076>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Profession](/Category:Profession "Category:Profession")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Engineering and
-  society](/Category:Engineering_and_society "Category:Engineering and society")
+* Profession(Category:Profession "Category:Profession")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Engineering and
+  society(Category:Engineering_and_society "Category:Engineering and society")
 
 ## Contents
 
-* [1 About Laurie Keller](#About_Laurie_Keller)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Introduction to Computer Programming, FORTRAN and
-    COBOL](#Introduction_to_Computer_Programming.2C_FORTRAN_and_COBOL)
-  * [4\.3 Moving to New York and Working for Electronic Data
-    Systems](#Moving_to_New_York_and_Working_for_Electronic_Data_Systems)
-  * [4\.4 Attending IBM User Group Meeting, SHARE and
-    GUIDE](#Attending_IBM_User_Group_Meeting.2C_SHARE_and_GUIDE)
-  * [4\.5 Moving to Britain](#Moving_to_Britain)
-  * [4\.6 Pinups in the Office](#Pinups_in_the_Office)
-  * [4\.7 Moving to Texas Instruments](#Moving_to_Texas_Instruments)
-  * [4\.8 Working for TRW](#Working_for_TRW)
-  * [4\.9 Working for Continental
-    Airlines](#Working_for_Continental_Airlines)
-  * [4\.10 Moving Back to Britain, Working for Open
-    University](#Moving_Back_to_Britain.2C_Working_for_Open_University)
-  * [4\.11 First Lecturer in Computing at Open
-    University](#First_Lecturer_in_Computing_at_Open_University)
-  * [4\.12 Main Course Projects and Human-Computer
-    Interaction](#Main_Course_Projects_and_Human-Computer_Interaction)
-  * [4\.13 Thoughts on Women and HCI](#Thoughts_on_Women_and_HCI)
-  * [4\.14 More on HCI](#More_on_HCI)
-  * [4\.15 Earning a Master of Science
-    Degree](#Earning_a_Master_of_Science_Degree)
-  * [4\.16 Achieving Chartered Engineering
-    Status](#Achieving_Chartered_Engineering_Status)
-  * [4\.17 Mentors in the Field](#Mentors_in_the_Field)
-  * [4\.18 Publishing in the Field](#Publishing_in_the_Field)
-  * [4\.19 Reflection on Teaching](#Reflection_on_Teaching)
-  * [4\.20 Becoming Department Chair](#Becoming_Department_Chair)
-  * [4\.21 Recent Research and Interests on Gender and
-    Computing](#Recent_Research_and_Interests_on_Gender_and_Computing)
-  * [4\.22 On Computer Science, Engineering, and
-    Mathematics](#On_Computer_Science.2C_Engineering.2C_and_Mathematics)
-  * [4\.23 Changes in Computing Over
-    Time](#Changes_in_Computing_Over_Time)
-  * [4\.24 Reflection on Women in
-    Computing](#Reflection_on_Women_in_Computing)
-  * [4\.25 Reflection on Working with
-    Computers](#Reflection_on_Working_with_Computers)
-  * [4\.26 Advice for Women in
-    Computing](#Advice_for_Women_in_Computing)
+* 1 About Laurie Keller(#About_Laurie_Keller)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Introduction to Computer Programming, FORTRAN and
+    COBOL(#Introduction_to_Computer_Programming.2C_FORTRAN_and_COBOL)
+  * 4\.3 Moving to New York and Working for Electronic Data
+    Systems(#Moving_to_New_York_and_Working_for_Electronic_Data_Systems)
+  * 4\.4 Attending IBM User Group Meeting, SHARE and
+    GUIDE(#Attending_IBM_User_Group_Meeting.2C_SHARE_and_GUIDE)
+  * 4\.5 Moving to Britain(#Moving_to_Britain)
+  * 4\.6 Pinups in the Office(#Pinups_in_the_Office)
+  * 4\.7 Moving to Texas Instruments(#Moving_to_Texas_Instruments)
+  * 4\.8 Working for TRW(#Working_for_TRW)
+  * 4\.9 Working for Continental
+    Airlines(#Working_for_Continental_Airlines)
+  * 4\.10 Moving Back to Britain, Working for Open
+    University(#Moving_Back_to_Britain.2C_Working_for_Open_University)
+  * 4\.11 First Lecturer in Computing at Open
+    University(#First_Lecturer_in_Computing_at_Open_University)
+  * 4\.12 Main Course Projects and Human-Computer
+    Interaction(#Main_Course_Projects_and_Human-Computer_Interaction)
+  * 4\.13 Thoughts on Women and HCI(#Thoughts_on_Women_and_HCI)
+  * 4\.14 More on HCI(#More_on_HCI)
+  * 4\.15 Earning a Master of Science
+    Degree(#Earning_a_Master_of_Science_Degree)
+  * 4\.16 Achieving Chartered Engineering
+    Status(#Achieving_Chartered_Engineering_Status)
+  * 4\.17 Mentors in the Field(#Mentors_in_the_Field)
+  * 4\.18 Publishing in the Field(#Publishing_in_the_Field)
+  * 4\.19 Reflection on Teaching(#Reflection_on_Teaching)
+  * 4\.20 Becoming Department Chair(#Becoming_Department_Chair)
+  * 4\.21 Recent Research and Interests on Gender and
+    Computing(#Recent_Research_and_Interests_on_Gender_and_Computing)
+  * 4\.22 On Computer Science, Engineering, and
+    Mathematics(#On_Computer_Science.2C_Engineering.2C_and_Mathematics)
+  * 4\.23 Changes in Computing Over
+    Time(#Changes_in_Computing_Over_Time)
+  * 4\.24 Reflection on Women in
+    Computing(#Reflection_on_Women_in_Computing)
+  * 4\.25 Reflection on Working with
+    Computers(#Reflection_on_Working_with_Computers)
+  * 4\.26 Advice for Women in
+    Computing(#Advice_for_Women_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:10\.
 
 * This page has been accessed 2,548 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

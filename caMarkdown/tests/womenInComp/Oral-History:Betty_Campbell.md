@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Betty_Campbell&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Betty_Campbell&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Betty_Campbell)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Betty_Campbell&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Betty_Campbell "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Betty_Campbell "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Betty_Campbell&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Betty_Campbell&oldid=108263 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Betty_Campbell&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Betty_Campbell)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ABetty+Campbell)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Betty_Campbell&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Betty_Campbell&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Betty_Campbell)
+  
+  * Discussion(index.php?title=Oral-History_talk:Betty_Campbell&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Betty_Campbell "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Betty_Campbell "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Betty_Campbell&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Betty_Campbell&oldid=108263 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Betty_Campbell&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Betty_Campbell)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ABetty+Campbell)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Betty Campbell
@@ -145,10 +145,10 @@ did you grow up?
 **Campbell:**
 
 I was born in Melrose, Massachusetts. I’m very much a local person, and
-they \[my parents\] moved around at first from Melrose to Greenwood to
+they \my parents\ moved around at first from Melrose to Greenwood to
 Acton, and that was when my father was building a house in Weston. He
 had selected Weston because at the time, part of it was still quite
-rural, and it was not as expensive as it is today. \[laughs.\]
+rural, and it was not as expensive as it is today. \laughs.\
 
 My father was a civil engineer (worked for an insurance company), and my
 mother was a math teacher, and she was sort of unusual in her day
@@ -167,13 +167,13 @@ experience for me, because it was old families at the time, and I was .
 . . Now whether this is true or not, but it was the feeling that I had,
 that I was the only child in the first grade that the teacher hadn’t had
 their mother—and the teacher was ancient. Now whether she was as ancient
-as she looked, I don’t really know. \[laughs.\] But it was a very good
+as she looked, I don’t really know. \laughs.\ But it was a very good
 education, because the school was so small. Highly academic; and because
 my parents were both college graduates, why, they wanted me to be one
 too. So I was in an academic program. I never learned to type or
 anything like that, but I had—for example, in Latin, I had as much Latin
 in two years as the girls in the Boston Latin School had, because there
-were \[only\] four or five of us in the class. And while I didn’t take
+were \only\ four or five of us in the class. And while I didn’t take
 the advanced math, what math I did take was very well taught indeed. It
 was taught as problem solving. And I think this is why, when I tried
 teaching myself—and I couldn’t use that same method, that math was
@@ -185,7 +185,7 @@ had broken out. As I said, I had planned to teach, but then I realized
 that somebody with a math degree had an advantage. And I went to one of
 the professors in the math department who actually was working on
 getting women into doing war work (calculations and things); and he had
-a friend, a Doctor \[Alfred\] Loomis, who was the personnel man for the
+a friend, a Doctor \Alfred\ Loomis, who was the personnel man for the
 Radiation Laboratory at MIT, which was the laboratory that did all the
 radar development. So I went over there, and that was where my work
 experience started; and in fact I stayed with MIT for forty-odd years. I
@@ -204,7 +204,7 @@ people around. So I did that, and I worked with the Association for
 Women in Computing, first as treasurer, but then mainly as investigating
 women for this award, for the Ada Lovelace, which we did every few
 years. And, oh, traveling, and then the usual things that people do.
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -218,11 +218,11 @@ She was my father’s mother’s sister—this was this family of strong
 women—and I really admired this woman, and I thought, “This is what I
 would like to do.” So I had decided to do that, follow in her footsteps.
 The first thing I did was to take the Sunday school class of four- to
-six-year-olds at the Unitarian Church in Weston. \[laughs.\] And that
+six-year-olds at the Unitarian Church in Weston. \laughs.\ And that
 was a handful indeed\! These were children of wealthy parents, and they
 were children who were used to having their own way—I mean, one of the
 arguments I heard two kids having was “whose grandfather had the most
-money”\! \[laughter.\]
+money”\! \laughter.\
 
 **Abbate:**
 
@@ -233,7 +233,7 @@ This was when you were in high school?
 This was in high school, yes; before I went to college, thinking what I
 would do. And in fact, it was such a chore, I got my mother to come and
 help me, because I had to keep the kids from—well for one thing,
-climbing out on the Sunday school roof\! \[laughs\]—and things like
+climbing out on the Sunday school roof\! \laughs\—and things like
 that. So that sort of dampened some of it.
 
 And then I got to B.U., and I found I was good in the math. And you
@@ -250,7 +250,7 @@ children after school—I really had a pretty good time doing this—and in
 particular there was one child, a girl, and she told me that she
 couldn’t—she was failing in math because she had never done it for
 herself—her brother had always done it for her, but he had to join the
-navy, and so she was on her own\! \[laughter.\] So I worked with her,
+navy, and so she was on her own\! \laughter.\ So I worked with her,
 and I got her so she was doing—she’ll never be a mathematician, but she
 was doing respectable work. But I couldn’t get the teacher to agree with
 me, that he should give her a B.
@@ -265,7 +265,7 @@ didn’t have any discipline problems: because it was all boys and one
 girl, and they were all headed either to MIT or Tufts engineering
 school, and they knew that I was the only thing they had between them
 and graduation—and getting a good mark in this class so that they could
-get in \[to the college of their choice\]. The only \[way\] they
+get in \to the college of their choice\. The only \[way\] they
 challenged me was to come in with problems that were difficult, to see
 if I could solve them; but I solved that problem by saying to them,
 “I’ll take it home and do it,” because I really liked the kids and
@@ -277,7 +277,7 @@ like that. So I went looking around for other kinds of employment.
 And this idea of working at a research laboratory at MIT—even though I
 hadn’t the slightest idea of what it really was doing, because it was so
 highly classified—but it sounded exciting, and you know, more out of the
-real world. It wasn’t, really \[laughs\]—but that’s the way it seemed to
+real world. It wasn’t, really \laughs\—but that’s the way it seemed to
 me, because it was an unusual place. These were the youngest and the
 brightest Ph.D.s that you could find in science, and they all had been
 collected at this place to work on research. When I got the job, I
@@ -297,13 +297,13 @@ wrote a letter to his friend Dr. Loomis, who was head of personnel. And
 I got an appointment, not with Dr. Loomis, but with his secretary or an
 assistant. I don’t even remember her name; in this memoir that I’m
 writing, I call her Mrs. Dragon Lady, because that’s exactly what she
-was\! \[laughs.\] And I made this appointment, and I hadn’t the
+was\! \laughs.\ And I made this appointment, and I hadn’t the
 slightest idea what I was going to do. I didn’t even come in armed with
 a resume. And I had to go to MIT, and the first thing that happened to
 me was, I got there—and that is a maze of buildings, and this whole
 laboratory, Radiation Laboratory, was spread out on sort of the back
 side of MIT. Somebody put it, you know, as the far side of the railroad
-tracks\! \[laughs.\] And I was late getting there, and they had to
+tracks\! \laughs.\ And I was late getting there, and they had to
 search me, but then when I got there it really didn’t make any
 difference, because she wasn’t there. So I sat and I talked with this
 guard for three hours, chatting about things in this old pre-war
@@ -323,7 +323,7 @@ degree in mathematics.” So she went to the file and she pulled the
 letter out, and she went into the next room—and she had a voice you
 could have heard for miles—and she’s talking to Dr. Loomis, and she
 says, “I have this woman out there with all As in math. What do I do
-with her?” And his cryptic answer was, “Hire her.” \[laughs.\]
+with her?” And his cryptic answer was, “Hire her.” \laughs.\
 
 So I went in to see him, and I knew at this point I was going to get
 hired, so I didn’t feel too worried about talking to him, but I
@@ -342,14 +342,14 @@ much a week or that little a year; it’s for a month.” Well, since
 teaching salaries were something like $1000 a year, and the insurance
 job that I had applied for was something like $25 a week, I thought this
 was great—and decided to take it, and sort of beat a hasty retreat\!
-\[laughs.\] And I was thinking that I was going have some kind of a job
+\laughs.\ And I was thinking that I was going have some kind of a job
 running around a laboratory in a white coat doing research—which was
 hardly what it turned out to be.
 
 So then I came to work the next day—and there again, I’m finding my way
 around MIT, and then discovered to my horror there were no room numbers
 on the building they had assigned me to, because they hadn’t gotten them
-on yet. \[laughs.\] But, with a little bit of luck and answering
+on yet. \laughs.\ But, with a little bit of luck and answering
 questions, I found the right place. And it was this Division 8, headed
 by Ivan Getting, very well-known. But I think he was like, 32, at most,
 and I had this Dr. Phillips, who was under 30, and here I was in this
@@ -368,14 +368,14 @@ Yes, George Valley. Do you know about him?
 
 **Abbate:**
 
-He did the SAGE \[air defense\] project.
+He did the SAGE \air defense\ project.
 
 **Campbell:**
 
 Yes, that’s right. Well, a lot of them would leave there and go
 someplace else. He was there for quite a while. He was referred to by
 one of the secretaries as “Happy Valley” because he never says anything
-to anybody\! \[laughs.\] I really had no contact with him. I was always
+to anybody\! \laughs.\ I really had no contact with him. I was always
 sort of curious about what he was doing, because I didn’t.
 
 And then there was, as I said, this older man. And the first problem I
@@ -395,12 +395,12 @@ That was Dr. Loomis?
 No, Dr. Loomis was still back in personnel; I never saw him again. No,
 this was—As I said, it was run by a Dr. Getting, and he was head of the
 division; and then I was in the so-called Theory Group, which was run by
-a Dr. \[Ralph\] Phillips. And he was a very nice man, a very quiet and
+a Dr. \Ralph\ Phillips. And he was a very nice man, a very quiet and
 shy mathematician, willing to let me do everything on my own, with as
 little interference as possible from him. Anybody in that whole division
 could bring a problem to this Theory Group; so I would get the problem,
-and, as I said, go to this other guy that was \[helping me\].
-\[laughs.\] Because, you know: theoretical things in math I could do; I
+and, as I said, go to this other guy that was \helping me\.
+\laughs.\ Because, you know: theoretical things in math I could do; I
 had never done numerical analysis.
 
 And at this point, I have to explain, we didn’t have any computers. I
@@ -415,7 +415,7 @@ such a plaything that if I went out to lunch, the guys would play with
 it—and break it\! And then I would wait a day or two for a service man.
 So I finally got Dr. Getting to issue an order that was: Nobody was to
 play with Betty’s machine when she was out to lunch, because it was
-hers\! Keep your hands off of it\! \[laughs.\] But that occurred later .
+hers\! Keep your hands off of it\! \laughs.\ But that occurred later .
 . .
 
 And then they were also—one of the interesting projects they were
@@ -431,12 +431,12 @@ before—because they were all Ph.D.s, with the exception of the
 draftsman. And the draftsman was sort of interesting, because of all the
 people there, he’s the one I still see. He and his wife come to parties
 that the laboratory has, and so every Christmas is sort of like “same
-place, same time.” The three of us sit and talk. \[laughs.\] But the
+place, same time.” The three of us sit and talk. \laughs.\ But the
 thing about his wife is interesting, because at the time I arrived
 there, he was getting married; and every time I would go out for lunch,
 and I wasn’t in the room, they would all be clustering around his
 drafting board, giving him advice. But when I came in: deathly hush\!
-\[laughter.\] I hated the fact that if I walked into the room, the
+\laughter.\ I hated the fact that if I walked into the room, the
 conversation dropped. But on the other hand, I can’t blame them, because
 I was only 21—just 21—and really a very innocent and naive person, so I
 can understand why they were like that.
@@ -483,7 +483,7 @@ through the plane telling everybody about this “new, secret work” that
 was going to make it so much easier for him to guide his plane, and so
 forth—but, you know, a secret he couldn’t tell anybody. And I remember
 sitting there thinking, “I could probably tell you more about it than
-you could tell me.” \[laughter.\] Because I knew what he was talking
+you could tell me.” \laughter.\ Because I knew what he was talking
 about. So you knew in general. And I think it’s interesting that not too
 much did leak out. I used to wonder what would happen when repairmen
 came into the laboratory for things like this calculator, when people
@@ -498,7 +498,7 @@ What do you mean?
 
 Just because, you know, people were talking about projects that were
 really none of my business, but I was intelligent enough about what was
-going on to be able to listen, to eavesdrop, very easily. \[laughs.\] I
+going on to be able to listen, to eavesdrop, very easily. \laughs.\ I
 shouldn’t call it eavesdropping: people wanted to tell you what they
 were doing; they were proud of their research . . .
 
@@ -520,18 +520,18 @@ When was that?
 
 **Campbell:**
 
-Well, the war ended\! \[laughs.\] In 1946, MIT decided to set up a group
+Well, the war ended\! \laughs.\ In 1946, MIT decided to set up a group
 known as Basic Research, and those in charge went around collecting any
 kind of equipment—and people—that they thought they could put into this
 Basic Research Lab. So I felt I was being scavenged—just like they took
-all the math tables they had, they took me\! \[laughs.\] They took two
+all the math tables they had, they took me\! \laughs.\ They took two
 women from another group and put us all together in—well, it’s actually
 one of the old buildings that I had once worked in, but it was the
 famous Building 20 of MIT, which came down about a year ago, and
 contained all these very fascinating projects. And there were the three
 of us over there. One was this German lady who was working for a Chinese
 professor, and I was sort of running interference for her, because no
-way did they understand each other\! \[laughs.\]
+way did they understand each other\! \laughs.\
 
 And the other one was very nice, and she and I got to be quite friends.
 But we didn’t have too much of anything to do, and then we discovered
@@ -540,13 +540,13 @@ much annoyed. And we also were annoyed with the fact that they had a
 personnel man in this Basic Research who had come from industry—I think
 he had come from some kind of a factory, to tell you the truth—without
 the slightest idea of how to manage professional people—and he sort of
-thought that we were under his control. And \[he would demand\] “Where
+thought that we were under his control. And \he would demand\ “Where
 were we?” if we weren’t sitting right at our desks. So we decided one
 afternoon that we’d see if they really did miss us. We had an invitation
 to go to the president’s house for tea; so we came in—and the way you
 would dress for the president’s house, because this was 1946—in, you
 know, dresses, silk stockings, and shoes—high heels—and white gloves,
-and a hat. And nobody missed us\! \[laughs.\] Or if they did, they
+and a hat. And nobody missed us\! \laughs.\ Or if they did, they
 weren’t about to tell us. Of course, it probably was pretty obvious
 what we were up to, because we did not come dressed like that normally.
 And then we also had decided we would take a class at MIT; we discovered
@@ -554,12 +554,12 @@ that we could do this. It wasn’t auditing; we actually paid for this
 class, but in those days they weren’t that expensive. It was on
 topology. So we asked this personnel character if we could take it. And
 he of course he didn’t know what in hell we were talking about.
-\[laughs.\] But then we also realized that we had, both of us, known the
+\laughs.\ But then we also realized that we had, both of us, known the
 professor who was teaching it—and he was Polish, and, as he put it, he
 spoke seven different languages; and we used to say, “Yes, like a native
 of Poland\!” And so Pat—that was the other woman —Pat decided, “We might
 as well go and ask the bursar, ‘Do we have to pay for this class if we
-couldn’t understand him?’” \[laughter.\] I wouldn’t have had the nerve
+couldn’t understand him?’” \laughter.\ I wouldn’t have had the nerve
 to do this, but she did; and we went over, and we left him laughing; he
 thought that was the funniest thing that ever happened. And we did go,
 and we both managed to get through the first semester, because—as he put
@@ -568,7 +568,7 @@ where there were more women students. At the end of the class he would
 look at the two of us and say, “You want to go out for coffee?” And of
 course the guys in the class were really upset, because then he wouldn’t
 stand around answering their questions—he’d rather go out for coffee\!
-\[laughs\] And it was all on set theory, which I had never had, but I
+\laughs\ And it was all on set theory, which I had never had, but I
 managed to work my way through it. In fact I even took the second
 semester.
 
@@ -582,7 +582,7 @@ Then not knowing what to do with us—and they didn’t think we were busy
 enough—the administration and faculty had a cocktail party, to which we
 were not invited, but at which they discussed our future. And as I said,
 that really annoyed us no end. But there was a young professor, a
-professor \[Herman\] Feshbach, a relatively well-known physicist—he just
+professor \Herman\ Feshbach, a relatively well-known physicist—he just
 died recently—but he was a young guy at the time. He had people working
 for him doing computations in the acoustics laboratory; he had people
 working for him doing acoustics for nuclear science; and as there were
@@ -617,7 +617,7 @@ of the thing was, we all went off to a meeting, and they . . . . Nobody,
 of course, was trained in computers, so they were looking to hire people
 with certain characteristics, like if you played chess. Well, I didn’t
 play chess. And then they said, “ . . .and people who knit,” and I
-thought, “I’ve made it: I knit\!” \[laughter.\]
+thought, “I’ve made it: I knit\!” \laughter.\
 
 **Abbate:**
 
@@ -631,7 +631,7 @@ made a good programmer was a great deal of patience. That’s why women
 were really good at it. You need some math, but nowhere near the math
 that they said you needed. Some people would say—I remember there was a
 television program done on the early days at MIT, and you would have
-thought everybody was a math genius—and they weren’t\! \[laughs.\]
+thought everybody was a math genius—and they weren’t\! \laughs.\
 Computing, and computing hardware, is a very practical engineering
 thing, and mathematical thing, but it’s not what I call highbrow math.
 Maybe highbrow engineering—I don’t think even that, because if you stop
@@ -643,7 +643,7 @@ place like MIT to get a degree in computer science, because that’s where
 they gave computer science degrees. But even so, we were much more
 practical than the later generations of computer science kids were,
 because we knew what this thing really did, and we knew pretty much how
-it did it\! \[laughs.\]
+it did it\! \laughs.\
 
 So anyway, so we went with that. And before we got to the 704—I do keep
 getting ahead of myself—we had worked on Whirlwind, which was a computer
@@ -667,7 +667,7 @@ semester; and it was a very funny guy who taught it—and a very good
 teacher—anyway, I walked in late because of having to get across the
 campus with my crutches, and he said, “I want you guys to know this is a
 very difficult class\! Look what it did to that poor woman who’s coming
-in\!” \[laughter.\] But it was a great class. I learned a lot. And so we
+in\!” \laughter.\ But it was a great class. I learned a lot. And so we
 all started programming Whirlwind, and at this point . . .
 
 **Abbate:**
@@ -677,7 +677,7 @@ When was that?
 **Campbell:**
 
 That was in the mid-’50s. —You know, it was interesting: I never knew
-Judy \[Clapp\]. I knew some of the other people who worked over there,
+Judy \Clapp\. I knew some of the other people who worked over there,
 but I never happened to run into her. I think I knew people who worked
 there earlier than she did.
 
@@ -694,7 +694,7 @@ by the time I got to it, that’s exactly what they were doing. But they
 were using oscilloscopes with a bouncing-ball program way ahead of
 anybody else.
 
-\[recording pauses\]
+\recording pauses\
 
 **Abbate:**
 
@@ -714,12 +714,12 @@ before (the only time they could get things run was at night). And then
 the same personnel manager that had given the two of us a difficult time
 about taking the class wanted to know what all these women were doing.
 And then I discovered he had set up a spy—I can’t remember Ernie’s
-\[last\] name, but Ernie was the spy, and everybody had spotted him. So
+\last\ name, but Ernie was the spy, and everybody had spotted him. So
 I said, “Look, don’t sneak by him, whatever you do. Walk up to Ernie and
 give him a big good morning. Just make yourself known, because that way
 you are showing them that you’re not doing anything wrong.” Then I said,
 “Plus which, it’ll irritate the hell out him\!”—which I knew.
-\[laughs.\] I tell you, I spent my time defending a lot of the women who
+\laughs.\ I tell you, I spent my time defending a lot of the women who
 worked for me, because we had got to work in a field where you can’t
 keep exact hours. If you get interested in something you stay later—and
 sometimes I would go over there at night to watch this computer run,
@@ -735,10 +735,10 @@ this psychiatrist who came to work at MIT, a Jerry Lettvin, and he had
 been in Cook’s County in Chicago, which is a very rough hospital. And
 when he discovered this group, he thought, “What better place to have
 coffee in the morning, with a whole room full of gullible women\!”
-\[laughs.\] And he would tell these women fantastic stories about Cook’s
+\laughs.\ And he would tell these women fantastic stories about Cook’s
 County, fifty percent of which were true. And he had this most beautiful
 wife, who then set herself up as an exercise teacher, and wrote a book,
-The Beautiful Machine. \[laughs.\] And he was a character at MIT. I
+The Beautiful Machine. \laughs.\ And he was a character at MIT. I
 mean, this is a diversion, but he was really an interesting person.
 Later on he had a debate with Timothy Leary about LSD, and he just won
 hands down. He was a big man, with a big black beard, and a commanding
@@ -756,17 +756,17 @@ But anyway, we worked on Whirlwind, and then the 704 came along, so we
 transferred all our stuff over there. But the thing that I did with
 Professor Feshbach with the wave analysis was done on Whirlwind, and
 published. The only way I could get any results out was to use a
-\[memory\] dump; I didn’t have enough storage in Whirlwind to get a
+\memory\ dump; I didn’t have enough storage in Whirlwind to get a
 print program. So I dumped everything out, and some poor secretary had
 to take that dump and retype all those tables, and the book was about
-this thick. \[holds fingers apart.\]
+this thick. \holds fingers apart.\
 
 But I used to keep track of programs that I ran over there, and then see
 what they would do on other machines later on. We had other things that
 we put together, some Lommel functions that we did, and I thought, “Just
 run them now, and then run them a few years later and see . . .”
 Finally, you know, I gave up, because what had taken eight hours was—I
-think I got it down to half a minute, and quit\! \[laughs.\] Now it
+think I got it down to half a minute, and quit\! \laughs.\ Now it
 would probably take a half a second or something.
 
 **Abbate:**
@@ -782,7 +782,7 @@ center, on the 704—which I think had become at that point maybe a 709\.
 And I would go over to the center to wheedle time out of the people, be
 nice to the operators so I got them to run my job on a Saturday—all
 those kinds of things. Then we started negotiating with other similar
-DOE \[laboratories\]—they have a similar DOE laboratory, like at NYU—to
+DOE \laboratories\—they have a similar DOE laboratory, like at NYU—to
 run the jobs down there: buy time. And then the laboratory director
 said, “If we’re going to buy all this time, we might as well ask the
 government for money for our own computer.” So I worked with a group of
@@ -790,7 +790,7 @@ users—and really this was funny, because they really didn’t know what
 they were doing, any more than I did—but we had this committee to select
 the computer: a graduate student, and me, and some of the physicists;
 and everybody thought they knew what they were talking about, including
-me\! \[laughs.\] But anyway, since we were working with IBM, we selected
+me\! \laughs.\ But anyway, since we were working with IBM, we selected
 the 7044, and set it up. And at that point I quit the big group, and
 said, “Now I want to work just for the laboratory.”
 
@@ -821,13 +821,13 @@ this direct data program, one of the most interesting things I did. If
 you look back on it now, it probably wasn’t that complicated programming
 . . . But it was in a sense: we didn’t really have the right
 equipment—we didn’t have any disks\! So we dumped the running programs
-out on tapes, and then the tape \[with the accelerator data\] was
+out on tapes, and then the tape \with the accelerator data\ was
 supposed to come down from Harvard. Well actually, we never got the data
 coming over the line, or at least I didn’t while I was working on it;
 the tape would come down with a kid on a bicycle. But they were still
 close enough, you know. In other words, they’d take the tape off the
 computer down there—the experiment in the accelerator—and then rush it
-down \[to MIT\], and then we would mount it, and they would dump
+down \to MIT\, and then we would mount it, and they would dump
 everything out, and it was . . .
 
 I learned how on the various operations—I learned this from the customer
@@ -850,8 +850,8 @@ dropped the whole thing and concentrated much more on management.
 There again, you know, we’d had this computer for two years, and we
 wanted another one—and one of the things that I did was to write, at
 that point, RFPs for new computers. I wrote them incessantly, and didn’t
-get very many new computers, but we got a 360/65\. But we got that at
-the time when—the 360/65 was nowhere as sophisticated as now. It didn’t
+get very many new computers, but we got a 36065\. But we got that at
+the time when—the 36065 was nowhere as sophisticated as now. It didn’t
 do any spooling; so you stopped the computer while you printed out the
 results, which wasn’t a very good idea. On the 7044, we had written
 results on tape, and then printed it out on a 1401\. So this time I
@@ -872,11 +872,11 @@ home and read it in one night, and tell you on page so-and-so, paragraph
 such-and-such, what was what\! And I thought, this is just an incredible
 . . . . And he went on to be a very good engineer on computers.
 
-And so got a 360/65 in. When that ran out of time, we got a PDP set up
+And so got a 36065 in. When that ran out of time, we got a PDP set up
 and put it in. And after we got that was when I decided to retire. I
 retired early . . . .
 
-But now I am getting out of chronology again\! After we got the 360/65
+But now I am getting out of chronology again\! After we got the 36065
 in, along came all this networking with the ARPANET, which—of course, a
 lot of that research was done at MIT. And I had gotten into the computer
 groups in DOE; there was something called AESOP—Association For Energy
@@ -898,7 +898,7 @@ computer.”—Namely, at this point, the CDC at Berkeley. The reason
 that networking could do this for us was that this was the first time,
 with the ARPANET, that they had connected online computers, so that you
 could take and send your program to a—and we worked with
-[FORTRAN](/FORTRAN "FORTRAN") with these programs, so it might have been
+FORTRAN(FORTRAN "FORTRAN") with these programs, so it might have been
 sometimes we had to recompile at another place—but we could still send
 jobs back and forth.
 
@@ -908,7 +908,7 @@ think that’s the most interesting thing I probably did. I was the only
 woman on it, and we communicated with each other with something called
 Planet, which allowed one to communicate with a group over the net.
 
-\[TAPE 1, SIDE 2\]
+\TAPE 1, SIDE 2\
 
 **Campbell:**
 
@@ -919,9 +919,9 @@ and then you could take a vote on what we should do next, say “yes” or
 and then you went to the telephone. Well, the thing that I ended up
 being was sort of the mother of the group, because these guys were
 pretty critical of each other’s work, and I would get this call, “Don’t
-you think so-and-so is picking on me?” \[laughter.\] And then, I had
+you think so-and-so is picking on me?” \laughter.\ And then, I had
 never learned to type, and one of the guys would write messages such as
-“Why don’t we get Betty a typing lesson\!” \[laughs.\]
+“Why don’t we get Betty a typing lesson\!” \laughs.\
 
 But we had a good time, and I . . . We had meetings, and I would go to
 California and attend meetings—of the project run by Jerry Estrin at the
@@ -933,7 +933,7 @@ student—very brilliant kid—and hiring him to work on it, because he was
 into all phases of what the ARPANET would do, and what word processing
 would do that they had on the Multics system at MIT; he was a Multics
 expert. He taught my secretary how to use a very complicated word
-processing \[system\], which had both a formatting program and an
+processing \system\, which had both a formatting program and an
 editing program; it just wasn’t that simple. Not only did he teach her,
 he taught a part-time person that I hired to do it.
 
@@ -975,7 +975,7 @@ Then there was another man after Jim who ran this Berkeley group.
 The people that I knew—that were well-known—sometimes knew quite
 well—like Corbatò at MIT, and Licklider . . . I didn’t know Licklider
 that well, but I knew Mrs. Licklider very well—we were in a drama group
-together\! \[laughs.\] Bob Fano I knew quite well. All the people who
+together\! \laughs.\ Bob Fano I knew quite well. All the people who
 worked on project MAC. And then people that would come in: Joel Moses,
 who was one of the ones who first did algebraic work on the network. And
 then Jean Sammet, who certainly is a very well-known IBMer; and she did
@@ -989,7 +989,7 @@ Lovelace prizes. . . She was never a real feminist by any means, and . .
 her for a while, and then when I was doing this journal with Michael
 Williams, editor of Annals of Computing, I contacted Jean to see if she
 wanted to contribute an article for women in computing, but she didn’t.
-\[laughs.\] And I haven’t seen her since then. I sometimes keep track of
+\laughs.\ And I haven’t seen her since then. I sometimes keep track of
 her through Pat Summers. who knows her in Washington, but I think the
 last time I saw her was at that New York meeting, which was quite a few
 years ago. Then there was Alan Perliss. That was a very impressive guy,
@@ -1006,23 +1006,23 @@ He’s still very active now.
 Very, very active. He probably wouldn’t remember me, but I had some
 program I was doing with the personnel office, where you had to go
 around and interview people at MIT. So I went and interviewed Michael
-Dertouzos. \[laughs.\] But he is a fascinating person; I’m just
+Dertouzos. \laughs.\ But he is a fascinating person; I’m just
 fascinated by the fact that he would organize a series of computer
 lectures, by distinguished lecturers in computer science, and we would
-all go just to hear him introduce the people\! \[laughs.\] I went to
+all go just to hear him introduce the people\! \laughs.\ I went to
 hear Bill Gates speak when he spoke at MIT, and I’ll have to say that
 Dertouzos did a better job introducing him than Bill Gates did
-\[speaking\]. And that was sort of interesting, because those kids were
+\speaking\. And that was sort of interesting, because those kids were
 out to get Bill Gates. You know, you really have to see MIT students
 when they’re out to get somebody\! And don’t get in their way\!
-\[laughs.\] You know the whole thing is, they’re so well organized\! I
+\laughs.\ You know the whole thing is, they’re so well organized\! I
 decided I’d go over, and I thought, “Wait, that is really going to be
 rough to get in\!” But there were refreshments first, so I thought,
 “I’ll skip the refreshments and walk right in.” Which I did, and
 managed to get a seat; but those kids were all around me, because they
 simply picked up the refreshments on the way in, even though you’re not
 supposed to take them into Kresge Auditorium. They were all sitting
-munching around me\! \[laughs.\]
+munching around me\! \laughs.\
 
 I find the whole thing interesting because the question that first they
 hit him with was, “With all this money, what are you doing with it?” You
@@ -1041,7 +1041,7 @@ Professionals Against the ABM; and this guy came up, and when the kids
 got through with him he caved in\! I remember one of them said to him,
 “And what do you think, Professor, Nixon is thinking?” And he said, “I
 haven’t the slightest idea\!” and he turned around and went back to
-Washington. \[laughter.\]
+Washington. \laughter.\
 
 They just—and that, again, was what made it interesting: Here were these
 really bright students, and bright professors. Another professor that I
@@ -1052,9 +1052,9 @@ was Henry Kendall, who was head of the Union of Concerned Scientists.
 And this was probably the most ethical scientist I will ever meet. He
 was a highly ethical person. And there was the nuclear science
 laboratory, theoretical; and then there was the nuclear engineering
-department, that had this Professor \[Norman C.\] Rasmussen, who was all
+department, that had this Professor \Norman C.\ Rasmussen, who was all
 for building atomic energy plants, etc. And they would have debates:
-Rasmussen would come with a clique of his students, and he \[Kendall\]
+Rasmussen would come with a clique of his students, and he \Kendall\
 wouldn’t do that; he said, “I would not ask my students to come and
 defend me.” He was going to defend himself. If they wanted to come and
 speak, that was all right with him, but he wasn’t going to say that they
@@ -1074,7 +1074,7 @@ Were you actually working on Project MAC?
 
 **Campbell:**
 
-No, I was one of their guinea pigs\! \[laughs.\] I knew Professor Fano
+No, I was one of their guinea pigs\! \laughs.\ I knew Professor Fano
 very well because he had been in the Research Lab of Electronics that,
 and he said . . . I got myself a terminal, and the idea was, I was to
 intrigue the physicists into using Project MAC.
@@ -1140,12 +1140,12 @@ analysis—even the very beginning kinds of things, like how are you going
 to get a sine or a cosine accurately? And in fact, that was one of the
 things that my whole group probably did to a great extent, because when
 we first started doing all the physics problems—the physicists would
-think that if they gave us an equation, it would work\! \[laughs\] —but
+think that if they gave us an equation, it would work\! \laughs\ —but
 you were always approximating something. And I can remember Phyllis Fox:
 does that name ring a bell for you? She was a mathematician at NYU, and
 she had started this stuff for Professor Feshbach, and she had developed
 a series for getting the starting values of these wave functions. I
-don’t know why, \[but\] I decided that even though the last thing that
+don’t know why, \but\ I decided that even though the last thing that
 she had in the series was a small number, I wasn’t sure that the next
 one wouldn’t be bigger: and it was. So I remember reworking that series
 to do it. And then we were using things where you would step it up: so
@@ -1164,9 +1164,9 @@ needed.
 
 And the only person I know that was there—her name was Margaret; and the
 interesting thing about this was, she also belonged to the AESOP group
-that I belonged to, and some of the men \[thought\], “If it’s a woman,
+that I belonged to, and some of the men \thought\, “If it’s a woman,
 it’s Margaret.” You know, don’t bother that this one’s named Betty\!
-\[laughs.\] It really was funny. You’d go to those meetings—and this was
+\laughs.\ It really was funny. You’d go to those meetings—and this was
 an example of the kind of things that happened to you—they had a
 reception, and I went in a long skirt, and this woman walked up to me
 and she said, “What does your husband do?” And I said, “Well, I work;
@@ -1179,10 +1179,10 @@ there, and she couldn’t have been sweeter; and I thought, “Well, it’s
 nice to know that somebody around here has got a wife that doesn’t think
 I’m ‘one of those’\!”
 
-And then there would be things like \[message boards labeled\] “Members’
+And then there would be things like \message boards labeled\ “Members’
 messages” and “Women’s messages.” So of course these guys would say,
 “Okay, Betty, what are you going to be: a woman or a member?”
-\[laughs.\]
+\laughs.\
 
 But I enjoyed this; I didn’t let that bother me too much. I think I got
 used to the fact that most of the men were really supporting me. Plus
@@ -1191,7 +1191,7 @@ instance, I would hire women operators. Oh—well\! When I would hire male
 operators—students—I would object to the fact that they walked around in
 shorts, no shirts, and no shoes. They would say, “Oh, Betty, you’re
 being prudish.” Well, I won the one on the shoes, because somebody
-dropped something on his foot and broke it\! \[laughs.\] The shirts I
+dropped something on his foot and broke it\! \laughs.\ The shirts I
 think I more or less won, because it was cold. But then I hired this
 operator, and she was . . . I liked doing things—and the personnel
 office got me involved in this—with people that they were trying to help
@@ -1224,7 +1224,7 @@ business days and vacation days one time to him. . . But anyway, he and
 this woman got along fine. They used to get along all the time, but they
 were running that machine beautifully. And neither one had any interest
 in the other. But then—she did get pregnant. Well, if you think those
-guys—\[they asked me\], “So, who’s the father?” If I had known who the
+guys—\they asked me\, “So, who’s the father?” If I had known who the
 father was, I wouldn’t have told them anyway, because it was none of
 their business. I had guessed who the father was, because—she had twins,
 and she lost one, and she didn’t realize that she had another one, and
@@ -1255,7 +1255,7 @@ It sounds like personnel was one. What were some of the others?
 **Campbell:**
 
 I think the biggest challenge was to see if I could actually get that
-computer up and running. The second biggest challenge was \[laughs\] the
+computer up and running. The second biggest challenge was \laughs\ the
 Ph.D.s who thought they could do it better\! You know, at first they
 thought they had to have a Ph.D. to run this computing center, when we
 first acquired the 7044; so they assigned two young Ph.D.s—who didn’t
@@ -1269,7 +1269,7 @@ and he said, “I can’t explain anything to them,” and so . . .
 
 And this guy was easy to work with. We worked with him, and then they
 got a replacement for him, and it was a woman, one of the first few
-women they \[IBM\] ever sent in. Well, I had no objection to a woman,
+women they \IBM\ ever sent in. Well, I had no objection to a woman,
 but the two of us—she and I—were objecting to the fact that they weren’t
 getting anybody that had the engineering experience that he had. Because
 this was when we were putting this direct data in, and the phone line,
@@ -1278,7 +1278,7 @@ I said to him, “No, you’ve got to stay a while; you’ve got to teach us
 what you’re doing.” And the three of us would go to New York together,
 to run jobs and so on; and I did learn a lot from him.
 
-And then I would take her to SHARE meetings with me \[laughs\]—just
+And then I would take her to SHARE meetings with me \laughs\—just
 because I knew it aggravated everybody else\! You know, sometimes you do
 things, if you’re a woman, just because it’s amusing to see how the men
 are going to react. And also because you feel if you don’t, you’re never
@@ -1291,11 +1291,11 @@ was for a piece of equipment, and at this point we had waited too long
 to get it.
 
 I think I really did better than some of the rest, and I do think that
-the fact that you could treat it with a sense of humor \[helped\] . . .
+the fact that you could treat it with a sense of humor \helped\ . . .
 And the women would all band together. I remember early in the game
-\[laughs\], we would have pet names for the people who were bothering
+\laughs\, we would have pet names for the people who were bothering
 us. One of the professors was known as Old Pinch-Bottom, and the warning
-was, “Don’t go to a party and turn your back on him\!” \[laughs.\] And
+was, “Don’t go to a party and turn your back on him\!” \laughs.\ And
 then I had to interview him for something, which was right after the war
 ended and we were setting up these new laboratories. I think there was a
 question as to whether, before they hired me, I should have talked to
@@ -1303,18 +1303,18 @@ him. And one woman said to me, “Don’t be alarmed if he never looks at
 anything but your ankles.” And this was true, and I thought, I would
 never have gotten through that interview if he had never looked at me. I
 would have wondered, was there something the matter with my shoes, or
-what? \[laughs.\] And then there was one of them that thought he was a
+what? \laughs.\ And then there was one of them that thought he was a
 hot-shot, and we called him Tiger Smith. And then there was one of the
 ones who used to check up on us all the time, when I had the group. I
 was using the keypunch one day—this was when we were using the 704—and
 he came in and he said, “Show me how it works,” and he slid into the
-chair beside me. Without even thinking, I went like this \[waving her
-arm\]—knocked him sprawling on the floor\! \[laughter.\] And I had a
-very young \[employee\]—very young, she had just gotten out of Smith
-\[College\]; she reminded me of myself at the time when I got out of
+chair beside me. Without even thinking, I went like this \waving her
+arm\—knocked him sprawling on the floor\! \laughter.\] And I had a
+very young \employee\—very young, she had just gotten out of Smith
+\College\; she reminded me of myself at the time when I got out of
 college—and she started to giggle, and she couldn’t stop. He never came
-back. \[laughter.\] I think if she hadn’t started to giggle, it wouldn’t
-have been quite so bad. \[After that\] he would be polite enough at
+back. \laughter.\ I think if she hadn’t started to giggle, it wouldn’t
+have been quite so bad. \After that\ he would be polite enough at
 parties and so forth, but he didn’t risk coming into the room again. And
 you know, it was extremely instinctive on my part, to do that. I think
 it was just that I was so tired of his coming in and asking questions
@@ -1340,7 +1340,7 @@ wasn’t: first, she was married, and second, she was a really big
 flirt. And we worked for this gorgeous-looking, Greek god kind of blond
 guy, and she would go in to his office and get him to come out and talk
 to us at the slightest excuse. She would pursue him like mad, because
-she just thought it was fun. \[laughs.\] But then the two of us got to
+she just thought it was fun. \laughs.\ But then the two of us got to
 talking one day—the two of us got to exchanging salaries: I was making
 $150 and she was making $85\. So she went to Dr. Loomis and says, “How
 come you hired her at less money than you hired me?” And he said to her,
@@ -1348,7 +1348,7 @@ come you hired her at less money than you hired me?” And he said to her,
 And they would never get away with anything like that in this day and
 age. But that those pants could have been such an affront to him, and an
 affront to those other women, was something that was hard for me to
-comprehend. Because it was a very cold summer\! \[laughs.\] I was
+comprehend. Because it was a very cold summer\! \laughs.\ I was
 wearing a wool suit, so she was wearing wool pants. But I was just happy
 to have somebody who was friendly, and liked to go shopping, and do the
 kinds of things that women do do together. . . . And I don’t know
@@ -1387,13 +1387,13 @@ front of a whole bunch of guys. And he quit. He hated me, because he
 used to think that he got all the surplus equipment in the laboratory by
 talking to one of the girls that worked in the property office for DOE;
 but he got this surplus equipment—the computer stuff—because I talked to
-the men there\! \[laughs.\] I wasn’t flirting with them or anything. I
+the men there\! \laughs.\ I wasn’t flirting with them or anything. I
 was saying—because they had to write reports, and they didn’t understand
 what the computers were doing—and I told them, “I’ll tell you what to
 say if you get me that machine.” And then there was, of course, this
 other man, this Fred Ben who had been so nice to me, and his wife; they
 were just people who were nice to me in general. So I could get things
-done that he \[the property man\] couldn’t get done, because he couldn’t
+done that he \the property man\ couldn’t get done, because he couldn’t
 1\) get to the top level, and 2\) if he had, he wouldn’t have gotten
 anywhere, because he just was so uncouth. He really was uncouth, I can’t
 put it any other way. And I used to wonder why some of the women—he
@@ -1402,7 +1402,7 @@ all over them, and I thought, “Why in the world do they put up with
 him?” If someone had turned around and hit him, I wouldn’t have been
 surprised.
 
-But no, I think I was just one level up enough \[to avoid harassment\].
+But no, I think I was just one level up enough \to avoid harassment\.
 And I also was aware of who were the problems, and I could avoid them;
 as I said, the women got together. There was one man who used to come in
 and bother me, and I would get up and open the door. You’d do anything
@@ -1423,7 +1423,7 @@ kid—he was about 18, I guess; he looked a lot older—and he had been in
 the Fernald school in Waltham, and they let him out to visit his mother.
 Well, first he attacked one of the students; but she was a really husky
 girl, and she was on the stairs above him; she turned around and took
-her books and wanged him on the head. \[laughs.\] The students there
+her books and wanged him on the head. \laughs.\ The students there
 were pretty good about protecting themselves\! And I didn’t think
 anything of it, except to say to the women in the group, “Just be
 careful when you come in here when we’re not officially open. I don’t
@@ -1461,7 +1461,7 @@ you went to meetings? What were those like?
 
 I used to go to all the SHARE meetings, and at one point I was head of
 the management group; I did that for a while. And I would usually go and
-take a—somebody else with me. \[laughs.\] This shows you how—we ran on a
+take a—somebody else with me. \laughs.\ This shows you how—we ran on a
 rather small budget, so I had the bright idea of taking and combining
 what they would give for one person, and I would manage to get more than
 one person going. And we would have all sorts of ways of meeting the
@@ -1475,8 +1475,8 @@ sure she’s not around. A woman who impressed me—and I wish I could
 remember; I didn’t meet her through a SHARE meeting, I met her through
 something else—was the woman who was the operations manager for the
 Livermore Laboratory. She had two hundred operators underneath her. And
-she—\[laughs\]—she was a woman that none of the men ever crossed.
-\[laughs.\] She was really—she was just so sure of herself.
+she—\laughs\—she was a woman that none of the men ever crossed.
+\laughs.\ She was really—she was just so sure of herself.
 
 I went to SHARE, and I would do different things, write different
 papers. I would go to their in-between meetings, where only the various
@@ -1489,16 +1489,16 @@ Well, what were those meetings like? How many women were there?
 
 **Campbell:**
 
-Oh, the first one I went to—\[laughs\]—was in San Francisco, and—I don’t
+Oh, the first one I went to—\laughs\—was in San Francisco, and—I don’t
 know, I think maybe close to two thousand people—maybe not that big.
 They got to be easily two thousand after that. And I can remember going
 in—they had this thing at night they called SKIDS: Society to Keep
-Inebriated During SHARE\! \[laughter.\] And it really was sad—this is
+Inebriated During SHARE\! \laughter.\ And it really was sad—this is
 where I learned to drink\! I found I could drink scotch and water and
 last an evening quite well, and it was at this particular first one that
 I discovered this. But I got to the door of SKIDS and I looked in, and I
 noticed a sea of men. And this man standing behind me says, “Oh, go
-ahead, plunge in; it’s not that bad\!” \[laughs.\] And I did meet a lot
+ahead, plunge in; it’s not that bad\!” \laughs.\ And I did meet a lot
 of people that way; this is how I met all these characters from the
 Berkeley laboratory.
 
@@ -1539,7 +1539,7 @@ international one, but only because it was in this country; I never got
 abroad, unfortunately. And I used to—we had a whole—there was a woman
 from Lincoln there . . . I got to know a lot of the people who also went
 to these meetings, and particularly the women from other places in the
-\[Boston\] area. \[laughs.\] I remember, we all went off to some
+\Boston\ area. \[laughs.\] I remember, we all went off to some
 meeting, I think it was in Chicago, and this woman reporter came up and
 she said, “I understand that only women under forty ever work in
 computers.” Well, two of us standing there were over forty, so we
@@ -1552,7 +1552,7 @@ You know, the public’s impression of you was also hysterically funny . .
 
 **Abbate:**
 
-What was that \[impression\]?
+What was that \impression\?
 
 **Campbell:**
 
@@ -1573,7 +1573,7 @@ understand that—that you had to be able to talk to the people you worked
 for, so that you could understand what they wanted to do. They didn’t
 have any idea. And then when we got the terminals, they’d said to me,
 “Well, I don’t see why programming is so difficult; it’s just like
-running a typewriter.” \[laughs.\] You know, all sorts of things like
+running a typewriter.” \laughs.\ You know, all sorts of things like
 that.
 
 Oh, and then that very first year that I worked, to go back to the . . .
@@ -1584,12 +1584,12 @@ this job. Along came the January after I had gone to work in June, and I
 got a $50 raise. Well, from $150 to $200 was pretty good. And I had one
 of the young kids that was helping me with the reading of the film
 sitting at my desk when I got the notice, and like a jerk I told her
-about it. So of course, you know—\[it was\] all over the place. And I’m
+about it. So of course, you know—\it was\ all over the place. And I’m
 in the ladies room, in one of the little booths, and the head secretary
 comes in along with this English major, and she—the English major—was
 fuming, “Why would she get that kind of money when I didn’t get a
 raise?” etc. etc. And so the woman was trying to explain to her that
-I’m a scarcer commodity \[laughs\]—you know, degrees in English were
+I’m a scarcer commodity \laughs\—you know, degrees in English were
 all over the place; there weren’t very many math degrees.
 
 But they resented you. After I retired –
@@ -1606,25 +1606,25 @@ long time, an Al Hill, who had been very prominent at MIT. I’ve
 forgotten what he was doing then, but he was doing something at another
 place, and he said, “Come on over and talk . . .” And as soon as I got
 to Personnel, I realized this woman wasn’t about to hire me at all, if
-ever. And then I went to a job fair, and this young kid—and \[I don’t
-know\] whether he was just being nice or not, but he thought they might
+ever. And then I went to a job fair, and this young kid—and \I don’t
+know\ whether he was just being nice or not, but he thought they might
 have something for me. And then I talked to the woman in charge, and I
 thought, “Oh, no. No go.” They’re just not—they really sort of lean over
 backwards . . . And then I had somebody in Personnel—and this was a
 woman I really knew and liked as a friend—she called up, she said, “I
 have just the person for you\!” I was trying to hire. And she says, “You
-know, she comes from such a good family.” Well, you know—\[laughs\]—what
+know, she comes from such a good family.” Well, you know—\laughs\—what
 do I want from a good family? She had the world’s most miserable
 disposition, which I didn’t realize when I hired her; it was only for a
 summer job. And by the time she left, everybody was so happy to see her
 go\! But she had an older sister who had done very well in the field,
 and she just thought she was it, you know. She announced to the other
-women that she’d come to find a man\! \[laughs.\] So they suggested
+women that she’d come to find a man\! \laughs.\ So they suggested
 where she might go—you know, nicely—they’d say, okay, go to the
 student—the students used to hold these big open dances. “No,” she
 says, “I’m too good for a student.” She wanted something higher up. The
 first man she worked for came to me and said, “Get her away from me\!”
-And I didn’t ask him why; I didn’t have to\! \[laughs.\] So, as I say,
+And I didn’t ask him why; I didn’t have to\! \laughs.\ So, as I say,
 Personnel and I were not the greatest of friends. And whether it was me
 or them, I don’t really know, but it was always where I was having the
 problem of being thought of as something different.
@@ -1644,7 +1644,7 @@ Did you find the other women had similar experiences as you?
 I think some of them had worse experiences than I did. I don’t know. You
 know, I went to the first Grace Hopper meeting in Washington, DC, with a
 friend of mine here. And it was a great meeting, and in fact that’s
-where I met Thelma Estrin, and saw Jerry \[Estrin\] for the first time
+where I met Thelma Estrin, and saw Jerry \Estrin\ for the first time
 in years, because he had come with Thelma. But they were doing
 this—Minerva’s Machine, I think, was the name of it—and there was all
 this talk about sexual harassment. The thing that bothered me was, it’s
@@ -1664,7 +1664,7 @@ much discouraging of these students that you’ve got in here. And then I
 got to talking to her about the fact that there weren’t women in my
 group, and she said that Michael Williams had asked her to edit this
 journal, and she didn’t have the time, and would I like to do it?
-\[laughs.\] And that’s how I got involved with Michael Williams, because
+\laughs.\ And that’s how I got involved with Michael Williams, because
 I said I would do it.
 
 But whether or not . . . I have a feeling that my experience was more or
@@ -1741,10 +1741,10 @@ companies don’t realize how to take advantage of good personnel: because
 they may be minorities, they may be women, they may be older, and they
 just don’t realize that they may have—particularly with the case of the
 older woman—have a much better worker than they would with a white male.
-\[laughs.\] They just don’t realize what they’ve got out there. But I do
+\laughs.\ They just don’t realize what they’ve got out there. But I do
 think things are a lot better; I’m not discouraged by it.
 
-I think what’s interesting, what I find here \[at Lasell Village\]
+I think what’s interesting, what I find here \at Lasell Village\
 is—where these are women, all pretty much my own age, that have moved
 in and are widows—that either they didn’t work, or they worked in
 different kinds of professions. If they got well known, they were
@@ -1760,7 +1760,7 @@ one-on-one tutoring, which I thought was a pretty good idea; but then it
 turned out that a lot of these tutors were students, and the students
 knew their computers, but they didn’t know how to teach them to somebody
 else—because it’s taken some of the women so long to learn how to send
-an email message, I can’t quite understand it\! \[laughs.\] So, outside
+an email message, I can’t quite understand it\! \laughs.\ So, outside
 of the one woman I know who’s the editor, I don’t really know anyone
 who’s really versed in computers. So it was more unusual, because it
 was a field that perhaps didn’t attract women. And then these women who
@@ -1788,13 +1788,13 @@ out other things. It went on for about two years.
 
 And I think any other obstacles—sometimes I put them in my own way. In
 other words—I mean, anyone would have thought, going into a room full
-of, as I said, twenty-one men and me . . . \[laughs\] Well, MIT—this was
-where parents loved to have their daughters go \[to work\], because to
+of, as I said, twenty-one men and me . . . \laughs\ Well, MIT—this was
+where parents loved to have their daughters go \to work\, because to
 be a secretary or something at MIT was much more elite, let’s say, than
 working in some commercial business. I mean, college jobs were
 considered good. Plus which, they were considered happy hunting grounds
-\[for husbands\]. But I never managed to make it a happy hunting ground.
-\[laughs.\]
+\for husbands\. But I never managed to make it a happy hunting ground.
+\laughs.\
 
 **Abbate:**
 
@@ -1811,7 +1811,7 @@ in the same boat.
 And then I think, you know, it’s like—I also belong to the Appalachian
 Mountain Club, and that was where everybody else went to find a man\!
 But then, there were groups of us that got married, and then there were
-those who didn’t. \[laughs.\] I have a lot of very good friends from
+those who didn’t. \laughs.\ I have a lot of very good friends from
 that group, both men and women. And that was a lot of my social life,
 was things outside of MIT. In those days I was in much better shape, and
 I would ski, canoe, and I liked to travel. But the local things that you
@@ -1835,8 +1835,8 @@ hired would say, “Come on; help me play detective.” I think she put it a
 very good way. It was problem solving—much more so, in a way, than it is
 now. Because I was programming in—not basic machine language; I never
 started out with the zeroes and the ones—but I started out with assembly
-language, which was, you know, one \[assembly language\] instruction for
-an \[machine\] instruction. So I knew assembly language on the 704; then
+language, which was, you know, one \assembly language\ instruction for
+an \machine\ instruction. So I knew assembly language on the 704; then
 I knew the basic language, the interpretive language, that was used on
 Whirlwind. And it was always a challenge to make it work. It was problem
 solving; it wasn’t just doing something routine. Now—I’m not as into
@@ -1884,7 +1884,7 @@ they did at the Advanced . . . and Project MAC, and now what Dertouzos
 is doing. That’s why I found this article in the Sunday Globe so
 interesting, because it talks about how, you know, you’re never going to
 do anything but talk to some piece of equipment. You say to the radio,
-“Turn on.” \[laughs.\] “Do this; do that.” And you know . . .
+“Turn on.” \laughs.\ “Do this; do that.” And you know . . .
 
 It was people like that, who are really working in the advanced fields,
 and really getting somebody. . . You ever heard of Nicholas Negroponte?
@@ -1912,7 +1912,7 @@ To look the whole field over, and not get frightened off by either the
 fact that it’s mysterious, or nobody knows what they’re doing, or it’s
 dull and boring . . . You know, women say, “Oh, I’m not going to
 program; that’s terrible.” You know, programming in my day was exciting.
-I’ll admit that now it probably may not \[be\]. But if you’re a C
+I’ll admit that now it probably may not \be\. But if you’re a C
 programmer, I doubt if it’s dull even right now, if you’re doing it. But
 it has so many facets to go into it; you can do—you can just work with
 one of these things, like—you can go into the field of graphics, of art,
@@ -1939,14 +1939,14 @@ help found that?
 **Campbell:**
 
 No, I didn’t. It was founded in 1978\. The way I found about it
-was—\[laughs\]—one of the young guys, one of the students that I had
+was—\laughs\—one of the young guys, one of the students that I had
 worked with, said, “You know, there’s a woman over here, and she’s
 telling us about this group that’s starting. It sounds just like the
 thing for you.” So I went to some of the early meetings. Then I dropped
 out for a while, because my mother was sick, and then I got more
 involved in it. And then after I retired, I thought, “Well, I really can
 do more.” This is when I took on one of the treasurer’s jobs for them,
-and then this Ada Lovelace \[award\].
+and then this Ada Lovelace \award\.
 
 It’s gone up and down in size. When it first started, it was pretty big.
 Then they had a time when—they got themselves organized with a
@@ -1958,8 +1958,8 @@ pretty good-sized group here in Boston. One of the biggest chapters is
 the National—in fact I was—you probably should contact—I should give you
 a contact with the National chapter, because that’s probably one of our
 biggest groups, and one of the more interesting ones. They were the ones
-that, after we decided on [Betty
-Holberton](/Betty_Holberton "Betty Holberton") for the Ada Lovelace
+that, after we decided on Betty
+Holberton(Betty_Holberton "Betty Holberton") for the Ada Lovelace
 award, arranged all the details: the banquet, the award, inviting the
 right people to come, and so on. And they’re active. I’ll have to send
 it to you by email, though, because I don’t have anything except email
@@ -1999,11 +1999,11 @@ You certainly should, because she is interesting. And Joyce could
 probably tell you about some other people down there. Because all of my
 friends are now retired. I don’t know where some of the other women who
 were active in computing places like the National Bureau of Standards,
-for example, are. But I had a friend who worked at MIT, \[that’s\] how I
+for example, are. But I had a friend who worked at MIT, \that’s\ how I
 got to know her; then she worked at the National Bureau of Standards in
 Washington, and I know she worked for one of these early pioneering
 ladies. But she is now in Florida. My friends all end up in Florida or
-California\! \[laughs.\] But I think Joyce Little is one of the
+California\! \laughs.\ But I think Joyce Little is one of the
 outstanding ones.
 
 And then . . . Do you have any access to any of the stuff from the Grace
@@ -2017,7 +2017,7 @@ summary of the others—of which women were honored there.
 **Campbell:**
 
 Because there was the one where Milly Koss was there with Betty
-Holberton and [Jean Bartik](/Jean_Bartik "Jean Bartik"). . . . You know,
+Holberton and Jean Bartik(Jean_Bartik "Jean Bartik"). . . . You know,
 there’s a man that’s interesting, too. When they did all of this stuff
 in Philadelphia during the war with ENIAC—and I can’t think of his name,
 but I’ll have to find it for you—and that was where I got all the
@@ -2053,7 +2053,7 @@ we both do history of computing.
 
 I don’t know what he’s doing now; and I cannot think of the man that he
 succeeded. The interesting thing I did with Michael Williams: we went to
-the launching of the U.S.S. Grace Hopper destroyer, in Bath. \[laughs.\]
+the launching of the U.S.S. Grace Hopper destroyer, in Bath. \laughs.\
 
 ### Attending the U.S.S. Grace Hopper Launch
 
@@ -2080,7 +2080,7 @@ told me that he might not even come through Transit, the way they were
 routing people. Fortunately, he did, and we finally got on this plane to
 Portland, where we got the car. And here we’re driving in this really
 windy, cold weather through Bath. And it turned out he really didn’t
-know where he was going\! \[laughs.\] After we had gone far enough, I
+know where he was going\! \laughs.\ After we had gone far enough, I
 knew we had gone by any possible place he was looking for. It was Cobb’s
 Corner he wanted, and I knew it was up there somewhere. Well, we stopped
 and asked and turned around, and went back to this hotel. And what was
@@ -2113,7 +2113,7 @@ Hopper’s sister and her granddaughter who did the thing. But everybody
 in town comes. It was like Old Home Week. I didn’t realize that
 launchings were such a popular thing. And he had such a fancy
 invitation, I didn’t realize that other people could walk in off the
-street to the launching\! \[laughs.\] But it was fun.
+street to the launching\! \laughs.\ But it was fun.
 
 He’s a very interesting person; he’s very nice.
 
@@ -2126,7 +2126,7 @@ Yes.
 **Campbell:**
 
 I would like to do some more of that kind of editing, but I just never
-got around to doing anything more. And one \[article\] did get sent to
+got around to doing anything more. And one \article\ did get sent to
 me, but I never did get around to doing anything, because it came just
 at the time when I was trying to move.
 
@@ -2144,7 +2144,7 @@ wasn’t too favorable. But then . . .
 It’s very interesting. Women in information technology in Ireland are
 really well off; that’s a favorable job to have. And I got a paper from
 that one, which I didn’t get around to publishing either, from—I went to
-an Irish genealogy reunion at BC \[Boston College\], and met this woman.
+an Irish genealogy reunion at BC \Boston College\, and met this woman.
 But it’s an interesting thing . . . Germany, I think, is a good place. I
 would say Sweden probably was. When we do these Grace Hopper
 conferences, all these people turn up from foreign countries, and you
@@ -2234,14 +2234,14 @@ Yes.
 
 **Campbell:**
 
-\[laughs.\] He came to the thing we had for Betty Holberton. But you
+\laughs.\ He came to the thing we had for Betty Holberton. But you
 know, talking about people who were always around in the computing
 field: there was Computer World, there was Herb. And it’s too bad that I
 don’t know where Jean Sammet it, because I think she is one of the most
 interesting ones of the lot, I really do. Now, she’s to get to, because
 of the fact that—as I said, she’s not a feminist, she’s not too sure
 that this is what—but she did things that nobody else did. She wrote
-that book, The Tower of Babel \[sic\].
+that book, The Tower of Babel \sic\.
 
 **Abbate:**
 
@@ -2250,7 +2250,7 @@ I have her email, anyway.
 **Campbell:**
 
 You can tell her you know me. At least it will break the ice. It may not
-do much more\! \[laughs.\]
+do much more\! \laughs.\
 
 **Abbate:**
 
@@ -2273,18 +2273,18 @@ what Jean was doing, but they were giving her a hard time.
 
 But you know, she was—and she had a woman who worked with her that was
 very good, too. Jean was very brilliant, but she’s sort of
-scatterbrained. \[laughs.\] For example, I came in one day at the condo,
+scatterbrained. \laughs.\ For example, I came in one day at the condo,
 and there is Jean—her car door is open, the keys are in the ignition . .
-. \[laughs\]. She probably rushed in. But she really is a very
+. \laughs\. She probably rushed in. But she really is a very
 warm-hearted, a very nice person. I broke my leg: she had me up for
 dinner . . . She just really is. It’s just that . . . She’s very honest
 about it, she’ll say, “I never really went for this ‘woman’ thing.”
-\[laughs.\]
+\laughs.\
 
 But she ran that computing center that IBM had over at Tech Square; and
 did that format program, and that was not an easy thing to do. And I’ve
 heard her give papers and things, and she’s . . . She and Herb Grosch
-could argue like mad\! \[laughs.\] She’s a very interesting personality,
+could argue like mad\! \laughs.\ She’s a very interesting personality,
 and I think she really is one of the leaders in the field, because she
 did so much with the languages. She was really sort of early in that
 game.
@@ -2295,11 +2295,11 @@ Betsy something-or-other, and whether I could ever find Betsy’s last
 name, I don’t know. But she was a brilliant systems programmer, and she
 would give IBM no end of trouble. And I would love to go to seminars and
 wait for Betsy to ask a question\! It was going to really pull the guy
-down. \[laughs.\] And there was a guy that programmed for the Draper
+down. \laughs.\ And there was a guy that programmed for the Draper
 Laboratory at MIT, and he and Betsy would take apart anybody who came
 in. He would do it in a nice way, because he was a very quiet person;
 but she was flamboyant. And I don’t know what happened to her
-after—because she set up the 360/65 when the main computing center
+after—because she set up the 36065 when the main computing center
 couldn’t do it. And then she disappeared from sight; I don’t know what
 happened to her. She probably went on to some other place. But she was
 one of the ones I have never heard mentioned by anyone else except
@@ -2329,9 +2329,9 @@ Corbatò, yes, but everybody called him Corby.
 But you know, it was little things like—I can’t remember which one of
 these wise guys; Al Perliss, I think—they were having a meeting on NPL
 programming language that IBM was trying to develop, and he got up and
-said, “What is that—the Needless Programming Language?” \[laughter.\] It
+said, “What is that—the Needless Programming Language?” \laughter.\ It
 was funny . . . I suppose everybody liked to see people beat up on IBM\!
-\[laughs.\]
+\laughs.\
 
 ### Tension with IBM
 
@@ -2342,8 +2342,8 @@ should be done?
 
 **Campbell:**
 
-Oh yes. I mean, when—IBM was so sure they were going to get \[the
-contract for\] Multics, and then when Corby selected GE—there was a lot
+Oh yes. I mean, when—IBM was so sure they were going to get \the
+contract for\ Multics, and then when Corby selected GE—there was a lot
 of ranting and raving and so on. And the GE salesman was then hired by
 MIT. I don’t remember what he ended up running. He wasn’t an academic
 like Corby or like Bob Fano, so I never knew him as being so involved
@@ -2355,7 +2355,7 @@ the kinds of characters that turned up—there’s a man named Frank that
 got into computing at MIT very early. He ran the 650; I remember trying
 to take a course on the 650 with him, and realizing that he was out for
 power, and he was out to run the—and he did run it for a while—the big
-computing center. And he and I clashed—\[laughs\]—because the physics
+computing center. And he and I clashed—\laughs\—because the physics
 department had decided that my programming group really should have an
 office in the center. But he didn’t want me, so he assigned us an office
 space: I went down to measure it, and I thought, “This is great: if I
@@ -2372,11 +2372,11 @@ don’t remember, to run this same computing center. And I walked in, and
 I thought, “It can’t be\!” He looked identical to Frank. And they were
 all talking about it. And one of the guys said, “Go in and talk to him.
 I can’t get along with him. You didn’t do too badly with Frank; go in
-and talk to this one and see what you can do\!” \[laughs.\] He didn’t
+and talk to this one and see what you can do\!” \laughs.\ He didn’t
 last very long, either. People went in and out of the computing business
 so rapidly . . .
 
-\[phone rings; tape pauses\]
+\phone rings; tape pauses\
 
 ### Reflections on Life After Computer Programming
 
@@ -2391,7 +2391,7 @@ Oh, thanks very much.
 
 **Campbell:**
 
-\[looking through notes\] I’m trying to put something together to write
+\looking through notes\ I’m trying to put something together to write
 this memoir that I want to put together. I’ve been thinking of doing it
 as chapters and then connecting them with a little bit of narrative.
 
@@ -2416,7 +2416,7 @@ Did you publish any of that?
 
 The networking stuff I did publish, as an MIT Report. But for the life
 of me, I don’t know what I did with my copy—the last time I wanted to
-use it, I went to the MIT library and got it out. \[laughs.\] They were
+use it, I went to the MIT library and got it out. \laughs.\ They were
 published as sections of this big report that the DOE project put out.
 
 Oh, well one thing—one way I have kept up with computers since then,
@@ -2426,14 +2426,14 @@ had a group known as the Seniors’ Group, and we have now set up—they
 continue to keep going on their own, and they meet here at the Newton
 Senior Center. And they asked me to be on their board of directors,
 primarily because they thought it would be a good idea to have a woman
-on their board of directors. \[laughs.\] They had one, and she was
+on their board of directors. \laughs.\ They had one, and she was
 feeling kind of lonely, I think. Now the board of directors is at least
 50 percent women, I think. And the group is much more women than it used
 to be; it used to be all men. But it’s an interesting group of people.
 But I can’t really get myself involved the way they do: you know, these
 guys get up at 6:00 in the morning, get onto the Internet . . . I tease
 them, I say, “Well, you’ve got somebody to do your housework\!”
-\[laughs.\] But that has kept me active, too, and I like to go to the
+\laughs.\ But that has kept me active, too, and I like to go to the
 different meetings. And there’s one woman here who teaches computers
 here at the Village; but she and I are the only two that are involved in
 that group, the only two that are really into computers. There’s one man
@@ -2456,14 +2456,14 @@ said, “We sort of have to keep this academic . . .” They said, “If you
 really thought she was going to stay around . . .” but I said, “No,
 she’s here for a couple of years with her husband, so I can’t say that
 she’ll stay after he leaves.” But then you wonder what it’s like when
-they get \[back\] in the country that they’ve come out of, what it’s
+they get \back\ in the country that they’ve come out of, what it’s
 like. We had a lot of Indian women in the laboratory, but—I don’t think
-Indian women—certainly \[laughs\] the Indian women—Indian women and
+Indian women—certainly \laughs\ the Indian women—Indian women and
 Indian men were terrible when it came to computers. Because they were
 high-caste, they’d never done anything with their hands. And at that
 point, when we had the first computer we had, we did have people using
 it themselves. And they were disastrous if they got anywhere near the
-thing. \[laughs.\] But they just weren’t used to handling equipment. But
+thing. \laughs.\ But they just weren’t used to handling equipment. But
 they were into it like mad, particularly the Chinese.
 
 I volunteered in the schools, that was another thing that I did after I
@@ -2501,13 +2501,13 @@ kids, one of the best teachers; in fact he was one of the best computer
 people that I know. But he would tease me; I’d ask him a question and
 he’d say, “Didn’t they teach you that at MIT?” He was one of these—he
 worked with Seymour and another guy over there on these— Brookline
-\[school system\] was a partner on the Logo projects. So it was fun
+\school system\ was a partner on the Logo projects. So it was fun
 working over there with them.
 
 But I learned a lot about how children react with computers. I found out
 that there’s nothing more fun than six-year-olds, because they have no
 fear of the thing. The fourth graders who would come in and tell me,
-“I’m here to set up the computers for the next class\!” \[laughs\]
+“I’m here to set up the computers for the next class\!” \laughs\
 —says one little boy. And I said, “Well, you’ll have to wait till I
 finish with the computers for this class.” They were fun to work with.
 They had a lot of stuff for the children in the first to eighth grades.
@@ -2518,8 +2518,8 @@ then they had an adult education center there, which was extremely good.
 But that I am not good at: working with adults. I tried the adults for
 two semesters and decided: Go back to the kids. Because they’re easier
 and more fun. And because they are so—most of them are excited about it.
-Once in a while I would find some—this is when the AUW \[Association of
-University Women\] was talking about teachers favoring boys. And I
+Once in a while I would find some—this is when the AUW \Association of
+University Women\ was talking about teachers favoring boys. And I
 discovered that’s exactly what they were doing, and it was awfully hard
 not to do it, because the boys would say, “Come look\!” It was “Come
 see, Miss Campbell\! Come see, Miss Campbell\!” And the girls, you had
@@ -2531,7 +2531,7 @@ class one day—We only had one printer, which was terrible, because the
 kids had to line up. And this girl put it in, and it didn’t work. I had
 made a mistake; I had told her the wrong thing. So I said, “You go back
 and fix it and get back, and I’ll put you in the front of the line.”
-Well\! \[The boys said,\] “You’re doing that because she’s a girl.” And
+Well\! \The boys said,\ “You’re doing that because she’s a girl.” And
 I said, “No, I’m doing that because I made a mistake.” “Oh, I don’t
 believe that. You’re doing it because she’s a girl.” They just
 didn’t—they thought they should get the attention in the class. So
@@ -2547,67 +2547,67 @@ Well, thank you so much\! I don’t want to keep you all day.
 That’s all right. Any time . . .
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Betty_Campbell&oldid=108263>"
+"<http:/ethw.org/index.php?title=Oral-History:Betty_Campbell&oldid=108263>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Programming
-  profession](/Category:Programming_profession "Category:Programming profession")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Programming
+  profession(Category:Programming_profession "Category:Programming profession")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Betty Campbell](#About_Betty_Campbell)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Arriving at MIT's Rad Lab](#Arriving_at_MIT.27s_Rad_Lab)
-  * [4\.3 From MIT's Basic Research Group to the Joint Computing
-    Group](#From_MIT.27s_Basic_Research_Group_to_the_Joint_Computing_Group)
-  * [4\.4 Moving into Computer
-    Programming](#Moving_into_Computer_Programming)
-  * [4\.5 Moving to the Nuclear Science Lab at
-    MIT](#Moving_to_the_Nuclear_Science_Lab_at_MIT)
-  * [4\.6 Reflections on the People at
-    MIT](#Reflections_on_the_People_at_MIT)
-  * [4\.7 Facing the Challenges of Running the Computer
-    Center](#Facing_the_Challenges_of_Running_the_Computer_Center)
-  * [4\.8 Reflection on Experience as a Woman in
-    Computing](#Reflection_on_Experience_as_a_Woman_in_Computing)
-  * [4\.9 Reflections on SHARE meetings](#Reflections_on_SHARE_meetings)
-  * [4\.10 Attending Other Meetings](#Attending_Other_Meetings)
-  * [4\.11 Problems with the Personnel
-    Office](#Problems_with_the_Personnel_Office)
-  * [4\.12 Reflections on Women in
-    Computing](#Reflections_on_Women_in_Computing)
-  * [4\.13 Family Life](#Family_Life)
-  * [4\.14 Reflections on Career in
-    Computing](#Reflections_on_Career_in_Computing)
-  * [4\.15 On the Association for Women in
-    Computing](#On_the_Association_for_Women_in_Computing)
-  * [4\.16 Attending the U.S.S. Grace Hopper
-    Launch](#Attending_the_U.S.S._Grace_Hopper_Launch)
-  * [4\.17 Women in Computing in Other
-    Countries](#Women_in_Computing_in_Other_Countries)
-  * [4\.18 Other Women in Computing](#Other_Women_in_Computing)
-  * [4\.19 Tension with IBM](#Tension_with_IBM)
-  * [4\.20 Reflections on Life After Computer
-    Programming](#Reflections_on_Life_After_Computer_Programming)
+* 1 About Betty Campbell(#About_Betty_Campbell)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Arriving at MIT's Rad Lab(#Arriving_at_MIT.27s_Rad_Lab)
+  * 4\.3 From MIT's Basic Research Group to the Joint Computing
+    Group(#From_MIT.27s_Basic_Research_Group_to_the_Joint_Computing_Group)
+  * 4\.4 Moving into Computer
+    Programming(#Moving_into_Computer_Programming)
+  * 4\.5 Moving to the Nuclear Science Lab at
+    MIT(#Moving_to_the_Nuclear_Science_Lab_at_MIT)
+  * 4\.6 Reflections on the People at
+    MIT(#Reflections_on_the_People_at_MIT)
+  * 4\.7 Facing the Challenges of Running the Computer
+    Center(#Facing_the_Challenges_of_Running_the_Computer_Center)
+  * 4\.8 Reflection on Experience as a Woman in
+    Computing(#Reflection_on_Experience_as_a_Woman_in_Computing)
+  * 4\.9 Reflections on SHARE meetings(#Reflections_on_SHARE_meetings)
+  * 4\.10 Attending Other Meetings(#Attending_Other_Meetings)
+  * 4\.11 Problems with the Personnel
+    Office(#Problems_with_the_Personnel_Office)
+  * 4\.12 Reflections on Women in
+    Computing(#Reflections_on_Women_in_Computing)
+  * 4\.13 Family Life(#Family_Life)
+  * 4\.14 Reflections on Career in
+    Computing(#Reflections_on_Career_in_Computing)
+  * 4\.15 On the Association for Women in
+    Computing(#On_the_Association_for_Women_in_Computing)
+  * 4\.16 Attending the U.S.S. Grace Hopper
+    Launch(#Attending_the_U.S.S._Grace_Hopper_Launch)
+  * 4\.17 Women in Computing in Other
+    Countries(#Women_in_Computing_in_Other_Countries)
+  * 4\.18 Other Women in Computing(#Other_Women_in_Computing)
+  * 4\.19 Tension with IBM(#Tension_with_IBM)
+  * 4\.20 Reflections on Life After Computer
+    Programming(#Reflections_on_Life_After_Computer_Programming)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 
 * This page has been accessed 2,658 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

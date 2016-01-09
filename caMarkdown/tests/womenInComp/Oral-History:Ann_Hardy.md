@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Ann_Hardy&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Ann_Hardy&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Ann_Hardy)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Ann_Hardy&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Ann_Hardy "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Ann_Hardy "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Ann_Hardy&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Ann_Hardy&oldid=108226 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Ann_Hardy&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Ann_Hardy)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AAnn+Hardy)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Ann_Hardy&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Ann_Hardy&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Ann_Hardy)
+  
+  * Discussion(index.php?title=Oral-History_talk:Ann_Hardy&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Ann_Hardy "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Ann_Hardy "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Ann_Hardy&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Ann_Hardy&oldid=108226 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Ann_Hardy&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Ann_Hardy)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AAnn+Hardy)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Ann Hardy
@@ -90,7 +90,7 @@ her family and teachers in furthering her education and becoming
 involved in computing, the challenges facing women in the computing
 field from the 1950s to today, and the joys of a career in computing.
 She also describes her work on her early computer programs like
-[FORTRAN](/FORTRAN "FORTRAN") and OCTOPUS, and the growth of computer
+FORTRAN(FORTRAN "FORTRAN") and OCTOPUS, and the growth of computer
 networks.
 
 ## About the Interview
@@ -145,7 +145,7 @@ What did your parents do for a living?
 
 **Ann Hardy:**
 
-Well, my mother, of course—it was the good old days \[laughs\]—my mother
+Well, my mother, of course—it was the good old days \laughs\—my mother
 stayed home and raised children; and my father was in advertising.
 
 **Janet Abbate:**
@@ -163,7 +163,7 @@ Did any of them end up in computing?
 **Ann Hardy:**
 
 Two of my brothers work for IBM—followed me there, and then of course I
-left\! \[laughs.\] But two of them followed me to IBM. My sister is a
+left\! \laughs.\ But two of them followed me to IBM. My sister is a
 doctor, and my other brother actually is an auditor for the IRS.
 
 ### Schooling
@@ -186,7 +186,7 @@ would let me take math and science.
 **Janet Abbate:**
 
 That’s really circuitous—that Phys Ed was the route to math and
-science\! \[laughs.\]
+science\! \laughs.\
 
 **Ann Hardy:**
 
@@ -240,7 +240,7 @@ And they were co-ed?
 They were co-ed. In the public schools it wasn’t a problem, through high
 school. I didn’t run into problems until I got into college. I should
 have gone to a bigger school, where they didn’t have time to notice me\!
-\[laughs.\]
+\laughs.\
 
 **Janet Abbate:**
 
@@ -257,7 +257,7 @@ How did you end up going there?
 
 **Ann Hardy:**
 
-Well, it was a long way from home\! \[laughs.\] I was not happy in
+Well, it was a long way from home\! \laughs.\ I was not happy in
 Illinois, so I wanted to go a long way from home; so I did. I looked at
 a map and got the school that was as far away as I could get—without
 having to take a boat to get there\!
@@ -276,7 +276,7 @@ Wow\!
 
 **Ann Hardy:**
 
-\[laughs.\] This was a different world\!
+\laughs.\ This was a different world\!
 
 **Janet Abbate:**
 
@@ -296,10 +296,10 @@ Well, after I graduated: as I said, I would like to have been a doctor,
 but of course my mother was appalled at the thought of having a doctor.
 She got over this later, as my sister came along and the others; but
 with me, the thought of having a daughter who worked was just
-unbelievable\! \[laughs.\] You know, a total embarrassment\! So, when I
+unbelievable\! \laughs.\ You know, a total embarrassment\! So, when I
 graduated I went to New York and thought I might be a physical
 therapist, and I took a semester of physical therapy, which followed
-along in my interests in \[science\]. The first semester there certainly
+along in my interests in \science\. The first semester there certainly
 is a lot of science—chemistry and anatomy and physiology—and it was
 very, very interesting. However, one of the classes was a class on
 medical etiquette, and one of the things you have to learn if you’re
@@ -308,7 +308,7 @@ that the doctor is always right—even if you know he’s wrong\! And going
 through all these classes, we were studying with the med students, and
 it was perfectly clear to me I knew more than a whole bunch of the med
 students, so I didn’t think I was going to like taking orders from these
-guys. So I decided not to go ahead with physical therapy\! \[laughs.\]
+guys. So I decided not to go ahead with physical therapy\! \laughs.\
 
 **Janet Abbate:**
 
@@ -337,24 +337,24 @@ support me, so I went and looked for a job. I had a friend who was
 working at IBM. He was an Engineer at IBM, and he said, “Why don’t you
 try applying for a programming job?” Well, just to give you some idea of
 how ignorant I was: I’d never heard of IBM; I’d never heard of
-computers\! \[laughs.\] I knew nothing about anything\! He gave me a
+computers\! \laughs.\ I knew nothing about anything\! He gave me a
 crash course on who IBM was and what a computer was and what a
 programmer was, and he said, “Go call on them at World Headquarters,”
 which was down on Madison Avenue. So I just went in and said, “I’m
-applying for a job\!” \[laughs.\] It’s the sort of thing where if I’d
+applying for a job\!” \laughs.\ It’s the sort of thing where if I’d
 known anything, I never would have done it, but I was so naive that it
 seemed like the right thing to do.
 
 I went in and applied for the job, and I was having this great interview
 with the Personnel woman—having a good time—until she asked me what my
-major was\! \[laughs.\] We really were having a good time; we were
+major was\! \laughs.\ We really were having a good time; we were
 talking about a lot of things, and things were going really well. She
 was so taken aback by the fact that I was a Phys Ed major that she
 didn’t know quite how to handle it, so I quickly jumped in and said,
 “But I’ve got several years of math and chemistry, and I think could
 take your test anyway, even if I was a Phys Ed major.” So she said,
 “Okay, well, we’ll let you take our test.” At that point in time IBM
-had just aptitude tests to see if you \[might be qualified\]. There were
+had just aptitude tests to see if you \might be qualified\. There were
 hardly any programmers, so they had nothing much to base anything on;
 one couldn’t study computer science in school.
 
@@ -368,7 +368,7 @@ simple programming-like problems.
 
 These things were so simple. Mostly, I think, they were simple math, and
 the ones that really mattered were the “complete the series”
-\[problems\]. You know, those math things: “What’s the next number”;
+\problems\. You know, those math things: “What’s the next number”;
 “What word follows?—those kinds of things. Because that’s what you do,
 if you’re programming. You have to figure out what would logically come
 next.
@@ -389,13 +389,13 @@ down on the corner of Madison Avenue and fifty-seventh or fifty-ninth;
 there still is an IBM Building there, I think, or there was fairly
 recently. It was on the corner, and it had glass windows, and they had
 their computer in there, so that everybody could look at the computer,
-and they had it all set up so people could come walk \[by\]. The next
-thing IBM did \[after hiring us\] was give us six weeks of training on
+and they had it all set up so people could come walk \by\. The next
+thing IBM did \after hiring us\ was give us six weeks of training on
 “What’s a computer?” (It turned out I wasn’t the only person who
 didn’t know this when I started\!) There was a class of twenty and
 about two or three women, but the women always got to work on the
 computer in the window, because they wanted to make it look simple\!
-\[laughs.\] And they told us that. “It’s important for IBM sales that it
+\laughs.\ And they told us that. “It’s important for IBM sales that it
 looks easy to use a computer, so the women always work in the window if
 they have anything to do, because the men will think it’s easy if they
 see women working there.”
@@ -411,8 +411,8 @@ It was just much more pleasant than working up in the back office. So
 there were a few advantages. On the other hand, when we got to the end
 of the class, it turned out that they took the top three people and
 offered them positions in sales—because that’s where, of course, you
-could get the most money and where you can go up the \[corporate
-ladder\]. Then they took me aside and said, “Except that women can’t be
+could get the most money and where you can go up the \corporate
+ladder\. Then they took me aside and said, “Except that women can’t be
 in sales; so you can be a System Service Girl, or you can go into
 programming.”
 
@@ -433,7 +433,7 @@ actual System Service Girls.
 
 **Ann Hardy:**
 
-Yes: it’s just like S.E.s \[system engineers\] now; it was the same job.
+Yes: it’s just like S.E.s \system engineers\ now; it was the same job.
 
 **Janet Abbate:**
 
@@ -457,8 +457,8 @@ So anyway, I decided to go into programming, which looked like it had
 more opportunity. I had a great time. I worked for a while down in New
 York; and then I went to IBM Research, which was up in Poughkeepsie; and
 then moved to Ossining; and then I went from Research into the Stretch
-Project. That’s where you found me \[on a contact list for the Stretch
-reunion\].
+Project. That’s where you found me \on a contact list for the Stretch
+reunion\.
 
 **Janet Abbate:**
 
@@ -470,7 +470,7 @@ this is really cool,” or was it strange?
 **Ann Hardy:**
 
 I thought it was fun\! I mean, when you’re young, everything looks like
-fun, right? \[laughs.\]
+fun, right? \laughs.\
 
 **Janet Abbate:**
 
@@ -483,7 +483,7 @@ me to do. So I thought it was fun; I thought it was amazing\! And
 everybody was fascinated that I knew anything about a computer, because
 anybody else had barely heard of them. They were just fun. It was easy
 to do. Programs were simple; you ran the whole computer; there were no
-operating systems or other things to impede your progress\! \[laughs.\]
+operating systems or other things to impede your progress\! \laughs.\
 
 **Janet Abbate:**
 
@@ -497,7 +497,7 @@ worked on.
 **Janet Abbate:**
 
 And this was in some kind of assembler? What were they using at that
-point? This was pre-[FORTRAN](/FORTRAN "FORTRAN"), right?
+point? This was pre-FORTRAN(FORTRAN "FORTRAN"), right?
 
 **Ann Hardy:**
 
@@ -515,10 +515,10 @@ What did you think of that?
 **Ann Hardy:**
 
 Well, of course, once you’ve been in assembler on the machine, you don’t
-want to \[switch to a high-level language\]. I had some resistance to
+want to \switch to a high-level language\. I had some resistance to
 getting higher up and losing all that control. But on the other hand, it
 sure does make it easier to write simple applications. So it depended on
-which end of it I was on\! \[laughs.\]
+which end of it I was on\! \laughs.\
 
 **Janet Abbate:**
 
@@ -540,7 +540,7 @@ What kind of stuff were you doing for them, before Stretch?
 **Ann Hardy:**
 
 Before I got onto the Stretch Project? In Research, one of the things we
-were worrying about—well, this was back in the good old days \[laughs\]:
+were worrying about—well, this was back in the good old days \laughs\:
 we needed to minimize the number of switches in hardware, because every
 component was separate and expensive. So I was working for one of the
 Research guys and did the software to optimize circuit design, so that
@@ -576,7 +576,7 @@ That was the follow-up?
 **Ann Hardy:**
 
 It was sort of a peripheral, which was larger than Stretch. It was for
-NSA \[the National Security Agency\], and it did pattern matching.
+NSA \the National Security Agency\, and it did pattern matching.
 
 **Janet Abbate:**
 
@@ -611,8 +611,8 @@ That was the last project I did at IBM. I left IBM, and then I had no
 idea what I was doing\! I thought it would be a good idea, since I had
 been a Phys Ed major, to go back to school for a little while and see
 what else was out there. I went to Berkeley for a year. One of the first
-Stretch machines to ship went to Livermore, which was close \[to
-Berkeley\], and of course I was one of the few people in California who
+Stretch machines to ship went to Livermore, which was close \to
+Berkeley\, and of course I was one of the few people in California who
 actually knew how to program a Stretch, so it was fairly easy to get a
 job; and I really liked it out here, so I left IBM and went to Livermore
 and worked on their Stretch.
@@ -663,7 +663,7 @@ Which way the wind is blowing, and so forth?
 **Ann Hardy:**
 
 Which way the wind is blowing, and what all the air currents are, and a
-lot \[of factors\].
+lot \of factors\.
 
 **Janet Abbate:**
 
@@ -708,7 +708,7 @@ I don’t know that one.
 
 **Ann Hardy:**
 
-Well, I can point you at somebody \[who worked on it\], who’s a man.
+Well, I can point you at somebody \who worked on it\, who’s a man.
 Were there any women working on this? Barbara and I; Barb Schell was at
 the Lab with me.
 
@@ -748,7 +748,7 @@ having time-sharing systems, where you could really work all the time
 and work from anywhere.
 
 I was married at the time, and my husband got a job over here on this
-side of \[the Bay\], working for IBM over here.
+side of \the Bay\, working for IBM over here.
 
 **Janet Abbate:**
 
@@ -756,7 +756,7 @@ side of \[the Bay\], working for IBM over here.
 
 **Ann Hardy:**
 
-Where were they? Menlo \[Park\], I think.
+Where were they? Menlo \Park\, I think.
 
 So I looked around for: What can I do over here, and stop commuting? And
 it turned out there was this little blurb in Datamation one week about
@@ -767,7 +767,7 @@ needed; but after I talked to them, it was clear to me they needed
 somebody to write their operating system, because they didn’t know what
 they were doing. So I called them back and said, “You know, what you
 really want to do is hire me to write your operating system.” And so
-they did\! \[laughs.\] Because there weren’t very many people who knew
+they did\! \laughs.\ Because there weren’t very many people who knew
 what a time-sharing operating system was, in those days.
 
 So that’s how I got the job. So I wrote their operating system, and that
@@ -782,11 +782,11 @@ small. So that wasn’t very useful commercially, but at least it was
 something to start with: an idea and an architecture to start with.
 
 SDS built 940s, and we bought one and had them add some disk, and we got
-Vermont \[Research\] drums from way back East, when they came out. That
+Vermont \Research\ drums from way back East, when they came out. That
 was our swapping device: a drum. We put together an operating system and
 managed to get it from one, maybe two users up to about forty. Given the
 size of the machine, I can’t imagine how we did that anymore\!
-\[laughs.\] I had a great time. That was fun.
+\laughs.\ I had a great time. That was fun.
 
 ### Tymnet Networks
 
@@ -814,12 +814,12 @@ Paris? How did that happen?
 
 Well, they happened to sell one to the French\! So from almost the
 beginning, we had a computer in Paris. We had a leased line over there
-to begin with, but that was just \[temporary\]. My biggest mistake was,
+to begin with, but that was just \temporary\. My biggest mistake was,
 I figured out how to debug it from here, instead of having to go to
-Paris\! \[laughs.\] You know, that was supposed to be the whole point of
+Paris\! \laughs.\ You know, that was supposed to be the whole point of
 time-sharing systems, so I demonstrated that they worked; but that was
 really a big error on my part. It would have been great to have a month
-or two in Paris\! \[laughs.\] But it came up and ran, anyway.
+or two in Paris\! \laughs.\ But it came up and ran, anyway.
 
 So, we obviously had computers all spread out. It was clear we couldn’t
 expand very much. I mean, the idea had originally been “put a computer
@@ -902,7 +902,7 @@ operating systems.
 
 Yes, it certainly had a big effect on the operating system; we had to
 rewrite all the communications. But I’d written the operating system the
-first time, so it wasn’t a big deal\! \[laughs\]
+first time, so it wasn’t a big deal\! \laughs\
 
 **Janet Abbate:**
 
@@ -949,9 +949,9 @@ like online bill-paying, online banking, online airline reservations:
 all kinds of things that people think today are brand new, we were doing
 in the late seventies. Online medical, automating hospitals. Lots of
 stuff that today people think is new, we were doing in the seventies.
-So, it’s fun. Addressing some of these things \[today\], I understand
-all the \[issues that will come up\]. People think, “My gosh, she
-predicts the future\!” \[laughs.\] I’ve already been there\!
+So, it’s fun. Addressing some of these things \today\, I understand
+all the \issues that will come up\. People think, “My gosh, she
+predicts the future\!” \laughs.\ I’ve already been there\!
 
 **Janet Abbate:**
 
@@ -1072,7 +1072,7 @@ really quite good-sized. But at that time there weren’t a lot of women
 in the business. Tymshare had more women than most companies, but still,
 there weren’t a lot. A lot of women told me they came to Tymshare
 because Tymshare was the only company they had ever looked at where
-there was a woman VP\! \[laughs.\] They wanted to go to a company where
+there was a woman VP\! \laughs.\ They wanted to go to a company where
 they could see that there was some opportunity for women.
 
 **Janet Abbate:**
@@ -1091,8 +1091,8 @@ Because you were in at the beginning.
 
 Right; because I was in at the beginning. That was interesting: I was
 always a senior manager or VP. I was a VP there for ten or twelve years,
-half the time \[I worked there\]. It did influence \[female job
-candidates\]. It did make it easier for women to come to the company; it
+half the time \I worked there\. It did influence \[female job
+candidates\. It did make it easier for women to come to the company; it
 did make them more interested in coming to the company.
 
 **Janet Abbate:**
@@ -1101,7 +1101,7 @@ And were they able to advance?
 
 **Ann Hardy:**
 
-Yes. \[But\] there were no other women VP’s, and we were into the
+Yes. \But\ there were no other women VP’s, and we were into the
 mid-seventies, at least, before Tymshare allowed women into sales;
 mid-to-late seventies.
 
@@ -1116,8 +1116,8 @@ IBM, and the same thing was true at Tymshare. It was mid-to-late
 seventies before the VP of Sales was willing to hire women. You know,
 Congress passes some law, and then ten years later they begin enforcing
 it—they don’t begin to enforce it; they begin to act like they might
-enforce it someday \[laughs\]—so \[companies\] begin to look around
-\[and think\] maybe they should hire a woman or two. Audrey was one of
+enforce it someday \laughs\—so \[companies\] begin to look around
+\and think\ maybe they should hire a woman or two. Audrey was one of
 those: Audrey McLean. I gave you her number.
 
 **Janet Abbate:**
@@ -1141,7 +1141,7 @@ Operations Room, distracting all the men\!” I had this argument with the
 guy who ran Operations all the time. I said, “You’re always inviting me
 in there to debug your computers, so what’s the difference if there’s
 another woman in there?” And he said “Ah, well, you’re not like a
-woman\!” \[laughs.\] “Well, thanks a lot\!” \[laughs.\] But I was the
+woman\!” \laughs.\ “Well, thanks a lot\!” \[laughs.\] But I was the
 only woman in the Operations for years.
 
 **Janet Abbate:**
@@ -1151,7 +1151,7 @@ Was that because it had a more blue-collar feel or something?
 **Ann Hardy:**
 
 Macho. And of course, I wasn’t an operator; I was a developer; so they
-could get away with pretending I wasn’t really there\! \[laughs.\] It
+could get away with pretending I wasn’t really there\! \laughs.\ It
 was a long time—it was mid-seventies—before they let women in.
 
 **Janet Abbate:**
@@ -1189,8 +1189,8 @@ And that was to spare his masculine feelings?
 
 **Ann Hardy:**
 
-That’s right. He didn’t care\! He would have been happy \[to have me get
-paid more\].
+That’s right. He didn’t care\! He would have been happy \to have me get
+paid more\.
 
 **Janet Abbate:**
 
@@ -1198,11 +1198,11 @@ Right\!
 
 **Ann Hardy:**
 
-Right. But that was before \[the equal pay laws were passed\]. People
+Right. But that was before \the equal pay laws were passed\. People
 say, “What are these laws for? We don’t need the laws. Everybody gets
 treated fairly.” It’s just not true. Until the laws were passed, these
 are the kinds of things that happened, and we would go back to that
-\[snaps finger\] in a minute if they repealed all these laws. It’s just
+\snaps finger\ in a minute if they repealed all these laws. It’s just
 too easy not to—I mean, why pay people if you can get away without
 paying them?
 
@@ -1271,7 +1271,7 @@ fifty dollars a month.” I knew I couldn’t live on fifty dollars a month,
 but she said, “You have no skills. You don’t even know how to type.” It
 wasn’t entirely true. I had never taken a typing class, so that was
 true, and I didn’t know how many words a minute I typed or anything like
-that, but \[I could type\]. So she said, “You have no skills; fifty a
+that, but \I could type\. So she said, “You have no skills; fifty a
 month is the max that you possibly can make.” Then, of course, I got
 this job as a programmer, and I was making more than two thousand a
 year—two or three thousand a year—at IBM.
@@ -1285,7 +1285,7 @@ You were rich\!
 I was rich. Compared to what I had been expecting, it was a lot of
 money, because she had told me that nobody makes that kind of money.
 Then she was very suspicious about what kind of a job it was, when she
-found out how much money it was\! \[laughs.\]
+found out how much money it was\! \laughs.\
 
 **Janet Abbate:**
 
@@ -1294,7 +1294,7 @@ What did she think you were doing?
 **Ann Hardy:**
 
 Well, that’s what she thought I was doing\! And she called my mother to
-report\! \[laughs.\] Because she’d never heard of a woman making
+report\! \laughs.\ Because she’d never heard of a woman making
 anywhere near that much money. So I hadn’t felt so bad about my salary,
 until I realized how much less it was than everybody else’s\!
 
@@ -1324,7 +1324,7 @@ How did you balance work and family?
 **Ann Hardy:**
 
 I don’t know. I don’t think it seemed so hard at the time. In
-retrospect, I’m not entirely sure\! \[laughs\]
+retrospect, I’m not entirely sure\! \laughs\
 
 **Janet Abbate:**
 
@@ -1336,7 +1336,7 @@ I had a full-time baby-sitter who was there five days a week. She came
 early in the morning and stayed all day; took care of the kids; and she
 was great. She was English, and she was like the typical English nanny,
 and she was fabulous\! So she raised the kids, and my kids grew up with
-an English accent\! \[laughs.\] But as I said, it didn’t seem so hard at
+an English accent\! \laughs.\ But as I said, it didn’t seem so hard at
 the time. I’m not sure why, in retrospect, but it worked out fine.
 
 **Janet Abbate:**
@@ -1359,7 +1359,7 @@ Ah\!
 
 **Ann Hardy:**
 
-Sounds familiar? \[laughs.\] So I got to do all these all these initial
+Sounds familiar? \laughs.\ So I got to do all these all these initial
 hackers. I got to deal with hackers from early on.
 
 **Janet Abbate:**
@@ -1396,7 +1396,7 @@ worry a lot about it. They were willing to be flexible and have me work
 at home, but it just wasn’t very practical. It wasn’t very practical—in
 those days at least, with the kinds of things we were doing—not to be at
 work in the office, with the other people, doing the planning. You know,
-they’d go off and plan something dumb if you’re not there\! \[laughs.\]
+they’d go off and plan something dumb if you’re not there\! \laughs.\
 
 ### Management Responsibilities
 
@@ -1432,11 +1432,11 @@ Interesting\!
 
 It was\! The skills you need to keep people working together just seem
 to come. I don’t know if pregnancy changes your chemistry or something\!
-\[laughs.\]
+\laughs.\
 
 **Janet Abbate:**
 
-Or if employees are really like two-year-olds? \[laughs.\]
+Or if employees are really like two-year-olds? \laughs.\
 
 **Ann Hardy:**
 
@@ -1519,8 +1519,8 @@ business is really like. So I think it’s harder to get in, because the
 girls get sorted out while they’re still in school.
 
 So it’s very hard to hire women. Most of the time I’ve been here, we
-haven’t been able to bring in any of the relatively \[experienced
-women\]. We try to bring in people with three to five years’ experience.
+haven’t been able to bring in any of the relatively \experienced
+women\. We try to bring in people with three to five years’ experience.
 
 **Janet Abbate:**
 
@@ -1528,7 +1528,7 @@ This is still Tymshare you’re talking about, or is this Agorics now?
 
 **Ann Hardy:**
 
-This is at Agorics. And we just never find any \[women\].
+This is at Agorics. And we just never find any \women\.
 
 **Janet Abbate:**
 
@@ -1536,7 +1536,7 @@ And a woman with a Phys Ed degree would probably not have an easy time\!
 
 **Ann Hardy:**
 
-\[laughs.\] Right\! It would be really hard to get in with a Phys Ed
+\laughs.\ Right\! It would be really hard to get in with a Phys Ed
 degree these days. It would be hard to get in, although that would be a
 mistake. It’s just a shame. It’s a shame that women are not really
 informed about what it’s really like to work in this field, because it’s
@@ -1550,7 +1550,7 @@ for the human interfaces on computers are pretty awful, and they’re
 awful because the only people they let in to work on these designs are
 these guys who are these nerdy types\! Now, I have a little hard time
 saying too much about that, because of course that was me back when I
-was writing the operating system\! \[laughs.\] I don’t even want to work
+was writing the operating system\! \laughs.\ I don’t even want to work
 in FORTRAN; I like my hands on the hardware. So I was just the same; I
 understand how they feel; I’m very sympathetic with, “Why should I talk
 to people?” I understand that attitude very well, and how pleasant it is
@@ -1586,7 +1586,7 @@ this—because of course river guides don’t earn a fortune, and of
 course they don’t work in the winter—she got a job doing customer
 service for a PC company, where they gave her a lot of training. Of
 course, the kids know a lot about computers. I mean, what could they do?
-\[laughs.\] It wasn’t their fault\!
+\laughs.\ It wasn’t their fault\!
 
 **Janet Abbate:**
 
@@ -1597,7 +1597,7 @@ Well, they grew up with it in the house\! That was pretty rare.
 That’s right\! My kids were putting together Apple IIs when they were in
 grade school, so they do understand them. We were a funny household,
 because by that time my husband and I were divorced, so we had a
-household with three girls and four or five computers\! \[laughs.\]
+household with three girls and four or five computers\! \laughs.\
 Because everybody had their own, and then of course I always had extras
 for this or that. But it never showed up in the statistical charts.
 “Women households and their computers.” You know, they had “How many
@@ -1605,7 +1605,7 @@ computers are in households run by men?” but we never showed up.
 
 Anyway, she knew enough, so she’s done a lot of work supporting herself
 getting jobs in the field; and at this point she’s doing all of our QA
-and testing \[at Agorics\]—which she could go do anywhere at this point.
+and testing \at Agorics\—which she could go do anywhere at this point.
 So, yes: it’s a great field\! She just got into it because her mother
 was into it; but the opportunity for women . . . She works all winter,
 and we’ve hired QA consultants in the past who did the same thing:
@@ -1629,7 +1629,7 @@ She’s not making ends meet with computers?
 
 Well, she’s very good with computers, very facile; but she’s trying to
 avoid having everybody in the family work on computers. Fine: somebody
-has to not work on computers\! \[laughs.\] She’s trying to be our last
+has to not work on computers\! \laughs.\ She’s trying to be our last
 holdout.
 
 **Janet Abbate:**
@@ -1689,7 +1689,7 @@ He was the head?
 
 He was the head. You know, McDonnell aircraft.
 
-Anyway, we had at that time developed \[some marketable software\]. We
+Anyway, we had at that time developed \some marketable software\. We
 were doing all these transaction-processing applications with multiple
 companies who didn’t want to share their proprietary data but wanted to
 use the same databases. You know, like airline reservations: American
@@ -1705,7 +1705,7 @@ that to us and let us go off and start KeyLogic and try to sell
 that—which worked really well for several years, because time-sharing
 was in at that time, and other companies with mainframe computers that
 they wanted to be able to use in that kind of environment saw the value
-of this; bank processing \[for example\]. It was just incredible. Things
+of this; bank processing \for example\. It was just incredible. Things
 went really well for a few years, but then it was the late eighties and
 everybody suddenly thought everything was going to be on PCs, and all
 these big companies shut down all their mainframe divisions and went to
@@ -1724,7 +1724,7 @@ But how do you do transactions?
 
 **Ann Hardy:**
 
-Well, they forgot to think about that\! \[laughs.\]
+Well, they forgot to think about that\! \laughs.\
 
 **Janet Abbate:**
 
@@ -1734,8 +1734,8 @@ needed networks.
 **Ann Hardy:**
 
 I know. They just didn’t think about what was going to happen next. You
-know how the market goes. Like the last two years \[which saw the
-high-tech bubble burst\]: the market gets on some wave, and then
+know how the market goes. Like the last two years \which saw the
+high-tech bubble burst\: the market gets on some wave, and then
 management gets on the wave, and they don’t really think about all the
 practical things that are going to happen next. So they all got on this
 wave of “No more networks; no more sharing. Everybody’s got their own
@@ -1743,7 +1743,7 @@ and will do their own processing.”
 
 When the market went away, we pretty much sold off some of the assets
 and closed that down, because that was just not..., When the market’s
-bad, it’s better to go on vacation\! \[laughs.\]
+bad, it’s better to go on vacation\! \laughs.\
 
 ### Travels Abroad
 
@@ -1755,7 +1755,7 @@ This is the early nineties?
 
 This is the early nineties. So I went on vacation for a couple years. I
 did some consulting, and I spent a lot of time in Mexico and had a
-wonderful time. I can’t wait to go back\! \[laughs\]
+wonderful time. I can’t wait to go back\! \laughs\
 
 **Janet Abbate:**
 
@@ -1814,7 +1814,7 @@ Even in England?
 No, no, even in England. I can’t think of ever—I’m sure it must have
 happened, but I can’t ever remember being in a meeting where I wasn’t
 the only woman. It stopped ever even making me think about it, because I
-had gone for so many years without \[meeting other women\]. At Tymshare
+had gone for so many years without \meeting other women\. At Tymshare
 there were no other women in senior management, so at all the managers’
 meetings: nothing. There were never women. There just never were women
 in anything we did. We did a big project with American Express in the
@@ -1837,7 +1837,7 @@ What kind of company was that?
 Italcable. It was their big communications company\! It was their
 international communications business—all of Italy’s international
 communications business—and it never occurred to them that they would
-have a woman in a meeting\! \[laughs.\]
+have a woman in a meeting\! \laughs.\
 
 **Janet Abbate:**
 
@@ -1852,7 +1852,7 @@ many of those. Not as many as I would have liked.
 **Janet Abbate:**
 
 These were technical? Because didn’t they have professional associations
-or \[user groups like\] SHARE, or anything like that?
+or \user groups like\ SHARE, or anything like that?
 
 **Ann Hardy:**
 
@@ -1874,8 +1874,8 @@ some consulting with them when I wasn’t in Mexico vacationing. They were
 all available, and there was a great contract with Sun that we could
 get, if we were only a business; so I came back and started the
 business, because they were just fun to work with. It was a fun
-contract, and so we just got it \[Agorics\] started, and it’s been going
-ever since. It’s cutting into my vacation\! \[both laugh.\]
+contract, and so we just got it \Agorics\ started, and it’s been going
+ever since. It’s cutting into my vacation\! \both laugh.\
 
 **Janet Abbate:**
 
@@ -1898,8 +1898,8 @@ I have a couple of questions, like: What are you going to do with this?
 
 **Janet Abbate:**
 
-Ah, right. Well, there are two components: One is \[that I’m going to
-write a book, and the other is that\] the interviews themselves are
+Ah, right. Well, there are two components: One is \that I’m going to
+write a book, and the other is that\ the interviews themselves are
 going to be archived. I have some money from NSF to do that, and that is
 what they’re particularly interested in: I think they’re hoping that
 it’ll encourage more women to go into the field if they can see all
@@ -1965,10 +1965,10 @@ Right. See, one of the problems is that the men who go into computing:
 it’s not that there aren’t a lot of men with those skills, but men with
 those kinds of skills go into sales—because there’s so much more money
 in sales; because they’re the guys who are going to go for the top;
-they’re the guys who get the big deals; so they don’t go into \[the
-technical side\]. Now, it would be nice if the women could go into
-sales, too; but there is so much opportunity for \[this type of person
-on the technical side as well\]. I think the men with personalities, and
+they’re the guys who get the big deals; so they don’t go into \the
+technical side\. Now, it would be nice if the women could go into
+sales, too; but there is so much opportunity for \this type of person
+on the technical side as well\. I think the men with personalities, and
 most of the women, get weeded out of computer science at such an early
 age.
 
@@ -1980,7 +1980,7 @@ meeting; and I’d get around with the guys afterwards and say, “Okay,
 what did they say?” And they didn’t hear half the conversation\! I’d
 say, “Well, don’t you remember he said this? He did. Do you know what
 that means?” “No.” “Well, what if it meant this?” “Oh\! I’ll bet it
-does\!” \[laughs.\] It’s just communication. The guys in this field are
+does\!” \laughs.\ It’s just communication. The guys in this field are
 very, very good—and I love working with them, or I wouldn’t have started
 Agorics—but they’ve been talking to computers since they were ten, not
 to other people\!
@@ -2115,7 +2115,7 @@ but most of the history is about “Who invented this hunk of iron?”
 
 That’s right. Most of the histories are.
 
-It’s fun to be involved in the history, \[but\] the guys who press are
+It’s fun to be involved in the history, \but\ the guys who press are
 the guys who go down in history. If you were there, you know who did the
 work; but if the people who did the work are not out there pushing to
 get their name in, somebody else does. I don’t know how you solve that
@@ -2127,7 +2127,7 @@ You have to start by asking.
 
 **Ann Hardy:**
 
-You have to start by asking\! \[both laugh.\] That’s right.
+You have to start by asking\! \both laugh.\ That’s right.
 
 **Janet Abbate:**
 
@@ -2267,7 +2267,7 @@ Of course, there’s a happy ending . . .
 
 **Ann Hardy:**
 
-All ‘50s movies had happy endings\! \[laughs.\]
+All ‘50s movies had happy endings\! \laughs.\
 
 **Janet Abbate:**
 
@@ -2364,7 +2364,7 @@ in research; you could be doing system service . . .
 **Ann Hardy:**
 
 I think IBM—in spite of the fact that they didn’t pay me very well\!
-\[laughs\] —I think they have done a good job. They’ve done a better job
+\laughs\ —I think they have done a good job. They’ve done a better job
 than most companies.
 
 Now, you interviewed Fran, so you know how long it took her to become an
@@ -2415,7 +2415,7 @@ manager was so easy and so fun, and you get to do so many different
 things, and you get to leverage all these smart programmers who can
 produce things. So you get all these things that you always wanted to
 see done and couldn’t, one at a time, do them yourself. Every day is
-fun\! What a great job\! \[laughs.\] And it’s interesting, because it’s
+fun\! What a great job\! \laughs.\ And it’s interesting, because it’s
 always new. A lot of people work in labs that are just sort of the same
 thing over and over and over, same thing day in, day out; they run
 offices; but here I get to decide. For years I got to decide, or at
@@ -2457,8 +2457,8 @@ specialties?
 I don’t know, since I have had so few women to work with. There were
 women at Tymshare, but then I was running the division, so they did
 everything. When I was working at Tymshare and had a big division,
-hundreds \[of people\], then women came into my division who wanted to
-do everything, because they wouldn’t get any flack from me\! \[laughs.\]
+hundreds \of people\, then women came into my division who wanted to
+do everything, because they wouldn’t get any flack from me\! \laughs.\
 So I’ve seen women do everything; and I don’t know, honestly, if women
 tend to migrate toward one kind of thing or another. That’s an
 interesting question, but I don’t know.
@@ -2481,10 +2481,10 @@ Is that something about you, or about the opportunities at the time?
 **Ann Hardy:**
 
 I think it’s about the opportunities. I had no plans. I wasn’t supposed
-to work. I keep telling you, my mother didn’t like this\! \[laughs.\] So
+to work. I keep telling you, my mother didn’t like this\! \laughs.\ So
 I couldn’t plan very far ahead, because if I thought about it, then
 somebody would figure it out and try to put some roadblock in my way\!
-\[laughs.\]
+\laughs.\
 
 **Janet Abbate:**
 
@@ -2512,7 +2512,7 @@ That’s interesting.
 
 And startups are fun, because you can pick your own friends. And it’s
 especially fun to run a startup, because then you can pick the whole
-company\! \[laughs.\] You only have to work with people that you really
+company\! \laughs.\ You only have to work with people that you really
 like\! It is fun. I’ve just had a lot of good people, a lot of people
 that are great to work with.
 
@@ -2557,7 +2557,7 @@ That’s great.
 
 **Ann Hardy:**
 
-And I loved having kids, and I don’t see \[a conflict\]. Certainly in my
+And I loved having kids, and I don’t see \a conflict\. Certainly in my
 day, when I was doing it, it wasn’t . . . You can’t have everything: you
 can’t be VP while your children are under five, so you can’t do
 everything at once; but there’s obviously plenty of time to do things
@@ -2594,10 +2594,10 @@ treated me well.
 
 Well, thank you so much for talking to me\!
 
-\[END OF INTERVIEW PROPER\]
+\END OF INTERVIEW PROPER\
 
-  \[This recording also captured a follow-on conversation about Tymnet,
-the Internet, and network security.\]
+  \This recording also captured a follow-on conversation about Tymnet,
+the Internet, and network security.\
 
 ### Differences between Tymnet and ARPANET
 
@@ -2670,7 +2670,7 @@ whole thing had been thought about from an economic point of view.
 
 So, I just wondered if any of those issues ever come up, and if people
 every wonder about, “How do you evolve the Internet into something
-\[more cost-effective?\]” Maybe nobody sees it, but it looked to me like
+\more cost-effective?\” Maybe nobody sees it, but it looked to me like
 a big advantage that Tymnet had, that it was built on a real economic
 model instead of just on infinite funding.
 
@@ -2768,7 +2768,7 @@ Yes, I think so. That’s interesting.
 
 **Janet Abbate:**
 
-It was just kind of brute force, in some ways. DOD said, “TCP/IP: we’re
+It was just kind of brute force, in some ways. DOD said, “TCPIP: we’re
 going to make everyone use this.”
 
 **Ann Hardy:**
@@ -2790,8 +2790,8 @@ It’s good, in a way, that somebody set a standard.
 
 **Ann Hardy:**
 
-It just would have been a good idea \[to consider other options\]. And
-maybe TCP/IP is the best, except that it’s got some weaknesses in it. I
+It just would have been a good idea \to consider other options\. And
+maybe TCPIP is the best, except that it’s got some weaknesses in it. I
 don’t know if at the time it was better, but it would have been good to
 look at a protocol that covered . . .
 
@@ -2799,7 +2799,7 @@ look at a protocol that covered . . .
 
 **Janet Abbate:**
 
-You may have had more security, and that’s one weakness of TCP/IP.
+You may have had more security, and that’s one weakness of TCPIP.
 
 **Ann Hardy:**
 
@@ -2820,7 +2820,7 @@ But that’s not what networks are all about.
 “We’ll just have some NSA network that’s just not connected to anything
 else.” I mean, there’s stuff I don’t even know about, because it’s
 secret. For all I know they have a hundred other networks that nobody
-knows about\! \[laughs.\]
+knows about\! \laughs.\
 
 **Ann Hardy:**
 
@@ -2947,7 +2947,7 @@ companies would want to invest in security.
 **Ann Hardy:**
 
 But the company itself doesn’t pay. Some insurance company pays, and
-most of \[the stolen credit cards\] aren’t used, and it’s all covered.
+most of \the stolen credit cards\ aren’t used, and it’s all covered.
 The loss on credit cards every year is huge, but they’re still
 profitable, so why does anybody care? As long as the consumer is willing
 to pay enough to cover the losses, it’s just not very important.
@@ -2967,7 +2967,7 @@ was security, there would be a lot more of what we used to call
 over the Internet. Lots of things aren’t happening that could, because
 of the lack of security. Companies realize they can’t afford to put
 stuff out there, and don’t seem to realize that a small increment in
-cost \[to pay for security\] would save them a lot of money over time.
+cost \to pay for security\ would save them a lot of money over time.
 Hopefully, things will change and evolve, but I don’t think security is
 a very big. We do a lot of it, but there are very few people, still,
 that are really willing to pay for just security.
@@ -2988,7 +2988,7 @@ And that’s part of what not having it built in, I think, does.
 
 **Ann Hardy:**
 
-Right. There’s nothing that the consumer \[can do\].
+Right. There’s nothing that the consumer \can do\.
 
 **Janet Abbate:**
 
@@ -3014,7 +3014,7 @@ It’s probably more secure than that, because it’s probably not going
 actually through somebody’s hands. So at least somebody has to dig
 around to find your credit card number if it’s all automated, whereas if
 you call up over the phone and you’re talking to somebody and you give
-them \[the number, they have it\].
+them \the number, they have it\.
 
 **Janet Abbate:**
 
@@ -3031,87 +3031,87 @@ encrypted.
 Right. Which is more than you can say for the phone call.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Ann_Hardy&oldid=108226>"
+"<http:/ethw.org/index.php?title=Oral-History:Ann_Hardy&oldid=108226>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Profession](/Category:Profession "Category:Profession")
-* [Business](/Category:Business "Category:Business")
-* [Management](/Category:Management "Category:Management")
-* [Communications](/Category:Communications "Category:Communications")
-* [Communication
-  networks](/Category:Communication_networks "Category:Communication networks")
-* [Communication
-  systems](/Category:Communication_systems "Category:Communication systems")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Computer
-  applications](/Category:Computer_applications "Category:Computer applications")
-* [Computer
-  networks](/Category:Computer_networks "Category:Computer networks")
-* [Software & software
-  engineering](/Category:Software_%26_software_engineering "Category:Software & software engineering")
-* [Software
-  architecture](/Category:Software_architecture "Category:Software architecture")
+* Profession(Category:Profession "Category:Profession")
+* Business(Category:Business "Category:Business")
+* Management(Category:Management "Category:Management")
+* Communications(Category:Communications "Category:Communications")
+* Communication
+  networks(Category:Communication_networks "Category:Communication networks")
+* Communication
+  systems(Category:Communication_systems "Category:Communication systems")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Computer
+  applications(Category:Computer_applications "Category:Computer applications")
+* Computer
+  networks(Category:Computer_networks "Category:Computer networks")
+* Software & software
+  engineering(Category:Software_%26_software_engineering "Category:Software & software engineering")
+* Software
+  architecture(Category:Software_architecture "Category:Software architecture")
 
 ## Contents
 
-* [1 About Ann Hardy](#About_Ann_Hardy)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family Background](#Family_Background)
-  * [4\.2 Schooling](#Schooling)
-  * [4\.3 Starting At IBM](#Starting_At_IBM)
-  * [4\.4 The Stretch Project at IBM and
-    Livermore](#The_Stretch_Project_at_IBM_and_Livermore)
-  * [4\.5 At Tymshare](#At_Tymshare)
-  * [4\.6 Tymnet Networks](#Tymnet_Networks)
-  * [4\.7 Projects at Tymshare](#Projects_at_Tymshare)
-  * [4\.8 Gender Issues at Tymshare](#Gender_Issues_at_Tymshare)
-  * [4\.9 Compensation Disparities](#Compensation_Disparities)
-  * [4\.10 Work and Family Balance](#Work_and_Family_Balance)
-  * [4\.11 Management Responsibilities](#Management_Responsibilities)
-  * [4\.12 Women in Computing](#Women_in_Computing)
-  * [4\.13 Her Children and Their Relationship to
-    Computers](#Her_Children_and_Their_Relationship_to_Computers)
-  * [4\.14 Starting Her Own Company](#Starting_Her_Own_Company)
-  * [4\.15 Travels Abroad](#Travels_Abroad)
-  * [4\.16 Starting Agorics](#Starting_Agorics)
-  * [4\.17 Role Models](#Role_Models)
-  * [4\.18 Benefits of Women in
-    Computing](#Benefits_of_Women_in_Computing)
-  * [4\.19 Goals of the Interview for Computing
-    History](#Goals_of_the_Interview_for_Computing_History)
-  * [4\.20 Earlier Barriers to Women in
-    Computing](#Earlier_Barriers_to_Women_in_Computing)
-  * [4\.21 The Movie *Desk Set*](#The_Movie_Desk_Set)
-  * [4\.22 IBM's "My Fair Ladies"
-    Brochure](#IBM.27s_.22My_Fair_Ladies.22_Brochure)
-  * [4\.23 Women at IBM](#Women_at_IBM)
-  * [4\.24 Advantages of a Job in
-    Computing](#Advantages_of_a_Job_in_Computing)
-  * [4\.25 Changes in the Computer
-    Industry](#Changes_in_the_Computer_Industry)
-  * [4\.26 Involvement in Startups](#Involvement_in_Startups)
-  * [4\.27 Advice for Women Going into
-    Computing](#Advice_for_Women_Going_into_Computing)
-  * [4\.28 Differences between Tymnet and
-    ARPANET](#Differences_between_Tymnet_and_ARPANET)
-  * [4\.29 Tymnet and ARPANET
-    Connections](#Tymnet_and_ARPANET_Connections)
-  * [4\.30 Network Security](#Network_Security)
+* 1 About Ann Hardy(#About_Ann_Hardy)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family Background(#Family_Background)
+  * 4\.2 Schooling(#Schooling)
+  * 4\.3 Starting At IBM(#Starting_At_IBM)
+  * 4\.4 The Stretch Project at IBM and
+    Livermore(#The_Stretch_Project_at_IBM_and_Livermore)
+  * 4\.5 At Tymshare(#At_Tymshare)
+  * 4\.6 Tymnet Networks(#Tymnet_Networks)
+  * 4\.7 Projects at Tymshare(#Projects_at_Tymshare)
+  * 4\.8 Gender Issues at Tymshare(#Gender_Issues_at_Tymshare)
+  * 4\.9 Compensation Disparities(#Compensation_Disparities)
+  * 4\.10 Work and Family Balance(#Work_and_Family_Balance)
+  * 4\.11 Management Responsibilities(#Management_Responsibilities)
+  * 4\.12 Women in Computing(#Women_in_Computing)
+  * 4\.13 Her Children and Their Relationship to
+    Computers(#Her_Children_and_Their_Relationship_to_Computers)
+  * 4\.14 Starting Her Own Company(#Starting_Her_Own_Company)
+  * 4\.15 Travels Abroad(#Travels_Abroad)
+  * 4\.16 Starting Agorics(#Starting_Agorics)
+  * 4\.17 Role Models(#Role_Models)
+  * 4\.18 Benefits of Women in
+    Computing(#Benefits_of_Women_in_Computing)
+  * 4\.19 Goals of the Interview for Computing
+    History(#Goals_of_the_Interview_for_Computing_History)
+  * 4\.20 Earlier Barriers to Women in
+    Computing(#Earlier_Barriers_to_Women_in_Computing)
+  * 4\.21 The Movie *Desk Set*(#The_Movie_Desk_Set)
+  * 4\.22 IBM's "My Fair Ladies"
+    Brochure(#IBM.27s_.22My_Fair_Ladies.22_Brochure)
+  * 4\.23 Women at IBM(#Women_at_IBM)
+  * 4\.24 Advantages of a Job in
+    Computing(#Advantages_of_a_Job_in_Computing)
+  * 4\.25 Changes in the Computer
+    Industry(#Changes_in_the_Computer_Industry)
+  * 4\.26 Involvement in Startups(#Involvement_in_Startups)
+  * 4\.27 Advice for Women Going into
+    Computing(#Advice_for_Women_Going_into_Computing)
+  * 4\.28 Differences between Tymnet and
+    ARPANET(#Differences_between_Tymnet_and_ARPANET)
+  * 4\.29 Tymnet and ARPANET
+    Connections(#Tymnet_and_ARPANET_Connections)
+  * 4\.30 Network Security(#Network_Security)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:41\.
 
 * This page has been accessed 3,925 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

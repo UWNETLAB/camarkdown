@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Jean_Bacon&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Jean_Bacon&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Jean_Bacon)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Jean_Bacon&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Jean_Bacon "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Jean_Bacon "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Jean_Bacon&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Jean_Bacon&oldid=118936 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Jean_Bacon&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Jean_Bacon)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Bacon)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Jean_Bacon&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Jean_Bacon&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Jean_Bacon)
+  
+  * Discussion(index.php?title=Oral-History_talk:Jean_Bacon&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Jean_Bacon "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Jean_Bacon "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Jean_Bacon&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Jean_Bacon&oldid=118936 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Jean_Bacon&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Jean_Bacon)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Bacon)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Jean Bacon
@@ -147,7 +147,7 @@ DATE: 10 April 2001\
 PLACE: Bacon's office at the University of Cambridge, Cambridge, United
 Kingdom
 
-\[Notes courtesy of interviewer Janet Abbate\]
+\Notes courtesy of interviewer Janet Abbate\
 
 ### Background and Education
 
@@ -305,7 +305,7 @@ At what point did you first use a computer?
 
 **Bacon:**
 
-It was very briefly, during a vacation job \[either\] the year before I
+It was very briefly, during a vacation job \either\ the year before I
 went up to university or the first year at university. It was in a place
 called Cyber House, which is a research center associated with United
 Steels in Sheffield. Somebody called Stafford Beer was there and he was
@@ -402,7 +402,7 @@ scientific civil service grades.
 **Abbate:**
 
 What was the difference between Scientific and Experimental
-\[Officers\]?
+\Officers\?
 
 **Bacon:**
 
@@ -425,7 +425,7 @@ delay lines rotated, you could pick up the next instruction from
 wherever the current read place was, so if you programmed very
 carefully, you could make the program run faster by making the next
 instruction just in the right place for where you were currently
-reading. It was a skill that was relevant at the time\! \[laughs.\] It
+reading. It was a skill that was relevant at the time\! \laughs.\ It
 soon became obsolete, of course.
 
 **Abbate:**
@@ -464,7 +464,7 @@ So you would be doing some mathematical function . . . ?
 Some mathematical—solving some mathematical equations, yes; linear
 algebra or something like that. I think it was more like linear
 equations than differential equations, if I remember rightly; but I
-don’t really remember\! \[laughs.\]
+don’t really remember\! \laughs.\
 
 **Abbate:**
 
@@ -504,7 +504,7 @@ It’s the Post Office research center.
 
 **Abbate:**
 
-Oh, right, right\! They did the Bletchley Park\[1\] stuff, isn’t that
+Oh, right, right\! They did the Bletchley Park\1\ stuff, isn’t that
 true?
 
 ### Working at the GEC Hirst Research Centre
@@ -513,7 +513,7 @@ true?
 
 Yes, that’s right. I mean, he couldn’t really say what he was doing,
 because he was in that sort of area. I think he still can’t really say
-what he did\! \[laughter\] Yes, so he went into that area, and so I was
+what he did\! \laughter\ Yes, so he went into that area, and so I was
 looking for a job in the same geographic area. So the next thing I did
 was GEC Hirst Research Centre at Wembley, close to Dollis Hill.
 
@@ -574,7 +574,7 @@ Now, what they did was hire time on the London University Atlas
 computer, which was a very famous computer; so we used to travel up to
 Gordon Square and put our card jobs over the counter and sit there until
 they were run, and then get the results back. So that was the way.
-\[laughs\] Very slow turnaround time\!
+\laughs\ Very slow turnaround time\!
 
 **Abbate:**
 
@@ -621,7 +621,7 @@ Did you get to use any of your physics?
 
 **Bacon:**
 
-Physics\! \[laughs.\] I’ve forgotten all that\! I’d not done it since
+Physics\! \laughs.\ I’ve forgotten all that\! I’d not done it since
 A-level. But yes, it was electrical, electromagnetism, and I kind of
 dredged it up again. We’re thinking how electrical induction, at one
 part of the aerial, induces current in another part; and so the physics
@@ -645,9 +645,9 @@ Where were they based, the company?
 
 North Wembley? GEC probably had commercial outlets all over the country
 making whatever communications equipment, but this was their research
-center: North Wembley—I think it was demolished recently. \[laughs\] But
-GEC did a lot of—[\[Arnold\]
-Weinstock](/Arnold_Weinstock "Arnold Weinstock") was the head of GEC,
+center: North Wembley—I think it was demolished recently. \laughs\ But
+GEC did a lot of—\[Arnold\
+Weinstock(Arnold_Weinstock "Arnold Weinstock") was the head of GEC,
 and he was very commercially orientated, and was buying companies and
 merging a lot, so it became GEC-Marconi. But I don’t know what happened
 afterwards.
@@ -698,7 +698,7 @@ it was one-day turnaround time. If the van went early, you missed your
 program run for the day.
 
 Okay, so then—Hatfield is now a huge computer science department;
-\[back\] then—I can’t remember the exact numbers, but it must have grown
+\back\ then—I can’t remember the exact numbers, but it must have grown
 from about 15 to about 30 when I was there.
 
 **Abbate:**
@@ -785,7 +785,7 @@ microprocessors then came in, and we then bought 68000s; and I wrote a
 book on the 68000 for educational use, showing how to use it, how to
 program it, how little programs are written; that’s Prentice-Hall. And
 it’s still—I still get a few royalties, though I’m sure it went out of
-print by now\! \[laughter\]
+print by now\! \laughter\
 
 **Abbate:**
 
@@ -805,7 +805,7 @@ what students should be learning?
 Well, I was very interested at that time in operating systems. I mean,
 it was numerical analysis from the early days, and when I did the M.Sc.,
 operating systems and how they work were the thing that I became really
-involved in. I was interested in \[the\] hardware-software boundary—so,
+involved in. I was interested in \the\ hardware-software boundary—so,
 the operating system’s driving the hardware—and teaching that. So, very
 much how you have the software drive the hardware. That was the kind of
 area that I was interested in.
@@ -856,7 +856,7 @@ Ph.D. in that way\!
 
 **Abbate:**
 
-That was clever\! \[laughter.\]
+That was clever\! \laughter.\
 
 **Bacon:**
 
@@ -892,8 +892,8 @@ Yes, there were. A woman taught me operating systems. She’d done a
 course at Manchester. She was maybe working—I don’t think she ever did
 do a Ph.D., but she must have worked quite close to the hardware, and
 she may have done a research job or something at Manchester before she
-came to Hatfield. She knew about the [MU-5 operating
-system](/The_University_of_Manchester_MU5_Computer_System "The University of Manchester MU5 Computer System"),
+came to Hatfield. She knew about the MU-5 operating
+system(The_University_of_Manchester_MU5_Computer_System "The University of Manchester MU5 Computer System"),
 or its predecessor—I can’t quite remember, but certainly she was
 obviously up in her subject, so that appealed to me. And it was probably
 why I got into operating systems, because there was someone who’d
@@ -927,7 +927,7 @@ something like that. But . . .we were not asking for A-level maths, so
 it was an area where people could come in from a broad background, and
 they didn’t have to have wonderful maths, and we’d teach the maths that
 they needed. It, being a polytechnic, of course didn’t have so much
-theory as we have here \[at Cambridge\], so that the theory they did
+theory as we have here \at Cambridge\, so that the theory they did
 need to do we could teach them on the spot anyway, if they didn’t have
 it.
 
@@ -937,7 +937,7 @@ it.
 
 But yes, it was a good course, and it went modular very early, so I had
 that experience of designing a modular degree—which we do not do here\!
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -996,7 +996,7 @@ Interesting.
 It’s very unusual\! When I get asked for transcripts for people to go
 and do American Ph.D.s, it’s very difficult. You just have to say, “No,
 nothing’s compulsory. No, they can do anything they like from this
-list\!” \[laughs\]
+list\!” \laughs\
 
 ### Coming to Cambridge
 
@@ -1008,7 +1008,7 @@ You came here from Hatfield . . . you came to here at Cambridge . . .
 
 I came here in ‘85, yes. Roger Needham was head of department, and he
 said I was the first woman who applied—and so they’d appointed every
-woman who’d ever applied here\! \[laughs\]
+woman who’d ever applied here\! \laughs\
 
 **Abbate:**
 
@@ -1034,8 +1034,8 @@ Was that your initiative to come here?
 
 **Bacon:**
 
-Yes. I got the Ph.D., and obviously Cambridge and [Xerox
-PARC](/Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")
+Yes. I got the Ph.D., and obviously Cambridge and Xerox
+PARC(Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")
 were world centers in the area I was working in. I’d also got a Research
 Council grant towards the end of the time I was at Hatfield, and that
 was very much in an area the lab here were real experts in and many
@@ -1043,7 +1043,7 @@ people were working in.
 
 And I . . . It was just by chance I opened the *Guardian* one day and
 saw an advertisement for a lecturer, and just applied for it, and it was
-just an absolute fluke, really\! I don’t know why. \[laughs\] And then I
+just an absolute fluke, really\! I don’t know why. \laughs\ And then I
 thought I’d better apply for somewhere else, as a comparison, and just
 to see how things were elsewhere; so I was offered University College
 London and Cambridge, more or less at the same time, so I decided to
@@ -1060,7 +1060,7 @@ Probably. It was and still is. I think distributed computing was taking
 off. They’d gotten the Cambridge Distributed System here, which was very
 early. So we had the Cambridge Ring—we got linked Cambridge Rings—and
 for all through the ‘80s it was used as the main research environment
-here. Gradually, things like [UNIX](/UNIX "UNIX") and Ethernet came in,
+here. Gradually, things like UNIX(UNIX "UNIX") and Ethernet came in,
 but when I first came, we were at the end of the Cambridge Ring–based
 systems.
 
@@ -1103,7 +1103,7 @@ So he was living with your husband . . .
 He stayed with my husband, because he was at school there, and his
 friends were there, so it seemed the most sensible thing to do, for him
 to stay there. He’s living with me at the moment. He’s now 25\!
-\[laughter.\] He’s just changed his job and come to work in the
+\laughter.\ He’s just changed his job and come to work in the
 Cambridge area, so he moved back in at the end of January.
 
 **Abbate:**
@@ -1128,7 +1128,7 @@ Yes. He’d got good science and maths at A-level; he did maths, physics,
 and history, and he’d got As in the maths, physics, and history, so he
 was able to pick up those things that he’d dropped three years earlier
 and do the conversion course. I mean, quite often you can’t really do
-them without some science/maths background. So he did very well, and
+them without some sciencemaths background. So he did very well, and
 then got a job in computing.
 
 **Abbate:**
@@ -1159,7 +1159,7 @@ Research grants. First of all in an operating system called Mayflower
 for distributed computing, so it was OS, and distributed OS, and
 communication between OS, and it involved a remote procedure-call
 system, and . . . You can think of it as a predecessor to things like
-CORBA\[2\], the object-oriented middleware: sort of remote procedure
+CORBA\2\, the object-oriented middleware: sort of remote procedure
 call, remote objects, invocation. So that went on for a while.
 
 My . . . . The person whose job I took was Andrew Herbert, and he’d sort
@@ -1211,7 +1211,7 @@ interfaces public, or private and trusted? How do you prove you are who
 you say you are?”—and all of those sort of things. So it’s really system
 design, and how the components of systems interact.
 
-So, that was that\! What did we go on to after that? \[Looks at CV\]
+So, that was that\! What did we go on to after that? \Looks at CV\
 It’s all in here, I’m sure, these research grants.
 
 **Abbate:**
@@ -1223,7 +1223,7 @@ Did you spend a lot of time writing grants?
 Oh, yes\! It takes forever to write grant proposals\! I’ve spent a lot
 of time doing that.
 
-Yes, so storage services: \[I\] got involved with Pandora multimedia
+Yes, so storage services: \I\ got involved with Pandora multimedia
 workstation a little—storage service hierarchy—then, a platform for
 Interactive Multimedia Presentation . . . and . . . yes, multimedia;
 that’s right, the IMP grant. This led on to— It was imagining that
@@ -1261,11 +1261,11 @@ members and it goes to all of them.
 
 **Abbate:**
 
-I get it \[the magazine\].
+I get it \the magazine\.
 
 **Bacon:**
 
-You get it\! \[laughs\] They’re good at copy-editing at that level. The
+You get it\! \laughs\ They’re good at copy-editing at that level. The
 reviewers are wonderful for *Computer*, really very good. It’s a
 magazine, but the reviewers were better than I’ve had for a lot of
 conferences\! And so, you get this very easy to understand and
@@ -1294,7 +1294,7 @@ students at Hatfield.
 **Abbate:**
 
 You were doing some networking research, and I see you’re on the Open
-Systems \[committee\].\[3\]
+Systems \committee\.\[3\]
 
 **Bacon:**
 
@@ -1312,7 +1312,7 @@ Standard Committee for network management. Operating systems are very
 much management, in that they’re managing devices and managing
 resources, but this was much—when I got to it, I found it was rather
 more high-level sort of—the network management module is sort of
-monitoring the network, and for com\[munication\]s rather than for
+monitoring the network, and for com\munication\s rather than for
 operating systems. So it’s one aspect of what I did, but not at all a
 central thing—but it was fun to see how standards worked and to . . . I
 went to one ISO meeting, in Paris, and then I—that was just before I
@@ -1467,7 +1467,7 @@ prototype . . .?
 
 Yes.
 
-\[START TAPE 1, SIDE 2\]
+\START TAPE 1, SIDE 2\
 
 **Abbate:**
 
@@ -1493,7 +1493,7 @@ but new releases of the operating systems wouldn’t keep up with this, or
 at least what our support were able to give us, the computer officers
 maintaining the systems. So, things kind of rust if they’re in a
 university environment, rather than if they’re in a product environment,
-\[where\] there are huge numbers of people keeping them up to date with
+\where\ there are huge numbers of people keeping them up to date with
 new releases of the operating systems they run on, and things like this.
 So it’s a very different area, if you’re doing prototype, just
 proof-of-concept software. We have put—what did we put on the Web?—we’ve
@@ -1621,7 +1621,7 @@ The IEEE’s?
 **Bacon:**
 
 The IEEE’s, yes. So if you go to the top page of the Computer Society’s
-\[web site\], you can see it there; then you get to the top page of
+\web site\, you can see it there; then you get to the top page of
 *Distributed Systems Online*. And it’s trying to be a sort of
 information service, with a lot of subareas with experts—we have about,
 I suppose, 35 volunteers from the different areas in distributed
@@ -1647,17 +1647,17 @@ So it’s kind of a distributed system itself.
 
 **Bacon:**
 
-Yes. So yes, I work very closely with Los Alamitos \[IEEE Computer
-Society\]—from five o’clock onwards, and . . .
+Yes. So yes, I work very closely with Los Alamitos \IEEE Computer
+Society\—from five o’clock onwards, and . . .
 
-\[Displays web site on her computer.\] Okay, so this is the current
-issue \[volume 2, number 3\].
+\Displays web site on her computer.\ Okay, so this is the current
+issue \volume 2, number 3\.
 
 **Abbate:**
 
 We’re looking at this web page . . .
 
-Do you have to be a member of the \[society to access the web page\]?
+Do you have to be a member of the \society to access the web page\?
 
 **Bacon:**
 
@@ -1666,7 +1666,7 @@ But they’re rather—They seem reluctant to use mailing lists—email
 lists—to push it to people. They just sit there with it advertised on
 the page, and hope you find it.
 
-\[Going through web page.\] So, all of these areas are just selected . .
+\Going through web page.\ So, all of these areas are just selected . .
 . We’re in distributed systems, so this is real time and embedded,
 conferences, journals, books, technical committees, contacting the
 editors . . .
@@ -1796,7 +1796,7 @@ qualified.
 
 Yes. Well, it is used for that as well. You . . . you could just study,
 I suppose, if somebody would teach you, for the BCS exams. But it is
-also \[for\] if you’ve gone to somewhere whose course is not accredited.
+also \for\ if you’ve gone to somewhere whose course is not accredited.
 If you want to be a professional member. But, I mean, in this day and
 age, when there’s such a demand for computing people, it’s not obvious
 that the professional qualification is demanded by employers—so I’m not
@@ -2021,7 +2021,7 @@ directing studies, admitting students, and arranging supervisions. And
 the colleges are finding it increasingly difficult to find anybody who
 will do this work, because it is sort of virtually unpaid. It’s supposed
 to be for the honor of being a Fellow of a college, and you’re paid a
-small amount \[laughs\]—but really very, very little.
+small amount \laughs\—but really very, very little.
 
 So over the next decade it will be interesting to see how Cambridge
 evolves, really. And, I mean one hopes that the management—the Vice
@@ -2138,7 +2138,7 @@ is it too late by the time they’re here?
 
 **Bacon:**
 
-Yes, I have—we have tried to do this. As \[Karen Sparck-Jones\] may have
+Yes, I have—we have tried to do this. As \Karen Sparck-Jones\ may have
 said, we’ve had conferences of woman teachers, and—to hope that they’d
 go back to the schools and encourage their girls to apply.
 
@@ -2183,7 +2183,7 @@ no established chair in computer science.
 
 **Abbate:**
 
-And that’s the university who chooses where those \[established chairs\]
+And that’s the university who chooses where those \established chairs\
 go?
 
 **Bacon:**
@@ -2197,7 +2197,7 @@ So when I came to Cambridge in 1985, I really came for the honor,
 because it was a good research place, and I took something like a
 thousand pounds a year cut in salary to come from Hatfield polytechnic
 to Cambridge University, to the top of the Lecturer’s scale\! At that
-time \[there were no Senior Lectureships\]—Senior Lectureships have only
+time \there were no Senior Lectureships\—Senior Lectureships have only
 just started last year, and Readerships and chairs were extremely hard
 to get. They’re trying to liberalize gradually, but it’s just been
 extremely difficult. And I think in this area, they don’t understand the
@@ -2257,7 +2257,7 @@ science, and that’s it\! You know, whereas for some other subjects,
 there is the director of studies, say, for a small number of students
 like classics, but there are a senior tutor, and a couple of professors,
 and a couple of emeritus professors are still around, making a community
-in classics—and this has not happened yet \[in computer science\],
+in classics—and this has not happened yet \in computer science\,
 because the subject’s new—so it’s difficult.
 
 **Abbate:**
@@ -2267,7 +2267,7 @@ The people might not stay around.
 **Bacon:**
 
 Oh yes. There’s so much demand for good people in computing, it’s
-difficult to keep them. Particularly for no pay\! \[laughter.\] Housing
+difficult to keep them. Particularly for no pay\! \laughter.\ Housing
 in Cambridge is now—it’s an area where it is just appallingly expensive,
 and the young university Lecturers can’t afford houses, because of all
 the startups. We’re in a sort of Silicon Fen. Yes
@@ -2280,7 +2280,7 @@ Like Stanford.
 
 Yes. Well, it’s like the whole of Silicon Valley, I think. Yes. I have
 an ex-Ph.D. student who’s telecommuting. She works now for Cisco,
-\[but\] she’s still living where she lived near New York—when she worked
+\but\ she’s still living where she lived near New York—when she worked
 for Telcordia, that was Bellcore—but she’s working remotely for Cisco,
 rather than trying to move west, because she knows she couldn’t afford
 to\!
@@ -2291,7 +2291,7 @@ to\!
 
 **Bacon:**
 
-“Don’t do it\!” That’s right\! \[laughs.\]
+“Don’t do it\!” That’s right\! \laughs.\
 
 **Abbate:**
 
@@ -2363,7 +2363,7 @@ was only just starting, and it’s unusual. The university here doesn’t
 have very many facilities. There is a university nursery that people can
 pay to take their children to, but I don’t think it’s very big. I don’t
 really know much about it, because I moved, and got too old to be
-interested. \[laughs.\]
+interested. \laughs.\
 
 ### On Mentoring
 
@@ -2377,8 +2377,8 @@ No women.
 
 I got to know James Wilkinson at NPL very well, and he was a sort of
 academic father figure, because I didn’t have any academic influence at
-all in my family. So he was definitely one. And he worked, with [Alan
-Turing](/Alan_Turing "Alan Turing"), on the pilot ACE—so he was one of
+all in my family. So he was definitely one. And he worked, with Alan
+Turing(Alan_Turing "Alan Turing"), on the pilot ACE—so he was one of
 that team. There were a lot of people still over from that time, when I
 went to NPL. Yes, so you know, the fact he’d been at Cambridge, and did
 extremely well in the Maths Tripos, then went and did this—that was
@@ -2406,8 +2406,8 @@ the research moving. There’s so much to do that you can’t get it moving
 very fast—there are so many college things, teaching things. So, yes:
 working as part of the research group here has been very satisfying.
 
-But I wouldn’t admit it\! \[laughs.\] Wouldn’t admit it to anyone who’s
-not paying me\! \[laughter.\]
+But I wouldn’t admit it\! \laughs.\ Wouldn’t admit it to anyone who’s
+not paying me\! \laughter.\
 
 **Abbate:**
 
@@ -2422,7 +2422,7 @@ write their big pieces of software, which take a long time, but the
 enjoyable part is the brain-to-brain sitting in a room, working things
 out and, you know, “How do we think about this?” That’s the essence of
 it, really. And it’s one thing you can keep passing on, to some extent,
-\[and\] hope it’s useful for them, in that all the technical stuff
+\and\ hope it’s useful for them, in that all the technical stuff
 becomes obsolete very quickly, but the sort of experience of system
 architecture, building systems, all these sort of things, stay relevant.
 So we’re now moving to mobile systems, and it’s entirely new, but at
@@ -2465,7 +2465,7 @@ You’re not going to set up the buses, or something?
 
 **Bacon:**
 
-Well, you know, we could do \[that\]. We’re waiting to see what— They’re
+Well, you know, we could do \that\. We’re waiting to see what— They’re
 going to radio-network Cambridge, Vodaphone; they’re putting a network
 in in due course. So I think when that comes online, we’ll see what kind
 of mobile technology plus network technology will be around, and at that
@@ -2487,7 +2487,7 @@ How would you say computing has changed since you started?
 
 **Bacon:**
 
-Just in every way, hasn’t it? \[laugh.\] In every single way you can
+Just in every way, hasn’t it? \laugh.\ In every single way you can
 think of\! The scale—I mean, it’s technology-driven—and the scale has
 just been amazing.
 
@@ -2518,7 +2518,7 @@ Obviously, the Web’s made a huge difference, as an interface.
 I think it’s the ubiquitous computing that has changed a lot, and over
 the years it . . . First of all it was a specialism for only the
 academics in that area; and then maybe the other academics had computers
-and began to feel they knew what computer science was\! \[laughs\] And
+and began to feel they knew what computer science was\! \laughs\ And
 so, if you go to college at the moment, you still have people asking you
 about Microsoft Word or some such thing, and I don’t use it, so they
 think, “You can’t be a computer scientist\! You don’t know what
@@ -2581,7 +2581,7 @@ license system, centralized again, in Swansea; social services, and
 immigration: all these things, all single systems in one place, and they
 can’t get it right\! And it’s behind schedule, and it costs millions
 more than it’s supposed to. And yet, the public perception is that,
-\[because\] we all use computers; politicians, people in general would
+\because\ we all use computers; politicians, people in general would
 think, “Yes\! Of course you can transmit electronic health records
 around the country. Of course you can. You know, build it\!” And, so
 there’s a big mismatch in what can be done, and what people perceive
@@ -2685,76 +2685,76 @@ War; the Post Office supplied equipment for its code-breaking computers.
 the international standards body.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Jean_Bacon&oldid=118936>"
+"<http:/ethw.org/index.php?title=Oral-History:Jean_Bacon&oldid=118936>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Computer
-  applications](/Category:Computer_applications "Category:Computer applications")
-* [Computer
-  science](/Category:Computer_science "Category:Computer science")
-* [Distributed
-  computing](/Category:Distributed_computing "Category:Distributed computing")
-* [Computer science
-  education](/Category:Computer_science_education "Category:Computer science education")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Computer
+  applications(Category:Computer_applications "Category:Computer applications")
+* Computer
+  science(Category:Computer_science "Category:Computer science")
+* Distributed
+  computing(Category:Distributed_computing "Category:Distributed computing")
+* Computer science
+  education(Category:Computer_science_education "Category:Computer science education")
 
 ## Contents
 
-* [1 About Jean Bacon](#About_Jean_Bacon)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Using a Computer for the First
-    Time](#Using_a_Computer_for_the_First_Time)
-  * [4\.3 Working at the National Physical
-    Laboratory](#Working_at_the_National_Physical_Laboratory)
-  * [4\.4 Working at the GEC Hirst Research
-    Centre](#Working_at_the_GEC_Hirst_Research_Centre)
-  * [4\.5 Lecturing at Watford and
-    Hatfield](#Lecturing_at_Watford_and_Hatfield)
-  * [4\.6 Getting a Ph.D.](#Getting_a_Ph.D.)
-  * [4\.7 On Women at Hatfield](#On_Women_at_Hatfield)
-  * [4\.8 Comparing Programs at Hatfield and
-    Cambridge](#Comparing_Programs_at_Hatfield_and_Cambridge)
-  * [4\.9 Coming to Cambridge](#Coming_to_Cambridge)
-  * [4\.10 Procuring Research Grants](#Procuring_Research_Grants)
-  * [4\.11 Working on Standards](#Working_on_Standards)
-  * [4\.12 On the Commercial Applications of
-    Research](#On_the_Commercial_Applications_of_Research)
-  * [4\.13 On the International Distributed Systems Community: Editing
+* 1 About Jean Bacon(#About_Jean_Bacon)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Using a Computer for the First
+    Time(#Using_a_Computer_for_the_First_Time)
+  * 4\.3 Working at the National Physical
+    Laboratory(#Working_at_the_National_Physical_Laboratory)
+  * 4\.4 Working at the GEC Hirst Research
+    Centre(#Working_at_the_GEC_Hirst_Research_Centre)
+  * 4\.5 Lecturing at Watford and
+    Hatfield(#Lecturing_at_Watford_and_Hatfield)
+  * 4\.6 Getting a Ph.D.(#Getting_a_Ph.D.)
+  * 4\.7 On Women at Hatfield(#On_Women_at_Hatfield)
+  * 4\.8 Comparing Programs at Hatfield and
+    Cambridge(#Comparing_Programs_at_Hatfield_and_Cambridge)
+  * 4\.9 Coming to Cambridge(#Coming_to_Cambridge)
+  * 4\.10 Procuring Research Grants(#Procuring_Research_Grants)
+  * 4\.11 Working on Standards(#Working_on_Standards)
+  * 4\.12 On the Commercial Applications of
+    Research(#On_the_Commercial_Applications_of_Research)
+  * 4\.13 On the International Distributed Systems Community: Editing
     IEEE
-    Magazines](#On_the_International_Distributed_Systems_Community:_Editing_IEEE_Magazines)
-  * [4\.14 On Computer Science
-    Education](#On_Computer_Science_Education)
-  * [4\.15 On Computer Science at
-    Cambridge](#On_Computer_Science_at_Cambridge)
-  * [4\.16 Working with Women Computer Science
-    Students](#Working_with_Women_Computer_Science_Students)
-  * [4\.17 The Downside of Being an Academic Computer
-    Scientist](#The_Downside_of_Being_an_Academic_Computer_Scientist)
-  * [4\.18 Balancing Work and Family](#Balancing_Work_and_Family)
-  * [4\.19 On Mentoring](#On_Mentoring)
-  * [4\.20 The Upside of Being an Academic Computer
-    Scientist](#The_Upside_of_Being_an_Academic_Computer_Scientist)
-  * [4\.21 On Changes in Computing: The Growing Expectations of the
-    Public](#On_Changes_in_Computing:_The_Growing_Expectations_of_the_Public)
-  * [4\.22 On the Status of Women in
-    Computing](#On_the_Status_of_Women_in_Computing)
-  * [4\.23 Notes](#Notes)
+    Magazines(#On_the_International_Distributed_Systems_Community:_Editing_IEEE_Magazines)
+  * 4\.14 On Computer Science
+    Education(#On_Computer_Science_Education)
+  * 4\.15 On Computer Science at
+    Cambridge(#On_Computer_Science_at_Cambridge)
+  * 4\.16 Working with Women Computer Science
+    Students(#Working_with_Women_Computer_Science_Students)
+  * 4\.17 The Downside of Being an Academic Computer
+    Scientist(#The_Downside_of_Being_an_Academic_Computer_Scientist)
+  * 4\.18 Balancing Work and Family(#Balancing_Work_and_Family)
+  * 4\.19 On Mentoring(#On_Mentoring)
+  * 4\.20 The Upside of Being an Academic Computer
+    Scientist(#The_Upside_of_Being_an_Academic_Computer_Scientist)
+  * 4\.21 On Changes in Computing: The Growing Expectations of the
+    Public(#On_Changes_in_Computing:_The_Growing_Expectations_of_the_Public)
+  * 4\.22 On the Status of Women in
+    Computing(#On_the_Status_of_Women_in_Computing)
+  * 4\.23 Notes(#Notes)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 2 July 2015, at 09:52\.
 
 * This page has been accessed 4,320 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

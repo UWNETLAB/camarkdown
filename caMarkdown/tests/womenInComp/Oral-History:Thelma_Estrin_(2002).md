@@ -1,89 +1,89 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Thelma_Estrin_\(2002\))
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Thelma_Estrin_\(2002\)&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Thelma_Estrin_\(2002\) "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Thelma_Estrin_\(2002\) "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Thelma_Estrin_\(2002\)&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Thelma_Estrin_\(2002\)&oldid=117667 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=info)
-  
-  * [Browse
-    properties](/Special:Browse/Oral-2DHistory:Thelma_Estrin_\(2002\))
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AThelma+Estrin+%282002%29)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Thelma_Estrin_\(2002\))
+  
+  * Discussion(index.php?title=Oral-History_talk:Thelma_Estrin_\(2002\)&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Thelma_Estrin_\(2002\) "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Thelma_Estrin_\(2002\) "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&oldid=117667 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Thelma_Estrin_\(2002\)&action=info)
+  
+  * Browse
+    properties(Special:Browse/Oral-2DHistory:Thelma_Estrin_\(2002\))
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AThelma+Estrin+%282002%29)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Thelma Estrin (2002\)
 
 ## About Thelma Estrin
 
-[Thelma Estrin](/Thelma_Estrin "Thelma Estrin") was born in 1924 and was
+Thelma Estrin(Thelma_Estrin "Thelma Estrin") was born in 1924 and was
 raised in New York, New York. Mathematically oriented throughout her
 childhood, she pursued an academic course at Abraham Lincoln High
 School. She started to study business administration at City College of
-New York in 1941\. There she met [Gerald “Jerry”
-Estrin](/Gerald_Estrin "Gerald Estrin"), whom she married later that
+New York in 1941\. There she met Gerald “Jerry”
+Estrin(Gerald_Estrin "Gerald Estrin"), whom she married later that
 year. When he entered the Army the following year, she took a
 three-month course at the Stevens Institute of Technology. She then
 began working at Radio Receptor Company, where she developed an interest
@@ -93,7 +93,7 @@ University of Wisconsin at the end of World War II. She earned a B.S.,
 M.S. and Ph.D. in 1948, 1949 and 1951, respectively.
 
 In the early 1950s, they moved to Princeton, New Jersey, where Jerry
-joined [John von Neumann's group](/John_von_Neumann "John von Neumann")
+joined John von Neumann's group(John_von_Neumann "John von Neumann")
 at the Institute for Advanced Study (IAS). Thelma joined the
 Electroencephalography Department of the Neurological Institute of New
 York at Columbia Presbyterian Hospital, where she received her
@@ -134,10 +134,10 @@ comments on more general topics such as the evolution of the computing
 field and the status of women in computing. Estrin died on February
 15th, 2014\.
 
-For an earlier oral history, see her [1992
-interview](/Oral-History:Thelma_Estrin "Oral-History:Thelma Estrin") for
-the IEEE History Center. Thelma was also featured in a series of [1983
-interviews](/Archives:The_Computer_Pioneers:_Weizmann_Institute_Video_Oral_History "Archives:The Computer Pioneers: Weizmann Institute Video Oral History")
+For an earlier oral history, see her 1992
+interview(Oral-History:Thelma_Estrin "Oral-History:Thelma Estrin") for
+the IEEE History Center. Thelma was also featured in a series of 1983
+interviews(Archives:The_Computer_Pioneers:_Weizmann_Institute_Video_Oral_History "Archives:The Computer Pioneers: Weizmann Institute Video Oral History")
 with the WEIZAC team for the Computer Pioneers Project.
 
 ## About the Interview
@@ -183,7 +183,7 @@ Note: Gerald "Jerry" Estrin was also present at this interview. Here
 Thelma is referred to as "T. Estrin" and Jerry is referred to as "G.
 Estrin."
 
-\[Notes courtesy of interviewer Janet Abbate\]
+\Notes courtesy of interviewer Janet Abbate\
 
 ### Growing Up in New York
 
@@ -249,7 +249,7 @@ what she was doing.
 Yes\! She was socially outgoing and always helping people. She was
 active in the Democratic Club. If somebody received a ticket (not many
 people had cars then), she would go to an official and they’d dispose of
-the ticket; things like that\! \[both laugh\]
+the ticket; things like that\! \both laugh\
 
 **Abbate:**
 
@@ -518,8 +518,8 @@ degree.
 I guess get a job, which I did. But no, it never occurred to me to look
 for a job as a professor. Jerry was looking to obtain such a position,
 and he planned to interview at several universities. However a professor
-at Wisconsin informed Jerry that [John von
-Neumann](/John_von_Neumann "John von Neumann"), a famous mathematician,
+at Wisconsin informed Jerry that John von
+Neumann(John_von_Neumann "John von Neumann"), a famous mathematician,
 was building a computer in Princeton, and why didn’t Jerry write to him
 and apply? Jerry did and von Neumann answered immediately, “Yes\! Come,
 and I’ll hire you.”
@@ -538,7 +538,7 @@ Jerry worked at the Institute for Advanced Study. I began to look for
 employment and tried RCA which had its laboratories in Princeton. RCA
 had a huge lab there. I went and was interviewed. They would not give me
 a job because they did not have a lady’s area for professional women.
-\[laughs\] They only had a lady’s room for secretaries, and of course I
+\laughs\ They only had a lady’s room for secretaries, and of course I
 could not use them\! I then obtained, through a friend, an interesting
 position at Columbia Medical School in New York City and traveled four
 hours a day to get there and return to Princeton. That is how I entered
@@ -664,9 +664,9 @@ use computers for more theoretical stuff?
 
 **T. Estrin:**
 
-No, I don’t think they did yet. \[To G. Estrin\] Could you come here?
+No, I don’t think they did yet. \To G. Estrin\ Could you come here?
 
-Janet would like to ask you a question. \[To Abbate\] Ask him.
+Janet would like to ask you a question. \To Abbate\ Ask him.
 
 **Abbate:**
 
@@ -716,7 +716,7 @@ Was it a prestige project to build the WEIZAC for Israel?
 
 **T. Estrin:**
 
-No\! \[laughs\]
+No\! \laughs\
 
 No. I mean it turned out that way, but it wasn’t an issue at the time.
 
@@ -865,7 +865,7 @@ from the *Annals of the History of Computing*.
 
 **Abbate:**
 
-That’s great; thank you\! \[To T. Estrin\] Did you want to stay in
+That’s great; thank you\! \To T. Estrin\ Did you want to stay in
 Israel? Or were you ready to go back?
 
 **T. Estrin:**
@@ -1092,7 +1092,7 @@ tenure. They certainly were.
 
 **T. Estrin:**
 
-Yes, they were more welcoming. \[laughs\] I mean it was just part of a
+Yes, they were more welcoming. \laughs\ I mean it was just part of a
 struggle to get someplace I thought I should have been. As a Professor,
 I taught for about two years to freshman and sophomore engineers. Many
 students were Afro-American and Hispanic, and my course was about
@@ -1205,7 +1205,7 @@ About the IEEE part?
 
 **T. Estrin:**
 
-Yes. That’s all in here.\[1\] In 1971, there was a woman, who has since
+Yes. That’s all in here.\1\ In 1971, there was a woman, who has since
 died, who was very active in IEEE. She was an M.D. and also interested
 in engineering; her name was Julia Apter. IEEE is divided by what your
 field is, and she was a member of the Biomedical Engineering Society.
@@ -1529,55 +1529,55 @@ me\!
 August. Archived at IEEE History Center.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Thelma_Estrin_(2002)&oldid=117667>"
+"<http:/ethw.org/index.php?title=Oral-History:Thelma_Estrin_(2002)&oldid=117667>"
 
-[Category](/Special:Categories "Special:Categories"):
+Category(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
 
 ## Contents
 
-* [1 About Thelma Estrin](#About_Thelma_Estrin)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Growing Up in New York](#Growing_Up_in_New_York)
-  * [4\.2 Emerging Interest in
-    Engineering](#Emerging_Interest_in_Engineering)
-  * [4\.3 Studying Engineering at U of
-    Wisconsin](#Studying_Engineering_at_U_of_Wisconsin)
-  * [4\.4 Going to Princeton](#Going_to_Princeton)
-  * [4\.5 Building the WEIZAC in Israel](#Building_the_WEIZAC_in_Israel)
-  * [4\.6 Going to UCLA](#Going_to_UCLA)
-  * [4\.7 Working at the Brain Research
-    Institute](#Working_at_the_Brain_Research_Institute)
-  * [4\.8 Moving to the Computer Science
-    Department](#Moving_to_the_Computer_Science_Department)
-  * [4\.9 Serving as Director of the Engineering and Computer Science
+* 1 About Thelma Estrin(#About_Thelma_Estrin)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Growing Up in New York(#Growing_Up_in_New_York)
+  * 4\.2 Emerging Interest in
+    Engineering(#Emerging_Interest_in_Engineering)
+  * 4\.3 Studying Engineering at U of
+    Wisconsin(#Studying_Engineering_at_U_of_Wisconsin)
+  * 4\.4 Going to Princeton(#Going_to_Princeton)
+  * 4\.5 Building the WEIZAC in Israel(#Building_the_WEIZAC_in_Israel)
+  * 4\.6 Going to UCLA(#Going_to_UCLA)
+  * 4\.7 Working at the Brain Research
+    Institute(#Working_at_the_Brain_Research_Institute)
+  * 4\.8 Moving to the Computer Science
+    Department(#Moving_to_the_Computer_Science_Department)
+  * 4\.9 Serving as Director of the Engineering and Computer Science
     Division of
-    NSF](#Serving_as_Director_of_the_Engineering_and_Computer_Science_Division_of_NSF)
-  * [4\.10 Coming Back to UCLA](#Coming_Back_to_UCLA)
-  * [4\.11 Participating in IEEE](#Participating_in_IEEE)
-  * [4\.12 Serving as Director of the Engineering and Mathematics
+    NSF(#Serving_as_Director_of_the_Engineering_and_Computer_Science_Division_of_NSF)
+  * 4\.10 Coming Back to UCLA(#Coming_Back_to_UCLA)
+  * 4\.11 Participating in IEEE(#Participating_in_IEEE)
+  * 4\.12 Serving as Director of the Engineering and Mathematics
     Division of UCLA
-    Extension](#Serving_as_Director_of_the_Engineering_and_Mathematics_Division_of_UCLA_Extension)
-  * [4\.13 On the Rewards of a Career in
-    Computing](#On_the_Rewards_of_a_Career_in_Computing)
-  * [4\.14 On the Status of Women in
-    Computing](#On_the_Status_of_Women_in_Computing)
-  * [4\.15 Notes](#Notes)
+    Extension(#Serving_as_Director_of_the_Engineering_and_Mathematics_Division_of_UCLA_Extension)
+  * 4\.13 On the Rewards of a Career in
+    Computing(#On_the_Rewards_of_a_Career_in_Computing)
+  * 4\.14 On the Status of Women in
+    Computing(#On_the_Status_of_Women_in_Computing)
+  * 4\.15 Notes(#Notes)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 April 2015, at 11:30\.
 
 * This page has been accessed 2,951 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

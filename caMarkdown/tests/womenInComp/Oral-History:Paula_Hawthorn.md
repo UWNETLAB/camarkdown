@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Paula_Hawthorn&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Paula_Hawthorn&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Paula_Hawthorn)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Paula_Hawthorn&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Paula_Hawthorn "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Paula_Hawthorn "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Paula_Hawthorn&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Paula_Hawthorn&oldid=108338 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Paula_Hawthorn&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Paula_Hawthorn)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3APaula+Hawthorn)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Paula_Hawthorn&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Paula_Hawthorn&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Paula_Hawthorn)
+  
+  * Discussion(index.php?title=Oral-History_talk:Paula_Hawthorn&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Paula_Hawthorn "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Paula_Hawthorn "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Paula_Hawthorn&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Paula_Hawthorn&oldid=108338 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Paula_Hawthorn&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Paula_Hawthorn)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3APaula+Hawthorn)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Paula Hawthorn
@@ -168,7 +168,7 @@ environment where they were trying to do the best they could with this
 “street child.” But the only way I had to feel good about myself—I was
 overweight, I didn’t talk correct English, I was unkempt—was that I was
 very good at math. I’d always been very good at math. My stepmother and
-my two younger brothers could not comprehend mathematics, \[but\] my
+my two younger brothers could not comprehend mathematics, \but\ my
 father loved mathematics, had always loved the math problems in the
 various science magazines and stuff. The fact that I was good in math
 was my way of showing everyone that I could do what I wanted. So I was
@@ -251,7 +251,7 @@ It never occurred to any of us that computer programming would
 eventually become something that was thought of as a men’s field. At the
 time—just as now, actually—in the intro, beginning, lower levels of
 employment, it was at least half women. There were a lot of women who
-made straight As in math\! \[laughs\]
+made straight As in math\! \laughs\
 
 ### Starting at Texaco
 
@@ -285,8 +285,8 @@ bar-code readers in order to sort all these things. We always returned
 the receipts to the customers. You’d sort it all, and you’d get all the
 receipts for a single account, and they would go into massive bins.
 Every day of the month you were doing a billing cycle for a different
-group of people, and so each day you would take a month’s worth \[of
-receipts\] for that group and run those through and do the bills for
+group of people, and so each day you would take a month’s worth \of
+receipts\ for that group and run those through and do the bills for
 them.
 
 In a career-altering decision, the head of the credit-card billing had
@@ -465,7 +465,7 @@ socially acceptable way to pull my kids out of there and go someplace
 else.
 
 In the meantime, my parents had moved from Dallas to Walnut Creek, in
-the San Francisco Bay area, just over the hill from here \[Oakland\].
+the San Francisco Bay area, just over the hill from here \Oakland\.
 We’d not gotten along that well, but we’d not not gotten along, and I
 thought maybe they could be a help. So when the University of California
 accepted me, I came out here.
@@ -489,7 +489,7 @@ oil money. It’s that great largesse that happened when they allowed the
 leasing of the oil fields in North Texas, and the University of Houston
 gets a certain amount of that money. It has always been a beautiful
 campus—nice facilities; nice computers; a nice computer center. I was
-absolutely amazed \[at the contrast\]. Of course, I spent the first six
+absolutely amazed \at the contrast\. Of course, I spent the first six
 months crying when I got here, anyway. You know, you move away from your
 family and friends and all that stuff—although my parents were here,
 which was really cool.
@@ -628,7 +628,7 @@ come in; she can take these courses, which would be the same courses
 that undergraduates took; and if she did well in a certain set of
 courses, then she could apply—not guaranteed, but apply—to go into
 graduate school. (Of course, it turns out Sheila Humphreys has her Ph.D.
-in French literature\! \[laughs.\]) But anyway, we got the whole thing
+in French literature\! \laughs.\) But anyway, we got the whole thing
 approved; we raised money for it: private money, Ford Foundation money,
 some other people; and we got the bureaucracy to accept these students
 on the same kind of thing that they did for the Extension: sort of
@@ -656,7 +656,7 @@ Oh, right\! That was fairly recently?
 
 **Hawthorn:**
 
-Yes, yes. \[Proposition 209 was passed in 1996\.\] And that’s when they
+Yes, yes. \Proposition 209 was passed in 1996\.\ And that’s when they
 stopped the Re-entry Program. But because of the Re-entry program, we
 still have a lot of women who wouldn’t be here otherwise.
 
@@ -721,7 +721,7 @@ Or, you know, like Anita Borg. You just look at that woman and think,
 “This is a brilliant woman.” Me: I was often mistaken as the janitor\!
 I’m not kidding. I’d be in in the middle of the night; I’d be walking
 around, carrying my keys in my hands, in blue jeans; and someone would
-say, “Well, have you looked at that bathroom over here?” \[laughs.\]
+say, “Well, have you looked at that bathroom over here?” \laughs.\
 
 **Abbate:**
 
@@ -769,9 +769,9 @@ housing where they had a day-care center\! I didn’t know that they even
 had a day-care center; but they had a day-care center. Years later, I
 met someone from the Student Housing Department, and I was telling her
 how I got in, and she said, “Wait a minute: and then you cried.” And I
-said: “Yes,” and she said “Sally did that all the time\!” \[laughs.\]
+said: “Yes,” and she said “Sally did that all the time\!” \laughs.\
 “All anybody had to do was cry. She just always did that\!”
-\[laughs.\] There was this great woman in Student Housing who would bump
+\laughs.\ There was this great woman in Student Housing who would bump
 up people who were distressed.
 
 So there was—and still is—a day-care center there; and the day-care
@@ -788,7 +788,7 @@ what I was doing. And then I’d feed the kids dinner, and then I’d put
 them to bed, and then I’d study some more. Of course, there were times
 when I would set all the clocks ahead, so that they would think it was
 later, so I could get them to bed earlier, so I could get more studying
-done\! \[laughs.\] But for the most part, it sort of worked\! It sort of
+done\! \laughs.\ But for the most part, it sort of worked\! It sort of
 worked.
 
 **Abbate:**
@@ -810,7 +810,7 @@ private sit-in at the Director’s office, to say that I have to do this.
 And that was when my Major Field Advisor—the same one who had said, “You
 should just leave, or get your husband to take these children”—he was
 still my Major Field Advisor, and he wrote this very polite letter
-saying that I was totally unemployable unless I got my Ph.D. \[laughs\],
+saying that I was totally unemployable unless I got my Ph.D. \laughs\,
 so I could keep my kids in this day-care center\!
 
 **Abbate:**
@@ -823,9 +823,9 @@ And then the way I supported myself is: my ex-husband sent me two
 hundred dollars a month for child care, and I promised him if he would
 just keep sending the money and not screw around with it, that as soon
 as I graduated and got a job, he would never have to pay child care
-again. And then if he didn’t, I would kill him\! \[laughs.\] It was just
+again. And then if he didn’t, I would kill him\! \laughs.\ It was just
 that clear\! I still actually celebrate every birthday with the fact
-that I never killed my ex-husband. \[laughs.\]
+that I never killed my ex-husband. \laughs.\
 
 So he paid the child care, almost always, and then I had loans, and then
 either Teaching Assistant money or my Research Assistantship. And we
@@ -847,7 +847,7 @@ nice sort of communal sort of place. It was a cool place to grow up.
 
 Of course, when I graduated and I said, “Well, you know, that was nice,
 but I think what I’d really like to do is get a Ph.D. in civil
-engineering,” they nearly killed me\! \[laughs.\] They said, “Mom, no\!
+engineering,” they nearly killed me\! \laughs.\ They said, “Mom, no\!
 Not anymore.” But by that time, my second husband, Michael, had moved
 in. We moved in together when I finished school, so by that time we had
 more people in the family—and a dog, because he came with the dog.
@@ -1047,7 +1047,7 @@ How did you end up at the Lab?
 
 They were hiring at the time that I was graduating, and Mike was still
 in school, and LBL is right off the campus, so I said, “I want to go
-here\!” \[laughs.\]
+here\!” \laughs.\
 
 **Abbate:**
 
@@ -1064,7 +1064,7 @@ When I got there, there were a large number of women who had been
 computer scientists there from early times: women who had no formal
 training in computer science, who were being slowly edged out. Part of
 it was that they had been programmers on the CDC machines, and those
-machines were being replaced by [UNIX](/UNIX "UNIX") and VMS on DEC
+machines were being replaced by UNIX(UNIX "UNIX") and VMS on DEC
 machines, and they needed to change their skills. They needed to learn
 programming in this new environment. These were people who had done
 programming with punched cards, and now it’s all interactive, and there
@@ -1093,7 +1093,7 @@ I forget why they didn’t like DOE. They were going to shut it down for
 some reason. I forget all of the politics, but I do remember that they
 did lay off a bunch of those women. That’s the last time I ever said
 there was no difference between a Democrat and a Republican, and voted
-something else\! \[laughs.\] Not again\! Not ever again.
+something else\! \laughs.\ Not again\! Not ever again.
 
 ### Working For Startups
 
@@ -1164,7 +1164,7 @@ Was your first management job at HP?
 
 No, LBL. I went to LBL first, and I wasn’t actually a Manager, but I was
 moved into an Assistant Director position there—because I tend to tell
-people what to do anyway\! \[laughs.\] But then I went to HP and was a
+people what to do anyway\! \laughs.\ But then I went to HP and was a
 manager at HP.
 
 **Abbate:**
@@ -1184,7 +1184,7 @@ got—is that I am an extraordinarily good organizer, and I do it
 automatically. When I was working at Texaco, I had a friend who would
 every once in a while have to go home because her cattle dogs had gotten
 out and were rounding up the neighbors’ cattle. Well, that’s me\!
-\[laughs.\] I just do it\! It’s just fun. I just do it: start organizing
+\laughs.\ I just do it\! It’s just fun. I just do it: start organizing
 people and managing people.
 
 So I think I gravitated to it naturally. Also, I complain a lot if
@@ -1225,7 +1225,7 @@ It was the hardware, or was it just software?
 **Hawthorn:**
 
 No, it was all software. I never did hardware again after Britton-Lee.
-Stonebraker—darn him\!—was right. \[laughs.\]
+Stonebraker—darn him\!—was right. \laughs.\
 
 **Abbate:**
 
@@ -1339,7 +1339,7 @@ That’s interesting.
 
 **Hawthorn:**
 
-It is. Yes, it is. It’s a fun thing. Get Barbara \[Simons\] to tell you
+It is. Yes, it is. It’s a fun thing. Get Barbara \Simons\ to tell you
 about it. She’s the Chair of the Committee, and it was actually her
 idea, anyway, to have the Lawler Award.
 
@@ -1392,7 +1392,7 @@ there’s a lot of enrollment pressure at Cal; and if you are good
 enough to get into Cal, you’re good enough to get into Stanford—and if
 you get into Stanford, Stanford guarantees your funding for the full
 four years. Cal can’t; it’s not something they would do. So, which place
-would you go? \[laughs.\]
+would you go? \laughs.\
 
 **Abbate:**
 
@@ -1442,7 +1442,7 @@ they said, “Well who is it?” I said, “I don’t know his name”—because
 it’s this big lecture hall, and I’m not good with names anyway, and we
 certainly don’t have seating charts—I said, “He’s this tall Asian guy in
 the second row.” And they laughed, and they said, “Paula, you have just
-described most of the people in the class\!” \[laughs.\] I thought with
+described most of the people in the class\!” \laughs.\ I thought with
 having more Asians that we would also have more women, because Asian
 women don’t tend to have the gender issues that Caucasian women do when
 it comes to math and computer science, and there were a few more women;
@@ -1499,7 +1499,7 @@ was way behind on a project and had promised it for a certain amount of
 money to a customer. So he bought one of our machines and attached it to
 this VAX that was underperforming, and now he’s able to do this project
 really fast. It saved his job. So he named his daughter Brittany Lee\!
-\[laughs.\] I’m not kidding\! There’s nothing better, absolutely nothing
+\laughs.\ I’m not kidding\! There’s nothing better, absolutely nothing
 better. Imagine having such an effect\! That little machine: I actually
 was on a road show with Illustra at one point, and I went over to
 Goldman-Sachs, and they said, “Oh, we’ve still got our Britton-Lee
@@ -1590,7 +1590,7 @@ from male students, and things like that.
 
 **Hawthorn:**
 
-Oh yes? That’s right; that’s why I didn’t read it. \[laughs.\] There was
+Oh yes? That’s right; that’s why I didn’t read it. \laughs.\ There was
 one that was done at MIT earlier, along the same lines. Of course,
 you’re always going to find those things.
 
@@ -1614,7 +1614,7 @@ Do you think the culture of computing has changed?
 
 **Hawthorn:**
 
-No\! \[laughs.\] No. During the boom, it was definitely different; but
+No\! \laughs.\ No. During the boom, it was definitely different; but
 that’s over.
 
 **Abbate:**
@@ -1634,11 +1634,11 @@ pennies. There is a book one could write. Oh man, it was just
 devastating for a lot of people. But also, a lot of us felt that people
 got their comeuppance during that time, because there was entirely too
 much arrogance. “I have an idea; I don’t need a business plan.” Someone
-said that to me\! \[laughs.\] Really\! And in fact, people had put money
+said that to me\! \laughs.\ Really\! And in fact, people had put money
 behind him. This was this really smart guy who knew about computers, and
 everybody was putting money into computers, so he got a lot of money to
 do his thing and didn’t have a business plan. “We don’t need business
-plans\!” \[laughs.\]
+plans\!” \laughs.\
 
 **Abbate:**
 
@@ -1648,7 +1648,7 @@ business plans of failed dot-coms.
 
 **Hawthorn:**
 
-Is that right? \[laughs.\]
+Is that right? \laughs.\
 
 **Abbate:**
 
@@ -1668,7 +1668,7 @@ tools that are not that different from the tools that we were using
 fifteen years ago; they are using processes that are not that much
 different; they are producing code that has about as many bugs. That’s
 one reason that I’m not working that much: I find it boring\!
-\[laughs.\] It’s all the same.
+\laughs.\ It’s all the same.
 
 **Abbate:**
 
@@ -1714,7 +1714,7 @@ very well—well enough that people will take it up and say, “Oh, yes;
 I’ll do this.” Little bits of progress here and there, but not much.
 
 So things have not changed, unfortunately. Computers have gotten faster.
-You no longer have 36-hour turnaround time\! \[laughs.\]
+You no longer have 36-hour turnaround time\! \laughs.\
 
 ### Advice for Women
 
@@ -1783,7 +1783,7 @@ idea and wanted to start the company, then you should be able to do it.
 
 So, women as the actual founders: that’s been very interesting. There is
 this wonderful woman entrepreneur, who was head of marketing at Cisco;
-her name is Cate \[Muther\]. She started an incubator for women’s
+her name is Cate \Muther\. She started an incubator for women’s
 start-ups.
 
 **Abbate:**
@@ -1813,17 +1813,17 @@ companies.
 That was before the recession. I don’t know what’s happened with it
 since then. But there were lots of numbers about that. And in fact,
 there are a few women-owned companies now that I know about. I know
-someone who just went to work for one—Anu Shukla’s company, \[Rubric\].
+someone who just went to work for one—Anu Shukla’s company, \Rubric\.
 
 But CEO’s, Board Members, all of that: it’s still heavily male-oriented.
 I was asked to sit in on a board meeting, to advise a board on some
 stuff having to do with their product and whether their people were
 getting the product out fast enough, and so forth. They were meeting in
 this room in this hotel, so I went to the hotel, and I opened up the
-door to the room, and it was fifteen men. That’s it\! \[laughs.\] And
+door to the room, and it was fifteen men. That’s it\! \laughs.\ And
 me. And I just thought, “I can’t believe this\!” This was a year ago. I
 walked in and I thought, “I just can’t believe this\!” I wanted to shut
-the door\! \[laughs.\] I said, “Excuse me,” and they were all sitting
+the door\! \laughs.\ I said, “Excuse me,” and they were all sitting
 there as I opened up the door. No, at the top levels it’s still very
 heavily male.
 
@@ -1873,81 +1873,81 @@ Anyway: Let me thank you so much for talking with me\!
 Well, thank you\! Great\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Paula_Hawthorn&oldid=108338>"
+"<http:/ethw.org/index.php?title=Oral-History:Paula_Hawthorn&oldid=108338>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Profession](/Category:Profession "Category:Profession")
-* [Business](/Category:Business "Category:Business")
-* [Management](/Category:Management "Category:Management")
-* [Communications](/Category:Communications "Category:Communications")
-* [Communication
-  systems](/Category:Communication_systems "Category:Communication systems")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Computer
-  architecture](/Category:Computer_architecture "Category:Computer architecture")
-* [Computer
-  classes](/Category:Computer_classes "Category:Computer classes")
-* [Computer
-  networks](/Category:Computer_networks "Category:Computer networks")
-* [Computer
-  science](/Category:Computer_science "Category:Computer science")
-* [Computing](/Category:Computing "Category:Computing")
-* [Data systems](/Category:Data_systems "Category:Data systems")
-* [Software & software
-  engineering](/Category:Software_%26_software_engineering "Category:Software & software engineering")
-* [Engineering
-  disciplines](/Category:Engineering_disciplines "Category:Engineering disciplines")
-* [Engineering
-  education](/Category:Engineering_education "Category:Engineering education")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
-* [Corporations](/Category:Corporations "Category:Corporations")
-* [Government](/Category:Government "Category:Government")
-* [Non-profit](/Category:Non-profit "Category:Non-profit")
-* [Scientists](/Category:Scientists "Category:Scientists")
-* [Universities](/Category:Universities "Category:Universities")
-* [Engineering
-  fundamentals](/Category:Engineering_fundamentals "Category:Engineering fundamentals")
-* [Systems engineering and
-  theory](/Category:Systems_engineering_and_theory "Category:Systems engineering and theory")
+* Profession(Category:Profession "Category:Profession")
+* Business(Category:Business "Category:Business")
+* Management(Category:Management "Category:Management")
+* Communications(Category:Communications "Category:Communications")
+* Communication
+  systems(Category:Communication_systems "Category:Communication systems")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Computer
+  architecture(Category:Computer_architecture "Category:Computer architecture")
+* Computer
+  classes(Category:Computer_classes "Category:Computer classes")
+* Computer
+  networks(Category:Computer_networks "Category:Computer networks")
+* Computer
+  science(Category:Computer_science "Category:Computer science")
+* Computing(Category:Computing "Category:Computing")
+* Data systems(Category:Data_systems "Category:Data systems")
+* Software & software
+  engineering(Category:Software_%26_software_engineering "Category:Software & software engineering")
+* Engineering
+  disciplines(Category:Engineering_disciplines "Category:Engineering disciplines")
+* Engineering
+  education(Category:Engineering_education "Category:Engineering education")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
+* Corporations(Category:Corporations "Category:Corporations")
+* Government(Category:Government "Category:Government")
+* Non-profit(Category:Non-profit "Category:Non-profit")
+* Scientists(Category:Scientists "Category:Scientists")
+* Universities(Category:Universities "Category:Universities")
+* Engineering
+  fundamentals(Category:Engineering_fundamentals "Category:Engineering fundamentals")
+* Systems engineering and
+  theory(Category:Systems_engineering_and_theory "Category:Systems engineering and theory")
 
 ## Contents
 
-* [1 About Paula Hawthorn](#About_Paula_Hawthorn)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Starting at Texaco](#Starting_at_Texaco)
-  * [4\.3 Computer Courses](#Computer_Courses)
-  * [4\.4 Return to School](#Return_to_School)
-  * [4\.5 Policies Against Women at
-    School](#Policies_Against_Women_at_School)
-  * [4\.6 After Graduation](#After_Graduation)
-  * [4\.7 Women's Activism at
-    Companies](#Women.27s_Activism_at_Companies)
-  * [4\.8 Working For Startups](#Working_For_Startups)
-  * [4\.9 Management Skills](#Management_Skills)
-  * [4\.10 Moving from Company to
-    Company](#Moving_from_Company_to_Company)
-  * [4\.11 Work With Non-Profits](#Work_With_Non-Profits)
-  * [4\.12 Joys of Computing](#Joys_of_Computing)
-  * [4\.13 Obstacles to Women in
-    Computing](#Obstacles_to_Women_in_Computing)
-  * [4\.14 Advice for Women](#Advice_for_Women)
+* 1 About Paula Hawthorn(#About_Paula_Hawthorn)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Starting at Texaco(#Starting_at_Texaco)
+  * 4\.3 Computer Courses(#Computer_Courses)
+  * 4\.4 Return to School(#Return_to_School)
+  * 4\.5 Policies Against Women at
+    School(#Policies_Against_Women_at_School)
+  * 4\.6 After Graduation(#After_Graduation)
+  * 4\.7 Women's Activism at
+    Companies(#Women.27s_Activism_at_Companies)
+  * 4\.8 Working For Startups(#Working_For_Startups)
+  * 4\.9 Management Skills(#Management_Skills)
+  * 4\.10 Moving from Company to
+    Company(#Moving_from_Company_to_Company)
+  * 4\.11 Work With Non-Profits(#Work_With_Non-Profits)
+  * 4\.12 Joys of Computing(#Joys_of_Computing)
+  * 4\.13 Obstacles to Women in
+    Computing(#Obstacles_to_Women_in_Computing)
+  * 4\.14 Advice for Women(#Advice_for_Women)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 
 * This page has been accessed 4,264 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

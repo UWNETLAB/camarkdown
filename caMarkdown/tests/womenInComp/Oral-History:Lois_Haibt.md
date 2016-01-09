@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Lois_Haibt&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Lois_Haibt&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Lois_Haibt)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Lois_Haibt&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Lois_Haibt "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Lois_Haibt "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Lois_Haibt&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Lois_Haibt&oldid=108604 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Lois_Haibt&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Lois_Haibt)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ALois+Haibt)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Lois_Haibt&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Lois_Haibt&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Lois_Haibt)
+  
+  * Discussion(index.php?title=Oral-History_talk:Lois_Haibt&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Lois_Haibt "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Lois_Haibt "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Lois_Haibt&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Lois_Haibt&oldid=108604 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Lois_Haibt&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Lois_Haibt)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ALois+Haibt)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Lois Haibt
@@ -78,7 +78,7 @@ Toggle navigation
 ## About Lois Haibt
 
 Lois Haibt is a computer scientist who worked at IBM developing
-[FORTRAN](/FORTRAN "FORTRAN"). She was the only woman member of the
+FORTRAN(FORTRAN "FORTRAN"). She was the only woman member of the
 FORTRAN team at IBM. She joined IBM soon after graduating from Vassar,
 where her interests were in mathematics and science. She worked on
 several other computer programming projects while at IBM after FORTRAN.
@@ -250,7 +250,7 @@ So this was specifically: “It’s not ladylike.”
 
 Right. Because she had put an extra-credit problem on the board, and a
 couple of other people had tried to solve it, and I’m saying, “I know
-how to do it\!” \[laughs.\] That’s when she told me not to be so eager.
+how to do it\!” \laughs.\ That’s when she told me not to be so eager.
 
 **Abbate:**
 
@@ -279,7 +279,7 @@ But you didn’t want to do that.
 I didn’t want to teach, did not want to stand up in front of a group of
 people.
 
-\[recording pauses\]
+\recording pauses\
 
 ### Working for IBM
 
@@ -320,9 +320,9 @@ And this was what year?
 
 By then I had known a little bit—I didn’t know anything about computers,
 but I knew people who worked in computers. Because IBM is in
-Poughkeepsie \[where Vassar is located\], and they hired a lot of young
-\[male\] engineers straight out of college—and guess how long it took
-them to find the college? \[laughs.\] So I had met some people—in fact,
+Poughkeepsie \where Vassar is located\, and they hired a lot of young
+\male\ engineers straight out of college—and guess how long it took
+them to find the college? \laughs.\ So I had met some people—in fact,
 eventually one of them I married; but this was before I started dating
 him. I had heard them talking about computers, and didn’t quite know
 what it was all about, but . . .
@@ -334,21 +334,21 @@ So you had never used one before you worked for IBM?
 **Haibt:**
 
 No. I mean, they were at the ten-in-the-world level in those days\!
-\[laughs.\] You know, “What’s the forecast for this?” “Well, maybe the
-whole world could use ten of these.” Things have changed\! \[laughs.\]
+\laughs.\ You know, “What’s the forecast for this?” “Well, maybe the
+whole world could use ten of these.” Things have changed\! \laughs.\
 You know, there was nothing like personal computers. I mean, the
 original Radio Shack TRS-80 was very comparable in amount of memory,
 speed, power—not physical size, but power—to the IBM 704 I started out
 with: almost exactly the same cycle time, memory size, and so forth.
 However, in those days, it was a multi-million dollar machine that took
 a large, heavily air-conditioned room that looked like a large appliance
-showroom—with all-gray appliances\! \[laughs.\] It looked like
+showroom—with all-gray appliances\! \laughs.\ It looked like
 refrigerators and stoves.
 
 IBM was going to pay me a lot more than Bell Labs offered. Also, it was
-right in mid-town \[Manhattan\], and Bell Labs at that time was down at
+right in mid-town \Manhattan\, and Bell Labs at that time was down at
 West Street, what’s now the Westbeth artists’ complex at 12th Street and
-the Hudson River. \[To get to Bell Labs\] you took the train in, and
+the Hudson River. \To get to Bell Labs\ you took the train in, and
 then the shuttle—I think you had to take two trains because of the
 express stops—and then you had a fifteen-minute walk; and I had had
 pneumonia my senior year in college, so that was bad enough for a summer
@@ -373,7 +373,7 @@ What were they offering you at IBM?
 
 Well, I wasn’t completely sure, but they gave me a math test, in
 addition to the programmers’ aptitude test. They had a bunch of
-questions that that department had \[put together\], which were talking
+questions that that department had \put together\, which were talking
 about differential equations and whatever—which they explained I didn’t
 have to worry about, because this was what they gave to the Ph.D.s. I
 knew the answers to all of them with no problems (except one, which I
@@ -464,9 +464,9 @@ machine, in case anybody needed assistance; but most of the time that
 meant sitting over on the side doing whatever. But programming was much
 more a pencil-and-paper operation, because machine time—even when we had
 the machine—was so scarce. You did a lot more by hand. Now you can just
-punch a button, see what happens\! \[laughs.\] \[But back\] when you
+punch a button, see what happens\! \laughs.\ \[But back\] when you
 scheduled time days—if not a week—in advance, you didn’t go down and see
-what happens; you made pretty sure it was \[correct\].
+what happens; you made pretty sure it was \correct\.
 
 **Abbate:**
 
@@ -474,7 +474,7 @@ So you’d try to check it in advance, to make sure it was right?
 
 **Haibt:**
 
-Yes, you tried to do the best you could. And \[you’d\] look at all the
+Yes, you tried to do the best you could. And \you’d\ look at all the
 side-results and the intermediate things to check everything you could
 when you did get a run, before you got a chance at your next one.
 
@@ -486,13 +486,13 @@ Did it ever work the first time?
 
 Not very often, for most people. One of the people in the group it
 seemed to always work for; he was a fanatic about it. One of the great
-stories I have is that two other people in the group, Harlan \[Herrick\]
-and Irving \[Ziller\], had a bet that Harlan’s program would work
+stories I have is that two other people in the group, Harlan \Herrick\
+and Irving \Ziller\, had a bet that Harlan’s program would work
 flawlessly—Harlan just agreed to be honest about it—and it ended up in a
 draw, because there was a mistyping on the key-punching. Something was
 spelled wrong, which the assembly program complained was an undefined
 symbol (it didn’t know it was a typo)—and they couldn’t agree on whether
-this was a bug or not\! \[laughs.\] Harlan was saying that was a bug; he
+this was a bug or not\! \laughs.\ Harlan was saying that was a bug; he
 didn’t do it perfectly.
 
 **Abbate:**
@@ -543,11 +543,11 @@ of the charities; the Salvation Army is the only one I can remember, but
 probably the Community Chest (or whatever it was then, before the United
 Way) and something else. It turned out they had extra machines. They had
 three key-punches and three people, but they also had some verifiers and
-some sorters and stuff, \[so when they were using these machines they
-weren’t using all three of the key-punches,\] and I was able to borrow
+some sorters and stuff, \so when they were using these machines they
+weren’t using all three of the key-punches,\ and I was able to borrow
 one of their key-punch machines for most of the time. So I sat down and
 punched out my own program—and came home with carpal tunnel, it would be
-called now\! \[laughs.\]
+called now\! \laughs.\
 
 **Abbate:**
 
@@ -558,8 +558,8 @@ But your program would be done earlier?
 Yes, several weeks in that time, because it was a big chunk of stuff.
 
 But we—the people that were just hired—were doing some practice problems
-and whatever. I’ve always suspected \[that the reason I got put onto a
-real project\] was because I kept going back and saying, “What can I do?
+and whatever. I’ve always suspected \that the reason I got put onto a
+real project\ was because I kept going back and saying, “What can I do?
 What can I do? I’ve done this; what can I do next?” And they’d say,
 “Well, everybody’s on vacation,” and they’d try and find something.
 But then John Backus was looking for people, so he borrowed me and one
@@ -574,8 +574,8 @@ And this was the FORTRAN compiler?
 **Haibt:**
 
 The FORTRAN compiler. I started working there in six months, and it sort
-of got to be a career\! You know, I never went back \[to my original
-group\]. Eventually John stopped managing, after the FORTRAN project. I
+of got to be a career\! You know, I never went back \to my original
+group\. Eventually John stopped managing, after the FORTRAN project. I
 stayed with the successor groups and did other things, but always ended
 up back in compilers.
 
@@ -601,9 +601,9 @@ least two or three years more experienced; I think they were all more
 than three years older than me. But they were probably all 30 or under.
 
 And by the way, if you read that article in the New York Times, don’t
-believe it\! \[ Steve Lohr, “Software: When Few Knew the Code, They
+believe it\! \ Steve Lohr, “Software: When Few Knew the Code, They
 Changed the Language.” The New York Times, June 13, 2001, Section H ,
-Page 20, Column 1\]
+Page 20, Column 1\
 
 **Abbate:**
 
@@ -612,13 +612,13 @@ I haven’t read it; I’ve just seen a reference to it.
 **Haibt:**
 
 It’s not seriously bad, but it’s kind of sloppy—including a picture of
-some other group\! \[laughs.\] Thirty men and one woman: it was not the
-FORTRAN group. \[The Times published a correction on June 22, 2001,
+some other group\! \laughs.\ Thirty men and one woman: it was not the
+FORTRAN group. \The Times published a correction on June 22, 2001,
 stating: “A picture in the special E-Business section on June 13 with an
 article about the development of the Fortran computer language was
 published in error. It showed the first programming class for the I.B.M.
 704 computing system in 1956, not the I.B.M. team that developed Fortran
-in the late 1950’s.”\]
+in the late 1950’s.”\
 
 ### Experience as a Woman Computer Programmer
 
@@ -635,7 +635,7 @@ arranged in a row, and each person had a little side chair for somebody
 to sit and talk to them. I got to be very good at walking over and then
 sliding into the chair quickly, because every time I walked over to
 answer a question, they would stand up. They would be uncomfortable
-sitting there with a woman standing, talking to them\! \[laughs.\] It’s
+sitting there with a woman standing, talking to them\! \laughs.\ It’s
 a long time ago. Things have changed—in general for the better.
 
 **Abbate:**
@@ -647,7 +647,7 @@ This group was fairly small, probably?
 Yes. It was somewhere around eight to ten. I’m trying to remember: there
 was
 
-Harlan, and Peter \[Sheridan\], and Bob \[Nelson\], and Sheldon \[Best\]
+Harlan, and Peter \Sheridan\, and Bob \[Nelson\], and Sheldon \[Best\]
 . . . I think I was the seventh. And gradually we got several more, and
 then after a few years, when we went to the second release, we added
 about five more people, and two of those were women. In fact, when I
@@ -702,9 +702,9 @@ Did you know anything about compilers before you started this project?
 Nobody knew anything. They didn’t exist\! Everything we did we invented
 on the fly. They had done a few packages that were sort of what they
 would call “interpreters.” John had worked on a floating-point
-package—that was partly how they got into the original \[FORTRAN\]
+package—that was partly how they got into the original \FORTRAN\
 design—and then he just hired people as they realized they would need
-more people. This was more than one person could do, \[so\] he got other
+more people. This was more than one person could do, \so\ he got other
 people to work on that part of the thing.
 
 **Abbate:**
@@ -759,14 +759,14 @@ know exactly what’s going on.
 
 It was challenging. It’s not drudge work. I mean, punching all those
 cards was no—particularly for somebody who had failed typing\!
-\[laughs.\] But mostly it was exciting. I mean, not only was it new to
+\laughs.\ But mostly it was exciting. I mean, not only was it new to
 me, but it was new to the world\! In fact, after I was there for a month
 or two, one of the senior people around in the computing area who was
 not in our group said to me, “I want to ask you something. Those guys,
 they’re committed, so they’re not going to tell; but you’re coming from
 the outside. What do you think about this? Is this ever going to work?”
 I’ve always been sorry I couldn’t remember which of a couple people it
-was, because it would have been fun to \[remind him\]. \[laughs.\] Or
+was, because it would have been fun to \remind him\. \[laughs.\] Or
 maybe not\!
 
 **Abbate:**
@@ -818,7 +818,7 @@ their nails\!
 
 Well, there was this bunch of people with a great idea—and a lot of
 people who, I later learned, were not so all-seeing and all-powerful.
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -838,16 +838,16 @@ hand-allocated them, and jiggered up the assembly program.
 
 **Abbate:**
 
-So they were so desperate for \[a higher-level language\] . . .
+So they were so desperate for \a higher-level language\ . . .
 
 **Haibt:**
 
 They were. And even with that much hand-work, they felt it saved them an
 enormous amount of time. Then when we came out with the original public
-paper (although it was known \[before that\]), they worked very hard to
+paper (although it was known \before that\), they worked very hard to
 get some people to do some test cases to present at the National Joint
 Computer Conference—some of the aircraft companies and stuff, which were
-the big computer users in those days. \[The companies\] got two sets of
+the big computer users in those days. \The companies\ got two sets of
 people to write some of their programs: one in assembly language and one
 in FORTRAN. They only got a few, because it was one of those, “Are we
 going to get it actually running before then?” kind of dates. But even
@@ -876,7 +876,7 @@ you’d never finish everything if you tried to do every little bit of
 it perfectly, in the sense of “fast as possible.” It’s one thing to do
 little test things in class: “There are ten instructions. See if you can
 do it in nine.” It’s a lot different when you’re talking about tens of
-thousands \[of instructions\], in those days, for a big program. But
+thousands \of instructions\, in those days, for a big program. But
 when you had programs that ran for hours, a small percentage improvement
 was important, and a big percentage was very important. The difference
 between three seconds and two seconds, or even three minutes and two
@@ -885,7 +885,7 @@ hours—particularly at six hundred dollars an hour\!
 
 **Abbate:**
 
-Right. \[laughs.\]
+Right. \laughs.\
 
 **Haibt:**
 
@@ -907,20 +907,20 @@ good group looking for a project—because we didn’t want to split up,
 because we all liked each other and thought highly of each other. It was
 a marvelous group to work with\!
 
-Some of \[us\] went off into doing the logic program. There was a young
-man at Columbia who solved one of \[Emil L.\] Post’s conjectures; I
+Some of \us\ went off into doing the logic program. There was a young
+man at Columbia who solved one of \Emil L.\ Post’s conjectures; I
 think he did what was called the “two bit problem,” which was a program
 learning thing. You generated a random sequence of bits that was for a
 two-bit simulated computer, and you made random changes in your
-\[sequence\], trying to score the result—to get a workable program with
+\sequence\, trying to score the result—to get a workable program with
 the right answer—by trying to decide which changes were good and which
 were bad. So at one time they were going to try and do a sixteen-bit
-version. Originally \[they were going to do this\] with one other
+version. Originally \they were going to do this\ with one other
 person, who left the company shortly after we started, who would do an
 automatic flow-charting program: take a program and generate a
 flow-chart, because at that time that was the way one documented a
 program. Now you don’t hear so much about flow charts, but that was what
-they had then. So \[when that person left,\] I did that.
+they had then. So \when that person left,\ I did that.
 
 **Abbate:**
 
@@ -956,8 +956,8 @@ That was in the early ‘60s. It was based on a modified IBM 7044, and it
 preceded the 360 series, which was announced while we were working on
 this, but even within the company it was fairly secret for a long time.
 And we got that working, and it later became the basis of the 360 Model
-67, which was the first to have a virtual memory. It then became CP/CMS
-67, which became VM/CMS. So that was exciting.
+67, which was the first to have a virtual memory. It then became CPCMS
+67, which became VMCMS. So that was exciting.
 
 Then I had my daughter, and worked part-time until she started first
 grade.
@@ -1004,7 +1004,7 @@ Of course, in your case, the due date was sooner than you thought.
 
 Yes. And I couldn’t work past 5:12, which was quitting time. Under no
 circumstances could we extend it, and under no circumstances could I
-work late that last day\! \[laughs.\]
+work late that last day\! \laughs.\
 
 **Abbate:**
 
@@ -1025,7 +1025,7 @@ This was the virtual memory?
 Yes, the virtual memory thing. At that point I was literally working as
 much as I could. I’d get up in the morning and come to work, and work
 until I couldn’t work any longer; go home, fall into bed; repeat\!
-\[laughs.\] And I was usually in at least one day on weekends for a
+\laughs.\ And I was usually in at least one day on weekends for a
 while. Fortunately my husband was also working here.
 
 **Abbate:**
@@ -1034,7 +1034,7 @@ So you got to see him.
 
 **Haibt:**
 
-So we had lunch together\! \[both laugh.\] Lunch and supper, because he
+So we had lunch together\! \both laugh.\ Lunch and supper, because he
 was also working crazy hours. He was working on a project which required
 taking over the machines, so they had to schedule their machine time
 from three in the afternoon until midnight, or something. He usually
@@ -1065,7 +1065,7 @@ Yes, it was. In fact, when they proposed this and it got up to the
 Director of Research, who was a Corporate Vice President at that time,
 reporting directly to the Chairman of the Board: When he decided this
 was a good idea, he’d like to make it happen, it still took five months
-or something to get the approvals through \[IBM headquarters at\]
+or something to get the approvals through \IBM headquarters at\
 Armonk.
 
 **Abbate:**
@@ -1127,7 +1127,7 @@ Anyway, he was talking to somebody who’d been working for Computer Usage
 Corporation, which was big at that time—a consulting,
 job-shop-programming–type place—and somehow some mention of it came up,
 and he said, “Oh, I bet the guys I used to work with could use her.” So
-I worked there for a \[while\], also part-time. Not at home—well,
+I worked there for a \while\, also part-time. Not at home—well,
 paper-and-pencil at home, not a home terminal. I would write my
 programming at home, and then bring it in to get it punched and run it
 and stuff, while Carolyn was in nursery school.
@@ -1196,7 +1196,7 @@ Then my husband got a sabbatical. He was teaching up at SUNY Binghamton,
 starting up what they called a “School of Advanced Technology,” a sort
 of computer-related graduate school. I had worked for another contract
 for IBM after the startup, and so I finished that up. We were up there
-\[in Binghamton\], and it was a new place, and Carolyn was starting
+\in Binghamton\, and it was a new place, and Carolyn was starting
 school and stuff, so for the first year we were up there, I did not
 work. The second year we were up there, not only was I interested, but
 Lou was pushing me, because he could see—you know, I would go to the ACM
@@ -1226,9 +1226,9 @@ This was seventy-one, I think, which was another one of these dips.
 Anyway, I went to talk to the people in Owego, and the personnel guy was
 so nice and so glad to see me, because he said, “We’ve now got four
 slots.” Two of them were for RF (which I presume is “Radio Frequency”)
-engineers, and two were for programmer/architect/whatever. But he was so
+engineers, and two were for programmerarchitect/whatever. But he was so
 glad to have any slots that he could hire anybody for; he hadn’t had any
-for a couple years\! \[laughs.\] It’s hard on somebody in personnel who
+for a couple years\! \laughs.\ It’s hard on somebody in personnel who
 would like to hire people.
 
 Of course, I’d never really looked for a job in my life, so I didn’t
@@ -1244,18 +1244,18 @@ went to talk to him, and he was kind of a clown who liked to make a big
 show of things, and he was saying, “There’s somebody I’d like you to
 talk to, but I really shouldn’t do it because I haven’t got a slot, but
 you’d really like him”—going on like this. Well, eventually I did talk
-to the man, who became my manager then: Tom \[Philbin?\], who it turned
+to the man, who became my manager then: Tom \Philbin?\, who it turned
 out had just come to Owego to work on compilers the week before, after
 having spent several years here in Research. I didn’t know him; he
 didn’t know me personally; but he know of me, because he was working
 with all the people that I had worked with for all these years, and he
 knew Lou. He had been working very closely in the group I had left,
-essentially. So he’d heard about me and knew all about me\! \[laughs.\]
+essentially. So he’d heard about me and knew all about me\! \laughs.\
 
 Well, this was on Tuesday, I think, and on Wednesday the personnel guy
 called me to say, “I don’t have anything to say; it’ll be a while, but I
 just wanted you know I haven’t forgotten you, and we’ll get back to
-you.” And Thursday I got an offer—to start Monday\! \[laughs.\] And
+you.” And Thursday I got an offer—to start Monday\! \laughs.\ And
 they really wanted me full-time, not part-time; and they really wanted
 me this Monday, not next Monday; and because they understood I had child
 arrangements to make, they’d understand the first day if I came in a
@@ -1273,15 +1273,15 @@ Did you go back full-time?
 **Haibt:**
 
 Yes. I ended up going back full-time, and worked there for a year. It
-was even more flattering \[to be hired\] because they knew I was only
+was even more flattering \to be hired\ because they knew I was only
 there for a year, because Lou was on sabbatical. In fact, I later found
 out that somebody in the bureaucracy—not the guy I was working for, whom
 I know wouldn’t be one to do something like that—had called Research to
 say that it was clear I would be moving back down here and wanting to
 transfer back to Research, and would Research be willing to take me
 back? And fortunately my friend said, “We’d love it\!” As I said, there
-was a time limit \[for contract work\], there’s no \[permanent
-part-time\] jobs, it’s the way things go.
+was a time limit \for contract work\, there’s no \[permanent
+part-time\ jobs, it’s the way things go.
 
 **Abbate:**
 
@@ -1310,7 +1310,7 @@ So you did another FORTRAN . . .
 
 **Haibt:**
 
-Yet another FORTRAN compiler. I had done \[another\] one—I had managed
+Yet another FORTRAN compiler. I had done \another\ one—I had managed
 one; I hadn’t done it myself—as part of the virtual memory project,
 because we did a system for the machine.
 
@@ -1350,13 +1350,13 @@ Yes. And we had some opinions about how things should be done, and made
 some proposals for developing things in a test situation, where you
 could compare algorithms and ways of doing things and so forth. But
 also, the way they were setting up large programming projects was a very
-linear sort of thing, like you would do a manufacturing line. \[The
-managers’ notion was that\] it was something you knew how to do, and you
+linear sort of thing, like you would do a manufacturing line. \The
+managers’ notion was that\ it was something you knew how to do, and you
 just had to do more of them: you build this part and then you build that
 part; you could schedule everything and you know how long it’s going to
 take. But producing a program is not like running an assembly line. In
 the analogy to the assembly line, there’s the place that duplicates the
-tapes or disks, or prints the manuals; but developing \[software\] is
+tapes or disks, or prints the manuals; but developing \software\ is
 really an invention process, to a large extent. It’s very hard to
 predict, and it’s an iterative thing inherently, was our feeling.
 
@@ -1367,10 +1367,10 @@ How did you think it should be done?
 **Haibt:**
 
 Well, much more realistically. They had charts and processes and
-whatever, and what it boiled down to was, when some date \[was
-reached\], whatever they had was (as we said) “thrown over the wall into
+whatever, and what it boiled down to was, when some date \was
+reached\, whatever they had was (as we said) “thrown over the wall into
 Test.” It was done because the calendar said it was going to be done on
-this date\! \[laughs.\] Some places were extreme: one group wrote the
+this date\! \laughs.\ Some places were extreme: one group wrote the
 code down on paper, and handed it through a window to somebody who
 punched in the cards (at that time they were still using cards), and
 then some other group tested it—and there was no feedback\! So if you
@@ -1383,8 +1383,8 @@ labor?
 
 **Haibt:**
 
-Yes, because it got up to a certain level, and \[the managers thought
-that\] programmers were all interchangeable. Big projects would move
+Yes, because it got up to a certain level, and \the managers thought
+that\ programmers were all interchangeable. Big projects would move
 around, for load balancing or whatever. They would move from one lab to
 another, or from California to Europe or something, and the people
 wouldn’t go with them: just some new set of people had their hats with
@@ -1395,7 +1395,7 @@ not clear how much of it could be documented.) The idea that programmers
 are not equivalent to a typing pool, for example, or an assembly line,
 was not a factor in any management decisions.
 
-It’s an art, not a science—and sometimes a black art\! \[laughs.\] It’s
+It’s an art, not a science—and sometimes a black art\! \laughs.\ It’s
 not cut and dried, and you can’t just drop a big project in the lap of a
 whole new set of people, because it will take a year for them to figure
 out what’s going on. About that time, it would be moved again.
@@ -1424,7 +1424,7 @@ With eight or ten people.
 
 **Haibt:**
 
-Yes. \[I worked for\] several years with programs that tended to be
+Yes. \I worked for\ several years with programs that tended to be
 small, individual things. And now there are casts of hundreds, if not
 thousands\!
 
@@ -1434,7 +1434,7 @@ How are they managed now?
 
 **Haibt:**
 
-Better than they used to be\! \[laughs.\] My daughter is also an IBMer.
+Better than they used to be\! \laughs.\ My daughter is also an IBMer.
 We laugh and say that she didn’t know there was any other way to live.
 She had a terminal at home before she could walk\!
 
@@ -1446,7 +1446,7 @@ Wow\!
 
 You know, both parents doing it; and hearing about it, because we’d talk
 shop a lot. All programmers do—which is hard on non-IBM spouses\!
-\[laughs.\]
+\laughs.\
 
 She’s doing very well. She’s more in the Development Lab, whereas I was
 always in Research. She would have loved to be in Research, but they had
@@ -1478,7 +1478,7 @@ bridge players, chess players, geologists, philosophers—you name it.
 Then there was a period when I think it was much harder. But now I think
 in a lot of places, at least, they’re promoting women much more, at
 least at the lower level. There are a few very visible high-level
-\[women\], but it’s still tremendously unbalanced—even in Research,
+\women\, but it’s still tremendously unbalanced—even in Research,
 where there’s now, I think, a second woman Vice President. There was one
 a couple years ago who moved on to one of the divisions, and now we
 again have one. There are still very few women in research management.
@@ -1494,7 +1494,7 @@ Well, it’s a little hard for me to say. I never thought about it. I
 think partly it was the kind of person I was. I did become a manager
 just before I left and had the baby, but there were very few women in
 management then, and for a long time afterward. I don’t think it was so
-much explicit as just \[that\] we didn’t think about it; and certainly
+much explicit as just \that\ we didn’t think about it; and certainly
 nobody ever encouraged me to speak up or do things. How much of that was
 because I was a woman, and how much of that was because I was such a
 quiet, unaggressive person, I’ll never know.
@@ -1573,7 +1573,7 @@ RISC is “Reduced Instruction Set Computer.”
 
 Yes, Reduced Instruction Set Computer. They wanted a FORTRAN compiler,
 and so I got involved in that, and that became a joint effort with the
-Toronto lab, which was the development lab. So \[the project involved\]
+Toronto lab, which was the development lab. So \the project involved\
 the research ideas and then the development and production.
 
 **Haibt:**
@@ -1632,7 +1632,7 @@ Not really. More of the same.
 
 **Abbate:**
 
-So once you really know compilers, it’s just \[more of the same\].
+So once you really know compilers, it’s just \more of the same\.
 
 **Haibt:**
 
@@ -1662,7 +1662,7 @@ How do you think the field has changed over time?
 
 Well, of course one thing is that you used to know everybody and
 everything—at least superficially—and now, I don’t even know the people
-on this floor\! \[laughs.\] And certainly nobody knows all about
+on this floor\! \laughs.\ And certainly nobody knows all about
 computing. You don’t even know all about compilers. You’re lucky if you
 know all about some little piece of it, because it’s just so much
 bigger. It’s like people who drove cars used to know everything that was
@@ -1716,7 +1716,7 @@ You had mentioned going to ACM meetings . . .
 
 Well, when we were in Binghamton, I would go with Lou to the local ACM
 chapter, sort of keeping my hand in. It was small. I think early on I
-went, for various reasons, to one or two \[meetings\]. I don’t like
+went, for various reasons, to one or two \meetings\. I don’t like
 going to talks, and I was never a good committee person. But that’s
 another instance of having no notions of career advancement. I didn’t
 have anybody who said, “If you want to get ahead, you should make
@@ -1747,7 +1747,7 @@ What do you find the most satisfying aspects of working with computers?
 
 **Haibt:**
 
-The thing I think of, looking back, that I’ve \[enjoyed most\] was doing
+The thing I think of, looking back, that I’ve \enjoyed most\ was doing
 things that people didn’t necessarily think could be done—and working
 with some nice people. The big projects that I mentioned have all had
 that: they were breakthroughs in the computing world, and they were done
@@ -1776,8 +1776,8 @@ So that’s your married name?
 
 **Haibt:**
 
-Yes. \[My maiden name was Lois Mitchell.\] Back then it was occasionally
-done \[to keep one’s maiden name\], but very seldom. And there was also
+Yes. \My maiden name was Lois Mitchell.\ Back then it was occasionally
+done \to keep one’s maiden name\, but very seldom. And there was also
 a Libby Mitchell in our area. She was actually Grace Elizabeth, but of
 course everybody thought “L. Mitchell” was Libby, because she’d been
 around a few years more than I had; and she later in fact joined the
@@ -1818,7 +1818,7 @@ temporary location while they were building this building. We all knew
 everybody there, because there were only forty people or something in
 that building, and I said . . .
 
-\[DISC 2\]
+\DISC 2\
 
 Lou was in Poughkeepsie, so we didn’t have, at that time, the problem of
 being confused with each other. It wasn’t till the combined research
@@ -1836,7 +1836,7 @@ O’Brians. There’s a Kevin O’Brian and a Katherine O’Brian, who are
 husband and wife. They’re going through the same thing. But at least
 O’Brian, people could imagine that there’s more than one of; but they
 couldn’t imagine there was more than one Haibt. They couldn’t really
-quite cope with one\! \[laughs.\]
+quite cope with one\! \laughs.\
 
 **Abbate:**
 
@@ -1921,7 +1921,7 @@ Does your daughter live nearby?
 
 She lives down in Raleigh. She was able to bring her computer and access
 and spend a month with me to help me get it straightened out, and she’s
-been up about once a month—because she has business \[here\]; being at
+been up about once a month—because she has business \here\; being at
 IBM, she has business in Armonk or customers in New York. So she will
 often stay at, as she says, “Chez Mom” for her hotel, or at least spend
 the weekend while she’s here.
@@ -2013,13 +2013,13 @@ Well, it sounds like you’ve had a lot of fun.
 **Haibt:**
 
 Oh, yes\! Until the very end I kept working. I wanted to. The first time
-I became eligible for one of these early retirement incentives, \[I
-thought\], “Why would I want to do that for? What would I like to do?
+I became eligible for one of these early retirement incentives, \I
+thought\, “Why would I want to do that for? What would I like to do?
 I’d like to play with the computer, and do things well; right now I’m
 getting paid very well for doing it, and they update my equipment
 regularly, instead of buying my own. I have fun things to do that are
 going to be useful to somebody. What do I want to retire for?”
-\[laughs.\] And I’ve got nice people that I work with every day and I
+\laughs.\ And I’ve got nice people that I work with every day and I
 enjoy seeing. What would you retire for? To do what you want, spend your
 time with people you enjoy? Why retire? But eventually the time came
 when it was just physically too much. So we’ll see how that plays out.
@@ -2073,7 +2073,7 @@ You felt you were judged on your work?
 Yes, pretty much. But I think, looking back, as far as how to be more
 visible, or gain more status in some sense: probably if I had been a
 male, I would have had more coaching. But I don’t know. It’s very hard
-to tell how much of that was personality and how much \[was gender\].
+to tell how much of that was personality and how much \was gender\.
 I’m sure they were both involved quite a bit.
 
 **Abbate:**
@@ -2187,7 +2187,7 @@ Really\! So that was his idea?
 
 **Haibt:**
 
-No, wait: I think Fran \[Allen\] had just been made a Fellow.
+No, wait: I think Fran \Allen\ had just been made a Fellow.
 
 **Abbate:**
 
@@ -2224,70 +2224,70 @@ Thanks so much for talking with me\!
 
 **Haibt:**
 
-Thank you for listening to me ramble\! \[laughs\]
+Thank you for listening to me ramble\! \laughs\
 
-\[END OF RECORDING\]
+\END OF RECORDING\
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Lois_Haibt&oldid=108604>"
+"<http:/ethw.org/index.php?title=Oral-History:Lois_Haibt&oldid=108604>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Corporations](/Category:Corporations "Category:Corporations")
-* [Computer aided
-  instruction](/Category:Computer_aided_instruction "Category:Computer aided instruction")
-* [Military
-  computing](/Category:Military_computing "Category:Military computing")
-* [Formal
-  languages](/Category:Formal_languages "Category:Formal languages")
-* [Programming](/Category:Programming "Category:Programming")
-* [Programming
-  profession](/Category:Programming_profession "Category:Programming profession")
-* [Computing](/Category:Computing "Category:Computing")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Corporations(Category:Corporations "Category:Corporations")
+* Computer aided
+  instruction(Category:Computer_aided_instruction "Category:Computer aided instruction")
+* Military
+  computing(Category:Military_computing "Category:Military computing")
+* Formal
+  languages(Category:Formal_languages "Category:Formal languages")
+* Programming(Category:Programming "Category:Programming")
+* Programming
+  profession(Category:Programming_profession "Category:Programming profession")
+* Computing(Category:Computing "Category:Computing")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Lois Haibt](#About_Lois_Haibt)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Working for IBM](#Working_for_IBM)
-  * [4\.3 Working on the FORTRAN
-    compiler](#Working_on_the_FORTRAN_compiler)
-  * [4\.4 Experience as a Woman Computer
-    Programmer](#Experience_as_a_Woman_Computer_Programmer)
-  * [4\.5 Details on Programming
-    Projects](#Details_on_Programming_Projects)
-  * [4\.6 Balancing Family Life and
-    Work](#Balancing_Family_Life_and_Work)
-  * [4\.7 Coming Back to IBM Full Time](#Coming_Back_to_IBM_Full_Time)
-  * [4\.8 Reflecting on Women in Computer
-    Programming](#Reflecting_on_Women_in_Computer_Programming)
-  * [4\.9 Working on Other Programming
-    Projects](#Working_on_Other_Programming_Projects)
-  * [4\.10 Reflections on Status of the Field of
-    Computing](#Reflections_on_Status_of_the_Field_of_Computing)
-  * [4\.11 Looking Back on Career in
-    Computing](#Looking_Back_on_Career_in_Computing)
-  * [4\.12 Retirement](#Retirement)
-  * [4\.13 Reflections on Working for
-    IBM](#Reflections_on_Working_for_IBM)
+* 1 About Lois Haibt(#About_Lois_Haibt)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Working for IBM(#Working_for_IBM)
+  * 4\.3 Working on the FORTRAN
+    compiler(#Working_on_the_FORTRAN_compiler)
+  * 4\.4 Experience as a Woman Computer
+    Programmer(#Experience_as_a_Woman_Computer_Programmer)
+  * 4\.5 Details on Programming
+    Projects(#Details_on_Programming_Projects)
+  * 4\.6 Balancing Family Life and
+    Work(#Balancing_Family_Life_and_Work)
+  * 4\.7 Coming Back to IBM Full Time(#Coming_Back_to_IBM_Full_Time)
+  * 4\.8 Reflecting on Women in Computer
+    Programming(#Reflecting_on_Women_in_Computer_Programming)
+  * 4\.9 Working on Other Programming
+    Projects(#Working_on_Other_Programming_Projects)
+  * 4\.10 Reflections on Status of the Field of
+    Computing(#Reflections_on_Status_of_the_Field_of_Computing)
+  * 4\.11 Looking Back on Career in
+    Computing(#Looking_Back_on_Career_in_Computing)
+  * 4\.12 Retirement(#Retirement)
+  * 4\.13 Reflections on Working for
+    IBM(#Reflections_on_Working_for_IBM)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:47\.
 
 * This page has been accessed 3,768 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

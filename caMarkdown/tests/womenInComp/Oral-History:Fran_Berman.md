@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Fran_Berman&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Fran_Berman&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Fran_Berman)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Fran_Berman&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Fran_Berman "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Fran_Berman "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Fran_Berman&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Fran_Berman&oldid=113020 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Fran_Berman&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Fran_Berman)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AFran+Berman)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Fran_Berman&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Fran_Berman&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Fran_Berman)
+  
+  * Discussion(index.php?title=Oral-History_talk:Fran_Berman&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Fran_Berman "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Fran_Berman "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Fran_Berman&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Fran_Berman&oldid=113020 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Fran_Berman&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Fran_Berman)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AFran+Berman)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Fran Berman
@@ -85,7 +85,7 @@ nonstandard models of propositional dynamic logic, and her work has been
 primarily focused on theoretical computer science. She has worked as a
 Computer Science Professor at the University of California, San Diego
 and Director of the San Diego Supercomputer Center. Berman was also the
-inaugural recipient of the IEEE/ACM-CS Ken Kennedy Award in 2009\.
+inaugural recipient of the IEEEACM-CS Ken Kennedy Award in 2009\.
 
 In this interview, Fran Berman reflects on both her education and
 career. Specifically, she considers how she came to be interested in
@@ -325,7 +325,7 @@ So what would that be in terms of technology? Minicomputers?
 
 **Berman:**
 
-No, I think we had cards or something\! I don’t know\! \[laughs.\] I’m
+No, I think we had cards or something\! I don’t know\! \laughs.\ I’m
 not sure. I’m trying to remember the language we used. I think it was
 PASCAL, or something like that, and I remember having some programming
 projects. I didn’t take a lot of programming classes in grad school, but
@@ -411,8 +411,8 @@ three years older than my husband, and when he graduated we were looking
 for a place where I could continue doing what I was doing and he could
 get a good postdoc. So we looked at everything that was good for him and
 everything that was good for me, and we looked at all the places in the
-intersection, and we just interviewed around and ended up here \[at UC
-San Diego\]. This was both of our second choice. My first choice would
+intersection, and we just interviewed around and ended up here \at UC
+San Diego\. This was both of our second choice. My first choice would
 have been to stay at Purdue, because I liked it a lot, and his first
 choice would have been to go up to Stanford and take a postdoc up there;
 so we ended up here.
@@ -464,22 +464,22 @@ science?
 **Berman:**
 
 No, I was not the first woman in the department. The woman before me had
-kind of self-destructed and became an Amway sales person\! \[laughs.\]
-It’s true\! And so there was a lot of \[skepticism\]. I think women are
+kind of self-destructed and became an Amway sales person\! \laughs.\
+It’s true\! And so there was a lot of \skepticism\. I think women are
 often asked to represent their whole gender: so one woman flaked out on
-them, and they thought, “Okay, are women \[in general\] going to flake
-out on me?” So I was the person that was \[supposed\] to prove to them
+them, and they thought, “Okay, are women \in general\ going to flake
+out on me?” So I was the person that was \supposed\ to prove to them
 that women were not going to flake out on them. Now, guys had flaked out
 in the department, too; but no one had expected that it would be a
 problem with another man.
 
 **Abbate:**
 
-“Everyone knows men can do it\!” \[laughs.\]
+“Everyone knows men can do it\!” \laughs.\
 
 **Berman:**
 
-Yes\! \[laughs.\] Actually, people were very welcoming, and they were
+Yes\! \laughs.\ Actually, people were very welcoming, and they were
 quite good. I was the first woman in the Division of Engineering to have
 a baby while I was on the job, and people were very supportive. I would
 say that for the most part—not every single minute of every single day,
@@ -699,7 +699,7 @@ the difference between the power grid and a computational grid is: you
 might get different performance depending on which resources in the grid
 you use. It’s not like you’re going to plug your toaster in and you’re
 going to make better toast depending on which transformer you’re going
-to use \[laughs\], but in some sense, if you’re going to plug your
+to use \laughs\, but in some sense, if you’re going to plug your
 program into the computational grid, you’re going to get better
 performance on some machines than others, depending on how busy they
 are, how fast they are, which libraries are there, where the data
@@ -733,7 +733,7 @@ a reality than it was going to be thirty years ago.
 
 **Berman:**
 
-If you think about it, this is an amazing \[time\]. It’s funny: I’ve
+If you think about it, this is an amazing \time\. It’s funny: I’ve
 just been preparing a talk that I have to give next week, sort of a
 “State of the Grid” talk, to the Global Grid Forum in Scotland; and
 one of the things I was thinking about in preparing my talk is that
@@ -791,10 +791,10 @@ libraries, et cetera. So the idea behind the PACI Program—Partnerships
 for Advanced Computational Infrastructure—is to build these large-scale
 partnerships. They had a competition. At that time there were four
 supercomputer centers, and each of the supercomputer centers submitted a
-partnership proposal, and NSF chose two. SDSC \[San Diego Supercomputer
-Center\] is leading-edge site for one of them, called NPACI: National
+partnership proposal, and NSF chose two. SDSC \San Diego Supercomputer
+Center\ is leading-edge site for one of them, called NPACI: National
 Partnership for Advanced Computational Infrastructure; and NCSA
-\[National Center for Supercomputer Applications\] in Illinois is the
+\National Center for Supercomputer Applications\ in Illinois is the
 leading-edge site for the Alliance, which is the other Partnership for
 Advanced Computational Infrastructure. The Alliance and NPACI both get
 large-scale funding, and we’ve both been getting this for about five
@@ -905,7 +905,7 @@ your presidential library of today could fit on a few CDs as a bunch of
 electronic files. What do you do with that if you want to understand all
 that information fifty years from now? What kind of mechanism are you
 going to use for communication fifty years from now? What’s going to
-happen to your tapes? Now, you’re going to transcribe this \[interview\]
+happen to your tapes? Now, you’re going to transcribe this \interview\
 into stuff that we can keep on electronic media, but say you wanted to
 keep it on tape: what would you do? All of those are issues that people
 look at, and SDSC is large enough scale and is synergistic enough to
@@ -943,14 +943,14 @@ Do you have a vision for it?
 
 **Berman:**
 
-Absolutely\! \[laughs.\] That’s my job. For the last couple of decades
+Absolutely\! \laughs.\ That’s my job. For the last couple of decades
 SDSC was primarily about the Big Machines, what kinds of software do we
 need to build for the big machine, how do we make users able to use the
 big machine profitably. We’re in the Internet age today: everything is
 about distribution and coordination; big machines are important
 components of the mix, but it’s much more coordinated and dynamic. It is
 incumbent on me to take the Supercomputer Center into the Internet Age
-from the Supercomputer Age. \[Drawing on\] my background with grid
+from the Supercomputer Age. \Drawing on\ my background with grid
 computing, and my work with applications scientists, and my own national
 and international contacts, we’re focusing on things that will take us
 into modern cyber-infrastructure. It’s a different thing, but it’s the
@@ -968,7 +968,7 @@ My job is really focused on strategic thinking. It’s very important to
 be looking ahead. What should the Center be doing? What’s the right
 thing? You need political skills, because it’s a highly political job.
 You need a good sense of humor—because a lot of weird stuff happens\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -976,7 +976,7 @@ Do you have an example of those things?
 
 **Berman:**
 
-None I’d like to put on tape\! \[both laugh.\] These jobs are very
+None I’d like to put on tape\! \both laugh.\ These jobs are very
 demanding and highly political, and I think at the uppermost level of
 organizations, things happen because of a mix of people’s vision, of
 people’s energy, of political environments; of what you promise and what
@@ -996,12 +996,12 @@ I think, like all good jobs, you grow on the job. I think that there are
 things that I brought to the job: I think I’m a good leader; I think I’m
 pretty independent; I think I have good political skills and I’m a
 fairly sensitive person. You know, I had no idea how difficult this job
-would be\! \[laughs.\] I had no idea how political this level of
+would be\! \laughs.\ I had no idea how political this level of
 organizational structure would be. And a lot of stuff you just learn by
 doing. You make a lot of mistakes; you hope that none of them are fatal;
 and you just keep doing the best you can. I’m still learning on the job.
 I’ve been on the job about a year and a half now. I think of the first
-year as: I was in the deep end, and I was breathing\! \[laughs.\] Now
+year as: I was in the deep end, and I was breathing\! \laughs.\ Now
 I’m in the deep end and I’m swimming, and I hope to swim even better
 next year. I mean, these are just enormously difficult jobs. You just do
 the best you can.
@@ -1064,12 +1064,12 @@ and said, “Hey, I know where that idea came from.”
 
 **Berman:**
 
-Well there is \[that possibility\], but I think people make choices in
+Well there is \that possibility\, but I think people make choices in
 life. I think I have done things as a researcher that were commercially
 viable, but you can only have so many full-time jobs in your life, and
 between being a full-time academic and a full-time parent . . . Starting
 a company would be another full-time job, so I think being a parent and
-an academic were enough\! \[laughs.\] Although other people do it.
+an academic were enough\! \laughs.\ Although other people do it.
 
 **Abbate:**
 
@@ -1144,7 +1144,7 @@ It averages out.
 **Berman:**
 
 Yes. So for the most part, it hasn’t held me back from the things that I
-have wanted to do. For the most part\! \[laughs.\] I’m the first woman
+have wanted to do. For the most part\! \laughs.\ I’m the first woman
 Supercomputer Center Director ever for the NSF, and I have a different
 leadership style than my colleagues, and I think that people expect that
 they’re going to deal with the Director of the supercomputer in a
@@ -1155,7 +1155,7 @@ make hard decisions; they don’t think you’re necessarily going to have
 vision; they don’t think you’re necessarily credible. One of the things
 that I’ve talked about with some of my colleagues is that a lot of
 times, being a professor, it’s like people assume there’s some different
-job for you—the girl job. \[They think\] that you don’t have to publish
+job for you—the girl job. \They think\ that you don’t have to publish
 as much as anyone else, and your ideas don’t have to be as good as
 anyone else’s; somehow there are different rules that apply to you,
 because you’re nice, or something like that. And in this job, I think
@@ -1175,7 +1175,7 @@ competitive environments all the time, and it’s my job as Director of
 the Center to make sure that SDSC is doing the right thing and being
 successful in these competitive environments. Sometimes I think my
 colleagues go out there, and their mental image is: “Kill the enemy\!”
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1185,7 +1185,7 @@ The “enemy” being the other supercomputer centers?
 
 Well, just whomever you’re competing against in these large-scale
 venues. And I always go out there and I think, “I must protect my
-cubs\!” \[both laugh.\] You know, you have to motivate yourself
+cubs\!” \both laugh.\ You know, you have to motivate yourself
 somehow, and I think, “I can’t go back to the Center not having done
 this for us\!” So I do think I take maybe a different approach than my
 colleagues, but we still have to fight it out in the same venues, and
@@ -1214,7 +1214,7 @@ I don’t know. I watch my own kids, and I watch how they use technology,
 and my son and his friends: they get together and they kill things
 together—you know, Klingons etc.; and that’s fun for them. And my
 daughter never does this stuff. Sometimes my daughter does Neopets
-online. A lot of girls \[do\]. It’s been an interesting thing. We’ve had
+online. A lot of girls \do\. It’s been an interesting thing. We’ve had
 girls come through the Center, and they’re doing these Neopets. I don’t
 know fully what happens, but they’re like . . .
 
@@ -1298,7 +1298,7 @@ from random time series from the sensors on the bridge, figure out when
 to get off the bridge because there’s too many stresses and strains and
 it’s dangerous for people. The fact that computational and data
 management infrastructure provides a way to get to big societal
-problems: for me, it’s just incredibly compelling. \[The computer\] is a
+problems: for me, it’s just incredibly compelling. \The computer\ is a
 really important tool for these societal problems. You think about
 integration of all the database of information that allows you to
 identify a terrorist, or figure out the solution to any hard problem: I
@@ -1337,13 +1337,13 @@ Absolutely. I think it’s pretty important that we pay attention.
 **Abbate:**
 
 I was noticing: I picked up this little recruiting brochure, and it’s
-all women, at least on the first couple of pages. \[Shows recruiting
+all women, at least on the first couple of pages. \Shows recruiting
 brochure for the San Diego Supercomputer Center, titled “IT
-Professionals: The Best Minds in the Best Environment.”\]
+Professionals: The Best Minds in the Best Environment.”\
 
 **Berman:**
 
-What is this? \[Looking at brochure.\]
+What is this? \Looking at brochure.\
 
 **Abbate:**
 
@@ -1352,7 +1352,7 @@ pictures of women on the cover, and I wondered if that was deliberate.
 
 **Berman:**
 
-I’m sure it was\! \[laughs.\] Yes: it says, “Career opportunities,” so I
+I’m sure it was\! \laughs.\ Yes: it says, “Career opportunities,” so I
 think the message here is that it’s really open to everybody at SDSC—and
 it really is. So I guess that’s the message here. Your External
 Relations Department always tries to figure out how to make that message
@@ -1372,7 +1372,7 @@ Do you find that women end up in certain sub-specialties of computing?
 
 **Berman:**
 
-Well, it would be interesting \[to know\]. I’ve always thought that
+Well, it would be interesting \to know\. I’ve always thought that
 there’s rich material for someone from the social sciences, to look at
 where women fall within computer science. Arguably, women are attracted
 to computer science—they’ve all gone through the geek challenge and all
@@ -1387,13 +1387,13 @@ some interesting answers there, but I don’t know what they are.
 **Abbate:**
 
 Yes, it’s an interesting question. Other than the obvious
-hardware/software thing, I don’t see an obvious pattern, and I don’t
+hardwaresoftware thing, I don’t see an obvious pattern, and I don’t
 know if anyone’s counted up the numbers of women in different
-specialties. Maybe I’ll have to do it\! \[laughs.\]
+specialties. Maybe I’ll have to do it\! \laughs.\
 
 **Berman:**
 
-Yes. Maybe this is your \[task\].
+Yes. Maybe this is your \task\.
 
 ### How Computer Science Has Changed
 
@@ -1545,7 +1545,7 @@ intolerance for balance in life: good lip service, but general
 intolerance at the fundamental level. I think that we’re in a culture,
 in America, where we’re in this “excellence-at-all-costs” place, and I
 think that’s hard for professionals at every level. You get a lot of
-kudos from your colleagues for working 24/7, Christmas, holidays,
+kudos from your colleagues for working 247, Christmas, holidays,
 birthdays . . . People think you’re serious if you’re doing that, and
 they kind of expect you to be doing that. I think everybody finds ways
 to get something else in their life at some level, but I think that we
@@ -1553,7 +1553,7 @@ are almost encouraged to be secretive about that, as a general rule in
 our society. When you’re in a more powerful place I think you can say,
 “My daughter’s going to be a spoon today in the school play, and
 that’s where I’m going to be.” So I think that it’s really
-important—it’s incumbent \[on people\] in positions of power—to say,
+important—it’s incumbent \on people\ in positions of power—to say,
 “I get it that you want to spend this time with your daughter—or your
 son, or your mother, or whatever—rather than be at work.” But I do think
 it’s a relatively intolerant society for the balanced lifestyle.
@@ -1601,59 +1601,59 @@ Okay\! So: Thank you so much for talking to me\!
 Thank you\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Fran_Berman&oldid=113020>"
+"<http:/ethw.org/index.php?title=Oral-History:Fran_Berman&oldid=113020>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Computer
-  science](/Category:Computer_science "Category:Computer science")
-* [Parallel
-  processing](/Category:Parallel_processing "Category:Parallel processing")
-* [Home & family](/Category:Home_%26_family "Category:Home & family")
-* [Diversity](/Category:Diversity "Category:Diversity")
-* [Computer science
-  education](/Category:Computer_science_education "Category:Computer science education")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Computer
+  science(Category:Computer_science "Category:Computer science")
+* Parallel
+  processing(Category:Parallel_processing "Category:Parallel processing")
+* Home & family(Category:Home_%26_family "Category:Home & family")
+* Diversity(Category:Diversity "Category:Diversity")
+* Computer science
+  education(Category:Computer_science_education "Category:Computer science education")
 
 ## Contents
 
-* [1 About Fran Berman](#About_Fran_Berman)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Using a Computer for the First
-    Time](#Using_a_Computer_for_the_First_Time)
-  * [4\.3 On Purdue University and UCSD](#On_Purdue_University_and_UCSD)
-  * [4\.4 Being a Woman at UCSD](#Being_a_Woman_at_UCSD)
-  * [4\.5 On Balancing Work and Family](#On_Balancing_Work_and_Family)
-  * [4\.6 On Parallel and Grid
-    Computing](#On_Parallel_and_Grid_Computing)
-  * [4\.7 Working as Head of the NPACI and
-    SDSC](#Working_as_Head_of_the_NPACI_and_SDSC)
-  * [4\.8 On Commercializing Research](#On_Commercializing_Research)
-  * [4\.9 The Treatment of Women in Computer
-    Science](#The_Treatment_of_Women_in_Computer_Science)
-  * [4\.10 Why Computer Science Is
-    Interesting](#Why_Computer_Science_Is_Interesting)
-  * [4\.11 On Bill Birnbaum and
-    Mentorship](#On_Bill_Birnbaum_and_Mentorship)
-  * [4\.12 How Computer Science Has
-    Changed](#How_Computer_Science_Has_Changed)
-  * [4\.13 Advice for Young Women Entering Computer
-    Science](#Advice_for_Young_Women_Entering_Computer_Science)
+* 1 About Fran Berman(#About_Fran_Berman)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Using a Computer for the First
+    Time(#Using_a_Computer_for_the_First_Time)
+  * 4\.3 On Purdue University and UCSD(#On_Purdue_University_and_UCSD)
+  * 4\.4 Being a Woman at UCSD(#Being_a_Woman_at_UCSD)
+  * 4\.5 On Balancing Work and Family(#On_Balancing_Work_and_Family)
+  * 4\.6 On Parallel and Grid
+    Computing(#On_Parallel_and_Grid_Computing)
+  * 4\.7 Working as Head of the NPACI and
+    SDSC(#Working_as_Head_of_the_NPACI_and_SDSC)
+  * 4\.8 On Commercializing Research(#On_Commercializing_Research)
+  * 4\.9 The Treatment of Women in Computer
+    Science(#The_Treatment_of_Women_in_Computer_Science)
+  * 4\.10 Why Computer Science Is
+    Interesting(#Why_Computer_Science_Is_Interesting)
+  * 4\.11 On Bill Birnbaum and
+    Mentorship(#On_Bill_Birnbaum_and_Mentorship)
+  * 4\.12 How Computer Science Has
+    Changed(#How_Computer_Science_Has_Changed)
+  * 4\.13 Advice for Young Women Entering Computer
+    Science(#Advice_for_Young_Women_Entering_Computer_Science)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 12:57\.
 
 * This page has been accessed 726 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

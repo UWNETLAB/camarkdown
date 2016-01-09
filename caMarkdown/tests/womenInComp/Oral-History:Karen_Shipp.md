@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Karen_Shipp&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Karen_Shipp&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Karen_Shipp)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Karen_Shipp&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Karen_Shipp "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Karen_Shipp "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Karen_Shipp&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Karen_Shipp&oldid=113057 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Karen_Shipp&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Karen_Shipp)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AKaren+Shipp)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Karen_Shipp&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Karen_Shipp&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Karen_Shipp)
+  
+  * Discussion(index.php?title=Oral-History_talk:Karen_Shipp&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Karen_Shipp "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Karen_Shipp "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Karen_Shipp&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Karen_Shipp&oldid=113057 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Karen_Shipp&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Karen_Shipp)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AKaren+Shipp)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Karen Shipp
@@ -150,7 +150,7 @@ What did your parents do for a living?
 **Shipp:**
 
 My father was a bank clerk, and he was a part-time fireman. My mother
-was an artist, and she still works as an artist. She’s 79\! \[laughs.\]
+was an artist, and she still works as an artist. She’s 79\! \laughs.\
 It’s interesting: she designs the images on the tapestries that wealthy
 women have made in one-off designs, and it’s actually very like
 pixels—the cells of the tapestry—and it sort of amuses me, because
@@ -185,7 +185,7 @@ think Mary Field was one of the first women who worked on that; I can’t
 remember the names now. Science Films did the very early time-lapse
 photography. I guess she talked about that, and I guess in my family, my
 mother was the more intelligent—or at least that was the family story
-\[laughs\]—of the two. So I certainly grew up not thinking that men were
+\laughs\—of the two. So I certainly grew up not thinking that men were
 more intelligent than women, which is a kind of underlying assumption a
 lot of people do have.
 
@@ -233,8 +233,8 @@ as being interested in that, as a child?
 
 **Shipp:**
 
-No\! \[laughs.\] No, I thought—I mean, when I was small, I thought I was
-going to be a ballet dancer or an artist\! \[laughs.\] And even at about
+No\! \laughs.\ No, I thought—I mean, when I was small, I thought I was
+going to be a ballet dancer or an artist\! \laughs.\ And even at about
 13, 14, I remember . . . Because my parents didn’t have a lot of family
 friends; we didn’t have a lot of people who visited the house. They were
 quite different personalities, and there weren’t family friends that I
@@ -245,7 +245,7 @@ things he could think of—well, his best idea was that I should work for
 fire brigade, and be the woman on the end of the telephone who had a
 little map with the flags, and you know, decides which vehicle should go
 where\! And I thought that I wanted to work in an office, because I knew
-that they had office parties. \[laughs.\] So I didn’t \[know\] at all,
+that they had office parties. \laughs.\ So I didn’t \[know\] at all,
 at that age. It was more what I happened to be good at that kind of
 drove the direction, in a way.
 
@@ -273,7 +273,7 @@ Because this would be around the late ‘60s or early ‘70s.
 
 Yes: It was late ‘60s. So they sort of said science, or accountancy,
 or—for some reason, he was quite keen that I should be a factory
-inspector\! \[laughs.\]
+inspector\! \laughs.\
 
 ### Attending Oxford
 
@@ -330,7 +330,7 @@ It was funny: By the time you get there, you’ve jumped these hurdles,
 and also you’ve become the brightest person—or seen as one of the
 brightest few—in your school; and then you’re suddenly with all these
 other people who are just as bright or brighter, and that’s a kind of
-shock, in a way\! \[laughs.\]
+shock, in a way\! \laughs.\
 
 ### First experiences with Computers
 
@@ -344,13 +344,13 @@ Yes. I didn’t especially enjoy the physics. While I was at school I
 thought, because I was good at maths, that it was theoretical physics
 that I would enjoy; and I didn’t realize how theoretical it could get\!
 I actually think I would have probably been happier doing something even
-more practical, like engineer or architecture. \[Physics\] just didn’t
+more practical, like engineer or architecture. \Physics\ just didn’t
 have the sort of practical sort of footholds to make it interesting.
 There was absolutely no way of applying it to real life or to people. It
 just didn’t capture my interest. So, I did it, and I got a Second, but I
 actually felt when I finished my degree that I knew less. I felt that
 I’d known more when I’d finished my A-levels than when I finished my
-degree\! \[laughs.\]
+degree\! \laughs.\
 
 The first bit of computing I did was before I went to university. I had
 nine months off, and I decided that because this wasn’t my career—this
@@ -375,16 +375,16 @@ to do a Bayesian analysis on this data. It was a World Health
 Organization project, and he’d got psychiatric data from about thirteen
 different centers across the world: he’d got the whole hierarchy of
 symptoms and syndromes, and he’d also got the diagnosis that was made in
-that country. \[John Wing\] was using a sort of logical framework to
+that country. \John Wing\ was using a sort of logical framework to
 arrive at a diagnosis and to compare the computer diagnosis with the
 medical diagnosis, but Bob Hirschfeld wanted to do a statistical
 analysis just based on probabilities of whether, given this set of
 symptoms, you’d end up having that diagnosis; and he wanted to compare
 that, as a diagnostic method, with this logical one. He was programming
-that in [FORTRAN](/FORTRAN "FORTRAN"), and he didn’t manage to finish
+that in FORTRAN(FORTRAN "FORTRAN"), and he didn’t manage to finish
 before his fees ran out and he had to go back, and so they asked me to
 finish off his project—which meant I had to learn FORTRAN in a few days
-\[laughs\], before he went\!
+\laughs\, before he went\!
 
 **Abbate:**
 
@@ -479,7 +479,7 @@ we’re-terribly-intelligent-and-at-the-forefront feeling about the
 people who were in it at all, which I think you do get now. I’ve got a
 friend who works in AI, and he says whenever people ask him what he
 does, that it’s quite predictable that people will say, “Gosh, you must
-be terribly intelligent\!” \[laughs.\] There is that sort of image about
+be terribly intelligent\!” \laughs.\ There is that sort of image about
 it now. But then, it was much more like people rolling their sleeves up
 and getting their hands dirty, and playing, or trying things out, and
 they were just engrossed in it. Well, the Eliza thing was just fun,
@@ -510,8 +510,8 @@ Well . . . I took to programming in FORTRAN because it was very—I could
 see the ways in which it was familiar to algebra, and that seemed
 logical and straightforward and made sense. But it was so slow—this
 having to wait a couple of days, and then, you know, there was some tiny
-slip that you’d made—that the actual computing was quite boring. \[There
-was\] just so much time having to wait that I didn’t really want more of
+slip that you’d made—that the actual computing was quite boring. \There
+was\ just so much time having to wait that I didn’t really want more of
 that. The focus was really on the subject matter.
 
 So when I got to Oxford, there wasn’t computer science, in those days,
@@ -604,7 +604,7 @@ Why did you end up leaving that job?
 **Shipp:**
 
 I went off to . . . I joined a contemplative farming community.
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -620,7 +620,7 @@ number of interests. It was the very early days of interest in
 sustainability and self-sufficiency, and communal living, but also a
 sort of contemplative sort of approach.
 
-So there was no computing there\! \[laughs.\]
+So there was no computing there\! \laughs.\
 
 **Abbate:**
 
@@ -736,7 +736,7 @@ Yes. And that was really good; it was very practical. I could have gone
 and done an M.Sc. at a university, but after Oxford, I had the view
 that—I mean, at Oxford I did a special option in electronics, and it
 was my best paper in the finals—and I didn’t know anything useful about
-electronics\! \[laughs.\] There was just nothing that I could have
+electronics\! \laughs.\ There was just nothing that I could have
 applied of it to ordinary life, or even to a sort of job that involved
 some electronics. So I had the view that universities didn’t teach you
 anything useful, and that polytechnics did; so I deliberately chose to
@@ -769,7 +769,7 @@ which I hadn’t done for at least ten years.
 
 So that was a two-year course, and I was still working in the
 psychiatric rehabilitation center, and I was really beginning to get
-burned out with this very intense contact with \[the patients\], that
+burned out with this very intense contact with \the patients\, that
 sort of put demands on your personality. So I guess I was watching the
 job adverts, and there was an advert for an educational software
 developer here at the Open University. I hadn’t finished the
@@ -781,7 +781,7 @@ assurance; and I took that, not because I wanted to work in quality
 assurance, but as a sort of way into educational software. In fact, it
 wasn’t what most people would think of as QA; it was actually
 troubleshooting the start of the home computing enterprise. I came here
-\[to the Open University\] in ‘87, and a few months later, we were
+\to the Open University\ in ‘87, and a few months later, we were
 starting the first course where every student had to have their own
 computer at home. They had a sort of special offer: they had Amstrad
 1512’s, I think they were called . . .
@@ -796,7 +796,7 @@ Yes. Yes, it was tremendously successful. It was the first
 low-cost—perhaps it was an IBM clone—but it was the first low-cost
 desktop computer. You could get it either with one floppy drive or
 two—no hard disks—and there was some sort of policy as to what
-hardware \[the students\] should have; they didn’t have to have a color
+hardware \the students\ should have; they didn’t have to have a color
 monitor. So it was really troubleshooting the start of that. I did that
 for two or three years, and then moved into software development, and
 did that for another ten years.
@@ -838,14 +838,14 @@ This is in the Computing Center?
 
 **Shipp:**
 
-Yes. And \[they said\] that, you know, they were all men, and they knew
+Yes. And \they said\ that, you know, they were all men, and they knew
 how to get on and manage things in a sort of efficient way, and they
 didn’t want women with their—well, values, I suppose, and emotion and
 relationships.
 
 **Abbate:**
 
-God forbid\! \[both laugh.\]
+God forbid\! \both laugh.\
 
 But they didn’t have pinups or anything?
 
@@ -885,7 +885,7 @@ Oh, there wasn’t anyone else?
 
 That’s right. Later they did. After I’d moved into software development,
 they got one or two more women—all the other people in QA now are women,
-and they have sort of clerical/technical posts. And they do have a few
+and they have sort of clericaltechnical posts. And they do have a few
 women—they did gradually, after me, get more women software developers.
 
 ### Deveoping Educational Software for Open University
@@ -918,7 +918,7 @@ And that’s working one-on-one with the students?
 **Shipp:**
 
 Yes. So you’ll have a group of about fifteen or twenty students, and you
-do tutorials with them, and you mark their \[exams\].
+do tutorials with them, and you mark their \exams\.
 
 **Abbate:**
 
@@ -930,7 +930,7 @@ Yes. Yes, you get to know them really well. Open University students get
 much more individual attention than ordinary university students. It’s
 really interesting. I feel that my students had a sort of
 better—“better” is not the right word—well, they had much better
-quality tuition than I had at Oxford, because what the \[OU\] tutors are
+quality tuition than I had at Oxford, because what the \OU\ tutors are
 interested in is teaching, as opposed to research. Normally, OU tutors
 are quite passionate about teaching, and they’re teaching these adults,
 who are really interesting people and want to learn.
@@ -1016,7 +1016,7 @@ and put it together into a good story. With the first of those packages,
 I think I used Powerpoint to put together a design of the whole teaching
 package and how it would go, and showed it to the Course Team, and we
 discussed it, and then I implemented it—and after that, they just sort
-of left me to get on with it\! \[laughs.\] So that was a really good set
+of left me to get on with it\! \laughs.\ So that was a really good set
 of packages.
 
 **Abbate:**
@@ -1084,7 +1084,7 @@ went on. So there was that development of the ideas about teaching by
 computing; and then the technical implementation side of it was driven
 by the department, really, and so we moved from—initially it was C, and
 then we moved to C with a funny precursor of Windows called GEM
-\[produced by Digital Research Inc.\], and then we moved to C with
+\produced by Digital Research Inc.\, and then we moved to C with
 windows, and then to C++, and then to more integrated . . . I can’t
 think of how to put it; there’s a sort of further development of—the
 early work with C++ was object-oriented, but not to the extent—there was
@@ -1100,7 +1100,7 @@ I don’t. I think some people are using Java, but I didn’t. I had to use
 Delphi for one project, which was interesting, because Delphi’s a
 PASCAL-based language, or system; and I hadn’t used that since my
 postgraduate diploma, so I thought of that as sort of a beginners’
-language\! \[laughs.\] But the actual change to the object-oriented
+language\! \laughs.\ But the actual change to the object-oriented
 methodology I found quite interesting and stimulating, and I had a
 couple of academic friends who were very into that. That sort of
 methodology of how you construct something so that you can deal with
@@ -1111,7 +1111,7 @@ It was like, you know, you’d just got used to using this little tool and
 being really skilled at it, and you’d have to throw it away and get
 another one, and it would slow you down; and I wanted to build things.
 I’m not a languages person, and I felt as if my hard disk was getting
-full\! \[laughs.\] I thought my brain just didn’t have room for any more
+full\! \laughs.\ I thought my brain just didn’t have room for any more
 of these strings of hieroglyphics that one had to keep on relearning.
 And I’d had a very, very demanding project on a third-level
 telecommunications course, which had got into difficulties and I had to
@@ -1206,7 +1206,7 @@ little more about what the content of that is?
 **Shipp:**
 
 Okay, well: I don’t actually know what information systems is\!
-\[laughs.\] But this department is called “Systems.”
+\laughs.\ But this department is called “Systems.”
 
 **Abbate:**
 
@@ -1238,7 +1238,7 @@ interpersonal aspect to it as well.
 
 Because I’m coming from a background in computing, my way in is with the
 focus on information systems. But I tell them that I think they’ve got
-the wrong word\! \[laughs.\] Because to me, “information systems” means
+the wrong word\! \laughs.\ Because to me, “information systems” means
 something slightly different. To me, it’s a branch of computer science,
 and here, I don’t see it as that; I see it as much more at the
 people-organizational end.
@@ -1252,7 +1252,7 @@ they’re categorized in that way from the students’ perspective?
 
 Well, the course that I’ve been involved in in the year that I’ve been
 in this role is a systems course. I can’t remember what it’s called\!
-\[laughs.\] It’s about systems thinking. It’s a second-level course
+\laughs.\ It’s about systems thinking. It’s a second-level course
 about systems thinking, and there’s a third-level course about systems
 practice. The course covers environment and sustainability; it covers
 systems and yourself and your relationships; management in
@@ -1286,7 +1286,7 @@ So it’s still evolving?
 
 **Shipp:**
 
-Yes. And I’m about to—I’m going to do a doctorate\! \[laughs.\]
+Yes. And I’m about to—I’m going to do a doctorate\! \laughs.\
 
 **Abbate:**
 
@@ -1339,13 +1339,13 @@ science?
 Maybe . . . I just don’t have a clear sense of what they mean here by
 “information systems,” because when I did my post-graduate diploma
 (that was before object-oriented programming and—what did they call
-it?—”top-down design”), there were those systems—SADM \[Systems
-Analysis and Design Methods\]—and so there was systems analysis. It was
+it?—”top-down design”), there were those systems—SADM \Systems
+Analysis and Design Methods\—and so there was systems analysis. It was
 a job, actually, wasn’t it? You had Systems Analysts.
 
 **Abbate:**
 
-It was much more of a sort of engineering / math / computer thing—not as
+It was much more of a sort of engineering  math / computer thing—not as
 holistic as what you seem to be describing.
 
 **Shipp:**
@@ -1392,7 +1392,7 @@ congenial.
 **Shipp:**
 
 I’m some kind of member of the British Computer Society, which I don’t
-find of any interest at all\! \[laughs.\] The conferences I used to go
+find of any interest at all\! \laughs.\ The conferences I used to go
 to were to do with computer-assisted learning, and there were two groups
 in the U.K. that have conferences: one has one a year and the other has
 one every other year. Oh, and I went to one conference in the States, on
@@ -1425,14 +1425,14 @@ objects; you should talk about them as if they’re people\! So when I was
 trying to learn to work in an object-oriented way, I sort of consciously
 made myself work in that way. At the beginning of each object I’d say,
 “I am the exercise guru; I know about blah blah blah,” and I’d sort of
-personify them. \[laughs.\] And it seemed absurd, but I just did it,
+personify them. \laughs.\ And it seemed absurd, but I just did it,
 because I wanted to see if this would help; and what I found was that—I
 guess it’s like the cast of a play. You invent these objects and you
 decide what role they’re going to have, and then it’s as if you get to
 know them, as you begin to work on the project; it’s as if they’re
 people that you get to know. So to start with, you’ve invented them; but
 as you go along, new tasks need to be done, and you know who to give it
-to\! \[laughs.\] So there’s this sense of getting to know them—and I’m
+to\! \laughs.\ So there’s this sense of getting to know them—and I’m
 sure that’s how it is with the author of a book or play, this sense of
 getting to know the characters and knowing how they would behave. So
 there’s something about that. It’s almost like creating a team that
@@ -1462,7 +1462,7 @@ that time?
 
 **Shipp:**
 
-Wow\! That’s a big question\! \[laughs.\] How do I think . . . ? Can you
+Wow\! That’s a big question\! \laughs.\ How do I think . . . ? Can you
 say what in particular has changed?
 
 **Abbate:**
@@ -1495,7 +1495,7 @@ mentally clever by writing things that they can’t understand\!” So that
 desire to make it look obscure and difficult and technical seemed to
 pull it back. And then . . .
 
-\[Break in the Recording\]
+\Break in the Recording\
 
 **Abbate:**
 
@@ -1520,7 +1520,7 @@ expensive. So it’s a democratization sort of thing. So I’m quite excited
 about Flash, and I’ve used it a lot, and I’ve been running courses for
 other people in the university, to encourage them to learn to use it and
 to use it in their teaching. So maybe there’s another wave of allowing
-people in—and probably there’ll be a backlash\! \[laughs.\]
+people in—and probably there’ll be a backlash\! \laughs.\
 
 ### General Thoughts on Gender and Technology
 
@@ -1597,7 +1597,7 @@ What was her last name?
 Diana Laurillard. She’s very well known as a researcher in educational
 computing. And she worked on a couple of the early projects that I
 worked on, and I argued with her fiercely quite a lot—and because of
-that, I learned a lot from her\! \[laughs.\]
+that, I learned a lot from her\! \laughs.\
 
 **Abbate:**
 
@@ -1647,7 +1647,7 @@ So you hadn’t met them in person?
 
 **Shipp:**
 
-Yes. \[Tony I worked with\]. We were both working at summer school for a
+Yes. \Tony I worked with\. We were both working at summer school for a
 week, and so I worked with him for a week; and then I saw him
 occasionally, and made friends with his family.
 
@@ -1706,9 +1706,9 @@ Is that sort of inherent in that job, then, that . . .
 **Shipp:**
 
 I think so. I think it’s partly me—but I wasn’t like that in previous
-jobs, so I do have three previous careers \[laughs\] where I wasn’t like
-that\! So I think it is something to do with \[the culture of software
-development\].
+jobs, so I do have three previous careers \laughs\ where I wasn’t like
+that\! So I think it is something to do with \the culture of software
+development\.
 
 **Abbate:**
 
@@ -1730,7 +1730,7 @@ be part of the whole picture. Those insights and interests that a person
 has, which may not seem to be at the core of what their colleagues are
 interested in: to keep ahold of them, and to have confidence that they
 are important and have value, and perhaps to try and find other people
-\[with whom\] they can develop these bits of themselves. It can be such
+\with whom\ they can develop these bits of themselves. It can be such
 a narrowing field of work. I used to have the feeling, when I was in an
 intense programming stage, it was like going down a mental tunnel—that
 the concentration you had to sustain, and the stuff you had to keep in
@@ -1747,59 +1747,59 @@ All right. Thank you very much for doing the interview\!
 Okay\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Karen_Shipp&oldid=113057>"
+"<http:/ethw.org/index.php?title=Oral-History:Karen_Shipp&oldid=113057>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Profession](/Category:Profession "Category:Profession")
-* [Engineering
-  education](/Category:Engineering_education "Category:Engineering education")
-* [Computer science
-  education](/Category:Computer_science_education "Category:Computer science education")
-* [Computation
-  theory](/Category:Computation_theory "Category:Computation theory")
-* [Knowledge based
-  systems](/Category:Knowledge_based_systems "Category:Knowledge based systems")
-* [Computer
-  classes](/Category:Computer_classes "Category:Computer classes")
+* Profession(Category:Profession "Category:Profession")
+* Engineering
+  education(Category:Engineering_education "Category:Engineering education")
+* Computer science
+  education(Category:Computer_science_education "Category:Computer science education")
+* Computation
+  theory(Category:Computation_theory "Category:Computation theory")
+* Knowledge based
+  systems(Category:Knowledge_based_systems "Category:Knowledge based systems")
+* Computer
+  classes(Category:Computer_classes "Category:Computer classes")
 
 ## Contents
 
-* [1 About Karen Shipp](#About_Karen_Shipp)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family and Early Years](#Family_and_Early_Years)
-  * [4\.2 Attending Oxford](#Attending_Oxford)
-  * [4\.3 First experiences with
-    Computers](#First_experiences_with_Computers)
-  * [4\.4 Computers and Education at
-    Oxford](#Computers_and_Education_at_Oxford)
-  * [4\.5 Years after College](#Years_after_College)
-  * [4\.6 Beginning a Career in
-    Computers](#Beginning_a_Career_in_Computers)
-  * [4\.7 Software Developer](#Software_Developer)
-  * [4\.8 Deveoping Educational Software for Open
-    University](#Deveoping_Educational_Software_for_Open_University)
-  * [4\.9 Current Projects](#Current_Projects)
-  * [4\.10 Working as a Systems Researcher and
-    Teacher](#Working_as_a_Systems_Researcher_and_Teacher)
-  * [4\.11 General Experience with
-    Computers](#General_Experience_with_Computers)
-  * [4\.12 General Thoughts on Gender and
-    Technology](#General_Thoughts_on_Gender_and_Technology)
-  * [4\.13 Final Thoughts](#Final_Thoughts)
+* 1 About Karen Shipp(#About_Karen_Shipp)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family and Early Years(#Family_and_Early_Years)
+  * 4\.2 Attending Oxford(#Attending_Oxford)
+  * 4\.3 First experiences with
+    Computers(#First_experiences_with_Computers)
+  * 4\.4 Computers and Education at
+    Oxford(#Computers_and_Education_at_Oxford)
+  * 4\.5 Years after College(#Years_after_College)
+  * 4\.6 Beginning a Career in
+    Computers(#Beginning_a_Career_in_Computers)
+  * 4\.7 Software Developer(#Software_Developer)
+  * 4\.8 Deveoping Educational Software for Open
+    University(#Deveoping_Educational_Software_for_Open_University)
+  * 4\.9 Current Projects(#Current_Projects)
+  * 4\.10 Working as a Systems Researcher and
+    Teacher(#Working_as_a_Systems_Researcher_and_Teacher)
+  * 4\.11 General Experience with
+    Computers(#General_Experience_with_Computers)
+  * 4\.12 General Thoughts on Gender and
+    Technology(#General_Thoughts_on_Gender_and_Technology)
+  * 4\.13 Final Thoughts(#Final_Thoughts)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:08\.
 
 * This page has been accessed 2,182 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

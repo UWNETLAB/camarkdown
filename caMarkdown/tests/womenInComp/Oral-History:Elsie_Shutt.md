@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Elsie_Shutt&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Elsie_Shutt&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Elsie_Shutt)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Elsie_Shutt&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Elsie_Shutt "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Elsie_Shutt "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Elsie_Shutt&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Elsie_Shutt&oldid=113111 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Elsie_Shutt&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Elsie_Shutt)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AElsie+Shutt)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Elsie_Shutt&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Elsie_Shutt&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Elsie_Shutt)
+  
+  * Discussion(index.php?title=Oral-History_talk:Elsie_Shutt&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Elsie_Shutt "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Elsie_Shutt "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Elsie_Shutt&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Elsie_Shutt&oldid=113111 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Elsie_Shutt&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Elsie_Shutt)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AElsie+Shutt)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Elsie Shutt
@@ -229,7 +229,7 @@ you know you wanted to . .
 **Shutt:**
 
 No, I always was headed toward Eastern. There were co-ed high schools,
-\[but\] they did not have quite the same academic standing as Eastern,
+\but\ they did not have quite the same academic standing as Eastern,
 Western, Poly, and City. The course that I took at Eastern High School
 was an academic course; most of the people in it were headed for
 college. Most of them were headed for Goucher College.
@@ -278,7 +278,7 @@ did my best friend; it wasn’t that unusual.
 
 That’s why I ended up so young. I was always the youngest one in every
 group, or among the youngest in every group. And I find difficulty now
-in realizing I’m usually the oldest\! \[laughs\] You kind of get used to
+in realizing I’m usually the oldest\! \laughs\ You kind of get used to
 being the youngest, or among the younger.
 
 **Abbate:**
@@ -317,7 +317,7 @@ He was in graduate school when I was. Some of his songs were oriented
 toward the graduate school things, like the Physical Reviews, and so
 those are songs which don’t have a popular appeal; but one of them was
 something about how “In math, you can do research while lying in bed\!”
-\[laughs.\] Not fiddling with lab work; a non-lab science, that was the
+\laughs.\ Not fiddling with lab work; a non-lab science, that was the
 idea. I wasn’t crazy about labs.
 
 **Abbate:**
@@ -348,8 +348,8 @@ I could never have afforded to go to graduate school, but my math
 professor urged me to apply, and I got it. It paid full tuition for
 graduate school, and something for living also; a little bit extra. I
 don’t know when it was that they said that I had it; I hadn’t applied
-\[to graduate programs\] anywhere. But once I had that, I was able to go
-\[almost anywhere\]. In those days it wasn’t as hard to get into places
+\to graduate programs\ anywhere. But once I had that, I was able to go
+\almost anywhere\. In those days it wasn’t as hard to get into places
 as it is now\! I liked astronomy, and I was sort of tempted to go to the
 University of Michigan to take math and astronomy, but somehow I ended
 up at Radcliffe. Everyone seemed to feel that was the best place.
@@ -388,13 +388,13 @@ female undergraduates?
 
 **Shutt:**
 
-The graduate courses were not segregated, \[although\] the finals were.
+The graduate courses were not segregated, \although\ the finals were.
 Radcliffe had the honor system, and Harvard’s exams were proctored, and
 so we’d take a course at Harvard, and then when it came to the final, we
 went over to the Radcliffe Yard and took our exams there. I remember one
 of my very good friends took logic with Professor Quine, and there was
-an error printed in the exam, and they forgot she was over there \[in
-Radcliffe Yard\]—she was the only woman in the class—and so she didn’t
+an error printed in the exam, and they forgot she was over there \in
+Radcliffe Yard\—she was the only woman in the class—and so she didn’t
 know about the error. Oh, we were very upset, and she was very upset.
 
 **Abbate:**
@@ -435,11 +435,11 @@ Novak?
 
 **Abbate:**
 
-As if there couldn’t be more than one woman\! \[laughs\]
+As if there couldn’t be more than one woman\! \laughs\
 
 **Shutt:**
 
-No, that was the woman\! \[laughs\]
+No, that was the woman\! \laughs\
 
 **Abbate:**
 
@@ -449,7 +449,7 @@ though, when you were there.
 **Shutt:**
 
 The first year, there were about four or five of us, yes. By the time I
-got to be a candidate for the doctorate, there was \[only\] one other.
+got to be a candidate for the doctorate, there was \only\ one other.
 And the math professors were a little bit awkward about dealing with us,
 I think. They were intimidated. There were a lot of things that didn’t
 worry me that probably should have; didn’t bother me. I mean they
@@ -470,7 +470,7 @@ majored in math usually got jobs at desk calculators, and there were a
 lot of women hired at the Aberdeen Proving Grounds during World War II.
 They sat at their desks and prepared bombing tables, or something or
 other. The government was hiring math majors, and my friend Johanna
-\[Luke\] and I went out there. (She’s the one who gave you my name;
+\Luke\ and I went out there. (She’s the one who gave you my name;
 she’s in California now. We went through high school and college
 together, and she was also a math major.) We went together to be
 interviewed at the Aberdeen Proving Grounds, and the person who
@@ -479,7 +479,7 @@ thought then that I would like to learn that.
 
 **Abbate:**
 
-Really? So right away you \[were interested in computers\].
+Really? So right away you \were interested in computers\.
 
 **Shutt:**
 
@@ -501,12 +501,12 @@ calculators were now programming ENIAC, and ORDVAC, and EDVAC. But
 that’s because it was left over from the war; it was the “Rosie the
 Riveter syndrome” still.
 
-Now, as the men came back—and programming was an interesting job—\[the
-men did begin taking programming jobs.\] The desk calculating thing was
+Now, as the men came back—and programming was an interesting job—\the
+men did begin taking programming jobs.\ The desk calculating thing was
 “women’s work”: you needed to be careful and patient, and not very
 creative; you had to be willing to just sit and crunch the machine, and
 fill in the blanks. It was not nearly as interesting as programming.
-That \[desk calculating\] was considered women’s work, I think.
+That \desk calculating\ was considered women’s work, I think.
 
 **Abbate:**
 
@@ -515,14 +515,14 @@ Now, in 1952, you were doing programming?
 **Shutt:**
 
 I programmed the ORDVAC, which was a new computer they had, newer than
-ENIAC and easier to program, because \[with\] ENIAC you had to actually
-change the wiring. I mean, you had to build the program in\! \[With\]
+ENIAC and easier to program, because \with\ ENIAC you had to actually
+change the wiring. I mean, you had to build the program in\! \With\
 ORDVAC, we had a memory map, which was a piece of paper with squares on
 it, and we decided what locations we wanted to put our various data in,
 and if it was an address that you were going to access very often, you
 would leave the addresses of the cells around it blank, because
-sometimes things would spill over \[from one memory location to an
-adjacent one\].
+sometimes things would spill over \from one memory location to an
+adjacent one\.
 
 **Abbate:**
 
@@ -569,10 +569,10 @@ Clippinger. I didn’t know him that well that summer, but after I got
 back from France, and Phil and I got married and I decided not to go
 back and finish graduate school—at least not then; I needed a job—I
 discovered that Dick Clippinger was working at
-[Raytheon](/Raytheon "Raytheon"). He had been caught up in the
+Raytheon(Raytheon "Raytheon"). He had been caught up in the
 McCarthy-era problem: a lot of those people had lost their clearance,
 and Raytheon took them in. We were located in a building on Main Street
-in Waltham, \[Massachusetts,\] which was not the main part of Raytheon
+in Waltham, \Massachusetts,\ which was not the main part of Raytheon
 that had guards and so forth, because he had no security. But I
 discovered he was up here, and I remembered that he had told me to come
 see him if I wanted a job, so I went to see him at Raytheon. That was my
@@ -581,8 +581,8 @@ first full-time job.
 He had to fight to get his clearance restored. He did; he managed to;
 but it was really a very sad time. The Clippingers were building a home
 down in Havre de Grace, which is near to Aberdeen, and he was planning
-to stay there forever, I think. He was a friend of [John von
-Neumann](/John_von_Neumann "John von Neumann"), and von Neumann actually
+to stay there forever, I think. He was a friend of John von
+Neumann(John_von_Neumann "John von Neumann"), and von Neumann actually
 was one of the people who testified at his hearing.
 
 **Abbate:**
@@ -600,10 +600,10 @@ story.
 
 ### Studying in France
 
-I stayed in graduate school \[after the summer at Aberdeen\]. After I
+I stayed in graduate school \after the summer at Aberdeen\. After I
 had the teaching fellowship, I applied for a Fulbright and got that too.
 I’ve been very fortunate all my life: I apply for things and get them\!
-\[laughs.\] And so I went to study math in France.
+\laughs.\ And so I went to study math in France.
 
 **Abbate:**
 
@@ -611,7 +611,7 @@ What made you want to do that?
 
 **Shutt:**
 
-Well, I wanted to go to Europe\! \[But also,\] the kind of math that I
+Well, I wanted to go to Europe\! \But also,\ the kind of math that I
 liked was set theory, algebra, modern algebra, that kind of thing; and
 during World War II, the Bourbaki existed in France. Do you know about
 the Bourbaki?
@@ -643,7 +643,7 @@ Which was what?
 
 **Shutt:**
 
-It was set theory; modern \[algebra\]: what they called “new math” when
+It was set theory; modern \algebra\: what they called “new math” when
 it filtered down into the schools.
 
 So I went to Nancy, and what happened was—you know, in France, you want
@@ -656,7 +656,7 @@ attend it. That was really the only thing I had to do while I was there:
 go to the seminar, which lasted all day Saturday. Between Saturdays I
 was free, and the Fulbright living stipend was ample to do all kinds of
 things; we had much more than the French students did. So I traveled a
-lot\! \[Laughs.\]
+lot\! \Laughs.\
 
 **Abbate:**
 
@@ -688,8 +688,8 @@ So you already . . .
 Yes, we were pretty much decided to be married. I might not even have
 gone, except that Phil said, “You’d better.” When I got the Fulbright,
 he said, “We’re not going to get married till you come home.” Because I
-think he thought \[that otherwise\] he’d hear about it all his life—and
-he’s probably right\! \[laughs.\] It was a very wise move on his part.
+think he thought \that otherwise\ he’d hear about it all his life—and
+he’s probably right\! \laughs.\ It was a very wise move on his part.
 
 **Abbate:**
 
@@ -697,11 +697,11 @@ That was forward-thinking.
 
 **Shutt:**
 
-Yes. \[He didn’t want me to say,\] “I gave up that Fulbright for you\!”
+Yes. \He didn’t want me to say,\ “I gave up that Fulbright for you\!”
 
 So yes, we hadn’t announced that we were engaged, but we did announce it
 at Easter while I was in Europe and he was here—which surprised some
-people, like our parents\! \[laughs.\] Phil needed to get a job, too. He
+people, like our parents\! \laughs.\ Phil needed to get a job, too. He
 got a job at Raytheon, and so did I.
 
 **Abbate:**
@@ -731,7 +731,7 @@ dormitory, and we did not eat with the other graduate students. The
 Radcliffe graduate students ate at the Episcopal Theological Seminary
 Refectory on Garden Street. It looked like what I would call a
 refectory—it had dark wood paneling—and the theological students
-didn’t speak to us, and we didn’t speak to them. \[laughs.\]
+didn’t speak to us, and we didn’t speak to them. \laughs.\
 
 **Abbate:**
 
@@ -748,13 +748,13 @@ time a graduate dining hall for Harvard. She was a chemistry graduate
 student. She crashed Vanserg several times. There were a few women in
 there. But we were supposed to eat at the Theological Seminary.
 
-I don’t know \[why it was so awkward\]: I guess we were shy, and they
+I don’t know \why it was so awkward\: I guess we were shy, and they
 were shy; or they probably didn’t like having the Radcliffe women there,
 I don’t know. Some of them were married; some of them had wives who ate
 with them. I remember one day, one of the theological students
 approached our table, and we got really very excited—we thought they
 would speak to us. And he asked us if any of us would like to babysit\!
-\[laughs.\]
+\laughs.\
 
 So my first year of graduate school was . . . Well, I made lots of good
 friends among the women in the dorm, and so forth. I’m still friendly
@@ -803,7 +803,7 @@ earlier about not being able to give me a class to teach.
 
 One of the math professors gave a party for teaching fellows every year,
 and the year I was a teaching fellow it was a stag party\! I wasn’t
-invited. \[laughs.\] Funny, isn’t it?
+invited. \laughs.\ Funny, isn’t it?
 
 **Abbate:**
 
@@ -813,7 +813,7 @@ In retrospect, I guess.
 
 At the time, it didn’t bother me. I was shy; I didn’t want to go. But
 they called me—some of my friends called me from the party, to tease
-me\! \[laughs\] So if you wonder if things have changed: they have.
+me\! \laughs\ So if you wonder if things have changed: they have.
 They’ve changed a lot.
 
 ### Starting Career as a Programmer
@@ -850,7 +850,7 @@ on software for that.
 
 During those years when I was working—that would be from ‘53 to ‘57—we
 used assembly programs at first, and the first compiler for
-[FORTRAN](/FORTRAN "FORTRAN") became available during that time. We
+FORTRAN(FORTRAN "FORTRAN") became available during that time. We
 didn’t think we wanted to learn it, because it was too far from the
 computer; you didn’t know what was really going on. But while they were
 waiting for Raycom to be finished, in order to keep that department
@@ -858,7 +858,7 @@ viable, they did computing services for outside customers. One of the
 customers that we worked for was the Army Corps of Engineers, and it was
 a program to simulate the dams and dam-flow on the Missouri River: flood
 control. It was a flood-control thing, and that was to be written in
-[Univac](/UNIVAC "UNIVAC").
+Univac(UNIVAC "UNIVAC").
 
 Univac was a one-address computer. We were used to four addresses, three
 or four addresses, where every order had the address, two data
@@ -907,7 +907,7 @@ you’d look at everything. It was all in octal, of course, and you’d read
 the lights. You’d display the various accumulators, and see if what was
 there was what was supposed to be there. We were very proficient in
 octal arithmetic. We had a desk calculator that worked in octal.
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -929,7 +929,7 @@ Usually. Oh, we were so excited . . .
 You were asking about women: By that time, in Clippinger’s department at
 Raytheon, it was about 50 percent men and 50 percent women—and it really
 amazed me that these men were programmers, because I thought it was
-women’s work\! Isn’t that interesting? The women who were there \[were\]
+women’s work\! Isn’t that interesting? The women who were there \were\
 women who had learned to program in that first wave, which I was in at
 Aberdeen.
 
@@ -937,7 +937,7 @@ We were very proud of that flood control program. UNIVAC had steel
 magnetic tapes, and they were housed in tape units with great heavy
 glass doors on them—and if you ever saw a tape break, you’d understand
 why they were housed in something with good heavy doors\! Well, if a
-steel tape broke, it \[gestures as if tape is flying through the air\].
+steel tape broke, it \gestures as if tape is flying through the air\.
 
 **Abbate:**
 
@@ -950,7 +950,7 @@ tapes, and we wrote from Tape A to Tape B while we were rewinding Tape
 C, and then we would move from B to C while we were rewinding A. We were
 so excited when we saw how that worked—it was wonderful\! You had to pay
 a lot of attention to the timing in those days. The Univac had mercury
-delay memory, and \[when\] you would write your program, you would
+delay memory, and \when\ you would write your program, you would
 optimize it in such a way that the next piece of data you wanted would
 be coming along that tube, so you wouldn’t have to wait. The same was
 true of the IBM machines—we did optimum programming for them too. What
@@ -958,8 +958,8 @@ we would do was write the program, and then decide where to put the data
 so that the next thing that was available would be what you wanted.
 That’s a lost art; you don’t have to do that anymore\! And of course,
 moving tapes was slow, so that if you had this thing where you could be
-rewinding one tape on free time while you were waiting, \[it would save
-time.\]
+rewinding one tape on free time while you were waiting, \it would save
+time.\
 
 And the other thing that I remember about programming in those days that
 is so different—completely different: we had to pay a lot of attention
@@ -1001,7 +1001,7 @@ Did you like working on the IBM machines? Was that easier?
 
 **Shutt:**
 
-I liked Univac. \[pause\] I don’t know. I’ve programmed so many
+I liked Univac. \pause\ I don’t know. I’ve programmed so many
 different computers, I’ve learned so many different languages, and
 that’s exciting to me. I like that. That’s one of the things I’ve
 enjoyed about having my own company, because if I’d worked at one place,
@@ -1022,7 +1022,7 @@ What are the decrements and increments?
 **Shutt:**
 
 Indexes; indexing. Orders were indexed, so that when you did this, the
-address would change by—would be decremented by—\[some amount\]. They
+address would change by—would be decremented by—\some amount\. They
 were index registers. That was a new concept to me.
 
 Typically we would program, and get the programs all done, and then go
@@ -1062,8 +1062,8 @@ That was when you were freelancing?
 **Shutt:**
 
 I was freelancing. I had a baby. Elaine Kamowitz in the meantime also
-had a baby\! \[laughs\] She had been working full-time there. And
-Barbara Wade had a baby too. And I said \[to Honeywell\], “Why don’t
+had a baby\! \laughs\ She had been working full-time there. And
+Barbara Wade had a baby too. And I said \to Honeywell\, “Why don’t
 you—if you subcontract to me, and to Elaine, and to Barbara, the three
 of us could work on it.” And they couldn’t do it; it was too much
 subcontracting. So that’s why we incorporated. I incorporated and hired
@@ -1072,7 +1072,7 @@ them.
 **Abbate:**
 
 I see. If it was just you, you could have just been freelancing, but to
-get several people together, it made more sense \[to incorporate\].
+get several people together, it made more sense \to incorporate\.
 
 **Shutt:**
 
@@ -1085,7 +1085,7 @@ The first work I got was from people who were recommended to me by the
 place where I used to work, and then it was a question of, we had done
 something for such-and-such a group and such-and-such a person, and they
 liked what we did, so they would recommend us. So we didn’t have to do
-anything more \[to generate business\] than just that. Just
+anything more \to generate business\ than just that. Just
 word-of-mouth is how we got started.
 
 **Abbate:**
@@ -1110,20 +1110,20 @@ This was the client’s computer?
 
 Not always. There were companies that had mainframes. There was a
 computer installation that we used to go to, above some stores in Fresh
-Pond \[a neighborhood of Cambridge, MA\]. They had a mainframe, and they
+Pond \a neighborhood of Cambridge, MA\. They had a mainframe, and they
 rented time on it. That’s what they did. They didn’t have any
 programmers; they just had the people to maintain the computer. I also
 rented time on the G.E. computer in Lynn. I rented time on a computer at
-Avco in Wilmington, \[Massachusetts\]. Most of these big companies that
+Avco in Wilmington, \Massachusetts\. Most of these big companies that
 had mainframes were very anxious to keep those computers running, and
-they would use them themselves during prime time and rent them \[during
-non-peak hours\]. It was a long drive: I remember having a flat tire at
-one o’clock in the morning once, coming back from there. \[laughs\]
+they would use them themselves during prime time and rent them \during
+non-peak hours\. It was a long drive: I remember having a flat tire at
+one o’clock in the morning once, coming back from there. \laughs\
 
 **Abbate:**
 
-You must have worked late hours to get the cheap rates \[for the
-computer\].
+You must have worked late hours to get the cheap rates \for the
+computer\.
 
 **Shutt:**
 
@@ -1134,7 +1134,7 @@ when they were young, and I was. So in the summer there’d be swimming
 lessons at the beach, and I’d go sit on the beach with the children, and
 come home and have supper and get them ready for bed and go in to the
 computer. You have to have a husband who thinks it’s a good idea too . .
-. \[laughs\] That’s very important\!
+. \laughs\ That’s very important\!
 
 **Abbate:**
 
@@ -1173,7 +1173,7 @@ going.
 
 You were meeting the needs of women with children. I’m wondering: Was
 this as much about intelligent women wanting challenges and
-satisfactions from work as \[it was about them\] needing money from
+satisfactions from work as \it was about them\ needing money from
 working?
 
 **Shutt:**
@@ -1186,7 +1186,7 @@ But I’ll tell you about that in a minute.
 
 Initially, it was mostly—almost entirely, in fact—applied mathematics.
 
-\[Elsie Shutt’s family enters the room.\]
+\Elsie Shutt’s family enters the room.\
 
 Hi, this is my son John. And this is my husband Philip. You’re on tape\!
 
@@ -1194,7 +1194,7 @@ Hi, this is my son John. And this is my husband Philip. You’re on tape\!
 
 Hello, how do you do?
 
-\[Back to interview.\]
+\Back to interview.\
 
 **Shutt:**
 
@@ -1205,7 +1205,7 @@ answer and a wrong answer, and you see it if you get the right answer.
 You have to have enough test problems so that you know you’ve gone
 through all the various paths. You drew a flow chart, you designed your
 test program and test data in such a way that every branch would be gone
-through, and then you put it on \[the computer\] and tested it. And if
+through, and then you put it on \the computer\ and tested it. And if
 you didn’t get the right answer, or if it hung up somewhere in the
 middle, you did whatever was necessary to find out what was wrong. But
 if you could get these things to work, then you could be pretty sure you
@@ -1216,7 +1216,7 @@ supplement their incomes so much as to make it possible to stay up to
 date in a rapidly changing field, so that when the children were grown
 and left, you could go back to a career. Because you can imagine how
 much things changed between 1957, when my first child was born, and—when
-was it that my last child left? \[laughs.\] Well, he might leave some
+was it that my last child left? \laughs.\ Well, he might leave some
 day\! Those were years when there were many changes, and we just wanted
 to keep active in the field.
 
@@ -1296,7 +1296,7 @@ it?
 
 **Shutt:**
 
-    [Pauses to think.] It just grew.
+    Pauses to think. It just grew.
 
 **Abbate:**
 
@@ -1323,7 +1323,7 @@ trivialize—that we would not be able to do it because we were just
 women, or we would be working at home and taking care of children at the
 same time, and therefore it would not be professional. And then there
 were people who thought it was fine. The people who didn’t think it was
-fine obviously didn’t hire us\! \[laughs.\] So I think definitely there
+fine obviously didn’t hire us\! \laughs.\ So I think definitely there
 would have been prejudice, but we found people who thought it was great.
 People heard about us and called us, but it was always sort of word of
 mouth.
@@ -1372,7 +1372,7 @@ a job with the Air Force at Hanscom Field, ray-tracing applications. We
 had something we did for one of the people we knew at Harvard, which we
 wrote for Univac; and then rewrote it for a 7090 at MIT; and then
 rewrote it for a 7090 or 709 or something out at University of
-Rochester—same program; and rewrote it for a PC \[for the Air Force\].
+Rochester—same program; and rewrote it for a PC \for the Air Force\.
 
 **Abbate:**
 
@@ -1414,8 +1414,8 @@ applications.”
 As I said, most of our work in the past had been from people who knew
 we’d done this, or knew we did that, or mentioned it to somebody, or
 heard about it; somebody at MIT had mentioned it in a lecture, that
-there was a group of women who programmed. So \[laughing at her abrupt
-change of strategy\] we called Data General—you know Data General? They
+there was a group of women who programmed. So \laughing at her abrupt
+change of strategy\ we called Data General—you know Data General? They
 had a computer, a mini—the Nova—and they didn’t have any programming
 support. Digital did. Digital had programmers; Data General didn’t—I
 mean, they didn’t have customer support programmers. So we just called
@@ -1428,7 +1428,7 @@ application.
 
 The way we got that was to bid quite low. For something like a couple
 thousand dollars, we wrote a program that sent bills to the mothers and
-fathers\! \[laughs.\] I felt a little guilty about that. We went from
+fathers\! \laughs.\ I felt a little guilty about that. We went from
 that to their academic records. We generated report cards and calculated
 grade-point averages, and then we did their payroll for them. Their
 payroll was very interesting, because they had students who were working
@@ -1454,7 +1454,7 @@ Was that your first COBOL job?
 **Shutt:**
 
 That was our first COBOL. We hated it\! Oh, we hated it. But after you’d
-been using it a while, it kind of grew on you. \[laughs.\] It’s a
+been using it a while, it kind of grew on you. \laughs.\ It’s a
 wonderful compiler; it does a lot of error-checking.
 
 How did we get the Harvard job? Barbara Wade, who has been working for
@@ -1490,9 +1490,9 @@ woman who wanted so badly to learn to program, and managed to learn it
 with us, eventually went into a full-time job. I can’t say that they
 planned it, but maybe they did; I don’t know. I don’t know quite how to
 answer that. We certainly had people who worked for us when they needed
-to work part time, and then went out \[into full-time jobs\]. But I have
+to work part time, and then went out \into full-time jobs\. But I have
 a good feeling about that; I think they were able to go out into work
-that they could never have done \[otherwise\]. We have a young woman
+that they could never have done \otherwise\. We have a young woman
 working for us now who has gotten a lot of good experience with us. I’m
 not sure that the work she’s doing is going to last as long as she’s
 going to want to work, but she’s got database experience now that will
@@ -1573,7 +1573,7 @@ How do you think Comp Inc. has changed over the years?
 
 **Shutt:**
 
-Has changed? \[pauses\] You know, interestingly enough, I don’t think
+Has changed? \pauses\ You know, interestingly enough, I don’t think
 it’s changed a whole lot. The field has changed. Certainly it has
 changed in that when we work for someone now, they usually provide us
 with office space, and we work there, and we are away from home during
@@ -1658,7 +1658,7 @@ to us, and that’s a nice feeling. There are people who have had much
 more creative and meaningful things to do than they would have
 otherwise, and that’s a nice feeling. And we still enjoy the work. I
 enjoy it; Elaine enjoys it. Elaine decided a couple years ago she was
-going to retire, but she changed her mind\! \[laughs.\] I think I’ll
+going to retire, but she changed her mind\! \laughs.\ I think I’ll
 miss it. I think I’ll miss it, but . . .
 
 ### Work and Family
@@ -1674,8 +1674,8 @@ mentioned somewhere else that your mother had helped out, I guess in the
 
 Yes, when my mother retired from her work she moved up here, and she had
 an apartment on the common in Harvard, and my children used to walk home
-and stop and get a little sustenance on the way home from school. \[To
-her son:\] Right, John?
+and stop and get a little sustenance on the way home from school. \To
+her son:\ Right, John?
 
 **Abbate:**
 
@@ -1691,8 +1691,8 @@ of my children every Wednesday, for at least part of the day—sometimes
 at her home, sometimes here. This was before my mother retired. I had
 her signed up for every Wednesday, so that if someone called and said,
 “Can you come in? I have a job,” I’d say, “I can come in on
-Wednesday.” I wouldn’t have to say \[here she adopts a very tentative
-voice\]: “I’ll see if I can arrange a baby sitter.” So that—and the fact
+Wednesday.” I wouldn’t have to say \here she adopts a very tentative
+voice\: “I’ll see if I can arrange a baby sitter.” So that—and the fact
 that I went to the computer at night—that was good enough. Once a week
 was good enough.
 
@@ -1726,12 +1726,12 @@ I was just asking about . . .
 Child care, availability of child care. I think what we need is day care
 centers in the companies; that’s so important. Someone asked me, if I
 were forty years younger, what would I do? I probably would keep
-working, and send my children \[to day care\]—if there were day care in
+working, and send my children \to day care\—if there were day care in
 the company. . . . I don’t know. I read an interview with Eleanor
 Roosevelt, whom I very much admired, when my children were little. They
 said, “Mrs. Roosevelt, what would you do differently if you had your
 life to live over again?” And she said, “I’d spend more time with my
-children when they were little,” and I thought, “Aha\!” \[laughs.\]
+children when they were little,” and I thought, “Aha\!” \laughs.\
 
 **Abbate:**
 
@@ -1779,8 +1779,8 @@ going to go have children and leave, and I don’t think that prejudice is
 there as much today, because there are enough women in higher-level
 places who have children who are still working. They let you work right
 up to the day before your baby’s born now, too. I had to stop three
-months ahead; it was a state law. So I stopped—and got some jobs \[on my
-own\]\! \[laughs.\] I guess that would be my answer. The thing that I
+months ahead; it was a state law. So I stopped—and got some jobs \on my
+own\\! \laughs.\] I guess that would be my answer. The thing that I
 say that surprises everyone is that I thought it was a woman’s field at
 first, and I do think it was. And then men discovered that it was really
 interesting.
@@ -1827,12 +1827,12 @@ today?
 
 I would say: Go after it\! Don’t be afraid to major in something in
 college that will lead you to this. I think if there have been fewer
-women than men \[in computing\], it’s because they’ve been discouraged
+women than men \in computing\, it’s because they’ve been discouraged
 back at the education level—from majoring in math, or engineering, or
 computer science.
 
 It’s fascinating work, and they should certainly not hesitate to do it.
-You can work for yourself; you can try that. I did\! \[laughs\] That can
+You can work for yourself; you can try that. I did\! \laughs\ That can
 work, too.
 
 **Abbate:**
@@ -1840,58 +1840,58 @@ work, too.
 Thank you very much.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Elsie_Shutt&oldid=113111>"
+"<http:/ethw.org/index.php?title=Oral-History:Elsie_Shutt&oldid=113111>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Business](/Category:Business "Category:Business")
-* [Customer relationship
-  management](/Category:Customer_relationship_management "Category:Customer relationship management")
-* [Computer
-  industry](/Category:Computer_industry "Category:Computer industry")
-* [Software & software
-  engineering](/Category:Software_%26_software_engineering "Category:Software & software engineering")
-* [Software tools](/Category:Software_tools "Category:Software tools")
-* [Education](/Category:Education "Category:Education")
-* [Educational
-  institutions](/Category:Educational_institutions "Category:Educational institutions")
+* Business(Category:Business "Category:Business")
+* Customer relationship
+  management(Category:Customer_relationship_management "Category:Customer relationship management")
+* Computer
+  industry(Category:Computer_industry "Category:Computer industry")
+* Software & software
+  engineering(Category:Software_%26_software_engineering "Category:Software & software engineering")
+* Software tools(Category:Software_tools "Category:Software tools")
+* Education(Category:Education "Category:Education")
+* Educational
+  institutions(Category:Educational_institutions "Category:Educational institutions")
 
 ## Contents
 
-* [1 About Elsie Shutt](#About_Elsie_Shutt)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family Background and Early
-    Education](#Family_Background_and_Early_Education)
-  * [4\.2 Going to College](#Going_to_College)
-  * [4\.3 Graduate School](#Graduate_School)
-  * [4\.4 First Interaction with
-    Computers](#First_Interaction_with_Computers)
-  * [4\.5 Studying in France](#Studying_in_France)
-  * [4\.6 Starting Career as a
-    Programmer](#Starting_Career_as_a_Programmer)
-  * [4\.7 Beginning as a Freelancer and Developing her own
-    Business](#Beginning_as_a_Freelancer_and_Developing_her_own_Business)
-  * [4\.8 Benefits for the Women Hired](#Benefits_for_the_Women_Hired)
-  * [4\.9 Finding and Working with
-    Clients](#Finding_and_Working_with_Clients)
-  * [4\.10 Computer Recession in the
-    1970s](#Computer_Recession_in_the_1970s)
-  * [4\.11 How the Industry has changed](#How_the_Industry_has_changed)
-  * [4\.12 Work and Family](#Work_and_Family)
-  * [4\.13 Women and Technology Today](#Women_and_Technology_Today)
+* 1 About Elsie Shutt(#About_Elsie_Shutt)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family Background and Early
+    Education(#Family_Background_and_Early_Education)
+  * 4\.2 Going to College(#Going_to_College)
+  * 4\.3 Graduate School(#Graduate_School)
+  * 4\.4 First Interaction with
+    Computers(#First_Interaction_with_Computers)
+  * 4\.5 Studying in France(#Studying_in_France)
+  * 4\.6 Starting Career as a
+    Programmer(#Starting_Career_as_a_Programmer)
+  * 4\.7 Beginning as a Freelancer and Developing her own
+    Business(#Beginning_as_a_Freelancer_and_Developing_her_own_Business)
+  * 4\.8 Benefits for the Women Hired(#Benefits_for_the_Women_Hired)
+  * 4\.9 Finding and Working with
+    Clients(#Finding_and_Working_with_Clients)
+  * 4\.10 Computer Recession in the
+    1970s(#Computer_Recession_in_the_1970s)
+  * 4\.11 How the Industry has changed(#How_the_Industry_has_changed)
+  * 4\.12 Work and Family(#Work_and_Family)
+  * 4\.13 Women and Technology Today(#Women_and_Technology_Today)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:13\.
 
 * This page has been accessed 4,802 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

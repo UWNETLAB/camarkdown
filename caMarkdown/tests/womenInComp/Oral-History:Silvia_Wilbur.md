@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Silvia_Wilbur&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Silvia_Wilbur&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Silvia_Wilbur)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Silvia_Wilbur&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Silvia_Wilbur "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Silvia_Wilbur "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Silvia_Wilbur&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Silvia_Wilbur&oldid=108714 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Silvia_Wilbur&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Silvia_Wilbur)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ASilvia+Wilbur)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Silvia_Wilbur&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Silvia_Wilbur&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Silvia_Wilbur)
+  
+  * Discussion(index.php?title=Oral-History_talk:Silvia_Wilbur&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Silvia_Wilbur "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Silvia_Wilbur "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Silvia_Wilbur&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Silvia_Wilbur&oldid=108714 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Silvia_Wilbur&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Silvia_Wilbur)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ASilvia+Wilbur)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Silvia Wilbur
@@ -133,8 +133,8 @@ Center, Hoboken, NJ, USA.
 ## Interview
 
 INTERVIEW: Sylvia Wilbur INTERVIEWER: Janet Abbate DATE: 4 April 2001
-PLACE: Sylvia Wilbur’s office at Queen Mary College in London \[Notes
-courtesy of interviewer Janet Abbate\]
+PLACE: Sylvia Wilbur’s office at Queen Mary College in London \Notes
+courtesy of interviewer Janet Abbate\
 
 ### Humble Beginnings
 
@@ -155,7 +155,7 @@ Where did you grow up, and what did your parents do for a living?
 
 I grew up in Bromford in Essex, which is about 12 miles to the east of
 London. My parents were working class; my father worked in the London
-Docks. Is that enough? \[laughs.\]
+Docks. Is that enough? \laughs.\
 
 **Abbate:**
 
@@ -219,7 +219,7 @@ Were you interested in math and science as a child?
 I was always good at maths; but my friends weren’t - and I think I was
 influenced by that, as you are, as a teenager: If your friends don’t
 think something is cool, then you don’t think it is, either\!
-\[laughs.\] So I really didn’t pursue maths very much, although I was
+\laughs.\ So I really didn’t pursue maths very much, although I was
 good at it, the extent to which I did it. I did O Levels, which is kind
 of...exams at 16\. And I got a good grade at maths; but as I say, I
 didn’t pursue it any further, really.
@@ -233,7 +233,7 @@ cool? Or nobody did...
 
 Well certainly, in my school, it was very traditional. Girls really did
 more kind of art subjects. If you wanted a career, it was teaching or
-teaching\! \[laughs.\] And that was about it\!—unless you were good at
+teaching\! \laughs.\ And that was about it\!—unless you were good at
 music, or something. And nobody ever talked to me about the possibility
 of what careers were open to me; so when I left school, I just went into
 an office. And that was it.
@@ -249,7 +249,7 @@ That was some kind of local job?
 In London, in East London, yes. The City of London, yes. So I was just
 a. . . I took some typing lessons, I became a secretary - not a
 secretary, a clerk-typist: you know, doing odd things in an office. And
-that was it: my life\! \[laughs.\]
+that was it: my life\! \laughs.\
 
 **Abbate:**
 
@@ -282,12 +282,12 @@ Was that where you met him?
 
 **Wilbur:**
 
-No, no\! I met him at a dance, as was common then. \[laughs.\] Life has
+No, no\! I met him at a dance, as was common then. \laughs.\ Life has
 changed so much\!
 
 **Abbate:**
 
-I don’t know if it’s changed that much\! \[laughs.\]
+I don’t know if it’s changed that much\! \laughs.\
 
 **Wilbur:**
 
@@ -335,7 +335,7 @@ I see.
 **Wilbur:**
 
 So I’d been doing this about six weeks, and I found I was starting to
-correct the students’ programs\! \[laughs.\]
+correct the students’ programs\! \laughs.\
 
 **Abbate:**
 
@@ -349,7 +349,7 @@ forget the “END,” you notice that, and you put it in for them; or if
 they put in the opening quotation marks and forget the closing ones. You
 know, you start to notice the syntax. And then I started to understand
 what was going on in the program. And then I thought to myself, “I could
-do this\!” \[laughs.\] So, I determined that I would, you see; and that
+do this\!” \laughs.\ So, I determined that I would, you see; and that
 was the start.
 
 I decided I needed to educate myself further, if I was going to have a
@@ -419,7 +419,7 @@ And then you got the degree in ‘74?
 **Wilbur:**
 
 Yes, that’s right. And that was the year I moved to University College.
-So I got thoroughly bored with COBOL programming\! \[laughs.\]
+So I got thoroughly bored with COBOL programming\! \laughs.\
 
 **Abbate:**
 
@@ -451,7 +451,7 @@ Was it Computer Science, or Mathematics—what was it at that point?
 
 **Wilbur:**
 
-It was. . . At that time, it was Computer Science/Statistics; they were
+It was. . . At that time, it was Computer ScienceStatistics; they were
 combined with the statistics department, but later on it just became a
 Computer Science department.
 
@@ -489,7 +489,7 @@ Yes.
 **Wilbur:**
 
 Right\! Okay, so you know about all this. So we had this TIP, and I
-think it was a \[DEC\] PDP-9, I believe; and we had to program it, in
+think it was a \DEC\ PDP-9, I believe; and we had to program it, in
 order to have a local connection. And the connection was via - I think
 it was a satellite link in Norway, and then over to the States, yes?
 
@@ -541,9 +541,9 @@ afford that - and they used it that way.
 
 So we had people. . . I remember one of the projects. I actually have
 the paper here; I brought it along in case you were interested in
-looking at it. This is a paper I wrote back in ‘76 on it. \[Produces a
+looking at it. This is a paper I wrote back in ‘76 on it. \Produces a
 copy of: Sylvia B. Wilbur, “Description and Analysis of the Use of the
-UCL ARPANET Node During 1976\.” INDRA Note No. 602, 3 March 1977\.\] One
+UCL ARPANET Node During 1976\.” INDRA Note No. 602, 3 March 1977\.\ One
 of the projects was to do with collecting seismic data, and analyzing
 it. Now, prior to this link to the ARPANET, people in the U.K. who were
 collecting seismic data used to store it on a tape, and then send it
@@ -558,7 +558,7 @@ particularly in the physics community, where it was so clear - despite
 the problems, despite the fact that the link was a bit unreliable, and
 you’d get this noise, and so forth - despite all of those things, one
 could see the potential for collaboration, and how this was going to
-change things. So yes, it was a great time\! \[laughs.\]
+change things. So yes, it was a great time\! \laughs.\
 
 ### Developing Networks
 
@@ -570,8 +570,8 @@ You must have learned a lot about networking.
 
 Yes, I did\! Yes. Yes. And of course that was totally new to me. I
 hadn’t even had the concept. I mean, networking in general was very
-new at that time. We had no local networks. I think BT \[British
-Telecom\] was kind of experimenting a little bit, and other parts of
+new at that time. We had no local networks. I think BT \British
+Telecom\ was kind of experimenting a little bit, and other parts of
 Europe—but this was the first time I’d encountered it, and, yes, it was
 a revelation. I’ve never ceased to be inspired, really, by networks,
 although I kind of went away from them a bit in the middle of my career.
@@ -608,17 +608,17 @@ make a break.
 
 **Abbate:**
 
-Where did you end up after that? Did you come here to QMC \[Queen Mary
-College\]?
+Where did you end up after that? Did you come here to QMC \Queen Mary
+College\?
 
 **Wilbur:**
 
 No, no. I spent a year in an examinations board where they were setting
 up a computer system. At the time I moved there, I thought this would be
-a challenge, but in fact it was a very big mistake\! \[laughs.\] So a
+a challenge, but in fact it was a very big mistake\! \laughs.\ So a
 year later I left, and I took up a post as a Lecturer in the University
 of East London, where I’d started out as a punch girl. So that was quite
-nice\! \[laughs.\]
+nice\! \laughs.\
 
 **Abbate:**
 
@@ -628,7 +628,7 @@ you?
 **Wilbur:**
 
 Yes. And they used to stop me in the corridor, and say, “Well, what are
-you doing now?” \[laughs.\] Yes\!
+you doing now?” \laughs.\ Yes\!
 
 **Abbate:**
 
@@ -768,8 +768,8 @@ to try and achieve the same effects that they have in face-to-face
 meetings. So, the first CSCW project was asynchronous collaboration,
 where people collaborated by messaging, yes? The second one was about
 communicating in real time over networks; so that was really interesting
-stuff. I got to go over to a workshop in Palo Alto, at [Xerox
-PARC](/Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")
+stuff. I got to go over to a workshop in Palo Alto, at Xerox
+PARC(Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")
 - and that again was another kind of door opening for me, because I met
 people there, and I’ve maintained some of those collaborative links even
 now. I’m still working with people at Lucent, which is a kind of a
@@ -806,7 +806,7 @@ or something?
 
 Yes\! That’s right, yes. Initially based on analog connections. We were
 over in the old building at the time, in these kind of antiquated
-Victorian rooms \[laughs\] with antiquated wiring and electricity, and
+Victorian rooms \laughs\ with antiquated wiring and electricity, and
 high ceilings. And so I created this kind of multimedia environment.
 There were all kinds of problems\! - because it was analog, and
 interference, and echo: all kinds of things went wrong. But we got it
@@ -894,7 +894,7 @@ you know?
 
 Invasive, I would think. And you could just kind of leave your badge on
 the desk and go off for a few hours: “Oh yes, she’s working\!”
-\[laughs\]
+\laughs\
 
 **Wilbur:**
 
@@ -924,7 +924,7 @@ her name from that.
 
 Well, Hilary Buxton has done very well. She’s a professor down at -
 Surrey, I think; or is it Sussex? Anyway, I’m sure you could find her.
-She’s not as old as me \[laughs\], but I think she probably comes into
+She’s not as old as me \laughs\, but I think she probably comes into
 your time frame. But both she and I were interested in trying to attract
 more women into computing; so we used to hold these workshops where we
 invited girls from the local schools to come into the college, and we
@@ -948,7 +948,7 @@ enough. We did it for a while. We can’t afford the resources any
 longer.” So it stopped. And it wasn’t clear what the benefits were,
 anyway. A lot of people had tried these workshops - with mixed claims
 about the results: but there was no direct evidence that they actually
-encouraged girls to come into computing\! \[laughs\]
+encouraged girls to come into computing\! \laughs\
 
 Well, one day, when I was doing my stuff with video communication
 research, I had this idea that maybe we could use video communication to
@@ -992,7 +992,7 @@ female; and we, at our peak, managed about 30 percent. And certainly
 some of those women, I know, have gone on to establish good careers. So
 that’s something that we’ve always been quite proud of. It’s rather
 fallen by the wayside in the last few years, because Hilary left, and I
-kind of took early retirement, and Jean \[Dollimore\]—Jean wasn’t
+kind of took early retirement, and Jean \Dollimore\—Jean wasn’t
 involved so much, but Jean left; so there weren’t so many women around
 to drive it forward. And we have some new, younger women now. I don’t
 know whether they’ll carry the flag.
@@ -1004,7 +1004,7 @@ On the faculty, you mean?
 **Wilbur:**
 
 In here, in the department, yes. It’s nice to see some young women
-coming in\! \[laughs.\] Because I was getting rather worried, because
+coming in\! \laughs.\ Because I was getting rather worried, because
 although we were well-represented in the department, we were all getting
 rather elderly; and I thought, “Well, you know, we need some young women
 to come through\!” And they are starting to come through now, yes.
@@ -1052,7 +1052,7 @@ Not at any place you worked?
 
 **Wilbur:**
 
-\[pause.\] Not serious, no. But I think I’ve been fortunate. I’m sure
+\pause.\ Not serious, no. But I think I’ve been fortunate. I’m sure
 there are a lot of women who do encounter that.
 
 **Abbate:**
@@ -1069,7 +1069,7 @@ So you think they’re fairly welcoming for women.
 
 **Wilbur:**
 
-I think they’re more welcoming than industry, yes. \[laughs.\] But I
+I think they’re more welcoming than industry, yes. \laughs.\ But I
 also believe that you have to. . . I don’t believe in actually
 “protecting” women, or making it easy for them because of it. I think
 if we’re going to change the way things are, then we have to do it
@@ -1077,7 +1077,7 @@ ourselves, and we have to somehow acquire more self-confidence, more
 ability to stand up for ourselves and stand up for our rights, and to
 not accept rubbish from men. I’m firmly convinced of that\! It’s we that
 have to change. We can’t wait for men to change - because they have no
-interest in changing, to be truthful\! \[laughs\] A Vision for the
+interest in changing, to be truthful\! \laughs\ A Vision for the
 Teaching of Computer Science
 
 **Abbate:**
@@ -1125,13 +1125,13 @@ Have you also been active in professional societies?
 **Wilbur:**
 
 Not particularly. One of my problems has always been shortage of time
-\[laughs\]—because I’ve done a lot of studying, you know: after I got my
+\laughs\—because I’ve done a lot of studying, you know: after I got my
 B.Sc., I got my M.Sc., all in my own spare time; and because I have a
 family, who also mean a lot to me; and I have hobbies. And because I
 work long hours: I worked, on average, sixty hours a week for many, many
 years. It doesn’t leave an awful lot of time for doing the more kind of
 professional work. Had I got to the level of Professor, I probably would
-have done, you know, as Heather \[Liddell\] has done. But, because I
+have done, you know, as Heather \Liddell\ has done. But, because I
 started my career late, I didn’t. I was 36 when I got my degree, and in
 my early 40s, I think, when I became a Lecturer. Because I started late,
 I never got to be a Professor, I think; so I never got on to that stage
@@ -1153,7 +1153,7 @@ Two children.
 
 **Wilbur:**
 
-Yes. With great difficulty\! \[laughs\]
+Yes. With great difficulty\! \laughs\
 
 **Abbate:**
 
@@ -1161,7 +1161,7 @@ Work and family: How did that work?
 
 **Wilbur:**
 
-Great difficulty, yes\! \[laughing\] I don’t know; I’ve always been
+Great difficulty, yes\! \laughing\ I don’t know; I’ve always been
 fortunate in that I have a lot of stamina, and I can work long hours,
 and I can juggle lots of things. And when I was. . . I remember quite
 clearly, when I was studying for my first degree, I used to do that
@@ -1169,7 +1169,7 @@ while I was kind of with the children, looking at the television;
 because my first husband wasn’t at all helpful, and he would go off
 upstairs and do his bit of studying, but I would be stuck with the
 children, so I would be kind of doing a bit of maths while kind of
-talking to the children\! \[laughs.\] So I guess I learned to kind of
+talking to the children\! \laughs.\ So I guess I learned to kind of
 multiprogram in my head quite well\! That marriage didn’t last very
 long. Well, it lasted 17 years, but I remarried when I went to
 University College.
@@ -1203,7 +1203,7 @@ Are your children also interested in computing?
 
 **Wilbur:**
 
-No. \[laughs.\] But their children are\!
+No. \laughs.\ But their children are\!
 
 **Abbate:**
 
@@ -1248,11 +1248,11 @@ He’s now Head of Department in computer science, yes.
 
 **Abbate:**
 
-So no wonder your children want to strike out on their own\! \[laughs.\]
+So no wonder your children want to strike out on their own\! \laughs.\
 
 **Wilbur:**
 
-Yes\! \[laughs.\]
+Yes\! \laughs.\
 
 **Abbate:**
 
@@ -1274,7 +1274,7 @@ We don’t have a kind of formal mentor system here. I’ve tried very hard
 both to encourage - to encourage female students and female staff who
 are in the department. They don’t rely on my encouragement, because they
 have their own ideas anyway\! But insofar as I can help them, I will do
-it. \[laughs\]
+it. \laughs\
 
 But I have tried very much to help the female students, both in tutoring
 them and when they’ve had problems. To what extent I am able to, I will
@@ -1290,7 +1290,7 @@ computing?
 Yes. Don’t expect it to be easy; expect it to be tough; expect to come
 across problems - but just keep going\! Yes. And you’ll have a really
 worthwhile, rewarding, and exciting, and interesting career\!
-\[laughs.\] It never ceases to excite me and interest me - because it’s
+\laughs.\ It never ceases to excite me and interest me - because it’s
 progressing all the time; it doesn’t get boring; it doesn’t get stale.
 And there are so many opportunities, if you only just look for them\!
 
@@ -1307,7 +1307,7 @@ Yes. Because I like change, and because it offers so many challenges,
 and I like challenges. So you can’t just sit back. If you want an easy
 life, okay, you could be a programmer, I suppose—you know, in an office
 or something; but it won’t be interesting. Coding can be excessively
-boring, if you do it for years on end\! \[laughs\]
+boring, if you do it for years on end\! \laughs\
 
 **Abbate:**
 
@@ -1315,7 +1315,7 @@ I guess you’ve seen both sides of that\!
 
 **Wilbur:**
 
-\[laughs.\] Yes\! That’s right, yes.
+\laughs.\ Yes\! That’s right, yes.
 
 ### Noting the Changes in the Field
 
@@ -1336,7 +1336,7 @@ And I think there is a bad side to this, as well as a good side; and we
 have to be very much aware of the potential dangers. This kind of image
 of everybody just staying indoors, and doing all their shopping via the
 Internet, and just using chat rooms or email to chat with their friends,
-and never going outside \[laughs\] - the kind of extreme image that’s
+and never going outside \laughs\ - the kind of extreme image that’s
 sometimes portrayed, I think is a quite terrifying one, because we all
 need personal interaction with other people; we all need to be part of
 things, you know. So we have to be very much aware of the dangers, but
@@ -1378,7 +1378,7 @@ other stuff. The applications...
 
 Yes, that’s right. It’s about how people work; and about organizations,
 how they function; and that whole nature of work. . . All kinds of
-interesting stuff\! \[laughs.\]
+interesting stuff\! \laughs.\
 
 **Abbate:**
 
@@ -1391,7 +1391,7 @@ machines, and being in a room with a machine all day...
 Yes\! And that’s what puts a lot of girls off. Yes. They think it’s just
 about poring over a machine, and looking a mess, and working all hours,
 and not talking to people. And being antisocial - because that’s the
-kind of image that’s often portrayed\! \[laughs.\]
+kind of image that’s often portrayed\! \laughs.\
 
 **Abbate:**
 
@@ -1437,7 +1437,7 @@ and encouraging them. Yes. Certainly. I think that’s true, yes. Whenever
 I get - I’ve been to many conferences, both academic conferences and
 conferences where people from industry go, and I’m . . . .
 
-\[TAPE 1, SIDE 2\]
+\TAPE 1, SIDE 2\
 
 **Wilbur:**
 
@@ -1511,7 +1511,7 @@ a result of that.
 
 **Wilbur:**
 
-Right\! Yes\! \[laughs\]
+Right\! Yes\! \laughs\
 
 **Abbate:**
 
@@ -1527,7 +1527,7 @@ disappointing, but I don’t know. And in my darkest moments I think,
 “Well, maybe it’s wrong to try and get more women into the industry,
 anyway, because some of them have such a hard time; maybe they’re better
 off going off into other areas.” But I don’t think that very often\!
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -1622,59 +1622,59 @@ Thank you so much for talking to me\!
 Okay\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Silvia_Wilbur&oldid=108714>"
+"<http:/ethw.org/index.php?title=Oral-History:Silvia_Wilbur&oldid=108714>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Engineering and
-  society](/Category:Engineering_and_society "Category:Engineering and society")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Engineering and
+  society(Category:Engineering_and_society "Category:Engineering and society")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Silvia Wilbur](#About_Silvia_Wilbur)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Humble Beginnings](#Humble_Beginnings)
-  * [4\.2 A Clerk-Typist](#A_Clerk-Typist)
-  * [4\.3 Learning to Program](#Learning_to_Program)
-  * [4\.4 Programming in COBOL](#Programming_in_COBOL)
-  * [4\.5 1974, the ARPNET Project at University
-    College](#1974.2C_the_ARPNET_Project_at_University_College)
-  * [4\.6 Sending the First Emails in the
-    UK](#Sending_the_First_Emails_in_the_UK)
-  * [4\.7 Developing Networks](#Developing_Networks)
-  * [4\.8 Lecturer in the University of East
-    London](#Lecturer_in_the_University_of_East_London)
-  * [4\.9 1986, Developing Computer-Supported Cooperative
-    Work](#1986.2C_Developing_Computer-Supported_Cooperative_Work)
-  * [4\.10 Creating a Virtual Coffee
-    room](#Creating_a_Virtual_Coffee_room)
-  * [4\.11 Women Into Computing
-    Workshops](#Women_Into_Computing_Workshops)
-  * [4\.12 Women in Academia](#Women_in_Academia)
-  * [4\.13 Work – Life Balance](#Work_.E2.80.93_Life_Balance)
-  * [4\.14 The Most Satisfying thing About
-    Computing](#The_Most_Satisfying_thing_About_Computing)
-  * [4\.15 Noting the Changes in the
-    Field](#Noting_the_Changes_in_the_Field)
-  * [4\.16 Women’s Difficulty to Move beyond the Lectureship
-    Level](#Women.E2.80.99s_Difficulty_to_Move_beyond_the_Lectureship_Level)
+* 1 About Silvia Wilbur(#About_Silvia_Wilbur)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Humble Beginnings(#Humble_Beginnings)
+  * 4\.2 A Clerk-Typist(#A_Clerk-Typist)
+  * 4\.3 Learning to Program(#Learning_to_Program)
+  * 4\.4 Programming in COBOL(#Programming_in_COBOL)
+  * 4\.5 1974, the ARPNET Project at University
+    College(#1974.2C_the_ARPNET_Project_at_University_College)
+  * 4\.6 Sending the First Emails in the
+    UK(#Sending_the_First_Emails_in_the_UK)
+  * 4\.7 Developing Networks(#Developing_Networks)
+  * 4\.8 Lecturer in the University of East
+    London(#Lecturer_in_the_University_of_East_London)
+  * 4\.9 1986, Developing Computer-Supported Cooperative
+    Work(#1986.2C_Developing_Computer-Supported_Cooperative_Work)
+  * 4\.10 Creating a Virtual Coffee
+    room(#Creating_a_Virtual_Coffee_room)
+  * 4\.11 Women Into Computing
+    Workshops(#Women_Into_Computing_Workshops)
+  * 4\.12 Women in Academia(#Women_in_Academia)
+  * 4\.13 Work – Life Balance(#Work_.E2.80.93_Life_Balance)
+  * 4\.14 The Most Satisfying thing About
+    Computing(#The_Most_Satisfying_thing_About_Computing)
+  * 4\.15 Noting the Changes in the
+    Field(#Noting_the_Changes_in_the_Field)
+  * 4\.16 Women’s Difficulty to Move beyond the Lectureship
+    Level(#Women.E2.80.99s_Difficulty_to_Move_beyond_the_Lectureship_Level)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:49\.
 
 * This page has been accessed 2,629 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

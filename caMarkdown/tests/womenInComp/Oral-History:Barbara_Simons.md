@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Barbara_Simons&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Barbara_Simons&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Barbara_Simons)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Barbara_Simons&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Barbara_Simons "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Barbara_Simons "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Barbara_Simons&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Barbara_Simons&oldid=120962 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Barbara_Simons&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Barbara_Simons)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ABarbara+Simons)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Barbara_Simons&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Barbara_Simons&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Barbara_Simons)
+  
+  * Discussion(index.php?title=Oral-History_talk:Barbara_Simons&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Barbara_Simons "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Barbara_Simons "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Barbara_Simons&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Barbara_Simons&oldid=120962 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Barbara_Simons&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Barbara_Simons)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ABarbara+Simons)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Barbara Simons
@@ -240,8 +240,8 @@ there were a number of black kids there. It’s the only time in my life
 when I’ve really been in a reasonably integrated environment, when I had
 some significant number of black friends. Also, I just assumed that all
 public schools had copies of Greek and Roman statues in the halls\!
-\[laughs.\] With fig leaves, of course; they wouldn’t have had them
-without. \[laughs.\]
+\laughs.\ With fig leaves, of course; they wouldn’t have had them
+without. \laughs.\
 
 **Abbate:**
 
@@ -266,7 +266,7 @@ Were you particularly drawn to math or science in school?
 
 **Simons:**
 
-Yes. When I was younger, I was a really lousy student \[laughs\], and
+Yes. When I was younger, I was a really lousy student \laughs\, and
 even when I got to be a bit older, I wasn’t so good; but I discovered
 that arithmetic, and then algebra, was just really easy. I remember when
 I went to take algebra in the eighth grade, I heard from everybody about
@@ -299,7 +299,7 @@ leg in the middle of the year, and she came back and was just shocked at
 the horrible state we were all in. I went to college shortly after that,
 and I have to confess that even though I have a Ph.D. in theoretical
 computer science, my calculus background is much spottier than it should
-be\! \[laughs.\]
+be\! \laughs.\
 
 **Abbate:**
 
@@ -361,9 +361,9 @@ and didn’t have much money—although my mother also got college
 education. She almost got a Master’s Degree, which was a bit unusual
 back then, when she went to school in the thirties.
 
-I hated Wellesley\! \[laughs.\] I’d never been in an all-women’s school,
+I hated Wellesley\! \laughs.\ I’d never been in an all-women’s school,
 and I felt stuck out in the middle of nowhere. I mean, it was beautiful,
-but I didn’t like it. My freshman year, I took a junior/senior math
+but I didn’t like it. My freshman year, I took a juniorsenior math
 class (although I probably shouldn’t have done that; I wasn’t very good
 at it ) because I’d already had calculus, supposedly. Actually, the main
 reason I did that was: When I first went to Wellesley, my parents moved
@@ -380,13 +380,13 @@ bright person.
 
 We went out a little bit and didn’t hit it off too much, and we stopped
 seeing each other, and then I ran into him again; but before we stopped
-seeing each other, he encouraged me to take this junior/senior math
+seeing each other, he encouraged me to take this juniorsenior math
 class. He said, “Oh, you should be taking analysis\! You’ve done
 calculus; take analysis.” It took me a long time to get the hang of
 analysis. It was a struggle, but I got a B; it wasn’t disgraceful. But
 meanwhile, the other young women in the class were thinking that I was
 just this brain, because I was this little freshman taking a
-junior/senior math classes.
+juniorsenior math classes.
 
 Anyway, I ran into Jim again the beginning of my second semester, when I
 switched dorms. I ended up in a dorm where there was this woman from
@@ -427,7 +427,7 @@ Wow\! So you continued as an undergrad at Berkeley all that time?
 Well, my daughter was born in September; so I finished my sophomore
 year, and I went to summer school quite pregnant. So: Liz was born, and
 I think I took off the semester she was born. Then I went back to school
-part-time, and Jim would stay back \[in the apartment\] and baby-sit
+part-time, and Jim would stay back \in the apartment\ and baby-sit
 when I’d go to school. He was doing research anyway.
 
 At the end of that year, he got his Ph.D., and he won a special
@@ -491,7 +491,7 @@ at the time. Jim went to work that day, saw the students there, talked
 to his boss, and said, “I really don’t think you should arrest them.
 Just let them stay there. They’ll get tired, they’ll go home.” Which
 would have happened; a bunch of Princeton undergrads, they’re not going
-to \[cause a major disturbance\]. But people in Washington got nervous
+to \cause a major disturbance\. But people in Washington got nervous
 about this. Maxwell Taylor was head of IDA at the time, and he was one
 of the architects of the Vietnam War. Anyway, folks in Washington got
 nervous because IDA had all this classified stuff on their computers. In
@@ -531,9 +531,9 @@ just say this to explain what happened, that we were still pretty young
 and ignorant. So he said to the reporter, “Well, yes: actually, as my
 form of protest, I’m not doing any classified research till the war’s
 over.” Then he went and he mentioned to his manager, “Oh, by the way, I
-talked to this Newsweek reporter.” \[laughs.\] I think that was on a
+talked to this Newsweek reporter.” \laughs.\ I think that was on a
 Friday. On Monday he goes to work, and then he comes back an hour or two
-later, and he says, “I’ve been fired\!” \[laughs.\] And he was shocked\!
+later, and he says, “I’ve been fired\!” \laughs.\ And he was shocked\!
 
 It never appeared in Newsweek. I don’t know if someone squelched it, or
 they didn’t think it was important enough, or what; but it never
@@ -549,7 +549,7 @@ and he got this interesting call from Stony Brook, offering him the
 Chairmanship of the Math Department there. Now, the only thing we’d
 heard about Stony Brook up to that point was that they’d had a big drug
 bust a few months before, which was in all the news. That was my image
-of Stony Brook\! \[laughs.\]
+of Stony Brook\! \laughs.\
 
 ### Beginning a Career as a Programmer
 
@@ -592,7 +592,7 @@ to Stony Brook. This was kind of interesting, because Stony Brook in
 those days used your Social Security number as your student ID, and I
 didn’t even have a Social Security number. I’d tutored math, but I’d
 never had a real job. But I knew the President of the university on a
-first-name basis\! \[laughs.\] So they worked something out for me.
+first-name basis\! \laughs.\ So they worked something out for me.
 
 I started going back to school, and the first semester I went back, I
 took Intro CS and linear algebra.
@@ -619,10 +619,10 @@ world from theirs, for sure—and feeling incredibly insecure. So I took
 Intro CS and math, and the guy who taught the linear algebra class, who
 was named David Ebin, said to another math professor who was a friend of
 mine, “You know, there’s this girl my class who looks a lot like Barbara
-Simons.” And the guy said, “That is Barbara Simons\!” \[laughs.\] Now,
+Simons.” And the guy said, “That is Barbara Simons\!” \laughs.\ Now,
 this guy David Ebin had been at our house; I’d entertained him; but I
 was in this Chairman’s wife niche, and I wasn’t in this student
-\[mode\]—undergraduate, yet\! I mean, really\! Undergraduate, taking
+\mode\—undergraduate, yet\! I mean, really\! Undergraduate, taking
 linear algebra.
 
 **Abbate:**
@@ -659,7 +659,7 @@ Then I started going more and more to Computer Science, because I felt
 more anonymous there. When I was taking math classes, I figured they all
 knew me, and I thought, “Well, in the Computer Science Department, they
 don’t know me.” Now, I discovered, a few years ago, that they did know
-me\! \[laughs.\] But I didn’t know that. I don’t think they knew me when
+me\! \laughs.\ But I didn’t know that. I don’t think they knew me when
 I took Intro CS, but at some point they did. Someone who was on faculty
 there, John Chernowski, who’s now at the NSF: I run into him now and
 then, and we would talk a lot, and he said that they knew who I was. But
@@ -684,7 +684,7 @@ the ability.
 The way I got through all that was: once I had taken my first course, I
 could look at it and say, “Okay, I’m already ahead of where I was when I
 started.” So each time I took on something new, I figured, “Well,
-\[even\] if I fail at this, I’m ahead of the game.” I never started out
+\even\ if I fail at this, I’m ahead of the game.” I never started out
 to get a Ph.D., because if I had, I wouldn’t have done it. There’s no
 way. That didn’t occur to me, to get a Ph.D. I was just trying to make
 these little baby steps. I mean, towards the end it wasn’t quite a baby
@@ -722,7 +722,7 @@ So I did. I applied to graduate school at Stony Brook in Computer
 Science. I got in this time, because I had gotten straight A’s when I
 went back to school, because I was a much more serious student—and also
 because having little kids was a good excuse if I was late on stuff;
-they would always give me extensions\! \[laughs.\] I was often late. And
+they would always give me extensions\! \laughs.\ I was often late. And
 I was only going part-time, and I just had a different attitude, so I
 had done very well. They all knew me. It was a small department, and as
 I said, they knew me better than I realized they knew me, but they knew
@@ -749,7 +749,7 @@ some work. I guess when I first came out, I got a job teaching at the
 Berkeley Adult School. I taught their intro to computer science course.
 When I got that job, they were teaching this without using computers.
 They were teaching computing from a book\! This was for the adults. I
-said, “You know, you really \[should have computers\]. This is a
+said, “You know, you really \should have computers\. This is a
 hands-on thing\!” So I managed to get the course moved over to Berkeley
 High, because I think it was in the evening or something, so we got to
 use the facilities at Berkeley High. I was teaching them BASIC—which I
@@ -757,12 +757,12 @@ didn’t know, so I had to learn it, but it’s not very hard.
 
 **Abbate:**
 
-You’d been working in [FORTRAN](/FORTRAN "FORTRAN")? Assembler?
+You’d been working in FORTRAN(FORTRAN "FORTRAN")? Assembler?
 
 **Simons:**
 
-No, I didn’t know FORTRAN. I guess PL/1; we learned PL/1\. My first
-language was ALGOL-W, and then we were using PL/1; that’s right. First I
+No, I didn’t know FORTRAN. I guess PL1; we learned PL/1\. My first
+language was ALGOL-W, and then we were using PL1; that’s right. First I
 learned ALGOL-W, and then I took an assembly language course—which I
 loved, because it actually explained to me a little bit of how the
 computers worked. I didn’t like being told, “You do this, and you do
@@ -770,8 +770,8 @@ that,” without understanding why; and in assembly language, you start to
 get down to it. You understand what memory is and the CPU is and
 registers are. It makes more sense.
 
-Also, my year when I was a graduate student \[at Stony Brook\], I had
-worked part-time at Brookhaven \[National Laboratory\]. I got a job
+Also, my year when I was a graduate student \at Stony Brook\, I had
+worked part-time at Brookhaven \National Laboratory\. I got a job
 working part-time in the Crystallography Department for this guy who had
 a Varian 620i which was archaic even when I worked on it. It was really
 amazing. He had this machine, which had 16K of memory—16 K\!—and then
@@ -803,9 +803,9 @@ I just mention this experience because it has come up again recently
 with all the policy issues, like the Digital Millennium Copyright act.
 This is stuff I’m really heavily involved with now, and of course there
 are all these attacks on reverse engineering. It’s interesting, because
-if I had just followed what one would normally expect me to \[with a
+if I had just followed what one would normally expect me to \with a
 theory background, I wouldn’t have had that experience with reverse
-engineering\]. I got hired for this job because I told the guy I loved
+engineering\. I got hired for this job because I told the guy I loved
 assembler—which I thought I did. But if I hadn’t had this experience, I
 wouldn’t really have a good understanding of what it’s all involved
 with, because as I said, my area of research was theory.
@@ -865,7 +865,7 @@ your Prelims at the end of your first year. These were oral exams, in
 those days, in five different subjects. I was very nervous about it. I
 had already had graduate school at Stony Brook a year, but I think if
 I’d come from one of the higher-rated schools, some of what they were
-teaching as graduate courses \[at Stony Brook\] would have been taught
+teaching as graduate courses \at Stony Brook\ would have been taught
 as undergraduate courses, even then; so I didn’t really feel like I had
 all that. There were other students there who were from MIT and places
 like that, whom I felt knew more than I did about many things. But my
@@ -875,8 +875,8 @@ And they do let you take them over once. So she pressured me to take
 them, and I almost flunked them, but I did pass, and that was a
 tremendous relief. So that was the end of my first year at Berkeley.
 
-Then—I believe it was the following year—my \[major field advisor got a
-note from Admissions\]. Berkeley has two people you work with: one is
+Then—I believe it was the following year—my \major field advisor got a
+note from Admissions\. Berkeley has two people you work with: one is
 your thesis advisor, if you’re a Ph.D. student, and the other is your
 major field advisor, the person who signs your class cards and is
 supposed to just give you general advice. Anyway, my Major Field Advisor
@@ -887,7 +887,7 @@ something original. I mean, it wasn’t real deep—I had generalized some
 papers—but I had done something. So I said to him, “Okay, well, I’ll
 write this up and get a Master’s Degree for it.” It wasn’t
 earth-shaking, but it was enough for a Master’s Degree. He said “fine.”
-\[But\] no one told me to write it up. I never wrote it up\! \[laughs.\]
+\But\ no one told me to write it up. I never wrote it up\! \[laughs.\]
 No one bothered me.
 
 Then I chugged along, and I eventually did a dissertation. I ended up
@@ -979,7 +979,7 @@ this money. Well, you can’t get it unless you’re a student organization,
 so we decided to become a student organization. We called ourselves
 Women In Computer Science—WICS—and our method for electing officers was,
 the first person to go to Sproul Hall to register was the President; the
-second one was the Vice President \! \[laughs.\] I think Paula was the
+second one was the Vice President \! \laughs.\ I think Paula was the
 first President that we had, and I think I was the second President that
 we had. We applied for $600 to run a conference and got $60\. Well, what
 do you do with sixty dollars?
@@ -1033,7 +1033,7 @@ Because he was in a room full of women?
 **Simons:**
 
 Yes; and if he said something, everyone would turn around and look\!
-Which is in fact what happened \[to a male Dean\]. I was giving
+Which is in fact what happened \to a male Dean\. I was giving
 statistics from the college, so I started off saying, “As of the Fall of
 this year, there were this percentage of undergraduates and graduates,
 and one woman faculty member.” That was Sue Graham, in the College of
@@ -1041,7 +1041,7 @@ Engineering. And the Dean—the real Dean, the full Dean—was seated in the
 audience, and he shouted out, “That’s not true\!” I continued reading,
 and my next sentence said, “As of the next semester, it was doubled to
 two.” And the audience went apeshit, and the guy didn’t say another
-word\! \[laughs.\] It was totally unplanned, but he just played right
+word\! \laughs.\ It was totally unplanned, but he just played right
 into it.
 
 That’s how bad things were. And they’re not much better at Berkeley
@@ -1092,9 +1092,9 @@ its deadline, given an arbitrary list?
 
 What was known was, if all the release times and the deadlines are
 integer, and the running time (or the time to land the plane) is one,
-then you can solve the problem. \[“Solving the problem” doesn’t
+then you can solve the problem. \“Solving the problem” doesn’t
 necessarily mean you can schedule the jobs; it means you know whether or
-not you can schedule the jobs.\] It’s actually, I think, very
+not you can schedule the jobs.\ It’s actually, I think, very
 straightforward, although I once gave this as a test on an exam or a
 homework assignment and the students found it harder than I thought they
 would. It’s pretty straightforward. If you want to play with something,
@@ -1141,20 +1141,20 @@ me about it.” So I told him about it. He said “Very interesting\! Very
 interesting.”
 
 The next day he comes and knocks on my office and says, “You know that
-problem you’re working? I solved it\!” \[I thought,\] “You what? That
-was going to be my thesis\!” \[laughs.\] So I’m in a state of
+problem you’re working? I solved it\!” \I thought,\ “You what? That
+was going to be my thesis\!” \laughs.\ So I’m in a state of
 quasi-shock, and he says, “Oh, yes\! Well, let me just show you how,”
 and he starts drawing on the board, and I stare at it, but I don’t
 really follow what he’s doing. He said, “We’ll write a paper. You write
 the introduction, I’ll write this up, and we’ll have a joint paper.” He
 leaves, and I run over to Lawler and say, “Gene, Chandra said he solved
-the problem\!” \[laughs.\] So Lawler comes back to my office, and we
+the problem\!” \laughs.\ So Lawler comes back to my office, and we
 look at the board, and neither of us can figure out what he’s done.
 After a couple days of calming down, I decided to go ahead. Again, Mike
 said, “Look: work on the problem and see if what you’re doing will
 come.” What eventually happened was, the version that Chandra claimed
 he solved was: Suppose that the length of the job is P, for some integer
-P—so it’s clearly more general than \[a job length of\] two—and then he
+P—so it’s clearly more general than \a job length of\ two—and then he
 said it was polynomial in P. It still wasn’t the most general version.
 The most general version would be that you can have arbitrary release
 times and deadlines, as long as they can be compared; so you could have
@@ -1166,9 +1166,9 @@ something which was polynomial in P.
 
 I wrote up the proof and submitted it to a conference, and it was
 accepted. I remember when I got there, Garey and Johnson—you know who
-Garey and Johnson are, right? They wrote this book, \[Computers and
+Garey and Johnson are, right? They wrote this book, \Computers and
 Intractability: A guide to the theory of NP-completeness. W.H. Freeman,
-1979\]. Mike Garey and Dave Johnson. They’re two prominent theoretical
+1979\. Mike Garey and Dave Johnson. They’re two prominent theoretical
 computer scientists, and they were working in scheduling theory. They
 had heard about this result and they wanted to talk to me, so they were
 sort of cornering me there. Mike was there, and he was sort of helping
@@ -1232,7 +1232,7 @@ my title page?” And he said “No.” So he called, and he found out that
 they weren’t going to give it to me\! So Dick scrounged around and
 discovered that you can get a Master’s Degree in Computer Science
 through taking an oral exam. No one had ever done it, but you could. So
-we had a virtual oral exam\! \[laughs.\] At any rate, I got a Master’s
+we had a virtual oral exam\! \laughs.\ At any rate, I got a Master’s
 Degree and a Ph.D. at the same time. My parents came, and I was the only
 woman on stage. I went to the ceremony because my parents came; they
 hadn’t seen me graduate since high school, and I was forty-one now. They
@@ -1312,7 +1312,7 @@ But the early ‘80s was still the PC boom?
 **Simons:**
 
 Well, it wasn’t just that; it was mainframes. Mainframe was the big
-thing for IBM. And then they built Almaden \[Research Center\], and I
+thing for IBM. And then they built Almaden \Research Center\, and I
 was there during that period. But then, around the time that they were
 building Almaden, things started to happen. You started feeling the
 pinch, and of course it got worse and worse.
@@ -1347,8 +1347,8 @@ deterministic stuff.
 
 I enjoyed the research, but as I say, I was also getting pulled more and
 more by policy issues. I guess the first time this really happened was
-when SDI appeared: the Strategic Defense Initiative \[also known as
-“Star Wars”\]. I was at that point organizing a workshop on
+when SDI appeared: the Strategic Defense Initiative \also known as
+“Star Wars”\. I was at that point organizing a workshop on
 fault-tolerant distributed computing, which was an area I had also done
 some work in. Someone on my Program Committee suggested that the
 computing issues for Star Wars were basically fault-tolerant distributed
@@ -1359,7 +1359,7 @@ felt that there were certainly technical issues, and there clearly are.
 So I said, “Well, why don’t we try a dry run at IBM and see what it’s
 like?” So I decided I would organize a debate.
 
-I don’t know if you followed that issue. Do you know about \[David\]
+I don’t know if you followed that issue. Do you know about \David\
 Parnas and his role? Parnas is a computer scientist. He’s now up in
 Canada, but at the time he was not in Canada. In fact, I think all of
 this had to do with his going to Canada. Anyway, he was on the SDI
@@ -1389,7 +1389,7 @@ So, who was the pro-SDI speaker?
 
 **Simons:**
 
-I didn’t have him yet\! \[laughs.\] At that point, I mentioned to my
+I didn’t have him yet\! \laughs.\ At that point, I mentioned to my
 second-level manager—who I think was Maria Klawe, who is now President
 of ACM—that I had all these people lined up. She said, “Well, maybe you
 ought to go talk to the head of the Lab about this\!” So first I talked
@@ -1437,8 +1437,8 @@ researchers who don’t really fit into the IBM mold to begin with. I
 wasn’t unique in that respect.
 
 I had another amusing experience a few years later—although it really
-pissed me off at the time. I heard a talk at [Xerox
-PARC](/Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")
+pissed me off at the time. I heard a talk at Xerox
+PARC(Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")
 by a guy named Bernstein, who was at Stanford in the Disarmament program
 there. It was something like that; Weapons Control, maybe. And he was
 talking about the issues of having these treaties that cut down weapons,
@@ -1448,7 +1448,7 @@ he said was, “It’s much easier to go to zero than to just cut things by
 a significant percentage, because if you cut, there’s still
 justification for the infrastructure, whereas if you go to zero, there
 is no justification, and frequently it’s easier to spot infrastructure
-\[than weapons\].” I thought, “Well, this is a fascinating talk. It
+\than weapons\.” I thought, “Well, this is a fascinating talk. It
 would be interesting to have it at IBM.” So I invited him, and I got it
 on the calendar, except when I saw the announcement, they only printed a
 portion of the title, and that portion didn’t explain what it was about.
@@ -1483,8 +1483,8 @@ Was the general atmosphere just very conservative?
 **Simons:**
 
 Not in my group. My group was not. In fact, they put out these brochures
-for the Lab, I think when Maria \[Klawe\] was Manager, and we had a
-picture of us taken with people in a tree\! \[laughs.\]
+for the Lab, I think when Maria \Klawe\ was Manager, and we had a
+picture of us taken with people in a tree\! \laughs.\
 
 **Abbate:**
 
@@ -1503,7 +1503,7 @@ It would be fun to see.
 
 **Simons:**
 
-I think the heading was, “Theory Group in a Tree.” \[laughs.\] And one
+I think the heading was, “Theory Group in a Tree.” \laughs.\ And one
 day we all came in wearing shorts. My group was not like that, but you
 know: it’s IBM.
 
@@ -1525,7 +1525,7 @@ research?
 
 **Simons:**
 
-\[Nods.\]
+\Nods.\
 
 **Abbate:**
 
@@ -1577,7 +1577,7 @@ policy, I think, tends to be viewed as a man’s game. Policy, politics:
 when you start getting into areas where you’re dealing with power, it’s
 something the guys like to do. So I felt all along that if I had been
 six-foot-two and had a nice baritone voice, it would have helped a lot\!
-(And been male \[laughs\]; those things as female wouldn’t have
+(And been male \laughs\; those things as female wouldn’t have
 helped\!)
 
 **Abbate:**
@@ -1630,8 +1630,8 @@ know, a lot of money was shifted to military stuff. I hired Joel Yudken,
 who was just finishing his Ph.D. in Science, Technology, and Society at
 Stanford; he’s now with the AFL-CIO. We had an interesting time, he and
 I. For example, in ‘76, if you look at computer science in the United
-States, it was about fifty-fifty NSF/DOD; by ‘88 it was two-to-one
-DOD/NSF. Furthermore, a lot of DOD funding was becoming more applied. It
+States, it was about fifty-fifty NSFDOD; by ‘88 it was two-to-one
+DODNSF. Furthermore, a lot of DOD funding was becoming more applied. It
 was definitely having an impact. Joel was actually doing the work. He
 was interviewing people and getting information and getting statistics;
 at one point we had more information than anybody else did on this
@@ -1695,7 +1695,7 @@ was starting this new group, and I had worked with Vivek and I really
 loved working with Vivek. He knows about applied stuff, but he can also
 talk about theoretical stuff, and we work together well. So he calls me
 on Thursday and says he’s starting a new group he wants me to join.
-“Vivek, I just left IBM\!” \[laughs.\]
+“Vivek, I just left IBM\!” \laughs.\
 
 ### Continuing at IBM
 
@@ -1705,8 +1705,8 @@ a lot of people apparently had taken the package and stayed on like I
 had, and the goal was to get people out\! So the message comes down
 comes down from on high: “We don’t want people taking the package to
 stay on.” So they said, “Okay, well I guess we’ll have to make you a
-regular employee again.” \[laughs.\] So I was made an employee again\!
-But it was \[accidental\]; I wouldn’t have chosen to go through that
+regular employee again.” \laughs.\ So I was made an employee again\!
+But it was \accidental\; I wouldn’t have chosen to go through that
 route; but it was like much of my life: kind of nonstandard.
 
 I worked with Vivek for a few years, and then he left. He went East, and
@@ -1723,9 +1723,9 @@ So I didn’t get that job, and I ended up going to this other part of
 IBM, which was called Global Services. I was supposed to be working on
 help desk stuff. I had a manager who expected us to be in at a
 reasonable hour; I wasn’t used to that. You know, he’d have meetings at
-nine o’clock in the morning\! \[laughs.\] Nine o’clock? You want me to
+nine o’clock in the morning\! \laughs.\ Nine o’clock? You want me to
 be dragged down to south San Jose at nine o’clock? You got to be
-kidding\! \[laughs\] I just didn’t fit in. I worked it out so that I
+kidding\! \laughs\ I just didn’t fit in. I worked it out so that I
 could be liaison between them and folks in Research, so that I could get
 folks in Research working on some of the problems they were doing. But
 then it turned out this group was going to be moving to Boulder. People
@@ -1736,7 +1736,7 @@ family’s all here. I was offered another package, so I took it\!
 
 **Abbate:**
 
-\[laughs.\] So you got to retire twice from IBM\!
+\laughs.\ So you got to retire twice from IBM\!
 
 **Simons:**
 
@@ -1801,8 +1801,8 @@ this committee.
 We sort of had to feel our way through. Early on, one of the things that
 came up was suggesting a new person for the CISE position at NSF, and so
 I sent out a note saying, “Can people come up with names?” But then it
-was obvious that it’s easy to suggest people, \[but not\] very easy to
-say somebody shouldn’t do it. I mean, if it’s \[an email\] list, people
+was obvious that it’s easy to suggest people, \but not\ very easy to
+say somebody shouldn’t do it. I mean, if it’s \an email\ list, people
 aren’t going to do that. So I think that’s when we decided we needed an
 Executive Committee. Or maybe we did it early on; I don’t recall. But
 anyway, the Executive Committee had the President of ACM; the Executive
@@ -1826,7 +1826,7 @@ got Steve Kent, who is a big name in certain areas, to Chair it; and I
 put together this committee—which was so balanced that they couldn’t
 come up with any real recommendations, because I had Whit Diffie and
 Dorothy Denning on it, and they were on opposite sides of the issue. If
-you’ve heard of Diffie-Hellman \[key exchange\]: Whit’s well-known in
+you’ve heard of Diffie-Hellman \key exchange\: Whit’s well-known in
 encryption. Public-key encryption, that was their invention.
 
 Then we got NSF funding, and because Susan was so good and so dedicated,
@@ -1880,8 +1880,8 @@ certainly come out very strongly against the anti-circumvention and
 anti-dissemination provisions of the Digital Millennium Copyright Act.
 We’ve signed onto several amicus briefs. Most recently, we just signed
 on to a brief written by Pam Samuelson. She’s a Law Professor up at
-Berkeley. Half in Law School, half in SIMS \[School of Information
-Management and Systems\], which is a sort of interdisciplinary area. A
+Berkeley. Half in Law School, half in SIMS \School of Information
+Management and Systems\, which is a sort of interdisciplinary area. A
 MacArthur Fellowship Award winner; you know, those “genius” awards.
 She’s been very prominent and outspoken fighting some of what she
 calls these “copyright maximalists.” She’s written for CACM, the ACM
@@ -1941,22 +1941,22 @@ exists.
 I was actually deposed as an Expert Witness for his court case. I missed
 the court case because we were in Europe on vacation; otherwise I would
 have loved to have gone. He was found guilty under the Digital
-Millennium Copyright Act \[of 1998\]. And that’s supposed to implement a
-WIPO \[World Intellectual Property Organization\] Copyright Treaty, but
+Millennium Copyright Act \of 1998\. And that’s supposed to implement a
+WIPO \World Intellectual Property Organization\ Copyright Treaty, but
 it wasn’t even clear that we needed to do anything to implement it.
 Anyway, it’s way overkill; it has much more than what the treaty has in
 it. In particular, it has anti-circumvention and anti-dissemination
 provisions. So basically, it’s illegal to circumvent copyright
 protection mechanisms. It’s also illegal to make available tools for
 circumventing. This has enormous implications for computer science,
-which is why this is an area where the community is really \[united\].
+which is why this is an area where the community is really \united\.
 The positions we’ve taken have not been controversial at all. This is
 where the community’s completely behind what we’re doing—which is nice,
 although we’ve got some pretty formidable opponents.
 
 Anyway, this guy posts this stuff, and he gets convicted, and he’s
 enjoined from even having links on his Web site. Now, the San Jose
-Mercury News has \[the same\] links on their Web site; they said so in
+Mercury News has \the same\ links on their Web site; they said so in
 court. It doesn’t matter. I wrote an article on this; it’s in the ACM
 digital library: I give an address where you can find DeCSS in my
 article, though it’s not a link; you actually have to copy it. But this
@@ -1984,7 +1984,7 @@ all four.
 Now, in order to get the prize, you had to sign a statement giving your
 intellectual property over to the people who ran the contest. They said,
 “We’re not interested in the prize. We’re going to publish this.” This
-was not what they \[the contest organizers\] were expecting\! So they
+was not what they \the contest organizers\ were expecting\! So they
 submitted it to a workshop, and it was accepted. Two weeks before they
 were supposed to present their paper, Ed, his co-authors, the Program
 Committee Members, and all of their employers got threatening letters.
@@ -2017,19 +2017,19 @@ DVDs, you go off to Asia somewhere, you set up a factory; and you copy
 the whole thing—encoded\! It’ll play in people’s DVD players anyway. I
 think Corley probably has stuff on his Web site about “Oh, we can make
 illegal copies”; he probably had incriminating stuff like that; but
-\[computer scientists have a different\] rationale for what we’re doing,
-and I think it is a legitimate one. \[For example, allowing DVDs to be
+\computer scientists have a different\ rationale for what we’re doing,
+and I think it is a legitimate one. \For example, allowing DVDs to be
 played on systems such as Linux that are not supported by the
-industry.\] There was an organization that was formed to license people
-to make \[DVD players. In order to be licensed, I think you had to pay a
+industry.\ There was an organization that was formed to license people
+to make \DVD players. In order to be licensed, I think you had to pay a
 fee, and you also had to sign a non-disclosure agreement, because part
 of what they were doing was trying to keep all this stuff secret. I’m
 sure they knew it could be broken—I know they knew it could be broken,
 because I know that there were scientists who told them it could be
 broken. Now, if you think about Linux and the whole theory behind the
 open software movement, signing a non-disclosure agreement is totally
-contrary to the whole idea. Besides which, even if people \[who wanted
-to make Linux-compatible DVD players\] were willing to sign a
+contrary to the whole idea. Besides which, even if people \who wanted
+to make Linux-compatible DVD players\ were willing to sign a
 non-disclosure agreement, who’s qualified to do it? Who has the
 authority? It’s not like a Microsoft or an IBM, where it’s clear who has
 the authority. In these open-software movements, no one has the
@@ -2056,9 +2056,9 @@ have somebody threaten to take you to court, especially if they’re very,
 very powerful, and very, very wealthy. They’ve got a lot of money.
 
 So they withdrew the paper, and then they resubmitted it to another
-conference \[the 10th USENIX Security Symposium\]—and the recording
+conference \the 10th USENIX Security Symposium\—and the recording
 industry sued. So Ed and almost all the co-authors—I think one dropped
-out—counter-sued the RIAA, SDMI, \[U.S. Attorney General\] John
+out—counter-sued the RIAA, SDMI, \U.S. Attorney General\ John
 Ashcroft, and Verance Corporation on the grounds that what they were
 trying to do was unconstitutional. While this was going on, somebody at
 the RIAA wised up and said, “This was a really stupid move on our
@@ -2094,7 +2094,7 @@ different from an amicus brief. A declaration is something that says,
 lower court, the first court; whereas an amicus is usually an opinion,
 and it’s more often on appeals. The court has to look at a declaration;
 it doesn’t have to look at an amicus. So a declaration, in some ways, is
-\[stronger\], but you have to say, “We have a specific interest in
+\stronger\, but you have to say, “We have a specific interest in
 what’s happening”—as opposed to, “We think this is a good idea to do
 it this way, or a bad idea,” which an amicus would say. So ACM submitted
 it, saying, “We have an upcoming workshop on digital rights
@@ -2103,7 +2103,7 @@ we’re going to be subject to some of the DMCA restrictions.” I thought
 our declaration might make the difference, because even if Felton et al.
 weren’t being threatened, we had to worry. We’re publishers, and we also
 have a digital library; we have to worry about protecting ourselves,
-too. Now, there isn’t as much incentive for people to \[target us\], but
+too. Now, there isn’t as much incentive for people to \target us\, but
 that’s a different issue. That was the first time the ACM has ever done
 that, and that was a real struggle, because the President of ACM was a
 bit nervous about doing something like that. He was afraid of that they
@@ -2114,8 +2114,8 @@ Now, this other case I started telling you about, that we just signed
 onto an amicus on, is before the California Supreme Court. This is also
 related to DVDs, but it’s not under the DMCA. There were some other
 people who posted DeCSS on their Web sites, because it’s all over the
-Web, and they were gone after by the DVD CCA \[Digital Video Disc Copy
-Control Association\], the trade group that’s licensing people to
+Web, and they were gone after by the DVD CCA \Digital Video Disc Copy
+Control Association\, the trade group that’s licensing people to
 manufacture DVDs. They went after some of these people on the grounds
 that they were violating trade secrets.
 
@@ -2142,7 +2142,7 @@ the injunction on the grounds that code is speech, and therefore this is
 prior restraint of speech. Now, they said a couple of interesting
 things. They said source code is speech. Object code isn’t; object code
 generated by a machine isn’t—which sort of gets back to my story of
-working on the Varian 620i, because I could read that \[object code\].
+working on the Varian 620i, because I could read that \object code\.
 But anyway, an interesting question, just from a tactical perspective,
 looking at all these wars that are going on with copyright, is: Would it
 be sufficient if we could somehow get protection for source code and not
@@ -2224,8 +2224,8 @@ this. Her name is Laura Beck, and she really struggled with this: trying
 to figure out where the line should be drawn. She really struggled with
 it, and I think she came up with a pretty good paper.
 
-\[If you’re interested in policy issues,\] you ought to check our Web
-site: www.acm.org/usacm. And as I said, Jeff Grove, the Director of our
+\If you’re interested in policy issues,\ you ought to check our Web
+site: www.acm.orgusacm. And as I said, Jeff Grove, the Director of our
 Washington office, put together a really nice set of slides, talking
 about what we’ve done. We’ve also done some work trying to prevent NIST
 . . . NIST has an Office of Computer Security, or a group that does
@@ -2250,7 +2250,7 @@ need to go around and make sure that everybody’s computer is set so that
 you have to click on something before you open an attachment.
 
 Have you heard of UCITA? Peter Neumann says he likes the Italian
-pronunciation, which is “You cheata.” \[laughs.\]
+pronunciation, which is “You cheata.” \laughs.\
 
 **Abbate:**
 
@@ -2275,7 +2275,7 @@ They get together, and they come up with a new proposal, and when they
 agree on it, then it comes up as a Recommendation and goes off to the
 states, and they pass it.
 
-Article 2 \[of the UCC\] is about contracts. Standard contract law
+Article 2 \of the UCC\ is about contracts. Standard contract law
 assumes that you’ve got two roughly equal entities that are negotiating
 a contract. You and I could negotiate a contract, or Microsoft and Sun
 could negotiate a contract, even though Microsoft is a lot bigger. But
@@ -2363,7 +2363,7 @@ Right. Tell me about it\! That’s the thing, you see. One of the
 arguments I frequently make is that when you talk about security, let’s
 look at UCITA, and let’s look at all these efforts to eliminate
 reverse-engineering—which is really critical for finding viruses.
-They’re \[also\] very anti-consumer, to put it mildly, and a
+They’re \also\ very anti-consumer, to put it mildly, and a
 significant number of State Attorneys General have written letters about
 against 2B and probably against UCITA. One of the issues is that in
 commerce law, apparently, if you buy a product, there are implied
@@ -2413,8 +2413,8 @@ policy. These are a bunch of kids who are taking a policy class, so
 they’re already interested in the subject. And mostly what they said
 basically amounted to “notice and choice.” Notice and choice means, I
 tell you what I’m going to do with your information, and you can either
-participate or not. That’s all the P3P \[Platform for Privacy
-Preferences Project\] does; it gives you notice and choice.
+participate or not. That’s all the P3P \Platform for Privacy
+Preferences Project\ does; it gives you notice and choice.
 
 **Abbate:**
 
@@ -2482,11 +2482,11 @@ faculty when we were trying to convince them? We had both graduated at
 this point, and we were still both local, and we were still plotting, so
 we started this Re-entry Program; because at that point in the early
 ‘80s, seats were at a premium, and doors were closing. I had this
-really bizarre history, as you can see, and part of \[my ability to get
-into the field\] was that I knew, from having been married to an
+really bizarre history, as you can see, and part of \my ability to get
+into the field\ was that I knew, from having been married to an
 academic, that any rule could be broken, and that’s a very valuable
 lesson that most women don’t have. But part of it was that there weren’t
-that many \[obstacles\]. I mean, there were obstacles, obviously, but
+that many \obstacles\. I mean, there were obstacles, obviously, but
 there were ways for an oddball like me to get in; and in the early
 eighties that changed.
 
@@ -2520,11 +2520,11 @@ bought: she and I paid for sandwiches and wine, and we fed them\!
 
 **Abbate:**
 
-\[laughs.\] That was enough?
+\laughs.\ That was enough?
 
 **Simons:**
 
-Well, it wasn’t the only thing, but it helped a lot\! \[laughs.\] And we
+Well, it wasn’t the only thing, but it helped a lot\! \laughs.\ And we
 promised them money. We got money raised. Sheila Humphreys was the
 person who was responsible. In fact, she was the first Director. So we
 were able to guarantee seats in the classrooms for people, but we raised
@@ -2546,7 +2546,7 @@ more high-status, high-paying, high-stature, I think it has become
 closed to women. And I don’t think that’s unique to computer science. I
 was talking to a woman in a different field, who said the same thing had
 happened in her area: when it was new and ill-defined, a bit amorphous,
-\[it was more open to women\].
+\it was more open to women\.
 
 **Abbate:**
 
@@ -2649,7 +2649,7 @@ into computing?
 
 It’s hard for me to advise women to go into computing. I have a hard
 time, because I have such mixed feelings about it now. I’m on the Board
-of Math/Science Network, which means I’m working on trying to help get
+of MathScience Network, which means I’m working on trying to help get
 women into math and science, and I’ve certainly put a lot of my own time
 and energy into it. But . . .
 
@@ -2669,7 +2669,7 @@ ease with which these things can be matched, drawn together. As more and
 more of our life moves onto computers and the Net, more and more of what
 we do is going to be exposed. I’m very concerned that we’re moving to a
 surveillance society, and I think this has only been exacerbated by
-what’s happened since September 11th \[2001\].
+what’s happened since September 11th \2001\.
 
 **Abbate:**
 
@@ -2686,7 +2686,7 @@ Or do you just mean in general?
 **Simons:**
 
 Yes. It’s not that I have trouble advising women to go into computing;
-\[it’s anyone\]. It’s interesting: some of my students now are planning
+\it’s anyone\. It’s interesting: some of my students now are planning
 to study law, the ones who took the policy course. These are all kids
 out of computer science. In fact, I’m going to be meeting with one who
 was working at Microsoft; I’m not quite sure what he’s going to do. He’s
@@ -2697,7 +2697,7 @@ these issues. Now, of course, one of the problems is that there aren’t
 that many jobs for people like that, of the kind that these kids would
 like to have, because they’re pretty idealistic; and the ones that there
 are that are pretty low-paying; they tend to be with public interest
-groups. Or possibly professional societies, maybe; but we \[at ACM\]
+groups. Or possibly professional societies, maybe; but we \at ACM\
 don’t have a lawyer on the staff—I mean, doing this kind of work. So
 more likely they’d end up working in some corporate environment, which
 might not be what they want.
@@ -2718,8 +2718,8 @@ surveillance society, and that’s very disturbing. I mean, the political
 implications are enormous.
 
 The other thing is, Americans are brainwashed about privacy. That’s what
-I was starting to say earlier, \[when I talked about my students’ views
-on privacy policy\].
+I was starting to say earlier, \when I talked about my students’ views
+on privacy policy\.
 
 **Abbate:**
 
@@ -2728,8 +2728,8 @@ You mean, Americans are brainwashed to not expect much privacy?
 **Simons:**
 
 Yes. The very fact that my students said “notice and choice.” They
-didn’t say, “They should be responsible \[for protecting out
-privacy\].” And these are my students\! I mean, they just hadn’t thought
+didn’t say, “They should be responsible \for protecting out
+privacy\.” And these are my students\! I mean, they just hadn’t thought
 about it. They’d heard “notice and choice,” and that’s all they’d heard.
 Nobody talked about fair information practices. By the end of the
 course, they all knew all about it. In fact, one of the kids came up to
@@ -2745,69 +2745,69 @@ Well, thank you for talking with me at such great length\!
 Well, thank you for listening to me\! I enjoyed it.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Barbara_Simons&oldid=120962>"
+"<http:/ethw.org/index.php?title=Oral-History:Barbara_Simons&oldid=120962>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computer
-  applications](/Category:Computer_applications "Category:Computer applications")
-* [Computer aided
-  engineering](/Category:Computer_aided_engineering "Category:Computer aided engineering")
-* [Computer
-  science](/Category:Computer_science "Category:Computer science")
-* [Programming](/Category:Programming "Category:Programming")
-* [Programming
-  environments](/Category:Programming_environments "Category:Programming environments")
-* [Educational
-  institutions](/Category:Educational_institutions "Category:Educational institutions")
-* [Law &
-  government](/Category:Law_%26_government "Category:Law & government")
-* [Patents](/Category:Patents "Category:Patents")
-* [Surveillance](/Category:Surveillance "Category:Surveillance")
-* [Systems engineering and
-  theory](/Category:Systems_engineering_and_theory "Category:Systems engineering and theory")
+* Computer
+  applications(Category:Computer_applications "Category:Computer applications")
+* Computer aided
+  engineering(Category:Computer_aided_engineering "Category:Computer aided engineering")
+* Computer
+  science(Category:Computer_science "Category:Computer science")
+* Programming(Category:Programming "Category:Programming")
+* Programming
+  environments(Category:Programming_environments "Category:Programming environments")
+* Educational
+  institutions(Category:Educational_institutions "Category:Educational institutions")
+* Law &
+  government(Category:Law_%26_government "Category:Law & government")
+* Patents(Category:Patents "Category:Patents")
+* Surveillance(Category:Surveillance "Category:Surveillance")
+* Systems engineering and
+  theory(Category:Systems_engineering_and_theory "Category:Systems engineering and theory")
 
 ## Contents
 
-* [1 About Barbara Simons](#About_Barbara_Simons)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family and Early Life](#Family_and_Early_Life)
-  * [4\.2 Math in High School](#Math_in_High_School)
-  * [4\.3 Meeting and Marrying James Harris
-    Simons](#Meeting_and_Marrying_James_Harris_Simons)
-  * [4\.4 Following her Husband](#Following_her_Husband)
-  * [4\.5 Beginning a Career as a
-    Programmer](#Beginning_a_Career_as_a_Programmer)
-  * [4\.6 Getting her Ph.D.](#Getting_her_Ph.D.)
-  * [4\.7 Berkeley Years](#Berkeley_Years)
-  * [4\.8 Organizing Women](#Organizing_Women)
-  * [4\.9 Ph.D. Research Subject](#Ph.D._Research_Subject)
-  * [4\.10 Starting at IBM](#Starting_at_IBM)
-  * [4\.11 Problems at IBM](#Problems_at_IBM)
-  * [4\.12 Continuing Problems at IBM](#Continuing_Problems_at_IBM)
-  * [4\.13 Taking a Package to Leave
-    IBM](#Taking_a_Package_to_Leave_IBM)
-  * [4\.14 Continuing at IBM](#Continuing_at_IBM)
-  * [4\.15 Becoming the President of the
-    ACM](#Becoming_the_President_of_the_ACM)
-  * [4\.16 Details of ACM Activities](#Details_of_ACM_Activities)
-  * [4\.17 Teaching at Stanford](#Teaching_at_Stanford)
-  * [4\.18 Changes in Computer Science for
-    Minorities](#Changes_in_Computer_Science_for_Minorities)
-  * [4\.19 Final Thoughts](#Final_Thoughts)
+* 1 About Barbara Simons(#About_Barbara_Simons)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family and Early Life(#Family_and_Early_Life)
+  * 4\.2 Math in High School(#Math_in_High_School)
+  * 4\.3 Meeting and Marrying James Harris
+    Simons(#Meeting_and_Marrying_James_Harris_Simons)
+  * 4\.4 Following her Husband(#Following_her_Husband)
+  * 4\.5 Beginning a Career as a
+    Programmer(#Beginning_a_Career_as_a_Programmer)
+  * 4\.6 Getting her Ph.D.(#Getting_her_Ph.D.)
+  * 4\.7 Berkeley Years(#Berkeley_Years)
+  * 4\.8 Organizing Women(#Organizing_Women)
+  * 4\.9 Ph.D. Research Subject(#Ph.D._Research_Subject)
+  * 4\.10 Starting at IBM(#Starting_at_IBM)
+  * 4\.11 Problems at IBM(#Problems_at_IBM)
+  * 4\.12 Continuing Problems at IBM(#Continuing_Problems_at_IBM)
+  * 4\.13 Taking a Package to Leave
+    IBM(#Taking_a_Package_to_Leave_IBM)
+  * 4\.14 Continuing at IBM(#Continuing_at_IBM)
+  * 4\.15 Becoming the President of the
+    ACM(#Becoming_the_President_of_the_ACM)
+  * 4\.16 Details of ACM Activities(#Details_of_ACM_Activities)
+  * 4\.17 Teaching at Stanford(#Teaching_at_Stanford)
+  * 4\.18 Changes in Computer Science for
+    Minorities(#Changes_in_Computer_Science_for_Minorities)
+  * 4\.19 Final Thoughts(#Final_Thoughts)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 27 October 2015, at 07:05\.
 
 * This page has been accessed 4,393 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

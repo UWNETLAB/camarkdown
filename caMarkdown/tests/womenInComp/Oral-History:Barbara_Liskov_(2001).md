@@ -1,77 +1,77 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Barbara_Liskov_\(2001\)&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Barbara_Liskov_\(2001\)&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Barbara_Liskov_\(2001\))
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Barbara_Liskov_\(2001\)&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Barbara_Liskov_\(2001\) "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Barbara_Liskov_\(2001\) "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Barbara_Liskov_\(2001\)&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Barbara_Liskov_\(2001\)&oldid=108245 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Barbara_Liskov_\(2001\)&action=info)
-  
-  * [Browse
-    properties](/Special:Browse/Oral-2DHistory:Barbara_Liskov_\(2001\))
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ABarbara+Liskov+%282001%29)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Barbara_Liskov_\(2001\)&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Barbara_Liskov_\(2001\)&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Barbara_Liskov_\(2001\))
+  
+  * Discussion(index.php?title=Oral-History_talk:Barbara_Liskov_\(2001\)&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Barbara_Liskov_\(2001\) "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Barbara_Liskov_\(2001\) "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Barbara_Liskov_\(2001\)&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Barbara_Liskov_\(2001\)&oldid=108245 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Barbara_Liskov_\(2001\)&action=info)
+  
+  * Browse
+    properties(Special:Browse/Oral-2DHistory:Barbara_Liskov_\(2001\))
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ABarbara+Liskov+%282001%29)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Barbara Liskov (2001\)
@@ -92,8 +92,8 @@ these projects. Additionally, she discusses her time at Stanford
 University and she ends the conversation with thoughts on how to balance
 career and family.
 
-[Liskov was previously interviewed in
-1991](/Oral-History:Barbara_Liskov "Oral-History:Barbara Liskov")  This
+Liskov was previously interviewed in
+1991(Oral-History:Barbara_Liskov "Oral-History:Barbara Liskov")  This
 interview focussed on NSF funding for her projects at MIT, including
 CLU, Argus, Mercury, Thor and Harp.  
 
@@ -203,12 +203,12 @@ Was that because you thought it was unusual for a girl?
 
 **Liskov:** It was definitely unusual. I don’t really remember clearly,
 but I’m sure that at the end of high school I was the only girl taking
-advanced \[math\]—it was pre-calculus in those days. And you know, I’ve
+advanced \math\—it was pre-calculus in those days. And you know, I’ve
 always felt that one of the reasons why I was able to proceed in this
 direction, when it was definitely not something that women were supposed
 to do in those days, was that I paid very little attention to what other
 people thought about it. So it’s odd in retrospect that I don’t remember
-what my classes were like \[in terms of gender balance\], but I think
+what my classes were like \in terms of gender balance\, but I think
 that’s because I just didn’t care.
 
 So one of the things I’ve always been curious about is: What was it that
@@ -302,8 +302,8 @@ to ask a question in a seminar. It took me a long time to realize that
 if I had a question, I probably was not the only one. But this is very
 deeply ingrained; and actually I think this is a way in which I was
 socialized that’s not been beneficial, relative to the way that men are
-socialized. You know, to be more accommodating; not \[to ask
-questions\]. And then I think what happens is that in some sense it
+socialized. You know, to be more accommodating; not \to ask
+questions\. And then I think what happens is that in some sense it
 spills over into the other direction: so I’m too passive, and then maybe
 I become too aggressive.
 
@@ -332,7 +332,7 @@ some time off. I had a friend who was coming to Boston, so I decided to
 come to Boston with her and get a job here. When I went to look for a
 job, I couldn’t get an interesting job in math, but I got an interesting
 job as a programmer. So that’s actually how I got into computers.
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -456,7 +456,7 @@ top-tier positions, but . . .
 
 **Abbate:**
 
-So your first experience with a computer, \[you were thinking\], “This
+So your first experience with a computer, \you were thinking\, “This
 is something I can do. This is something I like. This is something that
 lots of women are doing”? So there was kind of an immediate comfort with
 that?
@@ -543,13 +543,13 @@ think what caused me to do that was that I felt that I’d had enough of
 this. I actually applied to go back in math. So I reapplied at Berkeley,
 but they didn’t accept me this time—probably partly because I didn’t
 actually know enough to send them a letter telling them that I wasn’t
-accepting their offer the previous time\! \[laughs.\] And so then I
+accepting their offer the previous time\! \laughs.\ And so then I
 applied to Berkeley in statistics and to Stanford and Harvard in
 computer science, and I got in all those places. I didn’t think to apply
 to MIT because to me, MIT was a very anti-feminine place to be. I did
 decide not to do statistics, and to stay with computer science; and I
 went back to California, because I thought it was time to go back to
-California. So I went to Stanford. \[laughs.\] So that’s the random way
+California. So I went to Stanford. \laughs.\ So that’s the random way
 in which I ended up where I was.
 
 **Abbate:**
@@ -571,7 +571,7 @@ didn’t even know there was such a thing. When I arrived, my first day, I
 was walking up the stairs and I met John McCarthy—he was either just
 starting or he’d been there a year—and I asked him if he had any money,
 and he said “Yes.” So that was how I ended up working with him, and
-working in AI\! \[laughs.\] Of course, AI was a natural thing for me to
+working in AI\! \laughs.\ Of course, AI was a natural thing for me to
 work in, given the language translation stuff, but it was really very
 accidental.
 
@@ -605,7 +605,7 @@ through the program. What’s odd in retrospect is that there is more
 systems-y stuff going on in AI, but I never moved over and tried to work
 on that side of it, which would have been much more congenial. It’s not
 that AI isn’t interesting; I just felt that it was so hopeless\!
-\[laughs.\] The problems were so hard, and the stuff that you could do
+\laughs.\ The problems were so hard, and the stuff that you could do
 at that point was so limited. It’s come a long way.
 
 **Abbate:**
@@ -661,14 +661,14 @@ the need for better programming languages?
 **Liskov:**
 
 You mean, What is it that got me into designing programming languages?
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
 Well, yes, indirectly.
 
 **Liskov:** No, I don’t . . . When I worked at Mitre, I used
-[FORTRAN](/FORTRAN "FORTRAN")—which is truly awful. Then I went to
+FORTRAN(FORTRAN "FORTRAN")—which is truly awful. Then I went to
 Harvard, and I was working in machine language, which was extremely
 valuable, because it gives you a really good sense of how the machine is
 actually working. So I think that was really a very important
@@ -700,7 +700,7 @@ Yes, it was\! So I learned a lot of little programming tricks. And that
 one, I thought right from the beginning, was truly not a very good one,
 because it’s so fraught with error. The reason it’s called
 “non-reentrant” is because, if you try to use that block of code from
-two different places, you clearly \[will have a conflict\]. You can’t be
+two different places, you clearly \will have a conflict\. You can’t be
 running two computation threads in that block of code, because they’re
 clearly going to get in each other’s way, since they’re using the same
 code and it’s being modified. So that was a really bad idea that people
@@ -716,9 +716,9 @@ I think mainly what I got out of all this was a pretty broad
 introduction to different programming languages. At that time, Don Knuth
 was working on parsers, so parsing was a big issue at that point. People
 were talking about “precedence grammars”—I mean, this is really old
-stuff; I’m trying to tell you how long ago it was\! PL/I, I guess, was
+stuff; I’m trying to tell you how long ago it was\! PLI, I guess, was
 designed while I was a graduate student. I certainly didn’t know about
-it then; maybe \[it was designed\] even later.
+it then; maybe \it was designed\ even later.
 
 ### After Stanford
 
@@ -794,7 +794,7 @@ So: You’re at Mitre, you’re doing systems stuff . . .
 
 Yes. I had a nice research project, and as a result of this research
 project, I decided to write a paper. So I wrote this paper, and I
-submitted it to \[a conference\]. Oh, one thing that’s interesting:
+submitted it to \a conference\. Oh, one thing that’s interesting:
 You’re going to talk to Judy Clapp on Sunday, right?
 
 **Abbate:**
@@ -805,7 +805,7 @@ Yes.
 
 She was my boss when I went back to Mitre. And that first paper that I
 wrote, I wrote it and I gave it to Judy. Now, nobody had ever —I mean,
-John McCarthy didn’t read and respond to my thesis \[after\] I submitted
+John McCarthy didn’t read and respond to my thesis \after\ I submitted
 it—so I’d never got any feedback on technical writing. Judy was the only
 person who ever did that for me; but she really helped me write that
 paper, by reading it and criticizing it, so that I reorganized it and so
@@ -843,7 +843,7 @@ And that was an ACM conference?
 
 **Liskov:**
 
-Yes, this was SOSP \[Symposium on Operating System Principles\].
+Yes, this was SOSP \Symposium on Operating System Principles\.
 
 **Abbate:**
 
@@ -880,7 +880,7 @@ Mitre was: I had this project where, first of all, I developed a machine
 architecture and implemented it using microcode, which was a big deal at
 that time. This machine architecture was interesting, because I put
 semaphores into it. This was at the time when
-[Dijkstra](/Edsger_Dijkstra "Edsger Dijkstra") had written his paper
+Dijkstra(Edsger_Dijkstra "Edsger Dijkstra") had written his paper
 about the THE Operating System, and he proposed this notion of
 “semaphores,” which are still very basic in concurrent programming.
 
@@ -940,7 +940,7 @@ applied.
 
 That’s another thing I couldn’t tell you, but my impression was that it
 changed shortly after I left, and maybe it was even changing when I was
-there. So they did do research, \[but\] it became more and more applied.
+there. So they did do research, \but\ it became more and more applied.
 I don’t know for sure.
 
 ### MIT and Data Abstraction and CLU
@@ -987,7 +987,7 @@ condition—and then you have to have some sort of mechanism in your
 language that makes it easy for you to catch those exceptions at a
 convenient point in your control flow. Java has exceptions.
 
-It wasn’t that exceptions were totally new—I think even PL/I had some
+It wasn’t that exceptions were totally new—I think even PLI had some
 sort of brain-damaged exception mechanism; C++ has a truly brain-damaged
 exception mechanism. But this was early work; this was in the ‘70s; and
 we had a particularly nice clean one. I did some work then on different
@@ -997,7 +997,7 @@ discussion at that point about whether one should adopt the
 stops and throws an exception—versus what they called the “resumption”
 model, which is where the procedure informs the caller of a problem, but
 then the caller is able to allow the procedure to continue running. I
-think PL/I has an exception mechanism like this. So I did a lot of work
+think PLI has an exception mechanism like this. So I did a lot of work
 on assessing, and I came down on the side of termination, because
 resumption was so complex.
 
@@ -1105,7 +1105,7 @@ hierarchy. So what I said in that talk was: When we define a subtype, it
 ought to have the same behavior as the supertype, as far as anybody
 using it could tell. A very simple idea, but nobody had said that
 before. This is known now as the Liskov Substitution Principle—it
-developed a life of its own\! \[laughs.\] And that also is widely
+developed a life of its own\! \laughs.\ And that also is widely
 accepted as the way that you should use hierarchy. So I would say the
 two have come together quite nicely.
 
@@ -1257,7 +1257,7 @@ So the fault-tolerant aspect was an important part of it?
 
 Yes.
 
-\[interruption\]
+\interruption\
 
 **Abbate:**
 
@@ -1291,7 +1291,7 @@ on this model of transactions?
 
 The problem with the transaction . . .
 
-\[interruption\]
+\interruption\
 
 **Abbate:**
 
@@ -1304,7 +1304,7 @@ They are expensive. They require extra work to keep track of the
 interactions between the transactions. There are various way you
 implement them, and they either involve waiting or they involve
 aborting. So what happens in the Web is that most of the applications
-people are running \[don’t use transactions for everything.\] Think
+people are running \don’t use transactions for everything.\ Think
 about your typical application: you’re doing online shopping. When you
 buy something, then you actually want to run a transaction, because if
 there’s some other person trying to buy something at that very moment,
@@ -1340,8 +1340,8 @@ being used on the Web right now. It’s okay for certain applications, not
 okay for others. And so I expect that the full transactional model will
 continue to be used for certain parts of what’s going on; and
 furthermore, distributed transactions are going to matter more and more,
-because there’s definitely a movement toward \[distributed
-computing\]—even individual data sites often run on many computers,
+because there’s definitely a movement toward \distributed
+computing\—even individual data sites often run on many computers,
 and you need to have distributed transactions to make that part of it
 work. But as the end-user you may not see that, because you’ll continue
 with the simple browse-and-then-commit model that you are familiar with.
@@ -1422,8 +1422,8 @@ doing lots of other work on distributed computing.
 
 **Abbate:**
 
-Were you involved with Project Athena \[a distributed computing project
-at MIT\]?
+Were you involved with Project Athena \a distributed computing project
+at MIT\?
 
 **Liskov:**
 
@@ -1493,7 +1493,7 @@ to make that happen.
 
 **Abbate:**
 
-That sounds like a miracle\! \[laughter.\]
+That sounds like a miracle\! \laughter.\
 
 **Liskov:**
 
@@ -1574,7 +1574,7 @@ problems themselves, but if they are having trouble, then I’ll jump in
 and do something. I think probably one important thing that an advisor
 has to do is to not solve problems for students. Sometimes it’s kind of
 tempting to do that, because you can do it so much faster than they
-can\! \[laughter.\] Of course, by the time they get into their Ph.D., if
+can\! \laughter.\ Of course, by the time they get into their Ph.D., if
 they’re good, that isn’t true anymore. By then, they maybe can do it
 faster than you can—or at least you have somebody that you interact with
 as an equal, where you can really work together, and you don’t have to
@@ -1596,7 +1596,7 @@ I don’t know how to answer that question. I haven’t had a huge number of
 female students. I’ve had a number over the years. They’ve always been
 pretty isolated in the group, because the majority of the students were
 male. It’s very hard to generalize about them. . . . I sometimes think
-that cross-sex relationships might be easier. Some of my \[male\]
+that cross-sex relationships might be easier. Some of my \male\
 colleagues have a lot of women students, and they seem to be able to
 nurture women students in a way that I haven’t seemed to be able to
 do—and I don’t understand what the basis of that is.
@@ -1782,7 +1782,7 @@ What does your husband do?
 **Liskov:**
 
 He is an electrical engineer. He worked for
-[Raytheon](/Raytheon "Raytheon"). He’s actually retired now, but he
+Raytheon(Raytheon "Raytheon"). He’s actually retired now, but he
 worked for Raytheon. So he didn’t have as much flexibility as I did, but
 still, he was a very high level designer-architect, so he could always
 work at home most of the time. So that helped, too. He was both flexible
@@ -1796,7 +1796,7 @@ Did you talk to him about your work? Did you have some common ground . .
 **Liskov:**
 
 No. He knows just enough about computer science to be aggravating\!
-\[laughter.\] You know, he doesn’t know very much, so no: we never
+\laughter.\ You know, he doesn’t know very much, so no: we never
 really talked about work.
 
 **Abbate:**
@@ -1824,12 +1824,12 @@ I don’t know if you do a lot teaching—undergraduate, graduate . . .?
 
 At MIT you teach one course a semester. I’ve done primarily
 undergraduate teaching, and that’s because I developed a course based on
-my programming methodology work, which led to this book here. \[gets
-book off shelf\]
+my programming methodology work, which led to this book here. \gets
+book off shelf\
 
 **Abbate:**
 
-\[reading title\] Program Development in Java.
+\reading title\ Program Development in Java.
 
 **Liskov:**
 
@@ -1884,7 +1884,7 @@ It’s about 11:35\.
 
 Oh . . . .
 
-\[interruption\]
+\interruption\
 
 **Abbate:**
 
@@ -1981,49 +1981,49 @@ You’re welcome.
 It’s been really interesting.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Barbara_Liskov_(2001)&oldid=108245>"
+"<http:/ethw.org/index.php?title=Oral-History:Barbara_Liskov_(2001)&oldid=108245>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computer science
-  education](/Category:Computer_science_education "Category:Computer science education")
-* [Computation
-  theory](/Category:Computation_theory "Category:Computation theory")
-* [Programming](/Category:Programming "Category:Programming")
-* [Data
-  acquisition](/Category:Data_acquisition "Category:Data acquisition")
-* [Data
-  processing](/Category:Data_processing "Category:Data processing")
-* [Speech
-  recognition](/Category:Speech_recognition "Category:Speech recognition")
+* Computer science
+  education(Category:Computer_science_education "Category:Computer science education")
+* Computation
+  theory(Category:Computation_theory "Category:Computation theory")
+* Programming(Category:Programming "Category:Programming")
+* Data
+  acquisition(Category:Data_acquisition "Category:Data acquisition")
+* Data
+  processing(Category:Data_processing "Category:Data processing")
+* Speech
+  recognition(Category:Speech_recognition "Category:Speech recognition")
 
 ## Contents
 
-* [1 About Barbara Liskov](#About_Barbara_Liskov)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family Background](#Family_Background)
-  * [4\.2 Advanced Schooling](#Advanced_Schooling)
-  * [4\.3 Early Career](#Early_Career)
-  * [4\.4 Graduate School](#Graduate_School)
-  * [4\.5 After Stanford](#After_Stanford)
-  * [4\.6 Venus Research Paper](#Venus_Research_Paper)
-  * [4\.7 MIT and Data Abstraction and
-    CLU](#MIT_and_Data_Abstraction_and_CLU)
-  * [4\.8 Argus](#Argus)
-  * [4\.9 Family](#Family)
+* 1 About Barbara Liskov(#About_Barbara_Liskov)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family Background(#Family_Background)
+  * 4\.2 Advanced Schooling(#Advanced_Schooling)
+  * 4\.3 Early Career(#Early_Career)
+  * 4\.4 Graduate School(#Graduate_School)
+  * 4\.5 After Stanford(#After_Stanford)
+  * 4\.6 Venus Research Paper(#Venus_Research_Paper)
+  * 4\.7 MIT and Data Abstraction and
+    CLU(#MIT_and_Data_Abstraction_and_CLU)
+  * 4\.8 Argus(#Argus)
+  * 4\.9 Family(#Family)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:41\.
 
 * This page has been accessed 2,774 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

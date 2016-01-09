@@ -1,77 +1,77 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Gillian_Lovegrove&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Gillian_Lovegrove&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Gillian_Lovegrove)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Gillian_Lovegrove&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Gillian_Lovegrove "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Gillian_Lovegrove "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Gillian_Lovegrove&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Gillian_Lovegrove&oldid=108425 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Gillian_Lovegrove&action=info)
-  
-  * [Browse
-    properties](/Special:Browse/Oral-2DHistory:Gillian_Lovegrove)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AGillian+Lovegrove)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Gillian_Lovegrove&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Gillian_Lovegrove&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Gillian_Lovegrove)
+  
+  * Discussion(index.php?title=Oral-History_talk:Gillian_Lovegrove&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Gillian_Lovegrove "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Gillian_Lovegrove "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Gillian_Lovegrove&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Gillian_Lovegrove&oldid=108425 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Gillian_Lovegrove&action=info)
+  
+  * Browse
+    properties(Special:Browse/Oral-2DHistory:Gillian_Lovegrove)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AGillian+Lovegrove)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Gillian Lovegrove
@@ -131,7 +131,7 @@ DATE: 20 September 2001\
 PLACE: Gillian Lovegrove's Office at the University of Northumbria at
 Newcastle
 
-\[Notes courtesy of interviewer Janet Abbate\]
+\Notes courtesy of interviewer Janet Abbate\
 
 ### Background and Education
 
@@ -153,7 +153,7 @@ grammar school; it wasn’t just a girls-only. They were very keen on
 education, but they didn’t have the specialists, particularly on the
 science side: not enough of them. So they encouraged me to go into
 maths, which I was good at—though I wanted to go into languages, which I
-enjoyed\! \[laughs.\] Anyway, they won, and my parents won, and I went
+enjoyed\! \laughs.\ Anyway, they won, and my parents won, and I went
 into the maths side, but felt immediately starved of humanity, so to
 speak, and didn’t try very much at school when I had to specialize just
 in maths. We have this system here where you keep broad up to about the
@@ -193,7 +193,7 @@ So your parents were encouraging you . . .
 
 **Lovegrove:**
 
-My parents conspired with the school to persuade me\! \[laughs.\]
+My parents conspired with the school to persuade me\! \laughs.\
 Because my father was looking at all the kinds of jobs that people could
 get, and he knew that there were a lot more jobs in maths and science
 than there were in the arts. And I really wanted to do French, German,
@@ -234,7 +234,7 @@ Did he also do anything technical?
 
 He was encouraged to go into an engineering course, yes; so he did. He
 finished electronics and then became a teacher. So there was a very
-strong parental influence. “Influence”: forcing\! \[laughs.\]
+strong parental influence. “Influence”: forcing\! \laughs.\
 Encouraging.
 
 **Abbate:**
@@ -299,7 +299,7 @@ and applied maths: pure maths was fine; it interested me; but applied
 maths just wasn’t, so I wasn’t in my right home subject area yet. I
 really enjoyed Cambridge, because it had masses of music; it had masses
 of sport; it had masses of men—they outnumbered us ten to one, and we
-had this obligation to go out with as many as we could\! \[laughs.\] So
+had this obligation to go out with as many as we could\! \laughs.\ So
 I had a fantastic time, and worked as much as I could in between having
 a fantastic time, and survived it okay. On the way, I met several
 men—boyfriends; influences—some of whom showed me about computing, and
@@ -347,7 +347,7 @@ there said to me, “Why do you want to go and do computing?” I said I
 wanted to teach eventually, but I thought I wanted to teach computing.
 “Why do you want to teach computing? Nobody’s going to teach
 computing. They aren’t going to have computers in schools or anything\!”
-\[laughs.\] So I thought, “This isn’t my scene\!” and I did the diploma
+\laughs.\ So I thought, “This isn’t my scene\!” and I did the diploma
 in computing instead.
 
 I then felt at home. This was where I wanted to be. This is what I
@@ -372,8 +372,8 @@ things like programming, of course, but you also had operating systems,
 and language translations, and you had the hardware. I can’t remember
 the detail. When you look at our courses here, you can see that original
 structure still existing: around it you’ve got some other exciting new
-stuff to do with the Web, or to do with HCI \[human-computer
-interaction\], or multimedia; but in a way they’re the frills around the
+stuff to do with the Web, or to do with HCI \human-computer
+interaction\, or multimedia; but in a way they’re the frills around the
 main software engineering content. What they didn’t have in those days
 was business analysis, or systems design in that sense—not at Cambridge,
 anyway. Instead, they had more of the traditional university approach.
@@ -437,11 +437,11 @@ that you were there.
 
 **Abbate:**
 
-Like it was a mistake \[that you got in\].
+Like it was a mistake \that you got in\.
 
 **Lovegrove:**
 
-\[laughs.\] It was a mistake: I felt that quite a lot, but I think
+\laughs.\ It was a mistake: I felt that quite a lot, but I think
 that’s something personal to do with my own personal development as
 well, that my self-esteem was not very good; and I still struggle with
 that now. So the belief in myself wasn’t there, and I’d accidentally got
@@ -517,7 +517,7 @@ Was operating systems your main area of interest at that point?
 Yes. Again it was to do with organization: I love organizing things, and
 I did enjoy that. We got into that gradually, but that really fired me
 up, to have good working and good organization—which is how I run this
-department\! \[laughs.\]
+department\! \laughs.\
 
 **Abbate:**
 
@@ -726,7 +726,7 @@ It got so that by 1991, after four years from being divorced, I had a
 reasonably good research record; I was very knowledgeable about courses
 and accreditation; and I was feeling frustrated, because I wanted to get
 there faster than the people in the department were aware that I wanted
-to do\! \[laughs.\] And in my view, I wasn’t getting the support I
+to do\! \laughs.\ And in my view, I wasn’t getting the support I
 deserved in the way of equipment. I had asked for a machine—a new
 computer—and it was refused; and yet some Teaching Fellow somewhere was
 given one, and I hadn’t been given one. I felt as if I was being
@@ -800,7 +800,7 @@ would have been Principal Lecturer status; but at Staffordshire, they
 were actually on the management spine and part of the management, so the
 two that I applied for were both on the management spine. They were not
 Principal Lecturers; it was above that. So I was jumping two points, if
-you like: I was missing the Senior Lecturer / Principal Lecturer one and
+you like: I was missing the Senior Lecturer  Principal Lecturer one and
 I was going straight to the next one, which was the Head of a department
 level.
 
@@ -815,7 +815,7 @@ That did enable me to learn a lot from the people around me. I was there
 from 1992 until 1999, and I found that I’d learned a lot from the Dean
 and the way that he brought people on and encouraged people to learn
 about management. But I also learned an awful lot about how not to do
-things. So when I left to come here \[to University of Northumbria\], I
+things. So when I left to come here \to University of Northumbria\, I
 brought with me an awful lot of experience about not only integrating
 your top people, but also about how to integrate into a whole community,
 and keep a lot of information flowing, and try to make sure each person
@@ -843,7 +843,7 @@ status. But I liked the atmosphere here, and it has a good reputation,
 and I wanted a change of scene. So, decided I would go for it, really
 because I felt, “Well, I can be my own Head at last; and I’ve got a new
 area where I can live and work; it sounds fun. So I’d like to do this.”
-And also because I could do it easily, I thought \[laughs\], because I’d
+And also because I could do it easily, I thought \laughs\, because I’d
 learned all this stuff; and I thought I had more than enough experience
 to be the Head of a department of around fifty, as it was then, two
 years ago.
@@ -938,7 +938,7 @@ Have you had any problems from men not wanting to have a female Head?
 Much, much less than I imagined. Virtually no problem inside the school.
 I’m just trying to think: have I had any problem inside the school? I
 don’t think there’s any problems inside the school; I can’t think of
-any. \[laughs.\] It’s been rather more difficult, I think, at the
+any. \laughs.\ It’s been rather more difficult, I think, at the
 equal-Heads level in my faculty—possibly; but it may just be that that’s
 associated with my now leading the biggest and most advancing school,
 and therefore they feel threatened.
@@ -957,7 +957,7 @@ other powerful Heads, and he expected to kowtow to them—he’s a gentle
 guy. He continued to kowtow to them, and couldn’t understand why I kept
 popping my head up and saying, “No, no way; you can’t do that\! You’ve
 got to give me more resources\!”—which he thought was not the game.
-\[laughs.\] However, in fairness, what I have had is enormous support
+\laughs.\ However, in fairness, what I have had is enormous support
 from the level above him, at the Deputy Vice Chancellor level: two men,
 both extremely supportive, and not because I’m a woman, just because I’m
 running the department well and they’re pleased to see it. So, enormous
@@ -967,7 +967,7 @@ So in general, this university has given me far more support as a woman
 than Staffordshire University did. It was really tough there; it was
 very much macho cliques. The Dean tried to get it not to be that way,
 but he had a group of people—men—there, who just couldn’t be brought on
-board \[laughs\], and were so threatened by my new thinking: all this
+board \laughs\, and were so threatened by my new thinking: all this
 “empowerment” stuff and bringing on Principal Lecturers, and
 suggesting that what they were doing was less than perfect, they just
 couldn’t take. And it was less than perfect. The quality measures in the
@@ -1187,7 +1187,7 @@ I have been Chair of the Professors and Heads of Computing for the last
 two years. That’s all the Professors and Heads in the academic
 departments.
 
-\[DISC 2\]
+\DISC 2\
 
 **Abbate:**
 
@@ -1273,7 +1273,7 @@ at the moment, in the universities it’s something like ten percent\!
 
 **Abbate:**
 
-\[Ten percent\] women in the harder end?
+\Ten percent\ women in the harder end?
 
 **Lovegrove:**
 
@@ -1304,7 +1304,7 @@ but differently.
 
 I’m just wondering if there’s more—because it is a slippery
 distinction—if there’s a sense that there’s more status attached to
-\[the hard end\].
+\the hard end\.
 
 **Lovegrove:**
 
@@ -1324,19 +1324,19 @@ Yes, there are. Yes: thirty, thirty-five percent.
 **Abbate:**
 
 . . . which is one of the puzzles. I mean, there are so many in math,
-\[but not many in computer science\].
+\but not many in computer science\.
 
 **Lovegrove:**
 
 But you are slightly odd as a woman, being a mathematician. Society
 regards you as being slightly unusual, if you are a good mathematician.
-If you are a Cambridge mathematician, then you’re even weirder\! \[both
-laugh.\] If you are a Cambridge mathematician who plays hockey, then you
-are definitely beyond the pale\! \[laughs.\]
+If you are a Cambridge mathematician, then you’re even weirder\! \both
+laugh.\ If you are a Cambridge mathematician who plays hockey, then you
+are definitely beyond the pale\! \laughs.\
 
 **Abbate:**
 
-You wouldn’t be speaking from personal experience? \[both laugh.\]
+You wouldn’t be speaking from personal experience? \both laugh.\
 
 **Lovegrove:**
 
@@ -1344,7 +1344,7 @@ There is an association with that, on the female side; I think there is
 always that. There is that judgment from the outside: if you are a woman
 doing an unusually more male job (in their view), then you are slightly
 weird. Probably with a load of respect, but also, “Keep your distance. I
-don’t think I quite want to be associated with you.” \[laughs.\]
+don’t think I quite want to be associated with you.” \laughs.\
 
 I don’t think computing has quite got that image, though, now. I think
 that, yes, people think, “They’re different,” but there is also a
@@ -1511,7 +1511,7 @@ up in?” And then, just never think that it isn’t possible. Step back,
 look at it again, and find a new position.
 
 And hopefully of course, they’ll all have a manager who’ll actually help
-them achieve that\! \[laughs.\]
+them achieve that\! \laughs.\
 
 **Abbate:**
 
@@ -1524,43 +1524,43 @@ Well, great\! Thank you very much\!
   School of Informatics.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Gillian_Lovegrove&oldid=108425>"
+"<http:/ethw.org/index.php?title=Oral-History:Gillian_Lovegrove&oldid=108425>"
 
-[Category](/Special:Categories "Special:Categories"):
+Category(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
 
 ## Contents
 
-* [1 About Gillian Lovegrove](#About_Gillian_Lovegrove)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Learning at Cambridge Maths Lab and Working on
-    EDSAC](#Learning_at_Cambridge_Maths_Lab_and_Working_on_EDSAC)
-  * [4\.3 Learning and Teaching at
-    Southampton](#Learning_and_Teaching_at_Southampton)
-  * [4\.4 Reflecting on Personal Life](#Reflecting_on_Personal_Life)
-  * [4\.5 Working on Advancing Career at
-    Southampton](#Working_on_Advancing_Career_at_Southampton)
-  * [4\.6 Arriving at Northumbria, Reflections on the
-    University](#Arriving_at_Northumbria.2C_Reflections_on_the_University)
-  * [4\.7 Reflections on Women in
-    Computing](#Reflections_on_Women_in_Computing)
-  * [4\.8 Advice for Women in Computing](#Advice_for_Women_in_Computing)
+* 1 About Gillian Lovegrove(#About_Gillian_Lovegrove)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Learning at Cambridge Maths Lab and Working on
+    EDSAC(#Learning_at_Cambridge_Maths_Lab_and_Working_on_EDSAC)
+  * 4\.3 Learning and Teaching at
+    Southampton(#Learning_and_Teaching_at_Southampton)
+  * 4\.4 Reflecting on Personal Life(#Reflecting_on_Personal_Life)
+  * 4\.5 Working on Advancing Career at
+    Southampton(#Working_on_Advancing_Career_at_Southampton)
+  * 4\.6 Arriving at Northumbria, Reflections on the
+    University(#Arriving_at_Northumbria.2C_Reflections_on_the_University)
+  * 4\.7 Reflections on Women in
+    Computing(#Reflections_on_Women_in_Computing)
+  * 4\.8 Advice for Women in Computing(#Advice_for_Women_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:44\.
 
 * This page has been accessed 1,993 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

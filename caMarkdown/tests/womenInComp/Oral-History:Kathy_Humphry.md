@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Kathy_Humphry&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Kathy_Humphry&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Kathy_Humphry)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Kathy_Humphry&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Kathy_Humphry "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Kathy_Humphry "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Kathy_Humphry&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Kathy_Humphry&oldid=108577 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Kathy_Humphry&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Kathy_Humphry)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AKathy+Humphry)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Kathy_Humphry&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Kathy_Humphry&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Kathy_Humphry)
+  
+  * Discussion(index.php?title=Oral-History_talk:Kathy_Humphry&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Kathy_Humphry "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Kathy_Humphry "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Kathy_Humphry&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Kathy_Humphry&oldid=108577 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Kathy_Humphry&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Kathy_Humphry)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AKathy+Humphry)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Kathy Humphry
@@ -81,7 +81,7 @@ Kathy Humphry was born in Liverpool in 1944\. She attended the
 University of Saint Andrews and became involved with computers right
 after received her degree. After graduation, Humphry worked for Standard
 Telephones and Cables as a telephone switching technician. Afterward,
-she moved to the USA to work on the same machine at Blue Cross/Blue
+she moved to the USA to work on the same machine at Blue CrossBlue
 Shield. Humphry eventually moved back to Britain to work in the
 university system, first at Open University and then Edinburgh
 University. At Edinburgh University, as a Computing Officer she was
@@ -96,7 +96,7 @@ worked for Standard Telephones and Cables as a telephone switching
 technician. She goes into great detail in this interview about her job
 in telephone switching, working with computers, and her experience in
 the field as a woman. Humphry also talks about her job in message
-switching at Blue Cross/Blue Shield in the USA. She also talks about her
+switching at Blue CrossBlue Shield in the USA. She also talks about her
 time at Open University where she did front-end work onto the
 university’s mainstream computers, linking them up so that the
 computers that the students were using for their studies could in some
@@ -359,7 +359,7 @@ fingers—they really hurt—and then wind the thing; everybody else was
 terrified of them. So all the experimental work was easy for me. I told
 the Careers Officer that, and he sent me job specs for applications, and
 I just noticed the names on all these jobs were ICL (ICT, it was then),
-IBM, STC \[Standard Telephone and Cable\], Plessey: they’re all computer
+IBM, STC \Standard Telephone and Cable\, Plessey: they’re all computer
 companies. And I asked him, “Why are you sending me to them? Am I going
 to do personnel, or as a programmer?” And he said, “Try programming.
 They do aptitude tests. See how you get on.” So with this entirely dotty
@@ -402,7 +402,7 @@ ever was confronted with computers. I was absolutely terrified\! I
 didn’t know what it trying to do; you know, I didn’t see any cause and
 effect. But they taught us. We were called “the graduates.”
 
-\[recording pauses\]
+\recording pauses\
 
 **Humphry:**
 
@@ -453,34 +453,34 @@ I just hadn’t heard the term “stacked.”
 **Humphry:**
 
 No? Well, maybe I shouldn’t have used that term. Each conversation was
-about 1/25th of the bandwidth, so there’s a lot of switching to be done.
+about 125th of the bandwidth, so there’s a lot of switching to be done.
 We were working on the front end, on a . . . This was such a long time
 ago; I can’t remember the name of the machine. It may come to me; I’ve
 lost it right now.
 
-\[recording pauses\]
+\recording pauses\
 
 **Humphry:**
 
-One of \[the machines we worked on\] was really brilliant: it was a
+One of \the machines we worked on\ was really brilliant: it was a
 PDP-1, the original DEC machine; eighteen bits, great big core banks of
 memory. The memories were in core, and we discovered the hard way that
 it got dry joints, so when you had a table lookup and execute
 instruction—and everything was in assembly language, so I’m not as old
-as some, obviously \[laughs\]—it would go the wrong way\! So you’d
+as some, obviously \laughs\—it would go the wrong way\! So you’d
 suddenly find that it wasn’t doing what you expected. We discovered it
 was because of the hardware: it was actually physically dropping a bit
 on these indirect jumps. So what you would do when that happened was go
-open the back of the machine, and take your hand and \[run it\] along
+open the back of the machine, and take your hand and \run it\ along
 the memory banks, and shake them up; and then it would work again\!
 
 **Abbate:**
 
-\[laughs.\] I have never heard that\!
+\laughs.\ I have never heard that\!
 
 **Humphry:**
 
-\[laughs.\] We really did that\!
+\laughs.\ We really did that\!
 
 **Abbate:**
 
@@ -511,7 +511,7 @@ gone violently wrong. And that was linked up to lights. You know how you
 just see lights and—well, you don’t nowadays, but you did then.
 
 Input was paper tape. I’m very good with the unipunch. I can patch and
-alter files with these little bits of tape very well. \[laughs.\]
+alter files with these little bits of tape very well. \laughs.\
 
 **Abbate:**
 
@@ -561,8 +561,8 @@ excellent—but terrifying, because one weekend I was in all by myself,
 and when I turned the machine on—doing everything I was meant to, so I
 thought—it suddenly went POOF\! And I thought, “No\! Thousands and
 thousands and hundreds of thousands of pounds I’ve just killed\!” But
-unknown to me, there was a safety trip—and it was that big \[holds hands
-about six inches apart\]—and it had flipped with some surge that had
+unknown to me, there was a safety trip—and it was that big \holds hands
+about six inches apart\—and it had flipped with some surge that had
 occurred.
 
 **Abbate:**
@@ -598,7 +598,7 @@ So next time you were in on a weekend, you knew?
 
 **Humphry:**
 
-Yes. \[laughs.\] I think I kept clear\! I made sure someone was with me
+Yes. \laughs.\ I think I kept clear\! I made sure someone was with me
 after that.
 
 **Abbate:**
@@ -611,7 +611,7 @@ A bit. I mean, I didn’t have kids or anything, so yes: a bit.
 
 **Abbate:**
 
-To get the time \[on the machine\]?
+To get the time \on the machine\?
 
 **Humphry:**
 
@@ -727,7 +727,7 @@ Was it fun, the work?
 
 Yes. Oh, yes.
 
-### Moving to the USA, Working for Blue Cross/Blue Shield
+### Moving to the USA, Working for Blue CrossBlue Shield
 
 **Abbate:**
 
@@ -746,7 +746,7 @@ they hadn’t got around to it, and my boss kept saying to his senior
 people, “If you don’t take them on, they’ll leave anyway. They’re young
 and they want to go; they’ll go.” But whilst that happened, I got a job
 which fitted me perfectly at Blue Cross Association, which is a service
-bureau for the Blue Cross/Blue Shield plans, and that’s in Chicago. They
+bureau for the Blue CrossBlue Shield plans, and that’s in Chicago. They
 were going to pay our fare, both of us; and I was just going to fall
 into a very similar-type job, this time message switching, on the same
 machine—also front-end. They’d come across to Britain to recruit. There
@@ -768,8 +768,8 @@ changed, and it was too late to apply; but we applied anyway, and we
 were just in time: we were the last month of people who got green cards
 from this country straight away, without having a job.
 
-So, we went to Chicago, and I was working there. I’ve forgotten \[what
-computer system I worked on\]. It was a bit like the IBM machines, but
+So, we went to Chicago, and I was working there. I’ve forgotten \what
+computer system I worked on\. It was a bit like the IBM machines, but
 it wasn’t; it had a sort of subset of their operating system, and I
 can’t remember what it was. My husband just came with me, and he just
 looked around until he got work, which didn’t take him very long either.
@@ -793,7 +793,7 @@ Sort of. He had done maths at university and then gone into Operations
 Research, but he was gradually sliding more and more towards programming
 as well. And he got a job in the States with Montgomery Ward. He got a
 series of jobs that seemed pretty boring to me: all data processing.
-\[both laugh.\]
+\both laugh.\
 
 **Abbate:**
 
@@ -824,7 +824,7 @@ So I left work at nine o’clock on a Saturday morning, having worked
 through the night: very peculiar.
 
 But I’d seen all that. As soon as we got to San Francisco on Monday
-morning or whenever it was, I went into the local Blue Cross / Blue
+morning or whenever it was, I went into the local Blue Cross  Blue
 Shield plan—the California one—where they had a desk for me, and I
 carried on monitoring the system from the other end, which is very, very
 useful: to have people doing that. We’ll have had people at other plans,
@@ -915,7 +915,7 @@ while I had been working\!
 
 **Abbate:**
 
-\[laughs.\]
+\laughs.\
 
 **Humphry:**
 
@@ -934,8 +934,8 @@ So sort of vertically . . .
 **Humphry:**
 
 Yes. And then the locations were going along the bottom bit. Yes, you
-have to draw it. \[Draws something like this, with 6 rows and 10 columns
-across: \]
+have to draw it. \Draws something like this, with 6 rows and 10 columns
+across: \
 
 **Abbate:**
 
@@ -963,7 +963,7 @@ Is that because this was high-speed, real-time stuff?
 
 Probably. We probably felt that it had to be done where we had to have
 total control. I’m sure that’s what we thought—but we were wrong\!
-\[both laugh.\]
+\both laugh.\
 
 ### Moving Back to Britain, Working for Open University
 
@@ -1005,14 +1005,14 @@ So the students had terminals somewhere, linked to a computer?
 That’s right. That’s right. And that was where we were working, but I
 personally was working on the join-up between that and—I suppose the
 Finance Department’s computer. I can’t believe that we did that\! Or
-why\! \[laughs.\] But I had great fun doing it\!
+why\! \laughs.\ But I had great fun doing it\!
 
-\[pause to answer phone\]
+\pause to answer phone\
 
 **Humphry:**
 
 So, right: We decided to come back; we went to the OU; and that was my
-job; and I can’t remember what machines I was working on. \[laughs.\]
+job; and I can’t remember what machines I was working on. \laughs.\
 Still assembly language.
 
 ### Working at Edinburgh University
@@ -1037,7 +1037,7 @@ and so we moved here in 1973\. I joined the Computer Science Department
 at Edinburgh University—and that probably is where you’ll get a lot of
 the people around here that you’re going to see, because as far as I can
 tell, it’s the sort of starting point for everything in this area now
-\[i.e., the high-tech start-ups\]. Well, it was a good starting point;
+\i.e., the high-tech start-ups\. Well, it was a good starting point;
 one of them.
 
 I was in the Computer Science Department for the first time, and that’s
@@ -1063,7 +1063,7 @@ I don’t think so.
 **Humphry:**
 
 But you will hear it around here a lot, because it was invented here,
-\[but\] it wasn’t well-enough documented, and it never took off. It was
+\but\ it wasn’t well-enough documented, and it never took off. It was
 just as good as PASCAL any day—better, actually—but it was never
 publicized. So it’s very insular, and you’ll only hear people here, or
 people who have been here, talking about it. But it lived a long time,
@@ -1081,7 +1081,7 @@ Really?
 **Humphry:**
 
 Well, you know: How do you do this? How do you do that? What if I wanted
-to shift left? \[laughs.\]
+to shift left? \laughs.\
 
 **Abbate:**
 
@@ -1109,8 +1109,8 @@ never used this machine before\!” And my boss said, “Well, you’ve got an
 hour. There it is\!” I was quite unused to that way of working. In
 industry, you do have your hand—or in those days, anyway, you did have
 your hand held better than that\! I had my hour, and the students turned
-up, and I said to them, “If I can do it, you can\!” \[laughs.\] And we
-all managed it\! \[both laugh.\]
+up, and I said to them, “If I can do it, you can\!” \laughs.\ And we
+all managed it\! \both laugh.\
 
 **Abbate:**
 
@@ -1194,7 +1194,7 @@ and if you don’t, you are not doing your job properly.
 
 **Abbate:**
 
-\[laughs.\] I’ve never heard that definition before\!
+\laughs.\ I’ve never heard that definition before\!
 
 **Humphry:**
 
@@ -1206,7 +1206,7 @@ After about six months I felt trapped, but I actually stayed on because
 the two partners were friends of mine. I eventually moved on when they
 warned us that there wasn’t enough new work coming in to sustain all of
 us. My first reaction was, “Oh, I hope they don’t mean me\!” And my
-second reaction was, “Whoopee\! This is my chance\!” \[laughs.\]
+second reaction was, “Whoopee\! This is my chance\!” \laughs.\
 
 At exactly that moment, Xilinx took over a company called Algotronix,
 which was struggling for finance and had had a brilliant idea in FPGA
@@ -1229,7 +1229,7 @@ So a chip that you can sort of program . . .
 **Humphry:**
 
 . . . on the run—yes. You’ll probably get more of that from Jane
-\[Hesketh\] and other people here.
+\Hesketh\ and other people here.
 
 The particular design that we were working on then, or this group was,
 had been dreamt up as a Ph.D. for one of the original people who started
@@ -1247,7 +1247,7 @@ but they couldn’t get enough funding, and Xilinx, who was a sort of
 rival, bought them up—which was great, for a while. That’s when they
 expanded, and when we moved in here. We’re not working on that exact
 chip anymore, but we’re still working for Xilinx. Well, some of us are\!
-\[laughs.\]
+\laughs.\
 
 But, sadly—and this is the bit which is a shame—I, at that point,
 stopped being technical: because this chip is just way beyond my
@@ -1409,16 +1409,16 @@ Well, it’s a patchwork of . . .
 
 It used to be great in Scandinavia, but I’m told that even there it’s
 beginning to fizzle out again. I mean, they used to send somebody around
-if your kid was sick. My husband, who’s the best father/mother/wife you
+if your kid was sick. My husband, who’s the best fathermother/wife you
 could imagine: when the last child came, he’d say, “Oh that’s okay; I’ll
-look after that one.” \[But\] when it came to making arrangements, he’d
+look after that one.” \But\ when it came to making arrangements, he’d
 forgotten. It was always back to me. If I asked for time off, it was
 socially acceptable, but if he asked for time off it was not socially
 acceptable.
 
 **Abbate:**
 
-So even if he wanted to, it was \[difficult\].
+So even if he wanted to, it was \difficult\.
 
 **Humphry:**
 
@@ -1442,7 +1442,7 @@ Was it possible to work at home?
 Yes, I could. Even in 1975, I had one of these ASR-33’s at home, hooked
 up over a network with a modem. We live in the country, so we actually
 shared the phone line with our neighbors—so I’d be working away and my
-neighbors couldn’t get on the phone\! \[laughs.\] But that gave me quite
+neighbors couldn’t get on the phone\! \laughs.\ But that gave me quite
 a kick, that I could do that; I could talk to the Open University, and I
 could talk to Edinburgh University. I had managed to make a muddle of
 some work, losing back-up data when a machine became faulty, very
@@ -1455,8 +1455,8 @@ would be waiting for me at the other end, which it was.
 
 **Abbate:**
 
-Did you ever feel, other than the time commitment \[for raising
-children\], that as a woman you had less access to training or
+Did you ever feel, other than the time commitment \for raising
+children\, that as a woman you had less access to training or
 promotions?
 
 **Humphry:**
@@ -1631,12 +1631,12 @@ they don’t understand that it’s not necessarily just that.
 
 **Abbate:**
 
-So that would be a change from earlier \[times\]?
+So that would be a change from earlier \times\?
 
 **Humphry:**
 
 Yes\! Because it didn’t exist then. So we thought the boys who were
-going on about the insides of cars were boring \[both laugh\], and the
+going on about the insides of cars were boring \both laugh\, and the
 computing was still sort of fresh\! It was a blank page, so it was
 sexless. But now it has changed.
 
@@ -1646,7 +1646,7 @@ So you think it’s become . . .
 
 **Humphry:**
 
-It’s becoming less—women are taking it up less than at that \[time\].
+It’s becoming less—women are taking it up less than at that \time\.
 You know, there was one mid-point where it was just equal.
 
 **Abbate:**
@@ -1671,7 +1671,7 @@ If I touch that, everything’ll explode and it’ll all be my fault\!”
 
 **Abbate:**
 
-\[pause\]. Let me think. Have I left any holes in your \[story\]?
+\pause\. Let me think. Have I left any holes in your \[story\]?
 
 **Humphry:**
 
@@ -1713,7 +1713,7 @@ Do you think the industry has become more international?
 
 **Humphry:**
 
-Yes, yes. \[pause.\] Well\! You say that, but you see, I worked for ITT
+Yes, yes. \pause.\ Well\! You say that, but you see, I worked for ITT
 as my very first job, a subsidiary of it: that was already
 international. That company was already dealing with—I mean, it already
 had offices in Germany, during the war. So it was already crossing
@@ -1729,7 +1729,7 @@ Yes.
 
 **Abbate:**
 
-And you say people were going back and forth \[across the Atlantic\] to
+And you say people were going back and forth \across the Atlantic\ to
 find work?
 
 **Humphry:**
@@ -1738,7 +1738,7 @@ Well, I don’t know; that was before my time.
 
 **Abbate:**
 
-Well, people came here \[from the US\] to recruit, and . . .
+Well, people came here \from the US\ to recruit, and . . .
 
 **Humphry:**
 
@@ -1760,51 +1760,51 @@ All right. Thank you very much for talking with me\!
 
 Well, it’s been a pleasure\!
 
-\[END OF RECORDING\]
+\END OF RECORDING\
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Kathy_Humphry&oldid=108577>"
+"<http:/ethw.org/index.php?title=Oral-History:Kathy_Humphry&oldid=108577>"
 
-[Category](/Special:Categories "Special:Categories"):
+Category(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
 
 ## Contents
 
-* [1 About Kathy Humphry](#About_Kathy_Humphry)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Using Computers at Standard Telephones and
-    Cables](#Using_Computers_at_Standard_Telephones_and_Cables)
-  * [4\.3 Moving to the USA, Working for Blue Cross/Blue
-    Shield](#Moving_to_the_USA.2C_Working_for_Blue_Cross.2FBlue_Shield)
-  * [4\.4 Working for Friden, Singer](#Working_for_Friden.2C_Singer)
-  * [4\.5 Moving Back to Britain, Working for Open
-    University](#Moving_Back_to_Britain.2C_Working_for_Open_University)
-  * [4\.6 Working at Edinburgh
-    University](#Working_at_Edinburgh_University)
-  * [4\.7 Working for Xilinx](#Working_for_Xilinx)
-  * [4\.8 Working with Students at
-    Edinburgh](#Working_with_Students_at_Edinburgh)
-  * [4\.9 Balancing Family Life and
-    Career](#Balancing_Family_Life_and_Career)
-  * [4\.10 Reflection on Working with
-    Computers](#Reflection_on_Working_with_Computers)
-  * [4\.11 On Xilinx](#On_Xilinx)
+* 1 About Kathy Humphry(#About_Kathy_Humphry)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Using Computers at Standard Telephones and
+    Cables(#Using_Computers_at_Standard_Telephones_and_Cables)
+  * 4\.3 Moving to the USA, Working for Blue CrossBlue
+    Shield(#Moving_to_the_USA.2C_Working_for_Blue_Cross.2FBlue_Shield)
+  * 4\.4 Working for Friden, Singer(#Working_for_Friden.2C_Singer)
+  * 4\.5 Moving Back to Britain, Working for Open
+    University(#Moving_Back_to_Britain.2C_Working_for_Open_University)
+  * 4\.6 Working at Edinburgh
+    University(#Working_at_Edinburgh_University)
+  * 4\.7 Working for Xilinx(#Working_for_Xilinx)
+  * 4\.8 Working with Students at
+    Edinburgh(#Working_with_Students_at_Edinburgh)
+  * 4\.9 Balancing Family Life and
+    Career(#Balancing_Family_Life_and_Career)
+  * 4\.10 Reflection on Working with
+    Computers(#Reflection_on_Working_with_Computers)
+  * 4\.11 On Xilinx(#On_Xilinx)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:46\.
 
 * This page has been accessed 2,104 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

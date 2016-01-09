@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Judith_Mills&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Judith_Mills&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Judith_Mills)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Judith_Mills&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Judith_Mills "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Judith_Mills "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Judith_Mills&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Judith_Mills&oldid=108569 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Judith_Mills&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Judith_Mills)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AJudith+Mills)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Judith_Mills&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Judith_Mills&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Judith_Mills)
+  
+  * Discussion(index.php?title=Oral-History_talk:Judith_Mills&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Judith_Mills "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Judith_Mills "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Judith_Mills&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Judith_Mills&oldid=108569 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Judith_Mills&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Judith_Mills)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJudith+Mills)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Judith Mills
@@ -142,7 +142,7 @@ And where did you grow up?
 **Mills:**
 
 In Durham, which is the next county North to here. I was actually born
-in Gateshead, so I’m a Geordie\! \[laughs.\]
+in Gateshead, so I’m a Geordie\! \laughs.\
 
 **Abbate:**
 
@@ -152,7 +152,7 @@ I don’t know what that means.
 
 Over here, if you were born within so many miles of the River Tyne,
 you’re a Geordie. And I was born right on the banks of the River Tyne,
-so I’m a definite Geordie. \[laughs\]
+so I’m a definite Geordie. \laughs\
 
 **Abbate:**
 
@@ -160,7 +160,7 @@ Oh. That’s a good thing, I guess.
 
 **Mills:**
 
-Well—not really, no\! \[laughs\]
+Well—not really, no\! \laughs\
 
 **Abbate:**
 
@@ -213,7 +213,7 @@ half of the Eleven Plus, you went there; and then, if you didn’t pass
 either half, you went to the local secondary modern, where you were
 taught, sort of a trade more than anything else. So the grammar school
 was a very academic environment. The up-market secondary modern, if I
-can put it like that \[laughs\], was sort of a halfway house, and
+can put it like that \laughs\, was sort of a halfway house, and
 certainly there were feeds . . . I don’t know how much you know about
 the British education system, certainly as it was in those days: we had
 the Eleven Plus, and then, at about 15 or 16, one did your O Levels;
@@ -237,7 +237,7 @@ Was that all girls, or mixed?
 **Mills:**
 
 It was all girls in those days, yes. “Never the twain shall meet” with a
-boy\! \[laughs\]
+boy\! \laughs\
 
 **Abbate:**
 
@@ -254,7 +254,7 @@ good idea or not. And basically, being an all-girls’ school, the choice
 of O Level was quite limited, and I could choose either biology and art,
 or physics and chemistry. Now, seeing as I’d had one term of biology,
 one term of physics, and one term of chemistry, I didn’t really know
-what they were all about—but I know I can’t draw\! \[laughs.\] So I went
+what they were all about—but I know I can’t draw\! \laughs.\ So I went
 down the science route.
 
 **Abbate:**
@@ -283,7 +283,7 @@ didn’t now, but I thought at the time I would; and they said, “Oh,
 you’ve only got single maths; you can’t do it.” So it had to be maths
 and something, and at this point I realized I didn’t particularly like
 physics, and I didn’t particularly like chemistry, and I didn’t fancy
-statistics; so I thought, “Oh\! Computing\!” \[laughs.\] I had no idea
+statistics; so I thought, “Oh\! Computing\!” \laughs.\ I had no idea
 what computing was\! So I did maths and computing at university.
 
 **Abbate:**
@@ -333,7 +333,7 @@ You went for the devil you didn’t know.
 
 **Mills:**
 
-That’s right\! \[laughs.\] So as I say, it’s really because I can’t draw
+That’s right\! \laughs.\ So as I say, it’s really because I can’t draw
 that I’m in computing.
 
 **Abbate:**
@@ -383,7 +383,7 @@ hobby—you know, playing on computer games. Therefore, the subject of
 computing is thought of as being a boys’ subject.
 
 But interestingly enough, we’ve got quite a few females in our systems
-department—she says, desperately trying to count them up\! \[laughs.\]
+department—she says, desperately trying to count them up\! \laughs.\
 We’re probably about a third, something like that? And everywhere I’ve
 worked, certainly in education, there’s a heck of a lot of women in
 computing; but it seems that the university courses—and even the courses
@@ -428,7 +428,7 @@ The KDF 9 was definitely a very up-market computer for the time, and it
 actually had several users logged on, we could actually log on to it;
 whereas the Elliott 903 was one that as students we were allowed to
 operate ourselves, and it had paper tape, and we had to toggle in the
-bootstrap\! \[laughs.\] Didn’t know what I was doing at the time\! I
+bootstrap\! \laughs.\ Didn’t know what I was doing at the time\! I
 knew you had to go through this procedure, and I had no idea what it was
 actually doing—but I knew to do this, you know, to actually get the
 machine up and running.
@@ -465,7 +465,7 @@ So he did the time-sharing system.
 **Mills:**
 
 Yes. ELDON 2, I seem to remember it was called: named after the local
-pub\! \[laughs.\]
+pub\! \laughs.\
 
 **Abbate:**
 
@@ -486,7 +486,7 @@ realize at the time that program hadn’t actually executed properly and
 come to the end and printed a total out; that it was wanting more
 numbers to feed in, because I hadn’t put N numbers in there. So, I can’t
 say that I actually—looking back, did I really understand what I was
-doing? I don’t think so\! \[laughs.\]
+doing? I don’t think so\! \laughs.\
 
 **Abbate:**
 
@@ -496,7 +496,7 @@ Well, it was only your first one\!
 
 Yes, but you’d have thought I would have realized that I hadn’t actually
 produced a total—but I didn’t\! So I suppose students haven’t changed
-all that much, have they. \[laughs\]
+all that much, have they. \laughs\
 
 We did a lot of work on operating systems and syntax and semantics and
 things like that. I can’t really remember what else.
@@ -532,7 +532,7 @@ little small part of the course. The only things I can really remember
 are writing this program, and also learning about syntax and
 semantics—insomuch as we had the two phrases, “The peanut ate the
 elephant,” and “The elephant ate the peanut”; and “Time flies like an
-arrow,” and “Time flies like an apple\!” \[laughs.\]
+arrow,” and “Time flies like an apple\!” \laughs.\
 
 **Abbate:**
 
@@ -579,7 +579,7 @@ exchangeable floppy disk,” and explaining how the heads move, and the
 concepts of cylinders and things like that. But, we wouldn’t have done
 that in 1970, because I don’t think I came across disks until much
 later—about ‘73?—she says, desperately trying to remember\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -609,7 +609,7 @@ say certainly he’s still at Leeds University, and you know, if anybody
 can find it, he’d be able to.
 
 But—it’s a complete blank\! Did I really spend three years there?
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -622,7 +622,7 @@ the July, and then thought, “Oh\! I’d better get a job\!” Now, my
 husband was still at Leeds University; he went on to do an M.Sc. in
 computing.
 
-\[Remembering something else about the course:\] Oh\! We did a lot about
+\Remembering something else about the course:\ Oh\! We did a lot about
 numerical analysis—which again went completely over my head\! But I only
 say that because he specialized in numerical analysis when he was doing
 his M.Sc., because he did maths as a first course.
@@ -679,7 +679,7 @@ other way around, now\!
 
 And then as I say, I came back and started working as a programmer.
 Again, I can remember my first program I wrote. And it worked\!
-\[laughter.\] But it wasn’t very efficiently written, as I discovered
+\laughter.\ But it wasn’t very efficiently written, as I discovered
 when I came across it sort of, like two years later on. I thought, “Who
 on earth wrote this? Oh god, you did\! Change the name on the author\!”
 
@@ -721,7 +721,7 @@ problem and you need to just go somewhere quiet and sit down and think
 about it and debug it. Well, they often gave me the big problems to take
 home, and it was— Sometimes, you know, you could sit down: “Oh yeah,
 that’s straightforward\!”—and do what everybody else would have done in
-ten hours in about an hour\! \[laughs.\] Just because you had quiet, and
+ten hours in about an hour\! \laughs.\ Just because you had quiet, and
 there were no interruptions, and things like that. So sometimes I would
 write the coding at home—we were still writing upon sort of coding
 sheets, and there would be punch-girls to type it in; and sometimes it
@@ -740,14 +740,14 @@ started working at Wakefield College, so in between them, as well as
 having two children, I also did various part-time work. I worked
 part-time at what was then Leeds Polytechnic, now Leeds Metropolitan
 University; I did some teaching courses there. I did some at Kitson
-College. I did some work for B/Tec—or Bec/Tec as they were then—which is
+College. I did some work for BTec—or Bec/Tec as they were then—which is
 one of the awarding bodies, an academic awarding body, so I did some
 work on their administration system. Again, that was a group of women,
 really. I also worked briefly for F International.
 
 **Abbate:**
 
-Wow\! I’m talking to Steve \[Stephanie\] Shirley tomorrow.
+Wow\! I’m talking to Steve \Stephanie\ Shirley tomorrow.
 
 **Mills:**
 
@@ -800,7 +800,7 @@ broke his arm, but that’s another story—at Wakefield College, which was
 one of our local colleges, and I thought, “Yes\! This is the job for
 me\! There it is in the paper, just when I was about to start looking
 for it”—and applied, and got it. So I went to Wakefield, and I was there
-for many years: too long, looking back\! \[laughs.\]
+for many years: too long, looking back\! \laughs.\
 
 **Abbate:**
 
@@ -832,7 +832,7 @@ wanted? Or was there a set curriculum?
 **Mills:**
 
 I’m smiling, because I was the time-tabler, so I always got to teach
-what I . . . \[laughs\] The first thing that went onto the time table
+what I . . . \laughs\ The first thing that went onto the time table
 when I was doing it was what I wanted to teach—so yes\!
 
 But also there was . . . I mean, I taught a lot of A Level, and A Level
@@ -859,7 +859,7 @@ things like that. And then it gradually moved, over the years; you know,
 the numerical analysis came off, and there was more on operating systems
 and things put on. But the syllabus changed fairly slowly. It wasn’t,
 you know, a brand new syllabus and throw out all of your notes one year;
-it was just sort of a slow adapt-up. But I’m sure it was \[established\]
+it was just sort of a slow adapt-up. But I’m sure it was \established\
 long before I started teaching, anyway.
 
 **Abbate:**
@@ -890,7 +890,7 @@ you thought should be taught and you wanted to bring in?
 **Mills:**
 
 If we think it . . . The A Level, no; you couldn’t really influence what
-was on that at all. When it was the B/Tec, which was another awarding
+was on that at all. When it was the BTec, which was another awarding
 body, which did—now, what were they called in those days? National
 Diploma and Higher National Diploma, they were called, and National
 Certificate. To a certain extent, yes, you could. There would be . . .
@@ -910,7 +910,7 @@ And did you have a specialty?
 
 **Mills:**
 
-Programming. I think\! \[laughs.\] I certainly taught a lot of
+Programming. I think\! \laughs.\ I certainly taught a lot of
 programming. Probably just, as I say, because I was the time-tabler, and
 I thought, “Oh\! Yes, we’ll do this\!” So I taught virtually all the A
 Level, which was quite a bit of theory as well, but I’d teach them
@@ -935,7 +935,7 @@ Did you see changes in the types of students you got?
 **Mills:**
 
 Yes, definitely. I’m sounding old here\! I think everybody was
-\[laughs\]—I’m sure they got less intelligent as they went on\! I think
+\laughs\—I’m sure they got less intelligent as they went on\! I think
 that was partially due to the college I was at as well, and the way it
 fitted into the local environment. When I first went there in 1982, it
 was the only place in the district that did the A Levels, so the
@@ -951,8 +951,8 @@ interested particularly, but because they hadn’t got a job, and it
 seemed a sensible thing to do to perhaps get some more qualifications.
 So people who historically would have gone out and got a job were
 staying on in education, and I think bringing the level down. So I think
-it was economic/environment, rather than just the intelligence of the
-students\! \[laughs.\]
+it was economicenvironment, rather than just the intelligence of the
+students\! \laughs.\
 
 **Abbate:**
 
@@ -1009,10 +1009,10 @@ Here at General Electric.
 
 Yes.
 
-And again, it was just one of those coincidences\! \[laughs.\] Had a
+And again, it was just one of those coincidences\! \laughs.\ Had a
 disagreement with my boss one day, stormed out of the office, opened up
 Computing, which was something I never looked at. Big, full-page advert:
-“COBOL Programmers, Leeds.” I thought, “Yes\!” \[laughs.\] Phoned up,
+“COBOL Programmers, Leeds.” I thought, “Yes\!” \laughs.\ Phoned up,
 talked to the woman at the agency; she said, “Yeah, well send us your
 C.V.” And at this point I don’t think I was really thinking of leaving,
 so I went home that night, wrote a C.V. out—because it had been years
@@ -1034,11 +1034,11 @@ What work are you doing here?
 
 I think my official title is Systems Developer. The job I applied for
 said definitely “COBOL programmer.” I do some programming in COBOL; I do
-some programming in Access and VB \[Visual Basic\] and work as a systems
+some programming in Access and VB \Visual Basic\ and work as a systems
 analyst. At the moment I’m the IT lead on a rewrite of a global payments
 process, where we pay any currency in any country as cheaply as
 possible. It’s actually extremely complicated, and I won’t bore you with
-how we do it\! \[laughs.\]
+how we do it\! \laughs.\
 
 But we have a process in at the moment that’s basically—it’s at breaking
 point—it can’t take any volume because it’s so manually intensive in
@@ -1108,11 +1108,11 @@ everything’s in Euros. We’ve got a lot of transition problems.
 
 **Abbate:**
 
-It sounds challenging\! \[laughter.\]
+It sounds challenging\! \laughter.\
 
 **Mills:**
 
-I won’t tell you about Deutschebank\! \[laughs\]
+I won’t tell you about Deutschebank\! \laughs\
 
 **Abbate:**
 
@@ -1140,7 +1140,7 @@ So you’re really doing management and high-level design as well as . . .
 
 **Mills:**
 
-. . . as well as detailed; yes. Jack of all trades. \[laughs\] Is that a
+. . . as well as detailed; yes. Jack of all trades. \laughs\ Is that a
 new expression for you?
 
 **Abbate:**
@@ -1149,7 +1149,7 @@ Jane of all trades, maybe.
 
 **Mills:**
 
-Yes, I mean we always say “Jack,” don’t we? \[laughter.\]
+Yes, I mean we always say “Jack,” don’t we? \laughter.\
 
 **Abbate:**
 
@@ -1189,7 +1189,7 @@ I didn’t know that.
 
 **Mills:**
 
-\[laughs.\] Well, neither did we, until we looked at it. Because
+\laughs.\ Well, neither did we, until we looked at it. Because
 obviously, if you’re working full-time from home, then GE has to have
 some sort of responsibility to make sure that you’ve got an adequate
 desk and, you know, the lighting’s correct, and you’ve got your correct
@@ -1251,12 +1251,12 @@ remarkably healthy. But I have been worried, “How on earth am I going to
 managed to sort of juggle two jobs, as it were, when they were smaller;
 so that if I had to work late, Alan made sure he was home early, and
 things like that. I mean, we’ve often passed in the drive, you know:
-“Hello\! See you later on\!” \[laughs.\] But I think I was very lucky,
+“Hello\! See you later on\!” \laughs.\ But I think I was very lucky,
 insomuch that he was in education as well and could be much more
 flexible. I don’t think I’d be anywhere near as lucky now if we were
 both in education. Certainly . . .
 
-\[TAPE 1, SIDE 2\]
+\TAPE 1, SIDE 2\
 
 **Abbate:**
 
@@ -1308,7 +1308,7 @@ How interesting\!
 **Mills:**
 
 So, it’s, I think in both cases, Alan’s sort of frustrated—my husband’s
-frustrated ambitions, as it were, that they’ve taken up\! \[laughter.\]
+frustrated ambitions, as it were, that they’ve taken up\! \laughter.\
 
 **Abbate:**
 
@@ -1349,7 +1349,7 @@ days, that there were Executives, Senior Executives, Senior Staff,
 Staff, weekly-paid, monthly-paid Staff, hourly-paid Staff—you know, et
 cetera. I became the first female Senior Staff Member—which caused all
 sorts of problems, because as a senior Staff Member, I was allowed a
-free suit at Christmas\! \[laughs.\]
+free suit at Christmas\! \laughs.\
 
 **Abbate:**
 
@@ -1357,15 +1357,15 @@ Really\! Did you take them up on that?
 
 **Mills:**
 
-My husband did\! \[laughs.\] And I was allowed 33% off in all the men’s
+My husband did\! \laughs.\ And I was allowed 33% off in all the men’s
 clothing shops, for myself—and only 15% for relatives. And I thought,
 “Well, this is no good, because I can’t buy anything for myself in
 these shops\!” So, I was—I think I was probably very much a rebel in
 those days, and got it sorted out that female at Senior Staff could get
-a third off for a nominated male relative\! \[laughter.\]
+a third off for a nominated male relative\! \laughter.\
 
 So actually my husband had a collection of suits in those days\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1392,7 +1392,7 @@ going to be promoted—would have been promoted—they’d done some sort of
 reorganization, so I plodded up anyway.
 
 I also came across sexual discrimination I’m sure you want to know
-about. \[laughs.\] Get on the interesting stuff\! Not horrendous, but
+about. \laughs.\ Get on the interesting stuff\! Not horrendous, but
 definitely sort of comments . . . I know my bosses used to often come up
 and sort of massage my shoulders, and things like that—so I used to
 quick elbow him\!
@@ -1416,7 +1416,7 @@ Yes.
 But I think things were—you expected it, much more than nowadays. I
 don’t think any . . . You know, I’m sure my husband would never dream
 of going up and massaging the shoulders of one of his female members of
-staff\! It would definitely be a no-no\! \[laughs.\] Whereas in those
+staff\! It would definitely be a no-no\! \laughs.\ Whereas in those
 days, I’m sure it was—if not expected, much more—I don’t want to say
 “acceptable,” because that sounds as though you enjoyed it, but . . .
 
@@ -1469,7 +1469,7 @@ Did they have those nude computer printout things? Line-printer art?
 
 **Mills:**
 
-I think that’s a dismissable offense, isn’t it? \[laughs.\]
+I think that’s a dismissable offense, isn’t it? \laughs.\
 
 **Abbate:**
 
@@ -1511,13 +1511,13 @@ Did you have problems with hacking? Students?
 
 Yes, but not a lot. Those hackers—and I can think of one or two in
 particular that were really good at it—we used to employ them
-part-time\! \[laughs.\] We used to actually say, “Right: We’ve caught
+part-time\! \laughs.\ We used to actually say, “Right: We’ve caught
 you hacking. Either you come and work for us part-time and help us sort
 out the problem—stop other people hacking—or you’re expelled.” And being
 a post-sixteen college, you could do that, because it wasn’t compulsory
 to keep them. So yes, some of the students knew more about the system
 than our technicians. So they used to train up the technicians, as it
-were, in their part time. \[laughter.\]
+were, in their part time. \laughter.\
 
 **Abbate:**
 
@@ -1536,7 +1536,7 @@ security force.
 
 **Mills:**
 
-Yes? \[laughs.\]
+Yes? \laughs.\
 
 ### Reflection on Career with Computers
 
@@ -1670,7 +1670,7 @@ cards—on sheets of paper. That would actually be typed up on paper tape,
 so if you wanted to do any amendments, it was cut your paper tape, slice
 your new bit in. It then you then progressed onto cards, and you had to
 mark the box of cards with a big “X,” so that if you dropped it . . . \!
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -1678,7 +1678,7 @@ I know what you mean.
 
 **Mills:**
 
-You’re older than you look in that case\! \[laughter.\]
+You’re older than you look in that case\! \laughter.\
 
 **Abbate:**
 
@@ -1712,7 +1712,7 @@ Electronic Payment System?
 
 It’s “E-Payables System.” It’s that we get an invoice in; it’s scanned,
 sent over to Mexico, where they perhaps add information—you know, enter
-it in. That link will go \[over\], then it comes back over here; it’s
+it in. That link will go \over\, then it comes back over here; it’s
 been paid into a global—you can see the copies of the invoice—so it’s
 all on the Web. Every invoice that comes in is scanned, and its
 picture’s put up on the Web, so if there’s any queries, you can go
@@ -1751,7 +1751,7 @@ the old ones are\! But . . . I mean, I’m the oldest. There’s Alan, who’s
 mid-forties, and most of the others are less than 30, or 30—around 30\.
 So yes, it’s definitely a . . . It seems—well, certainly here it seems
 to be still a young person’s trade. So what happens to them afterwards,
-I’m not too sure\! \[laughter.\]
+I’m not too sure\! \laughter.\
 
 **Abbate:**
 
@@ -1842,50 +1842,50 @@ moves on so rapidly—and you’ll get back in again.
 All right. Well, I think I’ve probably asked all my questions, so: Thank
 you very much\!
 
-\[END OF RECORDING\]
+\END OF RECORDING\
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Judith_Mills&oldid=108569>"
+"<http:/ethw.org/index.php?title=Oral-History:Judith_Mills&oldid=108569>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Profession](/Category:Profession "Category:Profession")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Profession(Category:Profession "Category:Profession")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Judith Mills](#About_Judith_Mills)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Programming for Hepworth's the Tailors, Using
-    COBOL](#Programming_for_Hepworth.27s_the_Tailors.2C_Using_COBOL)
-  * [4\.3 Starting to Teach](#Starting_to_Teach)
-  * [4\.4 Working for General Electric](#Working_for_General_Electric)
-  * [4\.5 Balancing Work and Family
-    Responsibilities](#Balancing_Work_and_Family_Responsibilities)
-  * [4\.6 Being a Woman in the Field](#Being_a_Woman_in_the_Field)
-  * [4\.7 Experiencing Sexual
-    Discrimination](#Experiencing_Sexual_Discrimination)
-  * [4\.8 Reflection on Career with
-    Computers](#Reflection_on_Career_with_Computers)
-  * [4\.9 Thoughts on the Field of
-    Computing](#Thoughts_on_the_Field_of_Computing)
+* 1 About Judith Mills(#About_Judith_Mills)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Programming for Hepworth's the Tailors, Using
+    COBOL(#Programming_for_Hepworth.27s_the_Tailors.2C_Using_COBOL)
+  * 4\.3 Starting to Teach(#Starting_to_Teach)
+  * 4\.4 Working for General Electric(#Working_for_General_Electric)
+  * 4\.5 Balancing Work and Family
+    Responsibilities(#Balancing_Work_and_Family_Responsibilities)
+  * 4\.6 Being a Woman in the Field(#Being_a_Woman_in_the_Field)
+  * 4\.7 Experiencing Sexual
+    Discrimination(#Experiencing_Sexual_Discrimination)
+  * 4\.8 Reflection on Career with
+    Computers(#Reflection_on_Career_with_Computers)
+  * 4\.9 Thoughts on the Field of
+    Computing(#Thoughts_on_the_Field_of_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:46\.
 
 * This page has been accessed 3,069 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

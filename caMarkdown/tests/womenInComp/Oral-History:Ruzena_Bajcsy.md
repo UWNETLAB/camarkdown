@@ -1,87 +1,87 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Ruzena_Bajcsy_\(2002\))
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Ruzena_Bajcsy_\(2002\)&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Ruzena_Bajcsy_\(2002\) "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Ruzena_Bajcsy_\(2002\) "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&oldid=108704 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=info)
-  
-  * [Browse
-    properties](/Special:Browse/Oral-2DHistory:Ruzena_Bajcsy_\(2002\))
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ARuzena+Bajcsy+%282002%29)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Ruzena_Bajcsy_\(2002\))
+  
+  * Discussion(index.php?title=Oral-History_talk:Ruzena_Bajcsy_\(2002\)&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Ruzena_Bajcsy_\(2002\) "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Ruzena_Bajcsy_\(2002\) "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&oldid=108704 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Ruzena_Bajcsy_\(2002\)&action=info)
+  
+  * Browse
+    properties(Special:Browse/Oral-2DHistory:Ruzena_Bajcsy_\(2002\))
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ARuzena+Bajcsy+%282002%29)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Ruzena Bajcsy (2002\)
 
-(Redirected from [Oral-History:Ruzena
-Bajcsy](/index.php?title=Oral-History:Ruzena_Bajcsy&redirect=no "Oral-History:Ruzena Bajcsy"))
+(Redirected from Oral-History:Ruzena
+Bajcsy(index.php?title=Oral-History:Ruzena_Bajcsy&redirect=no "Oral-History:Ruzena Bajcsy"))
 
 ## About Ruzena Bajcsy
 
-[Ruzena Bajcsy](/Ruzena_Bajcsy "Ruzena Bajcsy") was born in 1933 and
+Ruzena Bajcsy(Ruzena_Bajcsy "Ruzena Bajcsy") was born in 1933 and
 grew up in Czechoslovakia. Because of the family's Jewish background,
 all of her adult relatives were killed by the Nazis in 1944\. Declared
 to be war orphans by the Red Cross, she and her sister remained under
@@ -294,7 +294,7 @@ famous speech in which he secretly denounced Stalin. So there was a
 student meeting where I spoke about the great tradition of Czechoslovak
 education, that we shouldn’t follow the Russian model, that we should
 adhere to our own model that had tradition in Jan Amos Comenius
-\[Komensky\], who was a great educator in the fifteenth century. That
+\Komensky\, who was a great educator in the fifteenth century. That
 got me into such trouble that, although I had a Doctoral Fellowship in
 mathematics, after I finished my electrical engineering degree I was
 condemned as an “enemy of the state” based on this speech, and the
@@ -304,7 +304,7 @@ an electronics factory, as an engineer.
 
 After that, the computer era came, and the Slovak Technical University
 bought one of the first Russian computers, Ural II—which was built from
-electronic lamps, not even transistors\! \[both laugh\] So they needed
+electronic lamps, not even transistors\! \both laugh\ So they needed
 engineers, and I applied and was accepted; but again, the condition was
 that I could not teach, because I would have a bad influence on the
 students; but as an engineer I was okay. So I moved from this electronic
@@ -385,7 +385,7 @@ but unfortunately we split, and so he went back and I stayed.
 
 **Abbate:**
 
-You were invited by John McCarthy \[of Stanford University\], right?
+You were invited by John McCarthy \of Stanford University\, right?
 
 **Bajcsy:**
 
@@ -434,7 +434,7 @@ recognition of visual patterns, repetitive kinds of patterns.
 
 **Abbate:**
 
-Had you already been interested in A.I./robotics kinds of things?
+Had you already been interested in A.I.robotics kinds of things?
 
 **Bajcsy:**
 
@@ -711,7 +711,7 @@ How many women were there in the department?
 
 **Bajcsy:**
 
-\[Points to herself\]
+\Points to herself\
 
 **Abbate:**
 
@@ -839,9 +839,9 @@ Oh, yes\! Yes, I had a lot of fun doing it.
 
 **Abbate:**
 
-Now, when I met you in December 2000, you were at NSF \[National Science
-Foundation\], as Head of CISE \[Computer and Information Science and
-Engineering Directorate\].
+Now, when I met you in December 2000, you were at NSF \National Science
+Foundation\, as Head of CISE \Computer and Information Science and
+Engineering Directorate\.
 
 **Bajcsy:**
 
@@ -906,7 +906,7 @@ CITRIS?
 
 **Bajcsy:**
 
-CITRIS, right. Professor \[Randy\] Katz was the Director of this
+CITRIS, right. Professor \Randy\ Katz was the Director of this
 institute, and sometime during that summer he indicated that he really
 didn’t want to continue being the Director. So they were looking for a
 new Director, and they contacted me and they asked, Would I be
@@ -1098,10 +1098,10 @@ What do you find most satisfying about working with computers?
 
 **Bajcsy:**
 
-\[laughs\] Well, they do what you say\! It’s the predictability. It’s
+\laughs\ Well, they do what you say\! It’s the predictability. It’s
 very comforting, you know. With people: people are unpredictable. With
 machines, you know what you get; and if you don’t get what you want, you
-know it’s your fault\! \[laughs\] So somehow you have control. With
+know it’s your fault\! \laughs\ So somehow you have control. With
 people—your husband, your children, your colleagues—you have very little
 control; you can only beg them to behave. With machines, as I said, they
 do what you program them to do, and if they don’t do the right thing,
@@ -1152,7 +1152,7 @@ At the same time, if you really want to climb up in the career, there is
 no easy way out. You have to have the commitment, and the world is very
 competitive, and it moves fast—you have to be willing to learn all the
 time. You have to be really committed, time-wise. So it depends on what
-you want. I mean, it’s not accidental that Mrs. \[Carly\] Fiorina, for
+you want. I mean, it’s not accidental that Mrs. \Carly\ Fiorina, for
 example, who is the CEO of HP, has no children; and women like her. Or
 they have to have grown-up children or something, like myself. I mean, I
 can really devote all my waking hours to this work. But so do men\! So
@@ -1167,49 +1167,49 @@ Well, thank you so much for talking with me again\!
 Okay\! Good, good\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Ruzena_Bajcsy_(2002)&oldid=108704>"
+"<http:/ethw.org/index.php?title=Oral-History:Ruzena_Bajcsy_(2002)&oldid=108704>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Robots](/Category:Robots "Category:Robots")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Computational and artificial
-  intelligence](/Category:Computational_and_artificial_intelligence "Category:Computational and artificial intelligence")
-* [Engineering
-  education](/Category:Engineering_education "Category:Engineering education")
+* Robots(Category:Robots "Category:Robots")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Computational and artificial
+  intelligence(Category:Computational_and_artificial_intelligence "Category:Computational and artificial intelligence")
+* Engineering
+  education(Category:Engineering_education "Category:Engineering education")
 
 ## Contents
 
-* [1 About Ruzena Bajcsy](#About_Ruzena_Bajcsy)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Childhood in Czechoslovakia](#Childhood_in_Czechoslovakia)
-  * [4\.2 Education and Early Work
-    Experience](#Education_and_Early_Work_Experience)
-  * [4\.3 Coming to the United States](#Coming_to_the_United_States)
-  * [4\.4 The Environment at Stanford](#The_Environment_at_Stanford)
-  * [4\.5 The GRASP Lab at Penn](#The_GRASP_Lab_at_Penn)
-  * [4\.6 Teaching at Penn](#Teaching_at_Penn)
-  * [4\.7 The Environment at Penn](#The_Environment_at_Penn)
-  * [4\.8 Favorite Projects at Penn](#Favorite_Projects_at_Penn)
-  * [4\.9 Head of CISE at NSF](#Head_of_CISE_at_NSF)
-  * [4\.10 CITRIS at Berkeley](#CITRIS_at_Berkeley)
-  * [4\.11 On Raising Children](#On_Raising_Children)
-  * [4\.12 On Mentoring](#On_Mentoring)
-  * [4\.13 On Working with Computers](#On_Working_with_Computers)
+* 1 About Ruzena Bajcsy(#About_Ruzena_Bajcsy)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Childhood in Czechoslovakia(#Childhood_in_Czechoslovakia)
+  * 4\.2 Education and Early Work
+    Experience(#Education_and_Early_Work_Experience)
+  * 4\.3 Coming to the United States(#Coming_to_the_United_States)
+  * 4\.4 The Environment at Stanford(#The_Environment_at_Stanford)
+  * 4\.5 The GRASP Lab at Penn(#The_GRASP_Lab_at_Penn)
+  * 4\.6 Teaching at Penn(#Teaching_at_Penn)
+  * 4\.7 The Environment at Penn(#The_Environment_at_Penn)
+  * 4\.8 Favorite Projects at Penn(#Favorite_Projects_at_Penn)
+  * 4\.9 Head of CISE at NSF(#Head_of_CISE_at_NSF)
+  * 4\.10 CITRIS at Berkeley(#CITRIS_at_Berkeley)
+  * 4\.11 On Raising Children(#On_Raising_Children)
+  * 4\.12 On Mentoring(#On_Mentoring)
+  * 4\.13 On Working with Computers(#On_Working_with_Computers)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:49\.
 
 * This page has been accessed 13,324 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

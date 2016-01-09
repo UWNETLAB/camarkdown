@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Adele_Goldberg&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Adele_Goldberg&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Adele_Goldberg)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Adele_Goldberg&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Adele_Goldberg "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Adele_Goldberg "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Adele_Goldberg&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Adele_Goldberg&oldid=108210 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Adele_Goldberg&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Adele_Goldberg)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AAdele+Goldberg)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Adele_Goldberg&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Adele_Goldberg&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Adele_Goldberg)
+  
+  * Discussion(index.php?title=Oral-History_talk:Adele_Goldberg&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Adele_Goldberg "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Adele_Goldberg "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Adele_Goldberg&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Adele_Goldberg&oldid=108210 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Adele_Goldberg&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Adele_Goldberg)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AAdele+Goldberg)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Adele Goldberg
@@ -82,9 +82,9 @@ there until she was eleven, when they moved to Chicago, Illinois.
 Goldberg had an early interest in math and majored in the subject at the
 University of Michigan. She continued her academic career at the
 University of Chicago, earning a Ph.D. in information science in 1973\.
-Goldberg began working as a researcher at [Xerox's Palo Alto Research
+Goldberg began working as a researcher at Xerox's Palo Alto Research
 Center
-(PARC)](/Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")
+(PARC)(Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)")
 that summer. There she was part of the team that developed the
 object-oriented programming language Smalltalk. She became the manager
 of the System Concepts Laboratory in 1979\. Committed to bringing
@@ -149,7 +149,7 @@ INTERVIEWER: Janet Abbate\
 DATE: 3 July 2002\
 PLACE: Goldberg’s home in Palo Alto, California
 
-\[Notes courtesy of interviewer Janet Abbate\]
+\Notes courtesy of interviewer Janet Abbate\
 
 ### Growing Up: Family and Education
 
@@ -214,7 +214,7 @@ my girls, where there was a lot of table talk about what we were doing,
 either in research or in business. There was very little table talk on
 any of those levels—short of, if I remember correctly, my father
 commenting on management doing a better job of taking care of its people
-than the unions. \[laughs\] In those particular examples he gave, he was
+than the unions. \laughs\ In those particular examples he gave, he was
 right; but it’s not always the case\!
 
 **Abbate:**
@@ -256,7 +256,7 @@ Did your sisters like math, too, or just you?
 
 Just me\! Yes. We’re very different. You know, my sisters were bright,
 but they just weren’t as interested, and I think they were more social
-than I was, frankly. \[laughs\] I don’t remember. I mean, I was a twin;
+than I was, frankly. \laughs\ I don’t remember. I mean, I was a twin;
 I always had a pal, I always had a friend; so it wasn’t like being in
 classes with just guys meant you didn’t have girlfriends. I had my twin
 sister.
@@ -275,7 +275,7 @@ I was sassy. It was just a different style of school. I got my work done
 faster, because I had done it already; I’d sit there quietly, and the
 teacher would ask me, “Are you done?” and I’d say “Yes, ma’am.” And then
 I quickly learned you didn’t say “Yes, ma’am.” It was too polite; that
-was considered sassy\! \[laughs\] “Out the door\!” Except that out the
+was considered sassy\! \laughs\ “Out the door\!” Except that out the
 door was more interesting than sitting in the class. It’s funny what you
 do and don’t remember about school. It’s so long ago. That’s what I
 remember.
@@ -339,7 +339,7 @@ really much more the stronger personality.
 
 So I remember being quite an unhappy person, my initial days in Ann
 Arbor, which I’m sure colored everything. But it was just so big; and it
-rained all the time\! \[laughs\] You know, things like that that I just
+rained all the time\! \laughs\ You know, things like that that I just
 didn’t like. I guess the largeness also provided options—socially, you
 could find different groups—but I was still not comfortable. I found the
 food terrible; I gained a lot of weight the first year. You know, I look
@@ -424,7 +424,7 @@ he knew the Sales guy and Systems Engineer out of the local Chicago IBM
 office. When I came home and told him that I thought that computing was
 perhaps a neat thing to do with my math degree, he suggested I contact
 IBM. I don’t know how he arranged it, but they agreed that I would be a
-clerk for the summer \[of 1966\] in what IBM called an “Installation
+clerk for the summer \of 1966\ in what IBM called an “Installation
 Center,” which I think is an interesting idea. You know what a unit
 record machine is? A unit record machine is basically an accounting
 machine where everything is kept on tape or on punch cards, but you
@@ -466,7 +466,7 @@ classes where the Systems Engineers were being trained or the Sales
 Engineers were being trained. Those were the days of IBM suits and white
 shirts: I saw the Sales guys get sent home if they came with a blue
 shirt, even though blue was “in.” They didn’t even keep shirts on the
-shelves for them; they had to go home and feel the pain. \[both laugh\]
+shelves for them; they had to go home and feel the pain. \both laugh\
 I thought, “Hmm, this is interesting\!” Socially, it was pretty strange.
 
 But I guess it was noticed that I had figured this stuff out, because at
@@ -478,7 +478,7 @@ machine where the board—we didn’t call them “programs,” we called them
 “the board”—didn’t work. The Sales or Systems Engineer introduced me
 to this West-Side-of-Chicago blue-collar manager—which I was used to; I
 mean, my father worked in that area—and said that I would fix it, and
-you could just see the disbelief in his face\! \[both laugh\] If you
+you could just see the disbelief in his face\! \both laugh\ If you
 think about it, I was just a kid, and in those days people didn’t think
 about kids being programmers in any form or doing computing. Computing
 was unusual enough. So I remember sitting there very carefully. What
@@ -493,10 +493,10 @@ and therefore it was a hardware problem. So the first thing I learned
 was that not everyone thought young women should be running around doing
 this, and the second one was that you didn’t just call up the Field
 Engineer or hardware person and tell them it was their problem\!
-\[laughs\] They didn’t really believe me, and it took a couple of weeks
+\laughs\ They didn’t really believe me, and it took a couple of weeks
 for them to come check—but it was true: they had installed a
 twelve-register instead of a sixteen-register machine. Phew—I was
-correct\! \[laughs\]
+correct\! \laughs\
 
 It was this adventure in “Okay, you know how to do this, and this is
 fun; but now what?” Because I really didn’t know anything about
@@ -571,11 +571,11 @@ transferred by IBM to the strangest-sounding city I’d ever heard
 of—which of course is Poughkeepsie, but you know, I was just a
 Midwesterner and didn’t know from Poughkeepsie\!—and I said, “Well, you
 don’t have to go\!” And he said Oh yes, he had to go; and that’s when I
-learned that “IBM” stood for “I’ve Been Moved.” \[laughs\] I think that
+learned that “IBM” stood for “I’ve Been Moved.” \laughs\ I think that
 turned me off a little bit—not working for a big company, but for that
 particular style where you get moved around. I thought it was neat they
 had places everywhere in the world; I didn’t know that you didn’t get to
-choose where you went\! \[laughs\]
+choose where you went\! \laughs\
 
 So I went back, and I did my ten hours left of math, and the rest of the
 time I worked for Karl, and I both learned about this field of using
@@ -627,7 +627,7 @@ personal life, because she asked me what I was doing the Fourth of July,
 and I said “Oh, my roommate Beverly and I are hitchhiking to Yosemite.”
 We didn’t have a car, and we wanted to see Yosemite. And she said, “You
 don’t hitchhike. I’m telling the boss.” And I said, “Excuse me?”
-\[laughs\] That was kind of weird. But the woman in political science
+\laughs\ That was kind of weird. But the woman in political science
 told me that in order to get ahead in IBM in those days, you needed them
 to put you through their various training courses. They had a wonderful
 training capability, and learning on their new machines allowed you to
@@ -738,7 +738,7 @@ Degree. There was one woman from the East Coast doing her Ph.D. program,
 and I think all the rest of the women were doing Master’s. I’m sure I’m
 wrong, but my memory is that two-thirds of the class were women. It
 wasn’t a big class, but still, I remember that. I also remember there
-were people from Naperville, \[Illinois\], from Bell Labs; there were
+were people from Naperville, \Illinois\, from Bell Labs; there were
 two: a man and a woman. I remember a conversation we all had when we all
 discovered that he was on full scholarship, did not have to work to make
 up hours lost, and did not have to get certain grades to get the tuition
@@ -757,7 +757,7 @@ Yes. I don’t know the facts; I just remember the conversation. I don’t
 know that I live my life with blinders on—certainly not anymore—but in
 those days, I was just enjoying what I was doing. Anyone who could spend
 the Summer of ‘67 in Berkeley and San Francisco and not see what was
-going on is really out of it\! That’s me. \[laughs\] Pretty strange. So
+going on is really out of it\! That’s me. \laughs\ Pretty strange. So
 I remember some of these conversations.
 
 The bottom line for me at Chicago was that it was just a lot more
@@ -799,7 +799,7 @@ we’re considerably different from that today\! So that was a good
 salary, plus the tuition was covered, or most of the tuition was
 covered. So he was just shocked\! And I thought, “Well, I don’t know
 why, but I got it. Just say ‘Congratulations’ and let’s move on. Don’t
-be so shocked\!” \[laughs\] So that was funny, because I didn’t know it
+be so shocked\!” \laughs\ So that was funny, because I didn’t know it
 was a big deal. I mean, I knew I needed it, but I didn’t know that
 anyone was going to react like that. But then, many years later, I had
 the good fortune to meet Thelma Estrin. In the Bay Area here, there used
@@ -887,7 +887,7 @@ for my Ph.D., had expressed an interest in computers in education, and I
 needed a year of real immersion in that, and shouldn’t Suppes invite me
 to Stanford for the year? Which was remarkable for Weil to do, because
 Suppes on the spot said “Sure\!” and next thing I knew, I was headed to
-Stanford for the year—and never returned\! \[laughs\] That’s how I ended
+Stanford for the year—and never returned\! \laughs\ That’s how I ended
 up in California in ‘69\.
 
 **Abbate:**
@@ -912,7 +912,7 @@ been shorter if I’d understood the game, which was to get me to not know
 an answer—they just keep asking questions till you’re convinced you
 don’t know everything\! That’s what it came down to. I keep wondering,
 “If I had just answered the first question wrong, would I have been out
-of there sooner?” \[laughs\] But once you do that, they’re sort of
+of there sooner?” \laughs\ But once you do that, they’re sort of
 satisfied, and they ask you the most important question of all, which
 is, “What is going to be your concentration for your dissertation?”
 You’re supposed to have an answer, and I hadn’t talked to anybody; I
@@ -926,7 +926,7 @@ But it opened up a can of worms, because Chicago was funded by the
 Atomic Energy Commission, which wasn’t exactly for educational research;
 rather, research was in designing new machines. And by the way, Richard
 Weiland, who had been at Michigan playing T.A., went to Chicago, too; so
-he was still there, doing that to the students\! \[laughs\] It was very
+he was still there, doing that to the students\! \laughs\ It was very
 funny: I said I didn’t think he should do it that way\! And I was
 teaching an undergraduate Business School course in comparative
 programming languages. Again, it was a small department: you had chances
@@ -953,7 +953,7 @@ accepted. There were no other constraints. Suppes offered me a full-time
 Research Associate job, and in contrast to going back to Chicago and
 teaching undergraduate programming again, it was much better pay. I’d be
 paid full-time to do what was going to be my dissertation, so it was a
-no-brainer: I stayed. That, and the weather\! \[laughs\]
+no-brainer: I stayed. That, and the weather\! \laughs\
 
 **Abbate:**
 
@@ -1010,7 +1010,7 @@ I mean the system. Did it have a name?
 
 **Goldberg:**
 
-No. \[laughs\] We were not in the computer group in the AI Lab; we
+No. \laughs\ We were not in the computer group in the AI Lab; we
 didn’t give names to things\! That’s probably why we weren’t really
 very well known.
 
@@ -1069,7 +1069,7 @@ and they could certainly understand. But these are public meetings:
 faculty, students, public, anyone could come to a dissertation defense
 at Chicago in any of the departments and ask questions and give you a
 hard time. And some of the students, that was their job in life—to give
-other students a hard time\! \[laughs\] I remember it was not a pleasant
+other students a hard time\! \laughs\ I remember it was not a pleasant
 moment\! Fortunately, I knew the subject area. But after the fact,
 because all my proofs were done in set theory (because that was Suppes’s
 approach), this professor located at IBM decided it should all be
@@ -1252,7 +1252,7 @@ do.
 
 It was the summer of ‘73 that I went out to Xerox. I stalled it out a
 few months to finish up at Stanford. And I went there pregnant with my
-first child\! \[laughs\] I remember saying, “Are you sure it’s okay? I’m
+first child\! \laughs\ I remember saying, “Are you sure it’s okay? I’m
 pregnant\!” “Sure, it’s all right. No problem\!”
 
 ### The Work Environment at Xerox PARC
@@ -1267,8 +1267,8 @@ Well, you know, there are always two parts to any situation: there’s
 what’s given and what you take. The environment, when I first joined,
 was brand new, which means that they were not fully capitalized; so you
 could decide what you wanted, whether it was furniture—they chose
-beanbags, which for a pregnant lady wasn’t a really good idea \[both
-laugh\]—or what the machines were going to be. It was the first time
+beanbags, which for a pregnant lady wasn’t a really good idea \both
+laugh\—or what the machines were going to be. It was the first time
 around. But I remember saying, “Well, this’ll last a few years, and
 sooner or later they’re going to have to recapitalize.” But I remember
 Alan saying, “We have five years to produce the dream.” We were told, Do
@@ -1311,7 +1311,7 @@ workshop, for the President of Xerox and nine other people. So there I
 was, asked by Alan to put together all of the software courseware and
 run the Lab, and I had just had a baby\! But the computers of those
 times were Altos, and I think I got the first one at home. We considered
-it the heater for the winter\! \[both laugh\] It heated up the house.
+it the heater for the winter\! \both laugh\ It heated up the house.
 But I had it at home so I could work at home, and then I’d go in at
 night sometimes; but I was nursing, so I’d sometimes take Rachel with
 me. One of my favorite nights was when Rachel was crying, crying—maybe
@@ -1324,12 +1324,12 @@ And I thought, “Wow\! I can’t believe he’s doing that\!” At the time he
 didn’t have his own children; of course, he does now. But I said, “Boy
 he’s going to make a good father\!”
 
-\[START DISC 2\]
+\START DISC 2\
 
 **Goldberg:**
 
 I found it very supportive. I remember, when I first joined there, going
-to IFIP \[International Federation for Information Processing\] in
+to IFIP \International Federation for Information Processing\ in
 Sweden to give a talk, and there were Bob Metcalfe and Butler Lampson,
 coming to my talk on a topic that I didn’t think they had any interest
 in at all; and they said, well they were just there supporting me. Just
@@ -1358,10 +1358,10 @@ Tell me about Smalltalk.
 
 Okay. First, I should tell you there are some papers; one in particular
 that I wrote, called “The Community of Smalltalk.” It was in a book on
-programming languages.\[1\] There are the *History of Programming
+programming languages.\1\ There are the *History of Programming
 Languages* books, and in the second, HOPL 2, there’s a wonderful paper
 that Alan wrote that was the history up to the late seventies, his
-history, until he picked it up again doing Squeak.\[2\] Then there was
+history, until he picked it up again doing Squeak.\2\ Then there was
 the transcription of the talk he gave—because that’s what he really
 wanted to put in the book, but it wasn’t what Jean Sammet, who was
 editing the book, would let him do. After each speaker they had somebody
@@ -1585,7 +1585,7 @@ Smalltalk system for learning purposes. The Open University in the UK
 was doing a new first course in computer science, and for a variety of
 reasons we agreed they would use this kind of experimental LearningWorks
 system—version 0\.7 was about the time when they had to freeze.
-\[laughs\] We might have gotten to 0\.9, but then we stopped. And they
+\laughs\ We might have gotten to 0\.9, but then we stopped. And they
 put out this course, maybe four or five years ago; they’ve taught five
 thousand students every year; and it’s just been totally robust\! I
 remember when we went to England to get the bug list, figuring we had a
@@ -1642,11 +1642,11 @@ system, knowing we were going to share results broadly, and write a book
 about something cleaner that could be distributed. I went through a
 process with my manager, who was Bert Sutherland at the time, that we
 wanted to do this; and he was so wonderful. We got Xerox to agree that
-nobody in the company was interested in Smalltalk \[laughs\]—that way,
+nobody in the company was interested in Smalltalk \laughs\—that way,
 we knew if we did the work we could publish it. Bert helped us in the
 eighties to round up several companies that would participate in the
 specification of the implementation and do implementations; because
-public distribution meant standard [ASCII](/ASCII "ASCII") character
+public distribution meant standard ASCII(ASCII "ASCII") character
 set, which for us was crazy enough—because we’d always been doing
 unusual font-based stuff, and we could do it—and it meant standard
 microprocessor technology, which was now becoming available. So over the
@@ -1693,7 +1693,7 @@ what we thought might be the need for something special in the hardware.
 It turned out we were wrong. There was a wonderful project at Berkeley
 that was part of this, which was the SOAR Project, which later became
 the Sun Microsystems SPARC. SOAR is “Smalltalk-On-A-RISC,” a project by
-[Dave Patterson](/David_A._Patterson "David A. Patterson") and David
+Dave Patterson(David_A._Patterson "David A. Patterson") and David
 Ungar. It turned out that you really didn’t necessarily need special
 hardware, and the Motorola 68000 was handling Smalltalk quite well. I
 had some run-ins with folks, because I wanted to bring someone else’s
@@ -1749,7 +1749,7 @@ Alan always said, “Never have customers,” because then you have to
 support them\! It was very interesting advice, but of course without
 customers, you don’t learn; you really don’t learn enough, so they’re
 really the most important thing you can have—never mind revenue\!
-\[laughs\] I mean “customer” in the more generic sense: someone who
+\laughs\ I mean “customer” in the more generic sense: someone who
 cares about and is using your results.
 
 I went off to Washington to see what these people had done, and what I
@@ -1791,7 +1791,7 @@ thought, “Well, we should just get into business.” We had a customer,
 who represented maybe ten percent of the money once we did get started;
 but we were making money\! We were selling licenses for this published
 thing. This was happening at the same time that I was Editor-in-Chief of
-\[ACM\] Computing Surveys, so I was trying to stay in touch with the
+\ACM\ Computing Surveys, so I was trying to stay in touch with the
 computer science community more broadly, and had agreed to run for
 National Secretary of the ACM. I was National Secretary, and then I was
 President from ‘84 to ‘86\. It was just after that—it was like someone
@@ -1884,13 +1884,13 @@ market’s different.
 
 **Abbate:**
 
-Wouldn’t we all\! \[laughs\]
+Wouldn’t we all\! \laughs\
 
 **Goldberg:**
 
-Yes, wouldn’t we all\! \[laughs\] I don’t know; there are some people
+Yes, wouldn’t we all\! \laughs\ I don’t know; there are some people
 who never want to go back. I mean, would you ever really want to be a
-teenager again? \[laughs\] Some people say Yes, some people say No. It’s
+teenager again? \laughs\ Some people say Yes, some people say No. It’s
 just different.
 
 **Abbate:**
@@ -1943,7 +1943,7 @@ messages to our customers, and mixed messages to our engineers. It was
 very problematic. Our engineers knew what was going on, but that would
 have been one thing I wouldn’t have done. So there are at least a couple
 things I would have done differently. But I would never have given up
-going to Xerox PARC. \[laughs\] That’s for sure\!
+going to Xerox PARC. \laughs\ That’s for sure\!
 
 **Abbate:**
 
@@ -2020,7 +2020,7 @@ Do they think it started with Java or something?
 
 Some people do. And they get a little confused about the ordering of
 results. It doesn’t really matter unless they’re filing for a patent\!
-\[laughs\] The number of software patents, at the end of the eighties,
+\laughs\ The number of software patents, at the end of the eighties,
 started springing up, and I hear a lot about this because people come
 running to see if it’s in Smalltalk. We did an enormous amount of these
 things that people have done patents in more recently\! But at the same
@@ -2096,11 +2096,11 @@ That’s what you were doing.
 **Goldberg:**
 
 That was what I thought I was doing, was going and getting vocational
-training\! \[laughs\]
+training\! \laughs\
 
 **Abbate:**
 
-You were just wrong. \[laughs\]
+You were just wrong. \laughs\
 
 **Goldberg:**
 
@@ -2204,7 +2204,7 @@ President does.
 
 **Goldberg:**
 
-\[laughs\] What does the President of the ACM do? The President of the
+\laughs\ What does the President of the ACM do? The President of the
 ACM is actually supposedly the Chief Executive Officer during that
 period of time—which is funny, because it’s an elected volunteer job,
 while there is a professional staff. Depending on the President or
@@ -2237,11 +2237,11 @@ series where ACM’s name would be on the shelf. So I started the ACM
 Press. I started the History of Computing Series, where we did about
 five conferences, and the very first one was the History of Personal
 Workstations, and so I edited the book, sort of setting the tone for
-what would happen in the subsequent books.\[3\] It was a good project,
+what would happen in the subsequent books.\3\ It was a good project,
 although an expensive project. History books do not always sell: people
 don’t read history, and history books don’t sell broadly, but they’re
 really important things to do, as you know. We formed a partnership with
-Addison-Wesley to be the distributor/publisher, but it’s an ACM Press
+Addison-Wesley to be the distributorpublisher, but it’s an ACM Press
 book. As editor, I received royalties, but I returned all the money to
 ACM to be used to fund ACM memberships for female computer science
 students.
@@ -2256,8 +2256,8 @@ I did decide that I had to tighten up staff and get it reorganized a
 bit, and I think we did a good job of that, and holding forth on not
 losing our shirt. I pulled us out of the AFIPS Office Automation
 Conference, and I pulled us out of the National Computer Conference. The
-President of ACM is on the AFIPS \[American Federation of Information
-Processing Societies\] Board. What basically happened is that after the
+President of ACM is on the AFIPS \American Federation of Information
+Processing Societies\ Board. What basically happened is that after the
 last Office Automation Conference in Dallas, they were talking like
 there was going to be a next one, and I came up with a scheme of three
 different criteria that, if any one of them occurred, would signal that
@@ -2273,14 +2273,14 @@ acknowledged that this was an important source of revenue for them, but
 that the ACM was concerned about its finances and would like to withdraw
 its ownership position and distribute it to the rest of them, who could
 then share in the liabilities and rewards. I remember the eyebrows from
-the DPMA \[Data Processing Management Association\] and IEEE when we did
+the DPMA \Data Processing Management Association\ and IEEE when we did
 that, but you see, that caused everyone to look a little more closely.
 So that’s not a wonderful thing, but we got out before it was too late,
 which was a good thing.
 
 Specialized conferences were more likely to be successful, rather than
 these big umbrella ones for which you had very few choices of locations,
-and you ended up in the heat \[laughs\]—the heat of Houston or
+and you ended up in the heat \laughs\—the heat of Houston or
 wherever\! The guys in my lab started one. Remember, this was the birth
 of various object-oriented projects—the Smalltalk books were out; there
 were other people doing object-this-and-that; there was Trellis; there
@@ -2291,7 +2291,7 @@ people we had worked with on those books, from Tektronix and Apple and
 Hewlett-Packard and DEC; and I said, “Well, that’s good. Now, who’s
 going to guarantee the hotel?” And they said, Well, they thought I
 would. And I said, “Did you mean the Research Lab at Xerox would, or did
-you mean ACM?” His answer: “Oh, whichever\!” \[laughs\]
+you mean ACM?” His answer: “Oh, whichever\!” \laughs\
 
 I thought they were great\! And so I thought about it and realized this
 was not going to be a Xerox thing; that wasn’t right; and we were out of
@@ -2339,7 +2339,7 @@ I was going to say, that sounds like a lot accomplished for two years.
 Yes, it was; but again, my mission was simply cleaning up the finances,
 not doing all those other things. And my mission was to stop being
 Editor-in-Chief of Computing Surveys, which was a lot of work\!
-\[laughs\] A wonderful thing to do, but a lot of work.
+\laughs\ A wonderful thing to do, but a lot of work.
 
 ### Advice for Young Women Who Are Considering a Career in Computing
 
@@ -2425,57 +2425,57 @@ Gibson (New York: ACM Press, 1996\).
 History Series (New York: ACM Press, 1988\).
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Adele_Goldberg&oldid=108210>"
+"<http:/ethw.org/index.php?title=Oral-History:Adele_Goldberg&oldid=108210>"
 
-[Category](/Special:Categories "Special:Categories"):
+Category(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
 
 ## Contents
 
-* [1 About Adele Goldberg](#About_Adele_Goldberg)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Growing Up: Family and
-    Education](#Growing_Up:_Family_and_Education)
-  * [4\.2 Undergraduate Career at U of
-    Michigan](#Undergraduate_Career_at_U_of_Michigan)
-  * [4\.3 Summer Work at IBM](#Summer_Work_at_IBM)
-  * [4\.4 Comparing U of Michigan and U of Chicago: On the Number of
-    Women](#Comparing_U_of_Michigan_and_U_of_Chicago:_On_the_Number_of_Women)
-  * [4\.5 From U of Chicago to Stanford: Computers in
-    Education](#From_U_of_Chicago_to_Stanford:_Computers_in_Education)
-  * [4\.6 Getting a Job at Xerox PARC](#Getting_a_Job_at_Xerox_PARC)
-  * [4\.7 The Work Environment at Xerox
-    PARC](#The_Work_Environment_at_Xerox_PARC)
-  * [4\.8 Developing Smalltalk](#Developing_Smalltalk)
-  * [4\.9 Managing the System Concepts Laboratory: Publishing and
-    Distribution](#Managing_the_System_Concepts_Laboratory:_Publishing_and_Distribution)
-  * [4\.10 Starting a Spin-out Company: ParcPlace
-    Systems](#Starting_a_Spin-out_Company:_ParcPlace_Systems)
-  * [4\.11 A Changing Research Culture: On Industry's Involvement in
+* 1 About Adele Goldberg(#About_Adele_Goldberg)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Growing Up: Family and
+    Education(#Growing_Up:_Family_and_Education)
+  * 4\.2 Undergraduate Career at U of
+    Michigan(#Undergraduate_Career_at_U_of_Michigan)
+  * 4\.3 Summer Work at IBM(#Summer_Work_at_IBM)
+  * 4\.4 Comparing U of Michigan and U of Chicago: On the Number of
+    Women(#Comparing_U_of_Michigan_and_U_of_Chicago:_On_the_Number_of_Women)
+  * 4\.5 From U of Chicago to Stanford: Computers in
+    Education(#From_U_of_Chicago_to_Stanford:_Computers_in_Education)
+  * 4\.6 Getting a Job at Xerox PARC(#Getting_a_Job_at_Xerox_PARC)
+  * 4\.7 The Work Environment at Xerox
+    PARC(#The_Work_Environment_at_Xerox_PARC)
+  * 4\.8 Developing Smalltalk(#Developing_Smalltalk)
+  * 4\.9 Managing the System Concepts Laboratory: Publishing and
+    Distribution(#Managing_the_System_Concepts_Laboratory:_Publishing_and_Distribution)
+  * 4\.10 Starting a Spin-out Company: ParcPlace
+    Systems(#Starting_a_Spin-out_Company:_ParcPlace_Systems)
+  * 4\.11 A Changing Research Culture: On Industry's Involvement in
     Computer
-    Science](#A_Changing_Research_Culture:_On_Industry.27s_Involvement_in_Computer_Science)
-  * [4\.12 Consulting: Neometron](#Consulting:_Neometron)
-  * [4\.13 On the Rewards of a Career in
-    Computing](#On_the_Rewards_of_a_Career_in_Computing)
-  * [4\.14 Serving as President of ACM](#Serving_as_President_of_ACM)
-  * [4\.15 Advice for Young Women Who Are Considering a Career in
-    Computing](#Advice_for_Young_Women_Who_Are_Considering_a_Career_in_Computing)
-  * [4\.16 Notes](#Notes)
+    Science(#A_Changing_Research_Culture:_On_Industry.27s_Involvement_in_Computer_Science)
+  * 4\.12 Consulting: Neometron(#Consulting:_Neometron)
+  * 4\.13 On the Rewards of a Career in
+    Computing(#On_the_Rewards_of_a_Career_in_Computing)
+  * 4\.14 Serving as President of ACM(#Serving_as_President_of_ACM)
+  * 4\.15 Advice for Young Women Who Are Considering a Career in
+    Computing(#Advice_for_Young_Women_Who_Are_Considering_a_Career_in_Computing)
+  * 4\.16 Notes(#Notes)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:41\.
 
 * This page has been accessed 6,812 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

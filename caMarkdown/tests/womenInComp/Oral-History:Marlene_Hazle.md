@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Marlene_Hazle&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Marlene_Hazle&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Marlene_Hazle)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Marlene_Hazle&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Marlene_Hazle "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Marlene_Hazle "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Marlene_Hazle&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Marlene_Hazle&oldid=108611 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Marlene_Hazle&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Marlene_Hazle)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AMarlene+Hazle)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Marlene_Hazle&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Marlene_Hazle&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Marlene_Hazle)
+  
+  * Discussion(index.php?title=Oral-History_talk:Marlene_Hazle&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Marlene_Hazle "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Marlene_Hazle "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Marlene_Hazle&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Marlene_Hazle&oldid=108611 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Marlene_Hazle&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Marlene_Hazle)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMarlene+Hazle)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Marlene Hazle
@@ -255,7 +255,7 @@ No\! So that was a pretty high standard to live up to.
 
 **Marlene Hazle:**
 
-Right\! It was a high standard\! \[laughs.\] Actually, I only saw him
+Right\! It was a high standard\! \laughs.\ Actually, I only saw him
 once\!
 
 But I guess I always had it in my mind that I was going to do something
@@ -372,7 +372,7 @@ Oh no, we were the only two people being interviewed, and we were—not
 part of a group in any sense. But the message was, “This is what women
 do here.” Well, that may have just been that office or that group of
 people who happened to be interviewing; I can’t assert that it was a
-more widespread attitude\! \[laughs.\] But that was our experience.
+more widespread attitude\! \laughs.\ But that was our experience.
 
 ### Starting at RAND
 
@@ -426,7 +426,7 @@ come to Boston and live. So I was the one that took that over and
 developed it, and developed another course that had to do with how you
 start the machine up in the first place, and how you recover if the
 system goes down—which of course it did frequently in those days\!
-\[laughs\]
+\laughs\
 
 **Janet Abbate:**
 
@@ -498,7 +498,7 @@ exactly what they called that.
 
 **Marlene Hazle:**
 
-The IBM AN/FSQ-7\. Just one of those catchy names\! \[laughs.\]
+The IBM ANFSQ-7\. Just one of those catchy names\! \laughs.\
 
 **Janet Abbate:**
 
@@ -667,7 +667,7 @@ computer messages—messages that they wanted to send to the system, to
 request display, or to print, or to do some of the other things that
 they were able to do—This little gadget allowed them to take pretyped
 messages from a little tape cartridge and put them up on the screen, so
-all they had to do was type in the variable values\! \[laughs.\]
+all they had to do was type in the variable values\! \laughs.\
 
 **Janet Abbate:**
 
@@ -727,7 +727,7 @@ Well, to me the biggest, the most interesting part was in fact the
 understanding of the application, and the envisioning of how that job
 might be supported with the—now, we’re talking, all along here,
 interactive systems: displays, and messages, light guns, light pens—the
-precursors of mice\! \[laughs.\] So to me, the challenge was to
+precursors of mice\! \laughs.\ So to me, the challenge was to
 understand the job, and then to envision what kind of software might be
 useful; and then to have the opportunity to see and evaluate it in a
 prototype situation. Unfortunately, as time went on, there was less and
@@ -794,7 +794,7 @@ sort of writing down things, but I think the writing down of the
 guidelines for the user-system interface was, oh, somewhere I would say
 in the late ‘70s, early ‘80s. That’s sort of my best recollection of it.
 It took a long time. . . .The people in the computing field . . . didn’t
-do a lot of writing\! \[laughs.\]
+do a lot of writing\! \laughs.\
 
 **Janet Abbate:**
 
@@ -897,7 +897,7 @@ just—that part of the system, which we just called the “specification
 development system,” was simply a mechanism for storing and indexing
 these components, or reusable elements of specifications. Now, I’m
 talking a time prior to word-processing systems. This is before the PC\!
-\[laughs.\] We also developed the capability . . . Well, actually, not
+\laughs.\ We also developed the capability . . . Well, actually, not
 quite prior to word processing, because Mitre was involved in word
 processing on mainframe computers very early on in the game. We
 developed a series of tools that allowed one to—would you believe—spell
@@ -924,8 +924,8 @@ And that’s about the same time that we developed these user guidelines,
 as a matter of fact. So that was a period of having the opportunity to
 be our own users, and to go through the iterations based on our own
 experience with the use of the system, because we actually went out to
-help the other people within the Mitre/ESD \[Electronic Systems
-Division\] community use this software that we had prepared to help
+help the other people within the MitreESD \Electronic Systems
+Division\ community use this software that we had prepared to help
 them. Because it was actually a fairly complicated system, which just
 took some getting used to, in how to use it, and it involved lots of
 people .
@@ -942,7 +942,7 @@ specifications and propose hardware and software that would meet those
 specifications, and then there would be a source selection, and the Air
 Force would pick one of the bidding contractors, and then they would go
 forward and—still, again, using the specifications—actually implement a
-system that they had proposed to meet those \[specifications\].
+system that they had proposed to meet those \specifications\.
 
 ### MITRE Systems
 
@@ -972,7 +972,7 @@ of course had to be programmed for their functionality; and, in lieu of
 the mouse as a pointing device, there was what we called a “light gun,”
 which actually looked like a gun, and was pointed at the display. So it
 took me quite some time, actually, to realize that most people were
-doing [FORTRAN](/FORTRAN "FORTRAN") on mainframe computers, and using
+doing FORTRAN(FORTRAN "FORTRAN") on mainframe computers, and using
 punch cards and tapes, and that they were not engaged in this sort
 of—the real-time interactive computing systems that we were.
 
@@ -1016,7 +1016,7 @@ prototypical developments. I always said I’ve never done the same thing
 twice, which was certainly true in the beginning and almost true to the
 end\! So that kind of job is always challenging.
 
-I’m a little stumped to think of anything \[else\] . . . I’m inclined to
+I’m a little stumped to think of anything \else\ . . . I’m inclined to
 say: You know, part of the fun was that the people are so bright—you
 know, who were doing this—and they are, I think. Mitre’s always
 described as sort of quasi-academic, and what you get is a lot of the
@@ -1086,7 +1086,7 @@ engineers—have engineering degrees. That’s probably still true, and that
 certainly was, I’m sure, true–even truer—then. And so, there are so few
 women in the engineering field that you would sort of expect few women—
 And actually, the other women that were at Mitre early (like Judy
-\[Clapp\] and me), none of them were engineers; none of us were
+\Clapp\ and me), none of them were engineers; none of us were
 engineers. We had all, you know, come from various academic backgrounds.
 Over time, of course, some women engineers did come, and then there
 began to be computer science graduates, after a number of years.
@@ -1227,7 +1227,7 @@ computing?
 
 **Marlene Hazle:**
 
-\[pause.\] Well, I guess it would probably be my advice to any young
+\pause.\ Well, I guess it would probably be my advice to any young
 person getting into any new career, and that would be: to make sure that
 you’re interested in what you’re doing, and that you understand where
 what you’re doing fits in with the bigger picture of computing, and
@@ -1269,7 +1269,7 @@ more than on an individual basis, but among groups.
 
 That’s sort of reminiscent of what I hear about how male computer hacker
 culture was very competitive. Do you have a sense that it was sort of an
-engineering/computing kind of culture? Or some other reason?
+engineeringcomputing kind of culture? Or some other reason?
 
 **Marlene Hazle:**
 
@@ -1280,7 +1280,7 @@ with other people; but that’s not what happened.
 
 **Janet Abbate:**
 
-Judy \[Clapp\] had mentioned something about people being very
+Judy \Clapp\ had mentioned something about people being very
 possessive about their code—and I guess you weren’t maybe coding as
 much, but . . .
 
@@ -1304,7 +1304,7 @@ time.
 
 **Marlene Hazle:**
 
-Well, right; and your saying that about Judy \[reminds me . . .\] Right.
+Well, right; and your saying that about Judy \reminds me . . .\ Right.
 I think that people were very possessive about the code they had
 written, because it was sort of a laying-out of their mind and their
 intelligence on paper that other people could see. And they didn’t
@@ -1441,99 +1441,99 @@ built in.
 
 **Marlene Hazle:**
 
-\[laughs.\] It was pleasing when we were making tools for ourselves,
+\laughs.\ It was pleasing when we were making tools for ourselves,
 too, because then we got to use them\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Marlene_Hazle&oldid=108611>"
+"<http:/ethw.org/index.php?title=Oral-History:Marlene_Hazle&oldid=108611>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Automation](/Category:Automation "Category:Automation")
-* [Design
-  automation](/Category:Design_automation "Category:Design automation")
-* [User
-  interfaces](/Category:User_interfaces "Category:User interfaces")
-* [Communications](/Category:Communications "Category:Communications")
-* [High-speed
-  electronics](/Category:High-speed_electronics "Category:High-speed electronics")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Computer
-  networks](/Category:Computer_networks "Category:Computer networks")
-* [Computer
-  science](/Category:Computer_science "Category:Computer science")
-* [Computing](/Category:Computing "Category:Computing")
-* [Data systems](/Category:Data_systems "Category:Data systems")
-* [Data
-  engineering](/Category:Data_engineering "Category:Data engineering")
-* [Distributed
-  computing](/Category:Distributed_computing "Category:Distributed computing")
-* [Distributed information
-  systems](/Category:Distributed_information_systems "Category:Distributed information systems")
-* [Profession](/Category:Profession "Category:Profession")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
-* [Engineers](/Category:Engineers "Category:Engineers")
-* [Government](/Category:Government "Category:Government")
-* [Non-profit](/Category:Non-profit "Category:Non-profit")
-* [Research and development
-  labs](/Category:Research_and_development_labs "Category:Research and development labs")
-* [Universities](/Category:Universities "Category:Universities")
-* [Engineering
-  fundamentals](/Category:Engineering_fundamentals "Category:Engineering fundamentals")
-* [Design
-  methodology](/Category:Design_methodology "Category:Design methodology")
-* [Systems engineering and
-  theory](/Category:Systems_engineering_and_theory "Category:Systems engineering and theory")
-* [Standardization](/Category:Standardization "Category:Standardization")
-* [Code standards](/Category:Code_standards "Category:Code standards")
-* [Military
-  standards](/Category:Military_standards "Category:Military standards")
-* [Software
-  standards](/Category:Software_standards "Category:Software standards")
-* [Transportation](/Category:Transportation "Category:Transportation")
-* [Aerospace
-  engineering](/Category:Aerospace_engineering "Category:Aerospace engineering")
-* [Command and control
-  systems](/Category:Command_and_control_systems "Category:Command and control systems")
-* [Electronic
-  warfare](/Category:Electronic_warfare "Category:Electronic warfare")
-* [Military aerospace
-  equipment](/Category:Military_aerospace_equipment "Category:Military aerospace equipment")
-* [Aviation](/Category:Aviation "Category:Aviation")
+* Automation(Category:Automation "Category:Automation")
+* Design
+  automation(Category:Design_automation "Category:Design automation")
+* User
+  interfaces(Category:User_interfaces "Category:User interfaces")
+* Communications(Category:Communications "Category:Communications")
+* High-speed
+  electronics(Category:High-speed_electronics "Category:High-speed electronics")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Computer
+  networks(Category:Computer_networks "Category:Computer networks")
+* Computer
+  science(Category:Computer_science "Category:Computer science")
+* Computing(Category:Computing "Category:Computing")
+* Data systems(Category:Data_systems "Category:Data systems")
+* Data
+  engineering(Category:Data_engineering "Category:Data engineering")
+* Distributed
+  computing(Category:Distributed_computing "Category:Distributed computing")
+* Distributed information
+  systems(Category:Distributed_information_systems "Category:Distributed information systems")
+* Profession(Category:Profession "Category:Profession")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
+* Engineers(Category:Engineers "Category:Engineers")
+* Government(Category:Government "Category:Government")
+* Non-profit(Category:Non-profit "Category:Non-profit")
+* Research and development
+  labs(Category:Research_and_development_labs "Category:Research and development labs")
+* Universities(Category:Universities "Category:Universities")
+* Engineering
+  fundamentals(Category:Engineering_fundamentals "Category:Engineering fundamentals")
+* Design
+  methodology(Category:Design_methodology "Category:Design methodology")
+* Systems engineering and
+  theory(Category:Systems_engineering_and_theory "Category:Systems engineering and theory")
+* Standardization(Category:Standardization "Category:Standardization")
+* Code standards(Category:Code_standards "Category:Code standards")
+* Military
+  standards(Category:Military_standards "Category:Military standards")
+* Software
+  standards(Category:Software_standards "Category:Software standards")
+* Transportation(Category:Transportation "Category:Transportation")
+* Aerospace
+  engineering(Category:Aerospace_engineering "Category:Aerospace engineering")
+* Command and control
+  systems(Category:Command_and_control_systems "Category:Command and control systems")
+* Electronic
+  warfare(Category:Electronic_warfare "Category:Electronic warfare")
+* Military aerospace
+  equipment(Category:Military_aerospace_equipment "Category:Military aerospace equipment")
+* Aviation(Category:Aviation "Category:Aviation")
 
 ## Contents
 
-* [1 About Marlene Hazle](#About_Marlene_Hazle)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family and Educational
-    Background](#Family_and_Educational_Background)
-  * [4\.2 Looking for Work](#Looking_for_Work)
-  * [4\.3 Starting at RAND](#Starting_at_RAND)
-  * [4\.4 Creating the Air Traffic Control
-    System](#Creating_the_Air_Traffic_Control_System)
-  * [4\.5 Working With the Air Force](#Working_With_the_Air_Force)
-  * [4\.6 Developing Large Systems](#Developing_Large_Systems)
-  * [4\.7 Developing Internal-Use
-    Software](#Developing_Internal-Use_Software)
-  * [4\.8 MITRE Systems](#MITRE_Systems)
-  * [4\.9 Women in Computing](#Women_in_Computing)
-  * [4\.10 The Benefits of Sharing Code](#The_Benefits_of_Sharing_Code)
-  * [4\.11 The Joys of Computing](#The_Joys_of_Computing)
+* 1 About Marlene Hazle(#About_Marlene_Hazle)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family and Educational
+    Background(#Family_and_Educational_Background)
+  * 4\.2 Looking for Work(#Looking_for_Work)
+  * 4\.3 Starting at RAND(#Starting_at_RAND)
+  * 4\.4 Creating the Air Traffic Control
+    System(#Creating_the_Air_Traffic_Control_System)
+  * 4\.5 Working With the Air Force(#Working_With_the_Air_Force)
+  * 4\.6 Developing Large Systems(#Developing_Large_Systems)
+  * 4\.7 Developing Internal-Use
+    Software(#Developing_Internal-Use_Software)
+  * 4\.8 MITRE Systems(#MITRE_Systems)
+  * 4\.9 Women in Computing(#Women_in_Computing)
+  * 4\.10 The Benefits of Sharing Code(#The_Benefits_of_Sharing_Code)
+  * 4\.11 The Joys of Computing(#The_Joys_of_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:47\.
 
 * This page has been accessed 3,384 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

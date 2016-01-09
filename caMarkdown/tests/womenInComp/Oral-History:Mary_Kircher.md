@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Mary_Kircher&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Mary_Kircher&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Mary_Kircher)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Mary_Kircher&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Mary_Kircher "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Mary_Kircher "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Mary_Kircher&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Mary_Kircher&oldid=113031 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Mary_Kircher&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Mary_Kircher)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Kircher)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Mary_Kircher&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Mary_Kircher&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Mary_Kircher)
+  
+  * Discussion(index.php?title=Oral-History_talk:Mary_Kircher&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Mary_Kircher "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Mary_Kircher "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Mary_Kircher&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Mary_Kircher&oldid=113031 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Mary_Kircher&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Mary_Kircher)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Kircher)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Mary Kircher
@@ -83,7 +83,7 @@ she majored in mathematics. She began working for Los Alamos in the
 1950s, first in the Calculations Group on Marchant calculators and later
 on as a computer programmer for MANIAC. She was among a small group of
 women computer programmers and coders for MANIAC at Los Alamos. Kircher
-worked with [FORTRAN](/FORTRAN "FORTRAN"), BASIC, and Hewlett-Packard
+worked with FORTRAN(FORTRAN "FORTRAN"), BASIC, and Hewlett-Packard
 languages with at Los Alamos.
 
 In this interview, Kircher talks about her childhood and the influence
@@ -129,8 +129,8 @@ PLACE: Mary Kircher's home in Albuquerque, New Mexico
 
 ### Women in Computer Programming, MANIAC
 
-\[This recording captured part of a conversation we had before the
-interview proper, which starts on page two.\]
+\This recording captured part of a conversation we had before the
+interview proper, which starts on page two.\
 
 **Kircher:**
 
@@ -153,7 +153,7 @@ In the early fifties, you mean, when you started?
 **Kircher:**
 
 Yes, this was in ‘52\. Good grief, that’s half a century ago\! You
-weren’t even born. \[laughs.\]
+weren’t even born. \laughs.\
 
 **Abbate:**
 
@@ -220,7 +220,7 @@ Well, why don’t I back up a bit, and we can get into this.
 
 ### Background and Education
 
-\[BEGINNING OF INTERVIEW PROPER\]
+\BEGINNING OF INTERVIEW PROPER\
 
 **Abbate:**
 
@@ -267,7 +267,7 @@ I have never heard of that\!
 
 **Kircher:**
 
-It didn’t last long\! \[laughs.\]
+It didn’t last long\! \laughs.\
 
 **Abbate:**
 
@@ -361,7 +361,7 @@ Middletown for the summer, so I went to summer school for two summers,
 and I ended up graduating in three years—which was kind of neat. And
 then I went and did what I wanted to do: I got the job I was looking
 for; I went to work for an insurance company in Boston,
-Massachusetts—and it turned out to be terrible\! \[laughs.\]
+Massachusetts—and it turned out to be terrible\! \laughs.\
 
 ### Working at Los Alamos and Programming MANIAC
 
@@ -418,7 +418,7 @@ I’ve heard of them and seen pictures.
 **Kircher:**
 
 Well, they could do all kinds of stuff, including getting jammed—and I
-was really good at that\! \[laughs.\]
+was really good at that\! \laughs.\
 
 **Abbate:**
 
@@ -428,7 +428,7 @@ At jamming them, or unjamming them?
 
 At jamming them\! Because if you, basically, tried to divide by
 zero—even though you were not literally dividing by zero—they would
-just go bananas. \[laughs.\] I was sharing an office with a man who was
+just go bananas. \laughs.\ I was sharing an office with a man who was
 good at unjamming them, fortunately\!
 
 **Abbate:**
@@ -461,7 +461,7 @@ MANIAC group, and we were working to learn how to code for the MANIAC.
 
 One day they came and told us, “Oh, come on into the machine room\! It’s
 going to run\! It’s going to run\!” It was generating prime numbers.
-What’s the first thing that prints out? “Twenty-five.” \[both laugh.\]
+What’s the first thing that prints out? “Twenty-five.” \both laugh.\
 When I retired from my second job at the lab, somebody asked me to tell
 some MANIAC stories, and of course I told that one, and then somebody
 came up to me afterwards and said, “What happened?” It was probably
@@ -475,7 +475,7 @@ So they had the right number, but they just weren’t expressing it right.
 **Kircher:**
 
 They had the right number, but it wasn’t translated; yes. But funny? Oh
-my goodness\! \[laughs.\] And of course we couldn’t laugh, because it
+my goodness\! \laughs.\ And of course we couldn’t laugh, because it
 was terribly embarrassing.
 
 **Abbate:**
@@ -496,7 +496,7 @@ I don’t think I do.
 **Kircher:**
 
 She married—her married name was Luergans: L-U-E-R-G-A-N-S—and then they
-left the Hill \[a nickname for Los Alamos\], and everybody lost track of
+left the Hill \a nickname for Los Alamos\, and everybody lost track of
 them. You have the best name of all for knowing where people are, which
 is Mary Menzel. You can’t get off her Christmas card list\! So she knows
 where people are. She is the one who was visited by someone we had all
@@ -555,7 +555,7 @@ memory.
 
 That was quite a machine. Somewhere I have a picture of it.
 
-\[recording pauses.\]
+\recording pauses.\
 
 **Abbate:**
 
@@ -644,7 +644,7 @@ So this was just an underground room?
 
 It was a former vault. It was just unused. As far as I know, it was
 empty. We knew something was down there, but we didn’t pay any attention
-to it. We just had to keep off the door\! \[laughs.\]
+to it. We just had to keep off the door\! \laughs.\
 
 **Abbate:**
 
@@ -700,7 +700,7 @@ like “three times ten to the minus fourth.” So it would be
 “point-zero-zero-zero-zero-whatever,” and that was very awkward. If
 they had used the scientific notation, it would have been easier; but
 the Marchant did not work with that, so we would have had to do that on
-our own. But frankly, it would have been easier\! \[laughs.\]
+our own. But frankly, it would have been easier\! \laughs.\
 
 Well, you’d just keep following the instructions on the sheet till you
 came to the end. A lot of the things you were doing were what are called
@@ -782,7 +782,7 @@ Oh, right.
 
 **Kircher:**
 
-Mostly Mary T. was working with . . . \[To her husband:\] What’s the
+Mostly Mary T. was working with . . . \To her husband:\ What’s the
 name of that guy who lived next to the Lilienthals? Big wheel? Ulam\!
 Stan Ulam.
 
@@ -793,8 +793,8 @@ Ah\!
 **Kircher:**
 
 Yes. And that woman whose name I gave you, Elaine Alei, worked with
-\[Enrico\] Fermi on one project. But they mostly gave me the nobodies, I
-guess\! \[laughs.\] That one Elaine was on, I think \[Edward\] Teller
+\Enrico\ Fermi on one project. But they mostly gave me the nobodies, I
+guess\! \laughs.\ That one Elaine was on, I think \[Edward\] Teller
 was in on it, too—because I can remember how loud he was. He’d walk up
 and down the hall, yelling and screaming—not really, just loud\!
 
@@ -858,7 +858,7 @@ Could you have stayed if you wanted to?
 
 Yes. There was no bias against pregnant women. In fact, somebody told
 me, “Well, I guess they prefer you not have the baby under the desk, but
-otherwise . . .” \[laughs.\] You know, the insurance company I worked
+otherwise . . .” \laughs.\ You know, the insurance company I worked
 for in Boston: the minute you admitted to them that you pregnant, you
 were out\! But it was not that way at Los Alamos, and I could have gone
 back. I was not exactly urged to come back, but it was obvious that if I
@@ -888,11 +888,11 @@ these six-day weeks?
 **Kircher:**
 
 Well, a little bit, but not much. We’re the ones who started the Casual
-Fridays—but it was Casual Saturday\! \[laughs.\]
+Fridays—but it was Casual Saturday\! \laughs.\
 
 **Abbate:**
 
-Ah, I see\! \[laughs.\]
+Ah, I see\! \laughs.\
 
 Now, I’m not sure: did you know that they were making bombs there, when
 you first went there? I don’t know if that was still a secret.
@@ -933,7 +933,7 @@ every now and then, when they are showing something about the history of
 the bomb; and I guess we saw the ruins of it, and I remember that we saw
 the house that was farther away had not been seriously damaged. We got
 to get out, hither and yon, and as we got back in the bus, our feet were
-monitored with a [Geiger counter](/Geiger_counter "Geiger counter"),
+monitored with a Geiger counter(Geiger_counter "Geiger counter"),
 which was interesting.
 
 The morning of the shot, we had to be there way ahead of time, and they
@@ -943,7 +943,7 @@ my glasses and put on those; and we’re standing there, and all of a
 sudden you could see something through the glasses. I was very slow at
 taking them off to put my regular glasses on, because, you know, it
 would take too much doing. And then the shock wave came, and I sat
-down\! \[laughs.\] But it was a very impressive thing to do. It was one
+down\! \laughs.\ But it was a very impressive thing to do. It was one
 of the shots where they had soldiers in foxholes, up somewhere ahead of
 the viewing point—because I remember seeing some of them. They weren’t
 all that far ahead of us.
@@ -953,7 +953,7 @@ little classified report of what had happened, when we were on our way
 home\! And we stopped at a motel somewhere in Arizona, and the five of
 us go charging into the office, and, you know: a few raised eyebrows at
 the time. And he looked around and he said, “I never saw them before in
-my life\!” \[laughs.\] He’d had enough of us\!
+my life\!” \laughs.\ He’d had enough of us\!
 
 But it was really an interesting thing to be able to go to see, and I’m
 glad I did\!
@@ -1137,7 +1137,7 @@ What do you mean?
 Well, “What if this geometry is done? Then what happens when we do
 such-and-such?” And it was fun. Sometimes I had the most magnificent
 blackboards\! There was one where I had three simultaneous differential
-equations to solve, and that’s impressive, right? \[laughs.\]
+equations to solve, and that’s impressive, right? \laughs.\
 
 **Abbate:**
 
@@ -1226,7 +1226,7 @@ Women were doing so much with compilers and software other places . . .
 
 Yes. That may have been when Jack’s wife was in between with marriages.
 She was married to him, she divorced him, and then she remarried him\!
-\[laughs.\] Whatever\! But then, that may have colored his attitude
+\laughs.\ Whatever\! But then, that may have colored his attitude
 toward women.
 
 **Abbate:**
@@ -1336,7 +1336,7 @@ Was this a time-sharing machine? No, that wasn’t. The CCF was. I think
 it always was, because they just had to do it. Oh, it was always fun.
 I’d sit there at a terminal—this was years after the cards—and check
 to see what my program was doing, and it would be doing nothing because
-I never had enough priority to go very far\! \[laughs.\] And then they
+I never had enough priority to go very far\! \laughs.\ And then they
 ended up getting more machines and faster machines, so that there was
 hardly ever a problem with time, after a while.
 
@@ -1376,7 +1376,7 @@ What was that like, working with the Cray?
 
 Well, it was like working with any other computer. You don’t see it; you
 don’t hear it; you don’t feel it; you just send it information and it
-sends you information, that’s all\! \[laughs.\] No connection
+sends you information, that’s all\! \laughs.\ No connection
 whatsoever\! No real connection with it.
 
 **Abbate:**
@@ -1398,10 +1398,10 @@ that point?
 **Kircher:**
 
 Yes. I’m not sure which number FORTRAN, but just FORTRAN. I did take a
-class in C, once. I found it thoroughly ridiculous\! \[laughs.\] It was
+class in C, once. I found it thoroughly ridiculous\! \laughs.\ It was
 my feeling that the person who invented C never had to type his own
 programs in. Well, you think about that: you do a colon, and a right
-paren\[thesis\], and then you do a dash, and maybe you do that
+paren\thesis\, and then you do a dash, and maybe you do that
 twice—just ridiculous amounts of grammar. That was my personal
 complaint about C.
 
@@ -1528,7 +1528,7 @@ He sounds like the ideal client\!
 
 Oh, he was a nice man to work for\! Yes, we got along fine. Our
 personalities didn’t clash. He was a very methodical thinker, and he
-could get everything just right; and I’d go \[making birdlike sounds:\]
+could get everything just right; and I’d go \making birdlike sounds:\
 “Trubaloobalu\! Tweet-tweet\!” But sometimes that’s what you need; you
 need to flip a little bit around to get around a corner that he was
 having trouble turning.
@@ -1551,7 +1551,7 @@ Yes. More intuitive than he, and spontaneous, yes. I miss him—although I
 hadn’t seen him for several years, because we’d come down here to
 Albuquerque.
 
-\[pause.\] Well, think of another good question, Janet\!
+\pause.\ Well, think of another good question, Janet\!
 
 ### Mentors and Role Models
 
@@ -1571,7 +1571,7 @@ but I would have got there\! And the same at work. There was a neighbor
 I used to call on for help in programming, because he’d been doing
 FORTRAN for years and years and I was trying to learn it, and he was as
 helpful as he could be, but I’d never think of him as a mentor. Good
-grief, not him\! \[laughs.\] There have been many people who have been
+grief, not him\! \laughs.\ There have been many people who have been
 helpful; cooperative; but no one in particular whom I think of as the
 very special person to help me do my work.
 
@@ -1655,9 +1655,9 @@ Well, did you ever feel as a woman that that was an obstacle?
 
 No, just an occasional awkwardness.
 
-\[pause to change discs in recorder\]
+\pause to change discs in recorder\
 
-\[DISC 2\]
+\DISC 2\
 
 **Abbate:**
 
@@ -1727,7 +1727,7 @@ What did you think of it?
 
 **Kircher:**
 
-I didn’t realize what it was, until just recently\! \[laughs.\] I had
+I didn’t realize what it was, until just recently\! \laughs.\ I had
 reason to talk to him, and so I talked to him.
 
 **Abbate:**
@@ -1860,7 +1860,7 @@ scientific programming. Not many people program equations. There’s not
 that much demand for it. But logic, yes; because you have to have a
 feeling for how a program flows—even if you don’t do a flow diagram,
 because they were really a waste of time, mostly. They never came out
-right\! \[laughs.\]
+right\! \laughs.\
 
 **Abbate:**
 
@@ -1919,7 +1919,7 @@ do, were you trying to make the programs faster?
 
 **Kircher:**
 
-You’d go to the Cray\! \[both laugh.\] You tried to be efficient, yes;
+You’d go to the Cray\! \both laugh.\ You tried to be efficient, yes;
 but if you had a big program and it would take lots of calculations, you
 went to a faster machine.
 
@@ -1968,7 +1968,7 @@ Would you do anything differently, if you were going to do it again?
 
 **Kircher:**
 
-Probably—but I don’t know quite what, or how. \[laughs.\]
+Probably—but I don’t know quite what, or how. \laughs.\
 
 **Abbate:**
 
@@ -2057,57 +2057,57 @@ You’re welcome\! I hope you have an interesting time.
 I’m sure I will.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Mary_Kircher&oldid=113031>"
+"<http:/ethw.org/index.php?title=Oral-History:Mary_Kircher&oldid=113031>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Profession](/Category:Profession "Category:Profession")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Formal
-  languages](/Category:Formal_languages "Category:Formal languages")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Profession(Category:Profession "Category:Profession")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Formal
+  languages(Category:Formal_languages "Category:Formal languages")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Mary Kircher](#About_Mary_Kircher)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Women in Computer Programming,
-    MANIAC](#Women_in_Computer_Programming.2C_MANIAC)
-  * [4\.2 Background and Education](#Background_and_Education)
-  * [4\.3 Working at Los Alamos and Programming
-    MANIAC](#Working_at_Los_Alamos_and_Programming_MANIAC)
-  * [4\.4 Bombs at Los Alamos](#Bombs_at_Los_Alamos)
-  * [4\.5 Family Life](#Family_Life)
-  * [4\.6 Working with Computer Again at Los
-    Alamos](#Working_with_Computer_Again_at_Los_Alamos)
-  * [4\.7 How Programming Became a Man's Job at Los
-    Alamos](#How_Programming_Became_a_Man.27s_Job_at_Los_Alamos)
-  * [4\.8 More on Workplace at Los
-    Alamos](#More_on_Workplace_at_Los_Alamos)
-  * [4\.9 Working with a Cray](#Working_with_a_Cray)
-  * [4\.10 Working with Different Programming
-    Languages](#Working_with_Different_Programming_Languages)
-  * [4\.11 Reflection on Working with
-    Computers](#Reflection_on_Working_with_Computers)
-  * [4\.12 Mentors and Role Models](#Mentors_and_Role_Models)
-  * [4\.13 Attending Conferences](#Attending_Conferences)
-  * [4\.14 Reflection on Time at Los
-    Alamos](#Reflection_on_Time_at_Los_Alamos)
+* 1 About Mary Kircher(#About_Mary_Kircher)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Women in Computer Programming,
+    MANIAC(#Women_in_Computer_Programming.2C_MANIAC)
+  * 4\.2 Background and Education(#Background_and_Education)
+  * 4\.3 Working at Los Alamos and Programming
+    MANIAC(#Working_at_Los_Alamos_and_Programming_MANIAC)
+  * 4\.4 Bombs at Los Alamos(#Bombs_at_Los_Alamos)
+  * 4\.5 Family Life(#Family_Life)
+  * 4\.6 Working with Computer Again at Los
+    Alamos(#Working_with_Computer_Again_at_Los_Alamos)
+  * 4\.7 How Programming Became a Man's Job at Los
+    Alamos(#How_Programming_Became_a_Man.27s_Job_at_Los_Alamos)
+  * 4\.8 More on Workplace at Los
+    Alamos(#More_on_Workplace_at_Los_Alamos)
+  * 4\.9 Working with a Cray(#Working_with_a_Cray)
+  * 4\.10 Working with Different Programming
+    Languages(#Working_with_Different_Programming_Languages)
+  * 4\.11 Reflection on Working with
+    Computers(#Reflection_on_Working_with_Computers)
+  * 4\.12 Mentors and Role Models(#Mentors_and_Role_Models)
+  * 4\.13 Attending Conferences(#Attending_Conferences)
+  * 4\.14 Reflection on Time at Los
+    Alamos(#Reflection_on_Time_at_Los_Alamos)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:01\.
 
 * This page has been accessed 2,175 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

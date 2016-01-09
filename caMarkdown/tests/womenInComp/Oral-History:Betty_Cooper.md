@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Betty_Cooper&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Betty_Cooper&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Betty_Cooper)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Betty_Cooper&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Betty_Cooper "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Betty_Cooper "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Betty_Cooper&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Betty_Cooper&oldid=108264 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Betty_Cooper&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Betty_Cooper)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ABetty+Cooper)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Betty_Cooper&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Betty_Cooper&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Betty_Cooper)
+  
+  * Discussion(index.php?title=Oral-History_talk:Betty_Cooper&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Betty_Cooper "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Betty_Cooper "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Betty_Cooper&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Betty_Cooper&oldid=108264 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Betty_Cooper&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Betty_Cooper)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ABetty+Cooper)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Betty Cooper
@@ -209,9 +209,9 @@ have two attempts: my sister passed the first time, and went to the
 local grammar school. I was a little bit younger than her when I took
 it. I passed the entrance exam, and went to the grammar school. Then I
 had a chance to take the exam for a second time in order to waive the
-fees, and I passed, which meant no more fees. \[Cooper had commented
+fees, and I passed, which meant no more fees. \Cooper had commented
 before the interview that “in those days,” most parents would only pay
-for their sons’ schooling, not their daughters.’\]
+for their sons’ schooling, not their daughters.’\
 
 **Abbate:**
 
@@ -416,13 +416,13 @@ see if there were any potential candidates there that they could draw
 on. So I went on the Appreciation Course. It was a one-week course. It
 just covered the rudiments of binary arithmetic, simple programming, how
 the computer worked; and it took a week. It was quite an intensive
-week\! \[laughs.\] I think they were trying to find out how you would
+week\! \laughs.\ I think they were trying to find out how you would
 do, and at the same time let you realize, “Would you like to do it? Were
 you interested?”
 
 If you worked in the Statistical Office—we sort of pooh-poohed the idea
 of LEO. I thought, “Oh well, that’s a silly idea. What can they do?”
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -430,13 +430,13 @@ Really\!
 
 **Cooper:**
 
-Yes. I’ve written that down. \[Reading from four printed pages entitled
-“Betty’s Early Education, Training and Memories at LEO”\]: “To use a
+Yes. I’ve written that down. \Reading from four printed pages entitled
+“Betty’s Early Education, Training and Memories at LEO”\: “To use a
 computer to carry out office operations: it was new, and viewed with
 suspicion by many clerical workers. The concept of a programmer writing
 instructions to operate a sort of robot to carry out their work was
 difficult for them to visualize.” That was up to the office management
-to sort out\! \[laughs.\]
+to sort out\! \laughs.\
 
 **Abbate:**
 
@@ -453,7 +453,7 @@ But you thought that you might as well see what it was like?
 
 **Cooper:**
 
-Yes. Why not? \[laughs.\]
+Yes. Why not? \laughs.\
 
 **Abbate:**
 
@@ -500,12 +500,12 @@ Y equals Z’?” I mean, that’s a simple thing, isn’t it?
 **Abbate:**
 
 So you’d work it out logically on the flow-chart, and think about how to
-translate it into \[machine code\]. What happened after the week?
+translate it into \machine code\. What happened after the week?
 
 **Cooper:**
 
 I didn’t hear anything for a while. I think they had to train somebody
-to take my over job before they’d let me go\! \[laughs.\] I joined LEO
+to take my over job before they’d let me go\! \laughs.\ I joined LEO
 in January 1955; I think they delayed it about a month while I trained
 somebody else.
 
@@ -581,8 +581,8 @@ after you took the course?
 
 **Cooper:**
 
-Well, yes, it was something new\! Now, what did we do? \[Looking through
-her notes from the programming course.\] We learned the basics . . .
+Well, yes, it was something new\! Now, what did we do? \Looking through
+her notes from the programming course.\ We learned the basics . . .
 
 **Abbate:**
 
@@ -593,12 +593,12 @@ So these are the actual course notes? You still have them?
 These are the course notes that I took. The course covered all aspects
 surrounding the computer, briefly: its background, simple engineering
 circuits, how to do a job, programming actions required, flow charts,
-input/output, accuracy, checking, testing, setting up and starting a
+inputoutput, accuracy, checking, testing, setting up and starting a
 program on the computer (initial orders), original job specification,
 operating instructions, etc.; ending with writing, testing, and
 correcting a dummy program.
 
-\[Reading from notes:\] “How did it start? You press the Start button,
+\Reading from notes:\ “How did it start? You press the Start button,
 and it’s got an initial order, which reads in the cards to set up the
 program. It reads in the program, which was on cards; sets them out; and
 then as soon as it’s got to its end of cycle, it starts working with the
@@ -606,8 +606,8 @@ program code.” Of course, the program itself was written in machine
 code. There were three sorts of parts to the machine code, and it had to
 be compiled, so that it was tested that it translated so that it would
 work on the computer. I think—I’m not sure—it didn’t have to be compiled
-like later programs; I think it was fairly simple. But \[the program
-code\] was really untested, and there’s a program that read it in,
+like later programs; I think it was fairly simple. But \the program
+code\ was really untested, and there’s a program that read it in,
 tested it, and printed out some inconsistencies that it didn’t like.
 
 **Abbate:**
@@ -634,7 +634,7 @@ you’d ask questions, check out and tie up any ambiguities. You’d produce
 some flow charts. Now, if it was a simple job (one program only), you’d
 have between one and three input channels (cards and paper tape) and one
 or two output channels (punched cards and printer). You’d produce an
-input/output flow chart showing what data was input and what was output,
+inputoutput flow chart showing what data was input and what was output,
 then a detailed flow chart with square boxes for each simple operation
 and diamond ones for tests with two options—to change direction, also
 for impossible situations where a STOP may be necessary. The flow chart
@@ -705,8 +705,8 @@ brought-forward data for that. I mean, if you’re doing the totals, you
 need the totals from previous runs, and you just have to tie up all the
 ends.
 
-\[Referring to “Betty’s Early Education, Training and Memories at
-LEO”:\] I’ve got down here some problems and challenges, which I’ll
+\Referring to “Betty’s Early Education, Training and Memories at
+LEO”:\ I’ve got down here some problems and challenges, which I’ll
 give to you later, if you want.
 
 **Abbate:**
@@ -744,7 +744,7 @@ where it stopped, and where it got unstuck, and you could try again,
 requesting a store dump of certain crucial parts. There were a lot of
 checks on it. (It’s always possible that the first LEOs weren’t as
 reliable as current programs, but I’ll come to that in a minute.)
-Anyway, you got there in the end\! \[laughs.\] You might have to have
+Anyway, you got there in the end\! \laughs.\ You might have to have
 several attempts at reprogramming, and recompiling it, and putting it
 right, and trying again.
 
@@ -761,9 +761,9 @@ use the data are running the program?
 
 **Cooper:**
 
-No, they would provide the data and LEO staff do the rest. \[A “live
+No, they would provide the data and LEO staff do the rest. \A “live
 run” was when LEO was being used in place of the manual office
-procedure.\] They always had a parallel run to start with; so you
+procedure.\ They always had a parallel run to start with; so you
 compared the LEO results with the office results, and when everyone was
 happy with it, LEO took over running the job on a regular basis.
 
@@ -784,7 +784,7 @@ To get everything to fit in that memory space?
 
 Yes. LEO engineers had modified the original mathematical computers
 produced by Cambridge and various other places, conferring with the LEO
-management team and programmers. We needed fast input/output, because
+management team and programmers. We needed fast inputoutput, because
 once in the computer, there wasn’t a lot of calculation per item, or
 employee, or whatever data you were processing (store’s item, if you’re
 doing stock control, or personnel if it was labour costing), but there’s
@@ -819,13 +819,13 @@ being read in. I’m not sure about the decimal cards; I believe they had
 an extra digit so that it had to add up across, but I’m not sure what
 amount. Paper tape had an extra digit. But the brought-forward and
 carry-forward cards were all in a binary format, so that instead of one
-column / one digit, you had something like twenty little compartments,
+column  one digit, you had something like twenty little compartments,
 it was binary format; and to make sure they were read correctly, there
 was always a check total card at the bottom, so that the first thing
 you’d do when a card is read is to check it: “Does it add up?” That
 always happened, and so you’d build a stop test into the program: “It
 has not read it properly; either reread it or abandon.” It’s up to
-you—or up to the operator—\[whether to reread or abandon\].
+you—or up to the operator—\whether to reread or abandon\.
 
 There were other checks. You would read in the data, and at the end of
 the run you would read in the totals for that department; so that at the
@@ -871,8 +871,8 @@ that took the longest time. You wanted everything to work within that
 cycle. Otherwise, it’s a double cycle and increases the time of the
 job—LEO operating time was in short supply—and of course it affected
 the cost\! I think it was costing £50 an hour at the time, if my
-memory’s correct, \[so\] if the job was taking half an hour, that’s
-£25\. Now, how much did it cost \[to do it manually\] in the clerical
+memory’s correct, \so\ if the job was taking half an hour, that’s
+£25\. Now, how much did it cost \to do it manually\ in the clerical
 office? It is a very sharp calculation\! The LEO operation must save
 money to be economic; otherwise it’s not worth doing on the computer.
 
@@ -921,8 +921,8 @@ available for the instructions to run.
 Yes. As soon as it’s got the result ready, it moves it to the buffer and
 it will start on the next item. We might even have had two buffers; I
 can’t remember. That buffer’s waiting for the previous card to be
-punched, and as soon as it’s punched, it takes \[the data waiting in the
-buffer\] and punches it, and leaves the buffer empty—ready for the next
+punched, and as soon as it’s punched, it takes \the data waiting in the
+buffer\ and punches it, and leaves the buffer empty—ready for the next
 one. So, the cycle’s got to be within that time, because if you miss it,
 it’s two cycles\! So that rather increases the time.
 
@@ -951,7 +951,7 @@ which we had to run and get working.
 
 **Abbate:**
 
-That must have been some course\! \[laughs.\]
+That must have been some course\! \laughs.\
 
 **Cooper:**
 
@@ -976,7 +976,7 @@ that job. He was a mathematician working in the bakery sales office, I
 think, and he decided—as he was doing an evening course—he didn’t want
 the extra responsibility.
 
-\[short pause while Betty Cooper’s husband enters the house\]
+\short pause while Betty Cooper’s husband enters the house\
 
 **Cooper:**
 
@@ -1001,10 +1001,10 @@ Ah.
 
 We probably didn’t have their names and addresses . . . Again, I can’t
 remember a lot of these things; it’s over fifty years\! No, not quite
-fifty years: forty-five years. It’s a long time\! \[laughs.\]
+fifty years: forty-five years. It’s a long time\! \laughs.\
 
 There might be other checks we did, which I haven’t written down.
-\[Refers to notes.\] I’ve been through the normal procedure . . . I can
+\Refers to notes.\ I’ve been through the normal procedure . . . I can
 tell you which jobs I had a hand in.
 
 **Abbate:**
@@ -1015,7 +1015,7 @@ Yes, what were some of the main projects?
 
 Well, we started with payroll. Pat Cooper and I worked under Mary Blood.
 She was a very dominating person, I didn’t find working with her very
-easy\! \[laughs.\] So I transferred to John Grover’s group, which was
+easy\! \laughs.\ So I transferred to John Grover’s group, which was
 covering costing and stock-control type jobs and statistical, until he
 left; and then Frank Land took over from him.
 
@@ -1027,7 +1027,7 @@ other?
 **Cooper:**
 
 Well, the jobs that we did came from our Programming Manager. I think he
-started in Systems Research, and he talked to \[J. R. M.\] Simmons, who
+started in Systems Research, and he talked to \J. R. M.\ Simmons, who
 was the Director in charge of office management, and they produced the
 jobs. There were some jobs for outside firms as well.
 
@@ -1076,8 +1076,8 @@ clock; and finally you’ve got the clock. Now, the program—or the set of
 programs—had to organize it to break down the clocks into parts, so that
 you could produce production lists according to how many you wanted to
 make. Then you had built up the costs, so you know how much they cost,
-\[and\] you might have to revise the prices. I can’t remember now how we
-do it. I know it was a complex program\! \[laughs.\]
+\and\ you might have to revise the prices. I can’t remember now how we
+do it. I know it was a complex program\! \laughs.\
 
 **Abbate:**
 
@@ -1091,7 +1091,7 @@ Director was had interests in various other products. I mean, we did
 jobs for other people who came and asked. Later on, the fur trade wanted
 something doing to produce some costs for getting in the skins and
 producing things from it afterwards. I can’t remember now what we did
-with that, either, but I do remember doing something\! \[laughs.\]
+with that, either, but I do remember doing something\! \laughs.\
 
 ### Working on the LEO II project
 
@@ -1108,7 +1108,7 @@ started working on LEO II—which was an improved model and faster than
 LEO I—fairly early on, soon after I joined them; and that cut down the
 time. In fact, all the machine coding changed, so that where you had—let
 me think—14 was “add” before, and 3 was “subtract” . . . It changed the
-numbering system, so you had to know two number systems\! \[laughs.\]
+numbering system, so you had to know two number systems\! \laughs.\
 
 **Abbate:**
 
@@ -1116,7 +1116,7 @@ Oh, because you were using them both.
 
 **Cooper:**
 
-Yes. You were \[still\] doing things on the original—well, you weren’t
+Yes. You were \still\ doing things on the original—well, you weren’t
 coding new ones, but you might be amending and keeping them working. And
 you had to re-code those onto the new system, so you were translating;
 rewriting.
@@ -1137,8 +1137,8 @@ sure that it hadn’t done something to the number within the computer,
 and that was all part of the electronics. Whereas a word could be held
 in 34 binary digits in LEO I, it went up to 38 binary digits in LEO II.
 And you were working in binary as well as working in decimal. You could
-translate. We’ve got a translation, I think. \[Looking through papers:\]
-I’ve still got my original card\! \[It shows\] what the number would
+translate. We’ve got a translation, I think. \Looking through papers:\
+I’ve still got my original card\! \It shows\ what the number would
 look like.
 
 **Abbate:**
@@ -1148,7 +1148,7 @@ Ah, so this would translate from binary to decimal.
 **Cooper:**
 
 Yes. What is the binary power, you see? And the power would be one,
-naught, nought, nought, nought, nought, nought, nought \[10000000\], or
+naught, nought, nought, nought, nought, nought, nought \10000000\, or
 something, depending on how many it was. We had to translate the data.
 You had to sort out and make sure the data produced was correct. Your
 trial data—which you tried to keep simple as possible, but it had to
@@ -1212,8 +1212,8 @@ So that was held periodically?
 
 Well yes, yes. It might be every couple of months, as much as that. As I
 say, we got the normal programming procedure instilled into us, and we
-kept to it—kept us working efficiently and \[using\] good practice. \[It
-was\] worked out by somebody.
+kept to it—kept us working efficiently and \using\ good practice. \[It
+was\ worked out by somebody.
 
 ### Reflections on the LEO I and II projects
 
@@ -1238,7 +1238,7 @@ Once the program was right\!
 
 **Cooper:**
 
-Certainly, if things went wrong, they went madly wrong\! \[laughs.\] So
+Certainly, if things went wrong, they went madly wrong\! \laughs.\ So
 you knew. And of course if it goes right, it doesn’t make a mistake;
 whereas in the office, they could.
 
@@ -1250,7 +1250,7 @@ more, or buy some more.” So, we had reports on that sort of thing. It’s
 a very good example.
 
 The bakery evaluation job was a sort of an extension to that. Bakery
-evaluation would be to\] keep control of the stocks that you’re
+evaluation would be to\ keep control of the stocks that you’re
 reordering. Mostly it was left to the departments to do the ordering,
 but to have some prompts was a good thing.
 
@@ -1270,7 +1270,7 @@ that,” and they’d get it delivered first thing the next morning. So they
 could change at a late time, and that was very good, because the
 managers of the tea shops did not have to juggle the figures themselves.
 They could concentrate on managing their staff instead\! It’s the fast
-reaction \[of the computerized system\]: once it’s working, it does very
+reaction \of the computerized system\: once it’s working, it does very
 well. If you get figures quicker, you can take decisions more quickly.
 
 **Abbate:**
@@ -1316,7 +1316,7 @@ Yes, I have.
 It was just before I left them, I think; around about 1959, 1958\. They
 had a man over there who went into all the details: “How much were the
 data preparation costs? How much for this? How many staff can he save in
-the office?” And he worked it out very carefully, and \[asked\], “How
+the office?” And he worked it out very carefully, and \asked\, “How
 much would LEO charge you to do the job?” And if it wasn’t economic, we
 didn’t do it\!
 
@@ -1339,7 +1339,7 @@ Did you meet your husband at Lyons?
 
 **Cooper:**
 
-No, I met him through his sister \[Pat Cooper\], who did the same
+No, I met him through his sister \Pat Cooper\, who did the same
 programming course as me.
 
 **Abbate:**
@@ -1359,7 +1359,7 @@ a sense that you were very important to the company?
 
 I think the management did. But I’m not quite sure about the actual
 lower people in the staff there. They were all very skeptical. Well, I
-was skeptical when I first joined them\! \[laughs.\]
+was skeptical when I first joined them\! \laughs.\
 
 **Abbate:**
 
@@ -1371,7 +1371,7 @@ interact with them?
 
 You did have some contact, but probably not a lot. Yes, if you had some
 queries about “How have we got to cover this case, or that case?”, you
-would probably \[talk to them\]—not the individual people, but their
+would probably \talk to them\—not the individual people, but their
 supervisors. The engineers and the programmers talked together, because
 they would introduce new things, new facilities. They were forever
 updating the facilities on the new computer. When they started building
@@ -1474,11 +1474,11 @@ using maths. I think she worked for an aircraft firm, doing various
 mathematical calculations; and she did say it was difficult to get
 another job, because they a prospective employer in the same industry
 would apply to the firm she was working with, who would reply, “Oh, we
-can’t let her go\!” \[laughs.\]
+can’t let her go\!” \laughs.\
 
 **Abbate:**
 
-Because they wanted to keep her. \[laughs.\]
+Because they wanted to keep her. \laughs.\
 
 **Cooper:**
 
@@ -1493,7 +1493,7 @@ That’s interesting.
 
 She only stayed a couple of years, I think. She got married and her
 husband worked for Bell Labs in America, and she went with him and
-obtained a job with IBM writing in [FORTRAN](/FORTRAN "FORTRAN").
+obtained a job with IBM writing in FORTRAN(FORTRAN "FORTRAN").
 
 ### Writing the Braille program for LEO
 
@@ -1511,7 +1511,7 @@ This was in the ‘60s?
 
 **Cooper:**
 
-Yes. \[Referring to notes on “Betty’s Early Education . . .”\] I had a
+Yes. \Referring to notes on “Betty’s Early Education . . .”\ I had a
 reason for writing this out, because my daughter’s been asking me about
 it. Between ‘61 and, say, ‘65, I was doing odd jobs for—amending
 programs for—LEO I or LEO II. I didn’t learn the language for the LEO
@@ -1591,7 +1591,7 @@ Well, except your children, I suppose\!
 
 **Cooper:**
 
-Oh, well, you don’t do it when they’re around\! \[laughs.\] If they’re
+Oh, well, you don’t do it when they’re around\! \laughs.\ If they’re
 at nursery school, or if they’re at school, that’s okay.
 
 ### Details on the Programming Sheets
@@ -1602,11 +1602,11 @@ What did the programming sheet look like?
 
 **Cooper:**
 
-\[Looking through papers:\] I don’t think I’ve got any. \[Beginning to
-draw:\] Well, it was just . . . I think we had . . .
+\Looking through papers:\ I don’t think I’ve got any. \[Beginning to
+draw:\ Well, it was just . . . I think we had . . .
 
-\[Draws something like this, where the x’s represent spaces for 0’s and
-1’s to be filled in:\]
+\Draws something like this, where the x’s represent spaces for 0’s and
+1’s to be filled in:\
 
 \
 No. on coding sheet Action Register or location specifier Size of number
@@ -1619,7 +1619,7 @@ It’s sort of a grid.
 
 **Cooper:**
 
-There were four columns. This \[second column\] was the action, which
+There were four columns. This \second column\ was the action, which
 was a number. I think 14 was “add”; 5 was “subtract.” We had no
 division; we had to use a mathematical subroutine. There was “multiply”
 or something; and “goto,” where there was a test. Well, the action
@@ -1642,14 +1642,14 @@ So that was sort of a check?
 
 **Cooper:**
 
-Here we are. \[Pulls out coding sheet.\] It would look something like
-that. So, that’s the action. And that’s the number of the coding \[in
-the first column\].
+Here we are. \Pulls out coding sheet.\ It would look something like
+that. So, that’s the action. And that’s the number of the coding \in
+the first column\.
 
 Really, it looked something like this: This last one was the size. I
 think at this side it numbered them down—the number of the order; we
 called them an “order.” And then this one will carry on. And this
-\[third column\] was “Where do you find it? What are you working on?”
+\third column\ was “Where do you find it? What are you working on?”
 You’re working on this number.
 
 **Abbate:**
@@ -1679,8 +1679,8 @@ Each line would have the action . . .
 **Cooper:**
 
 It could be that you only had the one going down, and this was—you wrote
-at the side what you were doing. Let me see what I’ve got \[in my notes.
-Reading orders:\]. “Replace the contents of the accumulator by the
+at the side what you were doing. Let me see what I’ve got \in my notes.
+Reading orders:\. “Replace the contents of the accumulator by the
 contents of the location specifier. Add the contents of the location
 specifier to the accumulator.” The accumulator would cooperate with the
 register. “Transfer contents to somewhere-or-other, and clear the
@@ -1715,7 +1715,7 @@ So it would know to read in twice as much data?
 
 Yes.
 
-\[Reading:\] “Programming rules: Write down the basic instructions. Test
+\Reading:\ “Programming rules: Write down the basic instructions. Test
 for END. Step on count.” Every time it had done one order, it
 automatically went to the next one—but if you did a test, it tells you
 where to go to. Such as this one, saying “Go back to there.” And you
@@ -1742,7 +1742,7 @@ you’re doing; that’s the coding. This is what you’re wanting to do;
 and this is what it is actually doing; and then you go from there up to
 there. We had lots of these printed.
 
-\[Reading from notes:\] “Accuracy.” We had to work out how much you
+\Reading from notes:\ “Accuracy.” We had to work out how much you
 lose, because you’re doing multiplying numbers and putting it back. I
 don’t know that I understood the accuracy that much. Computational
 accuracy: how to work out percentages.
@@ -1755,7 +1755,7 @@ You were losing accuracy because you were rounding it off?
 
 Yes: round-offs.
 
-\[Reading from notes:\] “Post-mortems.” Post-mortem is: “Has it worked?
+\Reading from notes:\ “Post-mortems.” Post-mortem is: “Has it worked?
 If it’s gone wrong, what have you done about it?”
 
 They printed these. They had a printing department, obviously, because
@@ -1773,7 +1773,7 @@ machine?
 Oh, the computer has a log, yes. It prints it up, and it was a great
 help in finding errors, if there are any.
 
-\[Looking at notes:\] We’ve got “Simple Circuitry” that we had a talk
+\Looking at notes:\ We’ve got “Simple Circuitry” that we had a talk
 on. They printed that, and we wrote down the notes: wavelengths and
 times.
 
@@ -1783,7 +1783,7 @@ Was that helpful?
 
 **Cooper:**
 
-Yes, I think it filled in background. \[Looking at circuit drawing:\] We
+Yes, I think it filled in background. \Looking at circuit drawing:\ We
 called these “flip-flops.”
 
 **Abbate:**
@@ -1804,8 +1804,8 @@ things. I’m amazed I’ve still got it\!
 A flow chart: here are some flow charts. I think later the test boxes
 became diamond shape, so you could see the test boxes. You see, that’s a
 test, so you’ve got a tick and a cross: you either go that way or that
-way. \[Looking at another symbol on the chart:\] That’s to re-read the
-card, I think. You had to do this \[flow-charting\] for the whole job.
+way. \Looking at another symbol on the chart:\ That’s to re-read the
+card, I think. You had to do this \flow-charting\ for the whole job.
 
 What’s this? This is the input-output chart: what goes in and what goes
 out.
@@ -1911,8 +1911,8 @@ Were you all physically in the same place?
 **Cooper:**
 
 No. They were in the operating room, mostly, and it had to be a fairly
-air-tight—no dust around, because that could affect the working \[of the
-computer\].
+air-tight—no dust around, because that could affect the working \of the
+computer\.
 
 **Abbate:**
 
@@ -1927,8 +1927,8 @@ I went to, I found that those girls had gone on to programming. So yes,
 they did move up\! They weren’t programming while I was there, but they
 were later.
 
-\[Looking at more notes:\] That was our model job \[from the training
-course\]. We had to write it, afterwards.
+\Looking at more notes:\ That was our model job \[from the training
+course\. We had to write it, afterwards.
 
 **Abbate:**
 
@@ -1975,7 +1975,7 @@ Oh, your parents had four children; you have two.
 
 **Cooper:**
 
-Yes, that’s right. Two’s enough\! \[laughs.\]
+Yes, that’s right. Two’s enough\! \laughs.\
 
 **Abbate:**
 
@@ -2018,7 +2018,7 @@ Do you think your children—did they sort of follow in your footsteps?
 Well, it must have had . . . They didn’t follow in my footsteps, no; but
 they are doing the same sort of work, and they know—Shirley certainly
 knows a lot more than I do about it; I think Geoff does too\!
-\[laughs.\] But then, the trend is computing, isn’t it? Shirley taught
+\laughs.\ But then, the trend is computing, isn’t it? Shirley taught
 herself C++ and Java when she was between jobs, she had been teaching at
 Open University summer schools before that, so she’s had some teaching
 experience, and I think Connect gave her a trial for a year. But I think
@@ -2057,11 +2057,11 @@ written and corrected, and I dabbled in all of them. You know, I had to
 read them, and find out what they did and how you could amend them; and
 if you weren’t careful, you amended something that you didn’t see a
 reason for it, and found out afterwards that there was a reason for it\!
-\[laughs.\] I think one costing program, I found that they hadn’t
+\laughs.\ I think one costing program, I found that they hadn’t
 written the last record of the run at all, so they’d lost it\!
-\[laughs.\] For years they hadn’t recorded the last costing item that
+\laughs.\ For years they hadn’t recorded the last costing item that
 they’d dealt with. I thought, “I’m sure this can’t be right\!”
-\[laughs.\] So you would go around asking, “What happened to this
+\laughs.\ So you would go around asking, “What happened to this
 record? Have you got a mention of it anywhere?” And we ended up by—they
 had the disk computer extensions connected to the computer; they weren’t
 PCs, and you could only operate them to find information from a file on
@@ -2098,7 +2098,7 @@ Were you the senior programmer at that point?
 
 **Cooper:**
 
-I did end up the senior programmer, yes. \[laughs.\] It was a small,
+I did end up the senior programmer, yes. \laughs.\ It was a small,
 contracting size of firm. I mean, when they started up, they had 400
 employees—that’s not very big, admittedly, but I think they ended up
 with a hundred when I left\! They weren’t doing very well. They did most
@@ -2130,7 +2130,7 @@ And how did you like using COBOL?
 **Cooper:**
 
 I found it easy\! Compared with User code, it’s much easier\!
-\[laughs.\] User code, or what is it? System 350\. Are you familiar with
+\laughs.\ User code, or what is it? System 350\. Are you familiar with
 it?
 
 **Abbate:**
@@ -2155,7 +2155,7 @@ add and subtract and all the rest of that clerical work, yes.
 And of course, my cost-accounting came in very useful. So I knew—I mean,
 I heard arguments: I’d hear two people talking about some system of what
 you can do with costing, and can you do this, that and the other? They’d
-turn to me and say, “Can we do that?” “No\!” \[laughs.\]
+turn to me and say, “Can we do that?” “No\!” \laughs.\
 
 **Abbate:**
 
@@ -2181,15 +2181,15 @@ Oh, so you retired.
 
 I was only 55 when I retired, but my husband Laurie was —I think he took
 an early retirement. He did research work for the Coal Board, and they
-were contracting and wanting \[to reduce staff\], so he got a “silver
+were contracting and wanting \to reduce staff\, so he got a “silver
 handshake.” That’s when we decided we didn’t want to live in the
 Midlands forever. Would we move back South? Well, houses cost too much.
-Where else would we like to live? And we found this house \[in
-Windemere\], a nice place to live. Laurie doesn’t like it when it rains
+Where else would we like to live? And we found this house \in
+Windemere\, a nice place to live. Laurie doesn’t like it when it rains
 and rains, but there are so many nice days in between\! We do our chores
 when it rains.
 
-\[Tea break. Recording pauses.\]
+\Tea break. Recording pauses.\
 
 ### Reflections on Working with Computers
 
@@ -2221,7 +2221,7 @@ They were all quite interesting. I think that the new programs.... When
 I was working at Bliss, we were translating or writing programs for a
 subsidiary of theirs in Scotland, and their accountants said to me,
 “Don’t you like carrying on with this subject afterwards?” And I
-said, “No, I like to start a new one\!” \[laughs.\] You’ve told me what
+said, “No, I like to start a new one\!” \laughs.\ You’ve told me what
 you want it to do, so let them get on with it and run it. I mean, he’s
 just using it, as you would in an office.
 
@@ -2242,7 +2242,7 @@ promotions, or pay . . .
 
 Well, I wasn’t really looking for promotion, once I was there. I mean, I
 could have taken over the computing department, but I wasn’t that
-interested\! \[laughs.\]
+interested\! \laughs.\
 
 **Abbate:**
 
@@ -2287,7 +2287,7 @@ So were you ever going in at night?
 
 **Cooper:**
 
-I never went in at night. \[laughs.\] I don’t know what my parents would
+I never went in at night. \laughs.\ I don’t know what my parents would
 have said at the time\! I don’t think they would have liked it.
 
 **Abbate:**
@@ -2382,7 +2382,7 @@ But you would read the trade magazines sometimes?
 
 Yes. I see one sometimes, if Jeff, my son, happens to have one. I think
 they have them where he’s working, but he doesn’t usually look at them\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -2403,7 +2403,7 @@ Well, it was just the senior staff there. I mean, we were all colleagues
 together. I suppose we were a little bit in awe of David Caminer, who
 was the computer programming manager. He was a bit abrupt at times. I
 seem to remember I reported to him on my Appreciation Course, but at the
-time I didn’t care, so it didn’t matter\! \[laughs.\] Probably it came
+time I didn’t care, so it didn’t matter\! \laughs.\ Probably it came
 over better\!
 
 **Abbate:**
@@ -2496,51 +2496,51 @@ All right. Well, thank you very much\!
 Okay.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Betty_Cooper&oldid=108264>"
+"<http:/ethw.org/index.php?title=Oral-History:Betty_Cooper&oldid=108264>"
 
-[Category](/Special:Categories "Special:Categories"):
+Category(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
 
 ## Contents
 
-* [1 About Betty Cooper](#About_Betty_Cooper)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Getting Involved in Computing at
-    Lyons](#Getting_Involved_in_Computing_at_Lyons)
-  * [4\.3 Working on the LEO I project](#Working_on_the_LEO_I_project)
-  * [4\.4 Working on the LEO II project](#Working_on_the_LEO_II_project)
-  * [4\.5 Reflections on the LEO I and II
-    projects](#Reflections_on_the_LEO_I_and_II_projects)
-  * [4\.6 Reflections on Women Programmers on the LEO I and II
-    Projects](#Reflections_on_Women_Programmers_on_the_LEO_I_and_II_Projects)
-  * [4\.7 Writing the Braille program for
-    LEO](#Writing_the_Braille_program_for_LEO)
-  * [4\.8 Details on the Programming
-    Sheets](#Details_on_the_Programming_Sheets)
-  * [4\.9 Problems with LEO, Circuits](#Problems_with_LEO.2C_Circuits)
-  * [4\.10 Family Life](#Family_Life)
-  * [4\.11 Working for Bliss Company](#Working_for_Bliss_Company)
-  * [4\.12 Using COBOL](#Using_COBOL)
-  * [4\.13 Reflections on Working with
-    Computers](#Reflections_on_Working_with_Computers)
-  * [4\.14 Reflections on Women in
-    Computing](#Reflections_on_Women_in_Computing)
+* 1 About Betty Cooper(#About_Betty_Cooper)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Getting Involved in Computing at
+    Lyons(#Getting_Involved_in_Computing_at_Lyons)
+  * 4\.3 Working on the LEO I project(#Working_on_the_LEO_I_project)
+  * 4\.4 Working on the LEO II project(#Working_on_the_LEO_II_project)
+  * 4\.5 Reflections on the LEO I and II
+    projects(#Reflections_on_the_LEO_I_and_II_projects)
+  * 4\.6 Reflections on Women Programmers on the LEO I and II
+    Projects(#Reflections_on_Women_Programmers_on_the_LEO_I_and_II_Projects)
+  * 4\.7 Writing the Braille program for
+    LEO(#Writing_the_Braille_program_for_LEO)
+  * 4\.8 Details on the Programming
+    Sheets(#Details_on_the_Programming_Sheets)
+  * 4\.9 Problems with LEO, Circuits(#Problems_with_LEO.2C_Circuits)
+  * 4\.10 Family Life(#Family_Life)
+  * 4\.11 Working for Bliss Company(#Working_for_Bliss_Company)
+  * 4\.12 Using COBOL(#Using_COBOL)
+  * 4\.13 Reflections on Working with
+    Computers(#Reflections_on_Working_with_Computers)
+  * 4\.14 Reflections on Women in
+    Computing(#Reflections_on_Women_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 
 * This page has been accessed 4,821 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

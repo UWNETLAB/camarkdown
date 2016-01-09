@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Mary_Coombs&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Mary_Coombs&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Mary_Coombs)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Mary_Coombs&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Mary_Coombs "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Mary_Coombs "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Mary_Coombs&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Mary_Coombs&oldid=108615 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Mary_Coombs&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Mary_Coombs)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Coombs)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Mary_Coombs&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Mary_Coombs&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Mary_Coombs)
+  
+  * Discussion(index.php?title=Oral-History_talk:Mary_Coombs&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Mary_Coombs "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Mary_Coombs "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Mary_Coombs&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Mary_Coombs&oldid=108615 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Mary_Coombs&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Mary_Coombs)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Coombs)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Mary Coombs
@@ -136,7 +136,7 @@ INTERVIEWER: Janet Abbate\
 DATE: 25 September 2001\
 PLACE: Coombs' home in High Wycombe, United Kingdom
 
-\[Notes courtesy of interviewer Janet Abbate\]
+\Notes courtesy of interviewer Janet Abbate\
 
 ### Background and Education
 
@@ -179,7 +179,7 @@ So you were teaching ...
 **Coombs:**
 
 I was teaching secondary school children English—because I was there to
-improve my French and their English. \[laughs\]
+improve my French and their English. \laughs\
 
 **Abbate:**
 
@@ -254,7 +254,7 @@ as far as he was concerned—that sort of thing. I wanted to teach five-
 to seven-year-olds, but to do that you went to a college of education,
 you didn’t go to a university first (that’s only a post-war development,
 really); and I was bright enough to go to university, so: “You will go
-to university, my girl\!” \[laughs\] That’s the sort of person he was.
+to university, my girl\!” \laughs\ That’s the sort of person he was.
 Otherwise, he was really a very nice man; he was very popular with his
 patients. He worked in industry, which is how I came to work for the
 firm that I did. He was a general practitioner when I was small, but he
@@ -284,7 +284,7 @@ there for seven or eight weeks, in the offices. When I came back from
 Switzerland: I’d had a holiday after term ended, and I’d come back, and
 there were no suitable teaching vacancies near home. My father wanted
 me, having been away for year, to live at home; and being a dutiful
-daughter, I said yes. \[laughs\] And so I went and got a temporary job,
+daughter, I said yes. \laughs\ And so I went and got a temporary job,
 back in the same office that I’d worked in the previous summer holidays.
 
 **Abbate:**
@@ -373,7 +373,7 @@ Had you ever seen a computer before?
 
 **Coombs:**
 
-I don’t think there were any to see, really\! \[laughs\]
+I don’t think there were any to see, really\! \laughs\
 
 **Abbate:**
 
@@ -452,7 +452,7 @@ Yes, I can get more of the dates.
 **Coombs:**
 
 You’ve got the *User-Driven Innovation* book, I presume, because there’s
-quite a lot in that.\[1\]
+quite a lot in that.\1\
 
 **Abbate:**
 
@@ -665,7 +665,7 @@ company.
 We worked in various different locations. The original LEO I was in the
 administration block at Cadby Hall, but LEO II was in the office block
 where I had worked in the Stats Office at the time when I first joined
-LEO. Then I worked up in the bureau at Hartree House; that was LEO 11/5
+LEO. Then I worked up in the bureau at Hartree House; that was LEO 115
 and Hartree House was the LEO name for that part of the Whiteley’s
 Building in Queensway that we rented.
 
@@ -677,7 +677,7 @@ whole room layout was changed around, so that the supervisors of the
 groups—which included me—were where he was going to walk—and when he
 came into the room, the only people he talked to were the people who
 were right where the supervisors would normally have been sitting\!
-\[both laugh\] So he went always to the most junior people to have a bit
+\both laugh\ So he went always to the most junior people to have a bit
 of conversation.
 
 **Abbate:**
@@ -798,7 +798,7 @@ Well, it’s easier in hindsight to know.
 
 **Coombs:**
 
-Yes\! \[laughs\]
+Yes\! \laughs\
 
 **Abbate:**
 
@@ -827,7 +827,7 @@ Really?
 
 **Coombs:**
 
-\[laughs\] Yes\! One of Steve Shirley’s lieutenants at FI (Now Dame
+\laughs\ Yes\! One of Steve Shirley’s lieutenants at FI (Now Dame
 Steve Shirley — she started Freelance Programmers quite early on, and
 really kickstarted the Careers from Home movement. I had long known of
 her existence because she lived relatively close to me and like me had a
@@ -871,7 +871,7 @@ did have the same opportunities for training and advancement at LEO?
 
 **Coombs:**
 
-“No” is the straight answer to that\! \[laughs\] There were two things.
+“No” is the straight answer to that\! \laughs\ There were two things.
 Management Trainees joined at Supervisory Grade, F1\. But different
 salary scales existed for each of the sexes. The net result of this is
 that when equal pay was introduced in the early 60s it was done by
@@ -885,7 +885,7 @@ form. The point was that Lyons was always a family firm. All the senior
 management were members of the Salmons or Glucksteins—all of whom had
 been trained from the very bottom; I mean, they’d had a really thorough
 training going up— but although there were graduates who were not only
-not family, but not Jewish \[who\] were directors of the company by the
+not family, but not Jewish \who\ were directors of the company by the
 time I joined it, there were singularly few in really senior positions.
 I mean, T. R. Thompson and J. R. M. Simmons were two examples that
 really stuck out as being people who had come in entirely through merit.
@@ -899,7 +899,7 @@ either the Salmon or the Gluckstein family—or the Joseph family, who
 were related, the third one. And, I think at a given point they changed
 their policy and thought they needed to be seen to be open; and my
 father had a senior position within the company himself, and I think
-that maybe I wasn’t too favored for that reason. \[pause\] Suddenly I’d
+that maybe I wasn’t too favored for that reason. \pause\ Suddenly I’d
 be sidetracked to help somebody else out that was in trouble; and I
 think I was one of those rather willing people who did what was expected
 of me, rather than pushing myself forward.
@@ -927,7 +927,7 @@ junior programmers; I don’t know of any of them going a long way. And of
 the ones in my generation, I can only think of the one who made
 management.
 
-\[RECORDING PAUSES\]
+\RECORDING PAUSES\
 
 ### Balancing Work and Family
 
@@ -979,7 +979,7 @@ So you could fit that in.
 
 **Coombs:**
 
-Yes. \[pause\] And if I’d had a chance of staying with Steve Shirley,
+Yes. \pause\ And if I’d had a chance of staying with Steve Shirley,
 then I would have gone on doing programming, I’m sure\!
 
 **Abbate:**
@@ -995,7 +995,7 @@ design project, which in the end fell through.
 
 **Abbate:**
 
-She had pretty much just started her business \[at that time\].
+She had pretty much just started her business \at that time\.
 
 **Coombs:**
 
@@ -1027,13 +1027,13 @@ with, so I then went into teaching\!
 
 **Abbate:**
 
-\[laughs\]
+\laughs\
 
 **Coombs:**
 
 He’s quite right, actually. If I’ve got all the time in the world, I’d
 do absolutely nothing with it, because I am frightened of having nothing
-left to do\! \[laughs\] Do you know what I mean?
+left to do\! \laughs\ Do you know what I mean?
 
 **Abbate:**
 
@@ -1081,7 +1081,7 @@ Wow. Those are completely different.
 
 **Coombs:**
 
-Yes\! \[laughs\] Completely different, yes\!
+Yes\! \laughs\ Completely different, yes\!
 
 **Abbate:**
 
@@ -1270,10 +1270,10 @@ terms of management, or encouraging you to go on in computing?
 
 Oh\! Well, Leo Fantl was always very encouraging. But of course, he went
 to South Africa; I can’t remember when. My immediate mentor, when I
-first joined LEO, was John Grover. \[pause\]
+first joined LEO, was John Grover. \pause\
 
 No, I can’t say particularly that I did. I was always very busy. Our
-only breaks, really, were to eat. \[laughs\] I found one of our busiest
+only breaks, really, were to eat. \laughs\ I found one of our busiest
 times, of course, was when we were up in London, in Hartree House. But I
 seem to remember it as a lovely fine summer where we spent a lot of time
 having lunch picnics in Kensington Gardens which were only a five-
@@ -1349,7 +1349,7 @@ about eight years in the States, and had an unsuccessful marriage, and
 never done anything more practical than work in a bar or waitressing or
 something like that, she suddenly upped and said, “Oh, I’m going on an
 Associate Degree course, Mum\!” “Oh?” I said, “What are you doing?”
-“Computer-aided design\!” \[both laugh\] And she’s steering towards
+“Computer-aided design\!” \both laugh\ And she’s steering towards
 the engineering side, or the architecture side, and not to any of the
 areas that I would have thought. One more module to do, and she just got
 herself a part-time job two days a week to go with the course, and
@@ -1382,7 +1382,7 @@ software we had when I was working enabled me to do mini bits of
 programming quite easily without knowing a language.
 
 I don’t know: I seem to be busier since I retired; I don’t know where
-I’d find time to work\! \[laughs\] But the one thing I would quite
+I’d find time to work\! \laughs\ But the one thing I would quite
 like to know at the moment is how to do a few bits on the computer that
 don’t involve using the software I’ve got. I’m on the net and finding it
 a great help in keeping up with my correspondence, and I have a faster
@@ -1450,7 +1450,7 @@ Do you think it’s changed so fundamentally that there’s not a continuum?
 Well, I think I’m not the right person to answer that question, because
 my years in computing ended—to all intents and purposes—at the beginning
 of the ‘70s. And because for me there’s not been a continuum, it’s
-difficult to see whether there is one. \[laughs\]
+difficult to see whether there is one. \laughs\
 
 **Abbate:**
 
@@ -1464,7 +1464,7 @@ good programming practice in the ‘50s, just because all that happens
 today is: they develop larger and larger amounts of hard disk, and
 better and better backup facilities\! So it’s not a bit the same.
 
-\[DOOR BELL RINGS; RECORDING PAUSES\]
+\DOOR BELL RINGS; RECORDING PAUSES\
 
 **Abbate:**
 
@@ -1485,7 +1485,7 @@ approximate a division. And now, you boot up your computer, and it takes
 forever to boot up. Mine’s only a Pentium II; my husband’s boots up a
 bit quicker, but you can hear it chugging over, doing all these
 instructions, and you think, well, maybe if you were doing this yourself
-in machine code, it would be an awful lot quicker\! \[laughs\] Because
+in machine code, it would be an awful lot quicker\! \laughs\ Because
 this is really the lack: you can do so much more sophisticated things
 with computers, but at a very expensive price. So it all depends on
 where the priorities are.
@@ -1559,55 +1559,55 @@ It’s a pleasure.
 Business Computer (London: McGraw Hill, 1996\).
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Mary_Coombs&oldid=108615>"
+"<http:/ethw.org/index.php?title=Oral-History:Mary_Coombs&oldid=108615>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Computer
-  applications](/Category:Computer_applications "Category:Computer applications")
-* [Programming](/Category:Programming "Category:Programming")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Computer
+  applications(Category:Computer_applications "Category:Computer applications")
+* Programming(Category:Programming "Category:Programming")
 
 ## Contents
 
-* [1 About Mary Coombs](#About_Mary_Coombs)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Getting a Job at J. Lyons &
-    Co.](#Getting_a_Job_at_J._Lyons_.26_Co.)
-  * [4\.3 Joining the LEO Department](#Joining_the_LEO_Department)
-  * [4\.4 Working on the LEO Computers](#Working_on_the_LEO_Computers)
-  * [4\.5 Working for the Training
-    Department](#Working_for_the_Training_Department)
-  * [4\.6 On Being a Woman on the Programming
-    Team](#On_Being_a_Woman_on_the_Programming_Team)
-  * [4\.7 Balancing Work and Family](#Balancing_Work_and_Family)
-  * [4\.8 Late Work Experience outside of
-    Computing](#Late_Work_Experience_outside_of_Computing)
-  * [4\.9 Using Personal Computers](#Using_Personal_Computers)
-  * [4\.10 On Computing Skills](#On_Computing_Skills)
-  * [4\.11 On the Work Environment in the LEO
-    Department](#On_the_Work_Environment_in_the_LEO_Department)
-  * [4\.12 On the Status of Women in
-    Computing](#On_the_Status_of_Women_in_Computing)
-  * [4\.13 On the Rewards of a Career in
-    Computing](#On_the_Rewards_of_a_Career_in_Computing)
-  * [4\.14 On Changes in Computing](#On_Changes_in_Computing)
-  * [4\.15 Notes](#Notes)
+* 1 About Mary Coombs(#About_Mary_Coombs)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Getting a Job at J. Lyons &
+    Co.(#Getting_a_Job_at_J._Lyons_.26_Co.)
+  * 4\.3 Joining the LEO Department(#Joining_the_LEO_Department)
+  * 4\.4 Working on the LEO Computers(#Working_on_the_LEO_Computers)
+  * 4\.5 Working for the Training
+    Department(#Working_for_the_Training_Department)
+  * 4\.6 On Being a Woman on the Programming
+    Team(#On_Being_a_Woman_on_the_Programming_Team)
+  * 4\.7 Balancing Work and Family(#Balancing_Work_and_Family)
+  * 4\.8 Late Work Experience outside of
+    Computing(#Late_Work_Experience_outside_of_Computing)
+  * 4\.9 Using Personal Computers(#Using_Personal_Computers)
+  * 4\.10 On Computing Skills(#On_Computing_Skills)
+  * 4\.11 On the Work Environment in the LEO
+    Department(#On_the_Work_Environment_in_the_LEO_Department)
+  * 4\.12 On the Status of Women in
+    Computing(#On_the_Status_of_Women_in_Computing)
+  * 4\.13 On the Rewards of a Career in
+    Computing(#On_the_Rewards_of_a_Career_in_Computing)
+  * 4\.14 On Changes in Computing(#On_Changes_in_Computing)
+  * 4\.15 Notes(#Notes)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:47\.
 
 * This page has been accessed 4,228 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

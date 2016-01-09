@@ -1,84 +1,84 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Jean_Bartik&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Jean_Bartik&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Jean_Bartik)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Jean_Bartik&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Jean_Bartik "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Jean_Bartik "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Jean_Bartik&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Jean_Bartik&oldid=108405 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Jean_Bartik&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Jean_Bartik)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Bartik)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Jean_Bartik&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Jean_Bartik&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Jean_Bartik)
+  
+  * Discussion(index.php?title=Oral-History_talk:Jean_Bartik&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Jean_Bartik "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Jean_Bartik "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Jean_Bartik&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Jean_Bartik&oldid=108405 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Jean_Bartik&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Jean_Bartik)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJean+Bartik)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Jean Bartik
 
 ## About Jean Bartik
 
-[Jean Bartik](/Jean_Bartik "Jean Bartik") was one of the original women
-programmers of the [ENIAC](/ENIAC "ENIAC") computer. Bartik's work, in
+Jean Bartik(Jean_Bartik "Jean Bartik") was one of the original women
+programmers of the ENIAC(ENIAC "ENIAC") computer. Bartik's work, in
 conjunction with a group of women programmers, would completely change
 the face of computing. Bartik was a pioneer in the field of computer
 programming and as a woman, she faced and overcame several hurdles in
@@ -91,7 +91,7 @@ the ENIAC project, forming part of a crucial group of women programmers.
 
 After her work on the ENIAC, Bartik continued to work on computing.
 Joining John Presper Eckert and John W. Mauchly, she worked on the
-[UNIVAC](/UNIVAC "UNIVAC") computer. Shortly after the UNIVAC, Bartik
+UNIVAC(UNIVAC "UNIVAC") computer. Shortly after the UNIVAC, Bartik
 left the computing industry to begin a family and resumed professional
 work in the computing field in several years later. After her layoff,
 Bartik decided to go into real estate, where she remained for the
@@ -163,7 +163,7 @@ forty miles from home. We did have a car, but when the roads were muddy
 or snowy we used horses. My father was a school teacher, and he always
 used to have a big, long-legged riding horse; they were always “King” or
 “Rex” or something like that. And of course we had no tractors or
-anything like that, so everything was horse power\! \[laughs.\] I have
+anything like that, so everything was horse power\! \laughs.\ I have
 three brothers and three sisters, and we had a pony who was half
 Shetland and half Pacer, so I grew up on a horse.
 
@@ -187,7 +187,7 @@ and a school teacher, said to me one day, “Can you drive a car?” I said
 he said, “Okay\! Get in that car and back it up\!” So I got in the car,
 and I put it in reverse, and I killed the engine—man, I did everything
 in the world\!—but finally I got it backed up. And I got out of the car
-and he said, “Well, I see you can drive\!” \[laughs.\] So the next day,
+and he said, “Well, I see you can drive\!” \laughs.\ So the next day,
 I drove the car to meet the bus. They didn’t let me drive out on the
 highway, just on the back roads, the country roads, because I was only
 fourteen.
@@ -198,9 +198,9 @@ went to see my grandmother every day; I rode my pony over. We were so
 poor that we couldn’t afford a subscription to a newspaper, but she took
 the Saint Joseph Newspress, and we used to go down every day and pick
 the newspaper up after she’d read it. I’m sure she hadn’t read it all,
-most times \[laughs\], but she gave it to us anyway. She took the Kansas
+most times \laughs\, but she gave it to us anyway. She took the Kansas
 City Star, which was a weekly paper, and she said, “Well, if it’s
-important, it’ll be in the weekly newspaper.” \[laughs.\] “And I read
+important, it’ll be in the weekly newspaper.” \laughs.\ “And I read
 that thoroughly\!” she said.
 
 We lived in a little four-room house: we had a boys’ room and a girls’
@@ -212,7 +212,7 @@ with raking and plowing and all that kind of stuff. We, of course, had
 cows to milk, and things like that, so we always had chores to do, and
 animals to feed, and things like that. My kids think it’s bliss—the
 Waltons or something, in Missouri—but believe me, it wasn’t the
-Waltons\! \[laughs.\]
+Waltons\! \laughs.\
 
 **Abbate:**
 
@@ -221,7 +221,7 @@ Did you have an idea about what you wanted to do when you grew up?
 **Bartik:**
 
 Yes. I shouldn’t say this, but: Get the hell out of Missouri\!
-\[laughs.\] No; well, I grew up with seeing these farm women and seeing
+\laughs.\ No; well, I grew up with seeing these farm women and seeing
 these kids—seeing these farm women with these gross husbands, farm
 husbands, and they were saying, “Oh, well, my husband won’t let me do
 such-and-such,” and little kids hanging on their skirts. So I took off,
@@ -333,7 +333,7 @@ And you switched to math thinking that you would teach math?
 
 **Bartik:**
 
-No. I’d get a degree and then I would do something else\! \[laughs.\] I
+No. I’d get a degree and then I would do something else\! \laughs.\ I
 didn’t know what I was going to do, but I wasn’t going to teach.
 
 **Abbate:**
@@ -415,7 +415,7 @@ how you trust me, and God, I’ll do anything for you. So my mother never
 bawled me out. She always worked in the opposite direction.
 
 Anyway, I did pass the biology course. But later, when I was working on
-the [UNIVAC](/UNIVAC "UNIVAC"), I took a computer course at Penn, and
+the UNIVAC(UNIVAC "UNIVAC"), I took a computer course at Penn, and
 this teacher, for some reason or another, tried to compare computers to
 semantics, and he brought out the Count Korzybski, who is a semanticist
 and wrote a book called Science and Sanity. Count Korzybski said that
@@ -429,11 +429,11 @@ were in common, then you’d see a horse and you’d say, “Hmm\! Cripes,
 this horse is a lot more than this definition\!” Anyway, he said people
 became confused because their words were either underdefined or
 overdefined—and all of sudden it hit me: Horsfal had read Count
-Korzybski, and that’s what he was trying to teach us\! \[laughs.\]
+Korzybski, and that’s what he was trying to teach us\! \laughs.\
 
 **Abbate:**
 
-To keep you from going insane\! \[both laugh.\]
+To keep you from going insane\! \both laugh.\
 
 **Bartik:**
 
@@ -459,7 +459,7 @@ part of biology came up, he said, “I know you have lots of questions,
 and you’re probably too embarrassed to ask them. I’ll put a box outside
 my office, and any question you have about sex, just put the question in
 the box and I will answer the questions.” Well\! This was the first time
-I’d ever heard of anything like this\! \[laughs.\] There was a question
+I’d ever heard of anything like this\! \laughs.\ There was a question
 of “Why not sex during menstruation?” and “Why not sex every time you go
 out with someone?”—I mean, there were all kinds of sexual questions. And
 you can imagine what college kids said\! He stood up there—I’ll never
@@ -499,7 +499,7 @@ kids to high school. Most of the farm kids didn’t even go to high
 school. I had a girl in my class who was every bit as bright as I am in
 everything but math, who didn’t even go to high school. But with our
 family—I mean, times were hard\! There was no money. So my father
-\[voice chokes\]—they burned wood in the stove, and my father, on
+\voice chokes\—they burned wood in the stove, and my father, on
 Saturday, would have a load of wood to take nine miles with horses\! I
 mean, he taught school, and he worked, and chopped up that wood and took
 it down there. To this day I just think, “Oh my God\! Would I ever have
@@ -527,7 +527,7 @@ me\!” He said, “He worked with me,” and he said he’d called him “honey
 dear”—and my father did; I mean, he used a lot of endearing phrases. And
 so he said, “Imagine this: here I am this big fat kid; my own father was
 dead; I’d never been around men very much in my life, and there I am
-working with this guy, and he’s calling me ‘honey dear’\!” \[laughs.\]
+working with this guy, and he’s calling me ‘honey dear’\!” \laughs.\
 But people talked to Dad, young people, because he was a school teacher;
 and so many of them, when they got in trouble or anything, would come
 talk to him. Plus, he was the representative of the community when they
@@ -577,7 +577,7 @@ think he was in a race, and he would take off like a rocket\! So we were
 riding toward my grandmother’s house, and we were just walking along,
 but of course King had big long legs and Beauty was a pony, so they kept
 dropping behind. They’d kick Beauty in the ribs, and they came running
-up behind King. He took off like a rocket. \[laughs.\] I just saw this
+up behind King. He took off like a rocket. \laughs.\ I just saw this
 place; I was back there where this happened. There was a little hill,
 and at the top of the hill there was a cemetery to the left, and then
 there was a big long hill. At the bottom of the hill, there were two
@@ -607,10 +607,10 @@ summer I went to Kansas City and I worked in a defense plant. I did
 silver plating of a gear that fit behind the propeller of a Pratt and
 Whitney airplane engine.
 
-\[recording pauses\]
+\recording pauses\
 
-\[Bartnik is showing Abbate various photos of her family. The first
-shows Bartik in a softball uniform.\]
+\Bartnik is showing Abbate various photos of her family. The first
+shows Bartik in a softball uniform.\
 
 **Bartik:**
 
@@ -618,7 +618,7 @@ When I played softball, the merchants in town would sponsor us. I was
 always sponsored by my brother-in-law, who had a feed and seed store. My
 uniform read “Alldredge Feed and Seed” across the back.
 
-\[another photo:\] Here’s my father, with two of his grandchildren.
+\another photo:\ Here’s my father, with two of his grandchildren.
 
 **Abbate:**
 
@@ -626,10 +626,10 @@ He looks like you.
 
 **Bartik:**
 
-\[another photo:\] That’s my mother, when she was in her nineties. She
+\another photo:\ That’s my mother, when she was in her nineties. She
 lived to be almost a hundred and two. She was a fabulous psychologist\!
 
-\[another photo:\] There’s another one when we wore short pants.
+\another photo:\ There’s another one when we wore short pants.
 
 **Abbate:**
 
@@ -658,17 +658,17 @@ Oh, yes, I loved that film\! In fact, that’s what Kathryn Kleiman is
 hoping, that somebody will make a movie of the ENIAC women. I don’t know
 if they ever will.
 
-\[another photo:\] This is a terrible picture . . . That’s my mother and
+\another photo:\ This is a terrible picture . . . That’s my mother and
 father.
 
 The reason all these things are out is because I was taking all of these
 pictures back for the reunion. While we were all there, we were looking
 at all these old pictures.
 
-\[another photo:\] Those were three of my brothers and my mother—I think
+\another photo:\ Those were three of my brothers and my mother—I think
 that was her ninetieth birthday. We had a big party for her.
 
-\[more photos:\] These are all the Jennings family. We go back in the
+\more photos:\ These are all the Jennings family. We go back in the
 Jennings clan; they’ve traced it back to the 1500s in England. They were
 in North Carolina and Virginia, and then they came to Kentucky. They
 were in Kentucky, but they really were Northern sympathizers, and the
@@ -691,7 +691,7 @@ All right; but we were talking about how you got out of Missouri.
 Yes. So, I was in Kansas City. During the war, although the college used
 to be on the quarter system, they went on the semester system. In the
 fall they had a short term called “intersession”—but everybody else
-called it “intercourse.” \[laughs\] I needed twenty-four credits to
+called it “intercourse.” \laughs\ I needed twenty-four credits to
 graduate, and most of them were education courses, which I considered
 gut courses. I figured I could graduate in one semester. I actually
 worked during the intersession and didn’t come back until about October.
@@ -714,7 +714,7 @@ courses. One was Colbert, who had taught my father, the summer he was in
 school many years before\! The other one was named Helwig. Helwig taught
 modern geometry, and Colbert taught theory of numbers. That’s the first
 time I had heard of the binary number system, when I was a senior in
-college. \[laughs.\] I’d never even thought about that kind of stuff.
+college. \laughs.\ I’d never even thought about that kind of stuff.
 Now I understand they teach it in first grade, but I’d never even
 thought about it.
 
@@ -752,7 +752,7 @@ they needed math teachers. So I sat there, and finally I got a telegram,
 saying, “Come as soon as possible\!” I was on the Wabash out of
 Stanberry the next night\! I was hired as a computer.
 
-\[Looking through papers:\] Somewhere I have that paper . . .
+\Looking through papers:\ Somewhere I have that paper . . .
 
 **Abbate:**
 
@@ -769,7 +769,7 @@ I do have it.
 
 **Bartik:**
 
-\[Pulls out a copy of ENIAC by Scott McCartney .\] Have you seen this
+\Pulls out a copy of ENIAC by Scott McCartney .\ Have you seen this
 book, by the way?
 
 **Abbate:**
@@ -790,10 +790,10 @@ But you think this is fairly accurate, this ENIAC book?
 Well, it’s not accurate about the BINAC; and the other thing that pisses
 me off about him . . .
 
-\[Pulls out pictures:\] That’s the ENIAC. This is the BINAC; that was a
+\Pulls out pictures:\ That’s the ENIAC. This is the BINAC; that was a
 successor.
 
-Here’s a picture of Pres Eckert \[J. Presper Eckert\]. And John Mauchly
+Here’s a picture of Pres Eckert \J. Presper Eckert\. And John Mauchly
 gave me away when I got married\!
 
 **Abbate:**
@@ -823,7 +823,7 @@ sub-professionals up to then.
 
 **Abbate:**
 
-This was January 1946\. \[Looking at document.\] So you started out at
+This was January 1946\. \Looking at document.\ So you started out at
 $2,000 a year in March ‘45 . . .
 
 **Bartik:**
@@ -845,7 +845,7 @@ And then they were going to promote you to $2,980 per year from a
 
 **Bartik:**
 
-Yes. \[Shows letter confirming her initial job offer.\]
+Yes. \Shows letter confirming her initial job offer.\
 
 **Abbate:**
 
@@ -874,9 +874,9 @@ Journal. Here’s a copy. There were two of them, on two succeeding weeks.
 
 **Bartik:**
 
-Now, I’m curious if your friends \[at IBM\] didn’t talk about [Betty
-Holberton](/Betty_Holberton "Betty Holberton"), Betty Snyder Holberton,
-because she was very instrumental in [FORTRAN](/FORTRAN "FORTRAN"). And
+Now, I’m curious if your friends \at IBM\ didn’t talk about [Betty
+Holberton(Betty_Holberton "Betty Holberton"), Betty Snyder Holberton,
+because she was very instrumental in FORTRAN(FORTRAN "FORTRAN"). And
 also COBOL—which Grace Hopper never gave her credit for, but she was\!
 
 **Abbate:**
@@ -888,7 +888,7 @@ other people have.
 
 Yes. Well, Grace did say that Betty was the greatest programmer she ever
 met. Betty said, yeah, that’s because she found there was a mistake in
-Grace’s program that Grace couldn’t find\! \[laughs.\] She didn’t take
+Grace’s program that Grace couldn’t find\! \laughs.\ She didn’t take
 it too seriously.
 
 But Betty continued her career, you know. She had a long, long career,
@@ -909,7 +909,7 @@ to her, “Betty, it couldn’t have been, because, they asked us just
 before the demonstration\!” It’s a shame, but her memory’s not reliable
 about what happened. I mean, somewhere she said, “Oh, we were just so
 tired from lifting those trays, and doing those cables.” Well, that was
-ridiculous\! \[laughs.\] I mean, they were little trays, and you’d set
+ridiculous\! \laughs.\ I mean, they were little trays, and you’d set
 them up once, and maybe it’d take you five minutes\! Nobody was
 exhausted from lifting those trays. I mean, it was very ridiculous\! But
 anyway, that’s why it’s a shame that the story wasn’t told sooner,
@@ -965,7 +965,7 @@ colleges to Philadelphia, and we had run around together and everything,
 and three of them were living in a crowded apartment, so one of them was
 delighted to take over my apartment while I was gone. So there I was.
 Monday morning, I jumped on the train, and they were all saying, “Where
-did she come from?” \[laughs.\] They didn’t even know me; I hadn’t been
+did she come from?” \laughs.\ They didn’t even know me; I hadn’t been
 there very long\! “God, where did they get her?”
 
 **Abbate:**
@@ -985,7 +985,7 @@ Why were you so eager to go?
 
 It was something new\! I mean, I didn’t know what it was, but I knew
 that it was boring sitting there and pounding the calculator, and
-\[this\] was something new. And I always believed that I could do
+\this\ was something new. And I always believed that I could do
 anything as well as anybody else, if I were on an even footing.
 Basically, from my career point of view, I thought, “Geez, I’m never
 going to get anywhere. They’ve been doing this for four or five years\!
@@ -1003,7 +1003,7 @@ show her New York\!” Because I couldn’t wait\! I mean, I couldn’t
 imagine people living here and never going to New York or Washington or
 anyplace like that. Well, I couldn’t wait, because I’d read all these
 books, and I had all these fantasies about what I would do. I would eat
-lobster—you know, I’d never even seen a lobster in my life\! \[laughs.\]
+lobster—you know, I’d never even seen a lobster in my life\! \laughs.\
 I mean, all of these things that I’d read in books about how people ate
 lobsters. Anyway, Ruth took me to New York, and it was really a fabulous
 sight to come in on the train and to see the Empire State Building and
@@ -1011,14 +1011,14 @@ the skyline of New York for the first time. We came in, and I had a
 fantasy of putting my foot on the brass rail and having a drink, so we
 went right from the train and she took me over to the Brass Rail
 Restaurant, and I put my foot on the rail and sat there and had a
-drink\! \[laughs.\] And then we went to Radio City Music Hall to see the
+drink\! \laughs.\ And then we went to Radio City Music Hall to see the
 show, and to see a movie, and she was leaning over in her seat watching
-me when that stage came up \[laughs\]—she expected me to flip out—and my
+me when that stage came up \laughs\—she expected me to flip out—and my
 eyes I guess were pretty big, as I saw that. So then we got on the
 subway—and the New York subway, of course, I’d heard about all my
 life—and rode for an hour to Far Rockaway. You can’t believe that
 people say they live in New York and then get on the subway and ride for
-an hour\! \[laughs.\] But anyway, we went to Far Rockaway; that’s where
+an hour\! \laughs.\ But anyway, we went to Far Rockaway; that’s where
 her parents lived, so we stayed there for the weekend. That was
 fabulous. And then Marlyn said, “Well, you got to show her New York; I
 get to show her Washington\!” So she and I went down to Washington one
@@ -1033,7 +1033,7 @@ relatives anywhere. Of course, we worked six days a week, so you were
 only off one day; but they normally went home. So Kay invited me one
 weekend with her family. Well, when she got there she began to speak
 with a Gaelic accent; I couldn’t understand a word anybody said\!
-\[laughs.\] It was really very funny. She had a bunch of brothers and
+\laughs.\ It was really very funny. She had a bunch of brothers and
 sisters. In fact, she was born in Ireland. Her father came here and was
 a stonemason apprentice with John B. Kelly—Grace Kelly’s father. He was
 here, I guess, for four years, and then he went home and had some land,
@@ -1043,7 +1043,7 @@ I were there, we went to see the house; it was still in the family. They
 were there, and he was very active in the I.R.A.—and John B. Kelly also
 was very interested in Ireland and raised a lot of money for the
 rebellion, so one of the things that I think that Kay’s father did was
-to take money back \[to Ireland\] that they had raised through John B.
+to take money back \to Ireland\ that they had raised through John B.
 Kelly. So he was there and farming, and they blew up a bridge one night
 (or one day), and all the others ran away and hid, but he came home
 because his wife was having a baby—it turned out to be Kay. So he came
@@ -1080,7 +1080,7 @@ were sitting there, trying to figure out how the accumulator worked, and
 this man walked in the classroom. He looked all around at the ceiling,
 and we didn’t know who he was. He said, “Well, I was just checking to
 see if the ceiling was coming down in here.” And then he said, “I’m John
-Mauchly.” We said, “Oh my God, are we glad to meet you\!” \[laughs.\]
+Mauchly.” We said, “Oh my God, are we glad to meet you\!” \laughs.\
 We’d never met him before. We said, “Oh, boy, are we hung up on this
 accumulator\! We can’t figure out how it works.” So he came over and
 helped us figure it out. He said, “Well, look, my office is right next
@@ -1144,7 +1144,7 @@ And then the program trays were like the program counter, except we
 didn’t have a program counter. You would do an instruction, and you
 had this switch on the machine where you would tell it what to do, but
 you had a program input and a program output. So now let’s suppose you
-had a signal, A-1, and you want two accumulators \[to add\]—A to add to
+had a signal, A-1, and you want two accumulators \to add\—A to add to
 B and C to add to D: then you would use the same program signal to
 signal them all, and you had this tray that went around—it was called a
 “program tray”—and we labeled each of these little outlets, and it was
@@ -1168,11 +1168,11 @@ output to stimulate the operations. It’s very similar to a program
 counter today. It’s like conditional transfer. This master programmer
 acted as a conditional transfer, is what it did.
 
-\[interrupted by sound of fire alarm.\]
+\interrupted by sound of fire alarm.\
 
 That’s a fire alarm, but these buildings have cement walls and
 everything, so nobody pays any attention until the firemen actually come
-and knock on your door\! \[laughs.\]
+and knock on your door\! \laughs.\
 
 Anyway, it’s all very logical. And once you got the hang of how these
 things were going, by the way, you could go to the next unit and the
@@ -1180,7 +1180,7 @@ same kind of logic—I mean it was different in its details, but once you
 got this basic structure of how this machine was going to work, then it
 was just a question of filling in how these individual units fit in this
 whole structure. It was an interesting machine. It had a square
-rooter\!—which no machine today has \[laughs\]; they do square root by
+rooter\!—which no machine today has \laughs\; they do square root by
 subroutines. But this machine had a multiplier, and a divider, and a
 square rooter. To multiply, it was a very interesting multiplication: it
 was a function table. You sent, as your arguments in, let’s say 7 times
@@ -1190,7 +1190,7 @@ accumulator and the units partial product into another. Once all the
 partial products had been collected, the two partial products
 accumulators were added together to get the final product.
 
-\[DISC 2\]
+\DISC 2\
 
 **Abbate:**
 
@@ -1221,7 +1221,7 @@ So it was robust.
 
 **Bartik:**
 
-Robust? \[laughs.\] Well, I guess you could say that\! It was robust,
+Robust? \laughs.\ Well, I guess you could say that\! It was robust,
 but it was clever, and nobody thought it would work. But Pres said, “If
 we’re careful, it will work.” He was a brilliant man. They were so much
 fun to work with\! You can’t imagine.
@@ -1237,7 +1237,7 @@ about him, and then afterward I worked for Pres, and when I worked for
 Pres, I was crazy about him\! They were so honest. They were good men.
 And Pres worked constantly, and neither one of them were concerned with
 the women issue. They were problem-oriented, so that I don’t think that
-they worried one iota about whether we were men or women\! \[laughs.\]
+they worried one iota about whether we were men or women\! \laughs.\
 It was, “Can you do the problem, or can you not do the problem?” And
 Pres—I mean, he was so focused that I think a train could have run into
 him. (I used to be focused too, but I’ve lost a lot of it.) When he was
@@ -1251,12 +1251,12 @@ him questions, saying “I don’t understand; I don’t understand, Pres”; he
 would say, “Don’t worry about it. You don’t have to have it for the rest
 of this.” But I never lied to him: never said “uh-huh”—like people say
 something to you and then you say “uh-huh,” and you have no idea what
-they’re talking about\! \[laughs\]. But I never did that with him,
+they’re talking about\! \laughs\. But I never did that with him,
 because he would remember\! He would remember that you implied you knew
 something, and you didn’t, because he had such a fabulous memory. But
 both of them were fabulous teachers.
 
-\[recording pauses\]
+\recording pauses\
 
 \
 
@@ -1318,17 +1318,17 @@ doing that. Betty and I were the workhorses—I mean, we just plodded
 along and kept going; and then Marlyn and Ruth did this trajectory. So
 we were all busily working away, and we got along fabulously.
 
-The later person that came on board was [Fran
-\[Bilas\]](/Frances_Spence "Frances Spence"), who was the sixth one.
-Now, she ran the differential analyzer \[with Kay\] during the war, and
+The later person that came on board was Fran
+\Bilas\](Frances_Spence "Frances Spence"), who was the sixth one.
+Now, she ran the differential analyzer \with Kay\ during the war, and
 then Kay had left, so when we came back to Philadelphia, then Fran
 joined the group. Fran, of course, had not been in the course for the
 punch-card equipment, and as far as I know, Fran never programmed. Nick
 Metropolis and Stan Frankel from Los Alamos came to put a problem on the
 machine, and so Fran and Kay did a lot of the operating of the machine.
 (Betty and I never did that, because we were still busily working on
-this trajectory.) And [Johnny von
-Neumann](/John_von_Neumann "John von Neumann") used to come down; they’d
+this trajectory.) And Johnny von
+Neumann(John_von_Neumann "John von Neumann") used to come down; they’d
 have lunch with him; because he was the one that was the instigator, I
 guess, of this Los Alamos program.
 
@@ -1393,7 +1393,7 @@ And you were just working out stuff on paper.
 
 That’s right. We never saw it. So then when they came, we all went down
 to the ENIAC room to set this problem up—and Herman Goldstine was
-sitting there like the director of an orchestra\! \[laughs.\] “Hey,
+sitting there like the director of an orchestra\! \laughs.\ “Hey,
 switch 1 on accumulator 1: set it to alpha\! Input from program line
 A-1\! Output to A-2\!” Et cetera. And we were standing all around all
 these units doing the work, and it was really ridiculous, when you get
@@ -1433,14 +1433,14 @@ actually he evaluated us. The Army Ordnance had him evaluate and give
 them recommendations on who they should have running these things.
 Everybody used to say, “What you need are Numerical Analysts.” And
 they’d say, “What’s a Numerical Analyst?” “Well, we don’t know, but
-Douglas Hartree is one\!” \[laughs.\] He was as cute as a button\! He
+Douglas Hartree is one\!” \laughs.\ He was as cute as a button\! He
 worked with Kay on one of his problems; she worked with him to teach him
 how to program the ENIAC, and also they ran the problem. We were down at
 Aberdeen for the 50th Anniversary, and they’re still working on the same
-problem\! \[laughs\]—which she found very interesting. Anyway, Douglas
+problem\! \laughs\—which she found very interesting. Anyway, Douglas
 Hartree: We loved him. We used to go out to dinner with him. At that
 time in England, there were food shortages, and rationing, and all this
-kind of stuff—so he liked to come over here to eat\! \[both laugh.\] In
+kind of stuff—so he liked to come over here to eat\! \both laugh.\ In
 fact, he suggested that some of us might like to . . . They
 built—Maurice Wilkes at Cambridge built—I’m trying to think . . .
 
@@ -1452,7 +1452,7 @@ EDSAC?
 
 EDSAC\! Okay, I keep forgetting which of these names belong to which.
 Anyway, when we were in England in ‘51, we went to see him, and he took
-us all through Cambridge, and \[the EDSAC\] was really a sight to
+us all through Cambridge, and \the EDSAC\ was really a sight to
 behold. They had wire strung all everywhere, and they had little covered
 bridges to walk over it. The ENIAC was so neat, there were no cables or
 anything on the floor. When they built the ENIAC, there were a lot of
@@ -1461,7 +1461,7 @@ and all that stuff during the war, so a lot of those guys didn’t have
 jobs. Penn hired them to build the ENIAC, the wiring, and the cables,
 and the way they ran them: it was neat as a pin\! But over there, you’d
 wonder, “How on earth can they keep this running? Why don’t they stub
-their toes on these wires?” \[laughs.\] I’d never seen anything like
+their toes on these wires?” \laughs.\ I’d never seen anything like
 it\!
 
 **Abbate:**
@@ -1484,7 +1484,7 @@ that before\!” It was really wonderful.
 So, how did we get along? We all got along famously.
 
 Now, back to the engineers\! Bob Shaw was a fabulous engineer and he did
-the function tables; Chuan Chu did the square rooter/divider; Kite
+the function tables; Chuan Chu did the square rooterdivider; Kite
 Sharpless, I think, did the master programmer; Johnny Davis did the
 accumulator; Harry Huskey did the input-output—getting the punch-card
 equipment interfaced; and Arthur Burks did logical design on the
@@ -1502,7 +1502,7 @@ Right.
 
 Anyway, we found out, from doing this trajectory the same way the ENIAC
 did, that we could debug better than anybody else. We could debug down
-to the vacuum tube\! \[laughs.\] Because we'd run the trajectory and if
+to the vacuum tube\! \laughs.\ Because we'd run the trajectory and if
 it didn't come out right, we’d just put in break-points: Check the
 contents of the accumulators. If wrong, we would go back and put the
 breakpoint in earlier. We could hone in on a problem very quickly. God,
@@ -1510,7 +1510,7 @@ they were so impressed\! And not only that: they didn’t have to debug it
 anymore, which they didn’t want to do. And I’ve always said in my
 lectures: You know, if you want to get along with an engineer, just do
 something for him that he hates to do himself, and he’ll love you
-forever\! \[laughs.\] And it’s true: they thought we were wonderful,
+forever\! \laughs.\ And it’s true: they thought we were wonderful,
 particularly Bob Shaw.
 
 He was an albino who had to put papers up close to his face to read
@@ -1518,7 +1518,7 @@ them. He was very frail, but he certainly didn’t pamper himself at all,
 and he was very funny. He had a quirky sense of humor and quirky
 logic—like he’d go from A to Z to Z to B, and you’d be going A to
 B—and when Bob would explain what his logic was, it made perfect
-sense, but it was unusual. \[laughs\] I worked with him again on UNIVAC.
+sense, but it was unusual. \laughs\ I worked with him again on UNIVAC.
 He drew all of the logical diagrams for the UNIVAC in a month. Now, of
 course, I’m not telling you that he thought up all the design. What I’m
 saying is, they had meetings and decided how to do everything, but Bob
@@ -1530,7 +1530,7 @@ so well,” and he said, “When the UNIVAC comes out, I don’t want us to
 spend a lot of time debugging it simply because we’ve got flaws in the
 logic. So I want you to check the logic of the UNIVAC.” When we checked
 the UNIVAC logic, we found no major flaws in the logic of the UNIVAC—and
-\[Bob\] had drawn them all in a month\! It was unbelievable.
+\Bob\ had drawn them all in a month\! It was unbelievable.
 
 This was another case of the engineers loving you: When Pres said to
 them, “You can’t make any changes in these machines without discussing
@@ -1570,7 +1570,7 @@ Yes.
 **Bartik:**
 
 Yes, well he was one of the most fun people I’ve ever worked with in my
-life. He was something else\! \[laughs.\] So, Dick Clippinger. Everybody
+life. He was something else\! \laughs.\ So, Dick Clippinger. Everybody
 from everywhere were asking to have problems put on the ENIAC; so they
 didn’t have enough programmers to start with, then not enough people
 knew how to program it, so Dick Clippinger decided to grab me.
@@ -1643,7 +1643,7 @@ me to do this while I was training these programmers.
 
 **Abbate:**
 
-\[laughs.\]
+\laughs.\
 
 **Bartik:**
 
@@ -1663,11 +1663,11 @@ concerned about the project. Travis—who turned out to be an ass in the
 long run—and caused Pres and John to leave Penn—was head of Research and
 Development. When I made this proposal to Travis, he said, “What makes
 you think you can do these in a month?” And I said, “Well, Dick has
-already promised me that whatever I turn in, he’ll buy.” \[laughs.\]
+already promised me that whatever I turn in, he’ll buy.” \laughs.\
 “He’ll say, ‘That’s it\!’” Well, Travis didn’t think too much of
 that; and he kept hemming and hawing and hemming and hawing, and all of
 a sudden I realized he was afraid I’d get pregnant and quit the
-project\! \[laughs.\] I was sitting there, and he was hemming and hawing
+project\! \laughs.\ I was sitting there, and he was hemming and hawing
 and carrying on, so finally I said, “No, I don’t intend to have any
 children for a while, so you don’t have to worry about that.” He finally
 agreed to the project and I hired four people.
@@ -1771,7 +1771,7 @@ wanted to do theoretical math. I saw him at the 50th Anniversary, and I
 said, “Well, John, I guess you’ve changed your mind.” He looked at me as
 though he’d never heard of such a thing\! He’d complained constantly—but
 50 years later, it was as though he’d loved computing all his
-life\[laughs.\]
+life\laughs.\
 
 \
 
@@ -1783,17 +1783,17 @@ tragedy. He was one of the most fun guys I ever worked with. He was
 building a house, and so after we worked on the ENIAC we went out to his
 building site. When I used to go down to teach him about the ENIAC, his
 staff were always interrupting; so we used to go into hiding, and
-sometimes we’d have two hours before they found him\! \[both laugh.\]
+sometimes we’d have two hours before they found him\! \both laugh.\
 One time, we went down to the furnace room—we were working down
 there—but they found him by noontime. And sometimes we’d stay home. He
 had about four kids, and he’d turn up the hi-fi so we wouldn’t have to
-hear the kids. \[laughs.\] And then after work I’d go out and help him
+hear the kids. \laughs.\ And then after work I’d go out and help him
 pick up rocks on his land where he was going to build a house. He was
 fun. One time, he got up on the table and lay down, and he had a
 handkerchief. He rolled it up and made a little pyramid out of his
 handkerchief and put it under his head for a pillow. This little pyramid
 was his pillow\! And he said, “Yup, I learned that on the Trans-Siberian
-Railroad.” \[laughs.\] And it was true\! He had really been on the
+Railroad.” \laughs.\ And it was true\! He had really been on the
 Trans-Siberian Railroad.
 
 He worked hard, but he was adorable. And when they finally got the
@@ -1805,8 +1805,8 @@ Aberdeen that was a security risk. They fired him, and then they were
 going to deport him. Well, a group of scientists at Aberdeen signed a
 petition not to deport him. They did not complain about them not using
 him, but they didn’t feel he should be deported. I guess he’d been here
-a long time; I don’t know just why. But anyway, that was one \[point
-against Clippinger\]. Two: on Thursday night, he used to catch the
+a long time; I don’t know just why. But anyway, that was one \point
+against Clippinger\. Two: on Thursday night, he used to catch the
 overnight train to Boston. He taught a math class at Harvard on Friday.
 He would catch the Friday night overnight back to Aberdeen. One of his
 students was supposedly a communist.
@@ -1886,7 +1886,7 @@ consultant. He spoke with a very ingratiating manner, almost as though
 he were apologizing for what he was saying, although he knew he wasn’t.
 Goldstine claimed that he used to walk over to his open door when a
 pretty girl walked down the hall, he’d be talking away and he’d walk
-over and watch her walk down the hall. \[laughs.\] I don’t know if
+over and watch her walk down the hall. \laughs.\ I don’t know if
 that’s true or not\! He used to scratch himself inadvertently at
 times, and stuff like that. But he was very ingratiating, and very
 logical. I mean, we’d go and tell him, “This isn’t working well; we need
@@ -1903,7 +1903,7 @@ did come up with that?
 
 Well, it was the engineers at ENIAC. What happened was, Johnny von
 Neumann—they never even told him\! He was a consultant at Aberdeen;
-\[the Army\] never even told him about the ENIAC, because they didn’t
+\the Army\ never even told him about the ENIAC, because they didn’t
 think it would work, so he didn’t know a thing about it. So one time, he
 was standing on the railroad platform, because he used to come down from
 Princeton to Aberdeen; and Herman Goldstine used to come from
@@ -1911,7 +1911,7 @@ Philadelphia to Aberdeen, because he was the liaison between the Army
 and the University of Pennsylvania. He saw Johnny von Neumann on the
 platform, so he went over and started telling him about the ENIAC. Now
 you understand, ENIAC was a classified project, and people were not
-allowed to write about it, or publish about it; \[but\] he told him
+allowed to write about it, or publish about it; \but\ he told him
 about the ENIAC. So Johnny von Neumann was excited about this and he
 asked if he could come see it. So Herman said “Yeah,” and he invited him
 down. Now before he came, Pres said, “If he asks a particular question,
@@ -1979,8 +1979,8 @@ say that he got his ideas from Atanasoff. Atanasoff had never even said
 that he invented the computer. It was Honeywell that went out and found
 him, and told him he did. In fact, those people at Ames, Iowa even say
 that he invented the binary number system\! That’s an invention?
-\[laughs.\] That’s so stupid\! You will see a bunch of \[reviews of the
-McCartney book\] if you go on Amazon.com. I have one in there, too, but
+\laughs.\ That’s so stupid\! You will see a bunch of \[reviews of the
+McCartney book\ if you go on Amazon.com. I have one in there, too, but
 you have reviews from people from Ames, Iowa. Then some say Zuse did it;
 and you have people that say that Enigma; and then some say Atanasoff.
 It’s very interesting, the readers’ comments on Amazon.com about that
@@ -1989,21 +1989,21 @@ book.
 That was a very bitter experience, and a betrayal as far as Pres and
 John were concerned, and as far as I’m concerned. They were betrayed.
 Other people feel the same way. Nobody thinks Atanasoff invented the
-computer; I mean, that’s just a joke. Now \[McCartney\] says in this
+computer; I mean, that’s just a joke. Now \McCartney\ says in this
 book—and you may know more about it—he feels that the judge played God.
 UNIVAC, after they got the patent, began figuring out how to collect
 money from royalties on the use of the patent. One of the things they
 did, first, though, was to sign a cross-licensing agreement with IBM for
 ten million dollars. Then they sent Honeywell a bill for what they
 figured they owed, and Honeywell figured it was cheaper to challenge the
-patent than to pay the royalties. According to Scott \[McCartney\], he
+patent than to pay the royalties. According to Scott \McCartney\, he
 believes the judge was ticked off because he felt that cross-licensing
 agreement was restraint of trade, but the time had elapsed so they
 couldn’t be prosecuted. He was concerned because at that time, in the
 computing industry, they talked about “Snow White and the Seven
 Dwarves.” IBM was Snow White, and all the other computer companies
-\[were the dwarves: Sperry Rand (which had acquired UNIVAC), Honeywell,
-Burroughs, NCR, Control Data, RCA, and General Electric\]. He was afraid
+\were the dwarves: Sperry Rand (which had acquired UNIVAC), Honeywell,
+Burroughs, NCR, Control Data, RCA, and General Electric\. He was afraid
 that the six other Dwarves would be ruined. He couldn’t do anything
 about the restraint of trade, but he could fix them by denying the
 patent. Scott believes that the judge played God, and that’s basically
@@ -2022,7 +2022,7 @@ I don’t know. A lot of people say, “Well, everything’s just building on
 something else," which is true. Nobody just goes out and invents
 something in a vacuum. And the interesting thing is that at the time
 John and Pres were thinking about the ENIAC, others were thinking about
-other computers—I mean Aiken, with his machine \[at Harvard\]; MIT with
+other computers—I mean Aiken, with his machine \at Harvard\; MIT with
 its Whirlwind; Germany with its Zuse ; and so on. It seems to me that
 things are developed when the time is ripe, and somebody will pay for
 it. That’s why so many of the things that people had thought of before
@@ -2070,7 +2070,7 @@ Pres was so concerned that the mercury delay-line memory might not work
 that he wanted a backup machine. It would use cathode ray tube memory.
 He didn’t want to take any of his engineers off the UNIVAC, so they
 think programmers—you know, that it didn’t matter what you do\!
-\[laughs.\] So he came in and asked if he could have two programmers,
+\laughs.\ So he came in and asked if he could have two programmers,
 and John came to me. I remember when John came to ask me to work for
 Pres. Pres had a volatile temper, and I’d heard him yelling and
 screaming at engineers. Due to my father’s rages, I’ve never been able
@@ -2091,7 +2091,7 @@ So it’s fantastic. In fact, after I was out of the business for 16
 years, I came back in the business, and was looking for a job. UNIVAC
 asked Art about me. He said, “I don’t care how long she’s been out of
 the business; she’s the best logical designer I’ve ever worked with.
-Hire her\!” \[laughs.\] Isn't that wonderful. We were great partners.
+Hire her\!” \laughs.\ Isn't that wonderful. We were great partners.
 
 **Abbate:**
 
@@ -2152,11 +2152,11 @@ Pres said.” “I don’t care,” he said, “It has nothing to do with what
 we’re doing”—you know, there was no link that anybody else would make.
 And he says, “It’s simply because we’re not engineers\!” So Bill came
 in, and Art said, “What does this mean?” So Art showed it to Bill, and
-he was reading it when Pres walked into the room\! \[both laugh.\] Oh,
+he was reading it when Pres walked into the room\! \both laugh.\ Oh,
 my God\! Pres wanted to throw a tantrum so bad. But he said, “Listen: I
 told you you’re not to discuss this with anybody but me.” He said, “That
 includes husbands, mothers, relatives, wives, whatever. Nobody but me\!”
-And Art was saying “But, but, but” \[laughs\], and Pres wasn’t
+And Art was saying “But, but, but” \laughs\, and Pres wasn’t
 listening\!
 
 My husband had a contract to shield the centrifuge at Johnsville Naval
@@ -2173,13 +2173,13 @@ for us to get going. We got up and put on our coats. I got my
 pocketbook, and we walked out of the room. We were on the seventh floor
 of this building, so we hit the button for the elevator. Pres was
 talking to Bill, talking, talking, talking. We got in the elevator, and
-Pres got in the elevator with us\! \[laughs.\] Talking, talking,
+Pres got in the elevator with us\! \laughs.\ Talking, talking,
 talking. We got out of the elevator; Pres got out of the elevator; and
 we got on the street corner, and Pres looked up and saw all this traffic
-and said, “I guess you people want to leave\!” \[laughs.\]
+and said, “I guess you people want to leave\!” \laughs.\
 
 But that’s how focused he was. We did not laugh at him. We thought it
-was wonderful, actually\! \[laughs.\] We were very fond of him\!
+was wonderful, actually\! \laughs.\ We were very fond of him\!
 
 One time he got mad at me, and he wanted to yell at me so bad; it was
 funny. He had told me this particular instruction; it was a complex
@@ -2194,7 +2194,7 @@ and twirling this around\! He said “I told you to keep this,” and I
 said, “I know you did, Pres\! You did tell me, and I’m sorry, but I
 don’t know where it is.” So he left the room. Pretty soon he came
 walking back, and he says, “Sit down. That’s all right. I remember how
-it was done.” And that was the end of it. \[laughs.\] He was
+it was done.” And that was the end of it. \laughs.\ He was
 fascinating. I loved working for him, loved it. So did Art.
 
 So we were designing this mercury delay line backup. One day he told us
@@ -2202,7 +2202,7 @@ he wanted to make sure there was nothing wrong with the UNIVAC logic
 when they built the machine. He told us that we were doing so well, he
 wanted us to check the logic of the UNIVAC. We did that. One day he came
 in and said he was really concerned, because there were no check
-circuits in the UNIVAC except the even/odd check on the memory. They
+circuits in the UNIVAC except the evenodd check on the memory. They
 would count the bits in the memory and make sure the number was always
 odd. If it turned out it was even, the UNIVAC would put a bit in so it
 would be odd. That was so that it would indicate an error if all of the
@@ -2230,7 +2230,7 @@ policeman—at least one policeman—checking every other policeman. And the
 assumption is that you’re not going to have two corrupt policemen\!” He
 says, “It’s the same thing here. Everything in the machine must be
 checked by at least one other thing, and if it isn’t, you
-duplicate—period.” The meeting was over\! \[laughs.\] He was fabulous,
+duplicate—period.” The meeting was over\! \laughs.\ He was fabulous,
 really. So that was the end of it. I mean, we just went back and put the
 check circuits in.
 
@@ -2306,7 +2306,7 @@ engineer in the world\! I mean, they realized how smart these guys were,
 and they just cleaned out immediately; they didn’t have anybody\! So
 then they were trying to build the damn thing. Well, it took them years,
 and finally a guy named Sam Libkin finally got it together, but it was
-way, way late. \[laughs\]
+way, way late. \laughs\
 
 These people just didn’t understand that we were onto something new,
 something different. And UNIVAC: Rem. Rand bought UNIVAC, and they made
@@ -2332,7 +2332,7 @@ When Remington Rand took over the EMCC . . .
 **Bartik:**
 
 Well, we have another whole era in here, which we’ve skipped. A guy
-named \[Henry\] Straus, when they began to have financial problems, and
+named \Henry\ Straus, when they began to have financial problems, and
 they realized they had . . . Your customers were the Census Bureau,
 which had ordered one; American Totalizator—well, when Straus was on it,
 they were very interested in it, because what they do are the odds at
@@ -2356,25 +2356,25 @@ Now, I don’t really know much about that, because I still worked for
 them, but my husband took a job in Washington and I went to Washington,
 and I worked at their sales office down there. One of the things I was
 to do was to train the Census Bureau—the programmers—so I did. Then the
-Aviation Supply Office for the Navy was about to kick out their \[old\]
+Aviation Supply Office for the Navy was about to kick out their \old\
 equipment, so they said, “Can the UNIVAC do this?” So I was given the
 job of figuring how to do this Aviation Supply Office—and it was perfect
 for UNIVAC, because it was an inventory control problem. So I worked on
 that.
 
-It was interesting \[laughs\]: they had the Vice President of Sales come
+It was interesting \laughs\: they had the Vice President of Sales come
 down from New York, and they had these Navy guys. These Navy guys were
 really the workers—they were not above the point; they were Commanders,
 and Lieutenant-Commanders, and on that level—and they knew how the
 problem worked, and they used punch-card equipment and stuff like that,
 and they used this system from Rem. Rand—Cardex system it was called—
 that took control of their inventory. They had the meeting, and
-\[Remington Rand\] were very concerned about a woman doing this for the
+\Remington Rand\ were very concerned about a woman doing this for the
 UNIVAC, so they had a guy come down from Philadelphia to talk about its
 feasibility. I mean, he didn’t know anything, except just in theory. So
 they yammered away all day until late in the day, and then they had this
 guy from Philadelphia talk, and then I got up and told them how to do
-it. They went wild\! They . . . went . . . ape\! \[laughs.\] I mean, it
+it. They went wild\! They . . . went . . . ape\! \laughs.\ I mean, it
 was one of those ideal situations where one would object and they would
 answer each other’s objections back and forth\! So it was really one of
 those—I mean, these guys knew what the problem was; they saw the
@@ -2461,18 +2461,18 @@ It was very interesting: There was a salesman, his name was Brown. He
 was their salesman for the UNIVAC, so he kept saying to Pres, “Everybody
 wants to know how you’re going to print, what the printing’s going to be
 like.” Pres said, “Oh, I’m too busy, and there are lots of ways to do
-it.” And so Wistar Brown kept pestering him, \[and Pres would say,\]
+it.” And so Wistar Brown kept pestering him, \and Pres would say,\
 “Oh, I’m too busy to do this. Don’t worry about it; we’ll have a
 printer.” He didn’t know what to say to his customers, and so he’s still
 pestering him, so one afternoon Pres sat him down and told him what the
 possibilities were for printers for this thing, and he gave him about
-twelve\! \[laughs.\] Wistar came out of there reeling\! He was
+twelve\! \laughs.\ Wistar came out of there reeling\! He was
 absolutely reeling, because he had all of these proposals that Pres was
 thinking about—because he thought Pres hadn’t thought about it at all\!
-\[laughs.\] I don’t think he ever doubted him again, when he told him
+\laughs.\ I don’t think he ever doubted him again, when he told him
 something like that\! So anyway, this ink-jet printer was one of the
 things that he was thinking about. He described it to me. And I can
-understand, to some extent, why he did \[think of it\], because the way
+understand, to some extent, why he did \think of it\, because the way
 it works is somewhat similar to the cathode ray tube storage, because
 it’s stored as dots.
 
@@ -2509,12 +2509,12 @@ Today. I mean, it was unbelievable\! It really opened them up.
 
 But when we were there, we asked them, “If you have an idea, how do you
 get it implemented?” And they said, “Oh well, you make a proposal to
-Bill, and Bill makes a decision.” \[laughs.\] Can you believe that? It’s
+Bill, and Bill makes a decision.” \laughs.\ Can you believe that? It’s
 what they said\!
 
 **Abbate:**
 
-It’s probably true. \[pause\]
+It’s probably true. \pause\
 
 \
 
@@ -2549,14 +2549,14 @@ trying to get the men in bed with her. So they finally said to her,
 center and got cleaned up, and as far as I know, she never drank again.
 
 But women didn’t like her, because she always had these boy toys on her
-arm. \[laughs.\] And she never gave anybody credit for anything, except
+arm. \laughs.\ And she never gave anybody credit for anything, except
 herself\! Women didn’t like her. In fact, I don’t know if anybody went
 to her christening of the ship that was named after her, because they
 called me up, and I certainly wasn’t going, and I don’t know of anybody
 that went.
 
 This little university, my State Teachers’ College: they had her out
-there twice—with her little piece of wire\! \[laughs.\]
+there twice—with her little piece of wire\! \laughs.\
 
 **Abbate:**
 
@@ -2572,7 +2572,7 @@ was really having a hard time keeping up with the field. So one time I
 went to a meeting—I guess it was ACM, out in Chicago—and I walked into
 the hotel room, and here’s old Grace Hopper. She comes stomping up to
 me, and she doesn’t say “Hello, how are you?” or anything; she says,
-“WHAT ARE YOU GOING TO DO ABOUT MICROPROCESSORS?” \[laughs.\]
+“WHAT ARE YOU GOING TO DO ABOUT MICROPROCESSORS?” \laughs.\
 
 Betty Holberton despises her—absolutely despises her.
 
@@ -2594,7 +2594,7 @@ She’s kind of an icon.
 She wasn’t that bright; come on. She wasn’t any brighter than the rest
 of them. She certainly didn’t hold a candle to Pres and John. There was
 no innovation in her life, so far as I know. But that’s why women don’t
-like her. \[pause\]
+like her. \pause\
 
 I guess that as far as Kathryn Kleiman’s concerned, the women should all
 stick together. And I think they should too—if people are worth it. What
@@ -2642,7 +2642,7 @@ For nine years. So you were there from ‘67 to ‘75\.
 
 Or ‘76, maybe. Let’s see: I was in Northern New Jersey; I was in
 Minneapolis ‘78 to ‘80; I was in Florida ‘76 to ‘77\. I guess I was in
-Northern New Jersey ‘75 to ‘76\. \[pause\]
+Northern New Jersey ‘75 to ‘76\. \pause\
 
 But I have other characteristics that make me not management material,
 and I came to realize that. One of them is: I am blunt. I’m not a
@@ -2699,7 +2699,7 @@ said anything.” And I said, “Well, Sam, this is too idiotic\! I have
 nothing to say to this.” Sam said, “Well, I brought you here; you’re the
 only woman here. I expect you to speak. ” He goaded me to say what he
 knew I’d say, and I fell for it. I decided to let ‘em have it\!
-\[laughs.\] I went back in and sat down and told them that our
+\laughs.\ I went back in and sat down and told them that our
 competitors are going to eat our lunch; that our users were interested
 in FORTRAN. They weren’t interested in COBOL and database management;
 Interdata had a new optimizing compiler. I told them that our math
@@ -2715,7 +2715,7 @@ person came up and said, “Yeah, you were absolutely right, but I was not
 going to say anything at such a meeting.” One of the Product Line
 Managers said I was a fool, and what right did I have to say these
 things? But within four months, the VP of Development and his cohorts
-were out\! \[laughs.\] They were locked out of the building, all their
+were out\! \laughs.\ They were locked out of the building, all their
 crew, and left.
 
 In the meantime, they decided to come out with new machines. Well, they
@@ -2752,8 +2752,8 @@ stock options; I didn’t have that many, but I lost all but one year’s
 worth, leaving. I met my ex-boss down in Phoenix, at a meeting we were
 having, and Sam said, “Oh, I’ll never forget as long as I live, you
 sitting there and saying, ‘Now, I’m going to tell you some anecdotes\!’”
-\[laughs.\] And he said, “And you know the President never forgave you
-for telling him he’d pissed his money away\!” \[laughs.\] He said, “He
+\laughs.\ And he said, “And you know the President never forgave you
+for telling him he’d pissed his money away\!” \laughs.\ He said, “He
 never forgave you for doing that.” Which I’m sure is true. He didn’t
 like me anyway.
 
@@ -2785,7 +2785,7 @@ Well anyway, he did give the speech—half mine and half the other one—and
 then they began to ask him questions. And the questions were all easy
 questions, and he was having such a good time. He had a blast, answering
 these questions\! We finally had to call a halt to it, to get him off
-the stage\! \[laughs.\] If I’d had a stick I’d have pulled him off the
+the stage\! \laughs.\ If I’d had a stick I’d have pulled him off the
 stage. He was having such a good time\!
 
 But anyway, he just didn’t understand. He didn’t understand his users,
@@ -2845,11 +2845,11 @@ So you didn’t stay long at Honeywell.
 
 **Bartik:**
 
-Well, I stayed there. \[Clancy\] Spangle, who was the President when I
+Well, I stayed there. \Clancy\ Spangle, who was the President when I
 went there, was basically forced out; and the reason he was forced out
 was because top management lied to him. Honeywell had mainframes that
 were built by G.E. in Arizona; they had the next level of business
-machines that competed with the lower end of the \[IBM\] 360 line, in
+machines that competed with the lower end of the \IBM\ 360 line, in
 France; they had a group with small business computers, in Italy; and
 they had minicomputers in Billerica, Massachusetts. We were at
 headquarters in Minneapolis. Now, do you know “matrix management”?
@@ -2879,7 +2879,7 @@ what’s going on.
 
 Honeywell had a policy that the field could not spend more than a
 million dollars developing anything without specific instructions from
-headquarters. Well, they just divided their projects up\! \[laughs.\]
+headquarters. Well, they just divided their projects up\! \laughs.\
 After Spangle was forced out, the guy that eventually became President
 was at this time head of North American sales—I don’t know exactly what
 his positions was, but he was head of everything North American. He
@@ -2951,7 +2951,7 @@ You were really always on the cutting edge.
 I was just lucky\! I just happened to be lucky. Because I was involved
 with minicomputers and local area networks. I used to do a little check
 on how efficient these were for local area networks, and people were so
-impressed with this\! \[laughs.\] Really, I just counted how much it
+impressed with this\! \laughs.\ Really, I just counted how much it
 took to interface to the system, and put on a number of terminals, and
 see what it looked like. It wasn’t that I did anything too exciting—but
 at that time, because other people weren’t doing anything, they were
@@ -3017,7 +3017,7 @@ of programming by having these meetings?
 
 **Bartik:**
 
-\[pause\] I don’t know; I have no idea. You’d have to ask somebody that
+\pause\ I don’t know; I have no idea. You’d have to ask somebody that
 was more into software; because even though I started out in software, I
 really wasn’t in software very long. I was much more hardware-oriented
 during most of my career, after I began doing logical design. I
@@ -3033,7 +3033,7 @@ So really, after the ENIAC you weren’t doing a lot of programming.
 **Bartik:**
 
 No. I mean the only thing I did was, for my many computer reports, I
-just did a little sample program\! \[laughs.\] To test how fast the
+just did a little sample program\! \laughs.\ To test how fast the
 processor was. That’s about all.
 
 **Abbate:**
@@ -3055,7 +3055,7 @@ engineering societies seemed to be very hostile towards women.
 Oh, yeah: engineers think they’re much better than programmers. They
 did. I mean, computers were engineering-oriented for a long time. Like
 Pres saying, “You don’t need software people; come over and do
-hardware\!” \[laughs.\] Which is a perfect indication of what he thought
+hardware\!” \laughs.\ Which is a perfect indication of what he thought
 of it\!
 
 **Abbate:**
@@ -3067,18 +3067,18 @@ you couldn’t do the hardware side.
 
 Oh, no, no, no. I don’t think that at all. It was just because I was a
 programmer. Yes, well, that was part of the problem with all of this.
-\[laughs\] I don't know whether or not they were prejudiced because I
+\laughs\ I don't know whether or not they were prejudiced because I
 was a woman or because I was a programmer\! Mainly, I never had trouble
 with engineers, really. Even to this day, my best customers are
 engineers. In fact, one of the engineers—the one that had complained
 most vociferously when he found out he had to ask me and Art before he
 made a change in his equipment—one day he said to me, “You must have a
 beautiful marriage\!” And I said, “What do you mean?” And he said, “Oh,
-you’re so logical\! My wife is so illogical.” \[laughs.\] He said, “Oh,
+you’re so logical\! My wife is so illogical.” \laughs.\ He said, “Oh,
 you’re married to an engineer; you must have a beautiful life.” And I
 said, “Well, Bernie, most decisions in marriage are not logical; they’re
 emotional,” and that I didn’t think I had any more beautiful a marriage
-than anyone else\! \[laughs.\] And of course, all these so-called
+than anyone else\! \laughs.\ And of course, all these so-called
 “logical” people plaster over the fact that what they really want is
 something emotional. I mean, it’s just plastered over.
 
@@ -3110,7 +3110,7 @@ Al Auerbach. You want his number?
 
 **Abbate:**
 
-Sure, I’ll get that from you before I go. \[pause\]
+Sure, I’ll get that from you before I go. \pause\
 
 \
 
@@ -3127,7 +3127,7 @@ How has it changed? Well, it’s changed considerably\! Banks couldn’t
 even see any use for computers—and bankers are such far-reaching
 individuals. When Pres and John went to borrow money to run their
 company, banks couldn’t see how they would ever benefit from computers.
-\[laughs.\]
+\laughs.\
 
 How’s it changed? Miniaturization is what’s changed it\! The integrated
 circuit. Because when I left the field, in the early ‘50s, they were
@@ -3136,7 +3136,7 @@ how wonderful transistors were, and how they were going to change
 things. And of course it did; and these photographic techniques and
 everything else to miniaturize. I mean, if you didn’t do anything else
 but make things smaller . . . Can you imagine, this little thing like
-this \[points to laptop\]. In a mainframe, signals would have to go a
+this \points to laptop\. In a mainframe, signals would have to go a
 hundred feet\! I mean, just the fact that signals don't have to travel
 so far increases the speed fantastically.
 
@@ -3144,7 +3144,7 @@ It’s the miniaturization; not only the cheapness. Now, we’d visualized
 this, because Dick Tracy had a radio on his wrist; and we used to talk
 about these things. We talked about computers all the time. Somebody
 would say ,“And oh, so-and-so’s getting married.” “Oh, is that
-right?”—and then back to computers\! \[both laugh.\] It wasn’t as
+right?”—and then back to computers\! \both laugh.\ It wasn’t as
 though we didn’t realize another world exists; it was just that we were
 so interested in this that we talked about it and speculated all the
 time.
@@ -3155,7 +3155,7 @@ of life away from a lot of us —and of course it has. My son is an
 economist now, and he worries about jobs for the poor. It’s very
 interesting, because everybody says, “Oh, training, training,
 training\!” I mean, you train the poor, and what do you have? You have
-competition for the jobs that are already there\! \[laughs.\] It helps,
+competition for the jobs that are already there\! \laughs.\ It helps,
 maybe, some individuals; but what you really need are more jobs, because
 you just have competition for the jobs if you train the poor. So it’s
 very interesting when we talk about taking away drudgery in jobs and
@@ -3163,7 +3163,7 @@ stuff like that: I mean, we do create social problems.
 
 I find it exciting. I don’t find—Do I find any of this shocking? I do
 find the Internet a little shocking, because I can’t quite figure out
-how that damn thing works with nobody in charge\! \[laughs.\] That’s
+how that damn thing works with nobody in charge\! \laughs.\ That’s
 like Linux, this operating system with nobody in charge. I can’t quite
 imagine how this works, with nobody in charge. Now, I understand there
 are standard interfaces—and some interfaces are still the same ones I
@@ -3194,7 +3194,7 @@ block of data was to go in memory. It worked fine until it came to a
 boundary, and then at the boundary slipped into the bank of memory
 beside the one it was supposed to be in. It meant that we had to change
 when we increased the program counter. That fix took over a hundred cuts
-and straps on the board to get the changes made\! \[laughs.\] Anyway,
+and straps on the board to get the changes made\! \laughs.\ Anyway,
 nobody checks all the possibilities of the software. I mean, a system
 could be doing calculations in an absolutely crucial situation, and it
 reaches one of the situations that wasn’t tested, and it doesn’t work\!
@@ -3223,7 +3223,7 @@ Do you think the culture of computing has changed?
 
 Well, I’m sure the people at Microsoft worry about stock options and all
 that crap a lot more. We certainly didn’t in my era; I mean, I got stock
-options at \[only\] one company that I worked for. Twenty percent of
+options at \only\ one company that I worked for. Twenty percent of
 Microsoft employees are millionaires.
 
 I spent some time with them. Microsoft’s such a big company. It’s so
@@ -3274,7 +3274,7 @@ you know, the expanding puddle.
 **Abbate:**
 
 I guess.
-\[pause\]
+\pause\
 
 \
 
@@ -3340,7 +3340,7 @@ never given any indication that I couldn’t learn anything I wanted to.
 But I never had any money, and the reason I didn’t was because my father
 did provide for the boys. The view was that someday they were going to
 have a family and have to support a family, while you would marry
-somebody and your husband would support you. \[laughs.\]
+somebody and your husband would support you. \laughs.\
 
 Now, my husband had his problems, in terms of being a male chauvinist
 pig. He grew up with a disapproving father and a doting mother. I still
@@ -3349,7 +3349,7 @@ him and his wife when I go out there for Christmas. I think he really
 believed that I wanted to do whatever he wanted to do—that whatever he
 wanted, I wanted. And I think that came from his doting mother. He would
 say, “Oh, no, you don’t mean it.” I’d say, “Yes I do; I hate this\!”
-\[laughs.\] And I think he really thought I was kidding. And I think
+\laughs.\ And I think he really thought I was kidding. And I think
 it’s not just being a male chauvinist pig; I mean it was this
 particular environment that he grew up with. The other thing: he was a
 manic-depressive, and so when he was manic I was the wife that he took
@@ -3369,7 +3369,7 @@ interesting, because I never wanted to get married and never wanted to
 have children, but my relationship with my children has been the
 greatest thing that ever happened to me\! I adore all three of them and
 loved taking care of them when they were little. But I still don’t think
-much of marriage\! \[laughs.\]
+much of marriage\! \laughs.\
 
 **Abbate:**
 
@@ -3425,10 +3425,10 @@ price is low, and we don’t make any money; and, when we don’t have any
 crop, the price is high, so we don’t have anything to sell\!” And I
 said, “No matter what you say, we have to have money to buy clothes, to
 buy machinery; we have to buy things.” And she said, “Well, I certainly
-wish that I could have a big, fat chicken any time I wanted\!” \[both
-laugh.\] Oh, I was mad at her\! I was really mad. So I went home that
+wish that I could have a big, fat chicken any time I wanted\!” \both
+laugh.\ Oh, I was mad at her\! I was really mad. So I went home that
 weekend and asked my mother to dress a chicken for her. So I took her a
-chicken\! \[laughs.\]
+chicken\! \laughs.\
 
 About 1950 I was in Washington, and I walked across the street to the
 cafeteria to have some lunch, and who should walk in but Doctor Blanche
@@ -3438,7 +3438,7 @@ She told me how she spent most of her time fund-raising. She was in
 Washington for a meeting because she was President of the American
 Association of University Women. She tried to talk me into joining.
 Finally she said to me, “Remember the time you brought me the chicken?”
-\[laughs.\]
+\laughs.\
 
 So yes, she was my role model, Blanche Dow. She was a lesbian, by the
 way. She was really a fabulous woman, and that was it\! Yes, she was a
@@ -3467,7 +3467,7 @@ different ways. But I do believe that you should enjoy what you do.
 
 No, I don’t really have any advice. I mean, it depends on what you
 like\! I’m in the real estate business now, but believe me: I’d much
-rather work with things than with people\! \[laughs.\] They drive me
+rather work with things than with people\! \laughs.\ They drive me
 crazy at times\! And I’m not that good. I used to think when I worked
 with engineers—because I was so much more of a "people" person than they
 were—that I was great with people; but in comparison with sales people,
@@ -3505,7 +3505,7 @@ to then, I had always thought "sensers" were stupid, because I’m
 and I had to wait for them\! The other thing I thought was that
 "non-judgmental" people, "perceptive" people, were weak—because I
 thought, “If you had any balls at all, you’d make a judgment\!”
-\[laughs.\] But that’s not the way they work. Also, I’m an extrovert,
+\laughs.\ But that’s not the way they work. Also, I’m an extrovert,
 and there’s no way in the world that I could ever come up with
 conclusions that meant much to me unless I tested them in the outside
 world. That’s basically the difference between an introvert and an
@@ -3548,14 +3548,14 @@ satisfying?
 
 The most wonderful job I had was on UNIVAC. And then the second-most was
 on ENIAC, because it was new. I made this statement to Isaac Auerbach
-\[laughs\]. I worked for him for nine years, and Isaac came in before I
+\laughs\. I worked for him for nine years, and Isaac came in before I
 left and said, “I never thought you’d leave me.” And I said, “Well, you
 haven’t done anything with me for four years. I mean, I’ve been here
 doing the same thing, so why wouldn’t I leave?” Anyway, when I got up to
 make my farewell speech—they gave me a gift, and I was supposed to make
 a speech—I said, “Well, they say two of the happiest days of your life
 are the day you take a job and the day you leave a job.” And I said,
-“Today is the second happiest day of my life\!” \[laughs.\] And I
+“Today is the second happiest day of my life\!” \laughs.\ And I
 think everybody is all excited, when you do something new.
 
 I liked the prestige. I had prestige. I guess I didn’t have any prestige
@@ -3564,7 +3564,7 @@ most people like to have some recognition for what they do, and they
 like to have people appreciate what they do. And the funny thing is:
 Pres or John never said that to you, but you just knew they did\! It’s
 interesting that you don’t have to say, “I think you’re wonderful”—you
-just act as though they’re wonderful, I guess\! \[laughs.\] I’m not
+just act as though they’re wonderful, I guess\! \laughs.\ I’m not
 quite sure how it works.
 
 **Abbate:**
@@ -3592,7 +3592,7 @@ I think I’ve already heard\!
 **Bartik:**
 
 It was kind of interesting, Herman was a Ph.D. mathematician. Adele and
-I worked together on a program for a Dr. \[Abraham\] Taub up at
+I worked together on a program for a Dr. \Abraham\ Taub up at
 Princeton. Adele wrote all the manuals for the ENIAC, but, of course,
 they didn’t come out until after everybody had already learned how to
 program it. She was a very smart woman. She and I worked on the Taub
@@ -3610,7 +3610,7 @@ managing . . .
 
 **Bartik:**
 
-He was a liaison, although he claims he did \[technical work\]—and for
+He was a liaison, although he claims he did \technical work\—and for
 the EDVAC, too; why would he be on the patent? He attended the meetings.
 In fact, Douglas Hartree was here one summer—he was teaching out at
 Haverford College, lecturing—so the Goldstines invited us up for dinner.
@@ -3622,15 +3622,15 @@ war\!” Well, that is true to some extent, because most of the
 mathematicians that worked at Aberdeen were given three months at
 Princeton, at the Institute. You know, Einstein was there at that time,
 and Veblen, and von Neumann; there were a lot of people there. I mean,
-they even had tea with Einstein, for God’s sakes\! \[laughs.\] So they
-were given three months. But that wasn’t true \[about Goldstine’s
-situation\]. So anyway, Douglas Hartree, when we were on the way back,
+they even had tea with Einstein, for God’s sakes\! \laughs.\ So they
+were given three months. But that wasn’t true \about Goldstine’s
+situation\. So anyway, Douglas Hartree, when we were on the way back,
 said, “Oh well, it doesn’t matter what he says: that’s what he is.”
-\[laughs.\]
+\laughs.\
 
 But anyway, Adele I loved. So we were working on that project—we really
 worked hard—and she said, “Oh well, he always gets me these jobs and
-then complains when I do them\!” \[laughs.\] She died of cancer very
+then complains when I do them\!” \laughs.\ She died of cancer very
 early on in life. But I think she was brighter than he was, frankly. She
 was his student at the University of Michigan—or was she Chicago? I
 think it was the University of Chicago.
@@ -3646,69 +3646,69 @@ Well, she did these little jobs. I guess she must have taught Klara von
 Neumann to program the ENIAC.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Jean_Bartik&oldid=108405>"
+"<http:/ethw.org/index.php?title=Oral-History:Jean_Bartik&oldid=108405>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Workplace](/Category:Workplace "Category:Workplace")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Workplace(Category:Workplace "Category:Workplace")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Jean Bartik](#About_Jean_Bartik)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Growing up in Rural Missouri](#Growing_up_in_Rural_Missouri)
-  * [4\.2 College Years](#College_Years)
-  * [4\.3 A Father's Influence](#A_Father.27s_Influence)
-  * [4\.4 Graduating College and Leaving
-    Missouri](#Graduating_College_and_Leaving_Missouri)
-  * [4\.5 Reflections on ENIAC and Beginning of Career at
-    Aberdeen](#Reflections_on_ENIAC_and_Beginning_of_Career_at_Aberdeen)
-  * [4\.6 Building Relationships: The Women of ENIAC and
-    Aberdeen](#Building_Relationships:_The_Women_of_ENIAC_and_Aberdeen)
-  * [4\.7 Understanding ENIAC](#Understanding_ENIAC)
-  * [4\.8 Working with J.Presper Eckert and John
-    Mauchly](#Working_with_J.Presper_Eckert_and_John_Mauchly)
-  * [4\.9 Working with others on the ENIAC
-    project](#Working_with_others_on_the_ENIAC_project)
-  * [4\.10 Los Alamos and ENIAC, 1945](#Los_Alamos_and_ENIAC.2C_1945)
-  * [4\.11 From ENIAC to UNIVAC](#From_ENIAC_to_UNIVAC)
-  * [4\.12 Reflections on Dick Clippinger and the McCarthy
-    Era](#Reflections_on_Dick_Clippinger_and_the_McCarthy_Era)
-  * [4\.13 Reflections on the EDVAC Report and the Transition from ENIAC
+* 1 About Jean Bartik(#About_Jean_Bartik)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Growing up in Rural Missouri(#Growing_up_in_Rural_Missouri)
+  * 4\.2 College Years(#College_Years)
+  * 4\.3 A Father's Influence(#A_Father.27s_Influence)
+  * 4\.4 Graduating College and Leaving
+    Missouri(#Graduating_College_and_Leaving_Missouri)
+  * 4\.5 Reflections on ENIAC and Beginning of Career at
+    Aberdeen(#Reflections_on_ENIAC_and_Beginning_of_Career_at_Aberdeen)
+  * 4\.6 Building Relationships: The Women of ENIAC and
+    Aberdeen(#Building_Relationships:_The_Women_of_ENIAC_and_Aberdeen)
+  * 4\.7 Understanding ENIAC(#Understanding_ENIAC)
+  * 4\.8 Working with J.Presper Eckert and John
+    Mauchly(#Working_with_J.Presper_Eckert_and_John_Mauchly)
+  * 4\.9 Working with others on the ENIAC
+    project(#Working_with_others_on_the_ENIAC_project)
+  * 4\.10 Los Alamos and ENIAC, 1945(#Los_Alamos_and_ENIAC.2C_1945)
+  * 4\.11 From ENIAC to UNIVAC(#From_ENIAC_to_UNIVAC)
+  * 4\.12 Reflections on Dick Clippinger and the McCarthy
+    Era(#Reflections_on_Dick_Clippinger_and_the_McCarthy_Era)
+  * 4\.13 Reflections on the EDVAC Report and the Transition from ENIAC
     to
-    EDVAC](#Reflections_on_the_EDVAC_Report_and_the_Transition_from_ENIAC_to_EDVAC)
-  * [4\.14 BINAC and UNIVAC](#BINAC_and_UNIVAC)
-  * [4\.15 Family Life & Coming Back into the
-    Business](#Family_Life_.26_Coming_Back_into_the_Business)
-  * [4\.16 Touring and Speaking at
-    Microsoft](#Touring_and_Speaking_at_Microsoft)
-  * [4\.17 Working with Grace Hopper](#Working_with_Grace_Hopper)
-  * [4\.18 Reflections on Women in Technology & the
-    Workplace](#Reflections_on_Women_in_Technology_.26_the_Workplace)
-  * [4\.19 Becoming a Charter Member at ACM
-    Records](#Becoming_a_Charter_Member_at_ACM_Records)
-  * [4\.20 Reflections on the Progress in the Field of
-    Computing](#Reflections_on_the_Progress_in_the_Field_of_Computing)
-  * [4\.21 Reflections on the Progress of Women in the Field of
+    EDVAC(#Reflections_on_the_EDVAC_Report_and_the_Transition_from_ENIAC_to_EDVAC)
+  * 4\.14 BINAC and UNIVAC(#BINAC_and_UNIVAC)
+  * 4\.15 Family Life & Coming Back into the
+    Business(#Family_Life_.26_Coming_Back_into_the_Business)
+  * 4\.16 Touring and Speaking at
+    Microsoft(#Touring_and_Speaking_at_Microsoft)
+  * 4\.17 Working with Grace Hopper(#Working_with_Grace_Hopper)
+  * 4\.18 Reflections on Women in Technology & the
+    Workplace(#Reflections_on_Women_in_Technology_.26_the_Workplace)
+  * 4\.19 Becoming a Charter Member at ACM
+    Records(#Becoming_a_Charter_Member_at_ACM_Records)
+  * 4\.20 Reflections on the Progress in the Field of
+    Computing(#Reflections_on_the_Progress_in_the_Field_of_Computing)
+  * 4\.21 Reflections on the Progress of Women in the Field of
     Computing and Career in
-    Computing](#Reflections_on_the_Progress_of_Women_in_the_Field_of_Computing_and_Career_in_Computing)
+    Computing(#Reflections_on_the_Progress_of_Women_in_the_Field_of_Computing_and_Career_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:44\.
 
 * This page has been accessed 6,025 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

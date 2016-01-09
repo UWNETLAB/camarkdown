@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Lucy_Slater&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Lucy_Slater&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Lucy_Slater)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Lucy_Slater&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Lucy_Slater "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Lucy_Slater "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Lucy_Slater&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Lucy_Slater&oldid=108607 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Lucy_Slater&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Lucy_Slater)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ALucy+Slater)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Lucy_Slater&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Lucy_Slater&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Lucy_Slater)
+  
+  * Discussion(index.php?title=Oral-History_talk:Lucy_Slater&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Lucy_Slater "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Lucy_Slater "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Lucy_Slater&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Lucy_Slater&oldid=108607 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Lucy_Slater&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Lucy_Slater)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ALucy+Slater)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Lucy Slater
@@ -198,7 +198,7 @@ My father hadn’t got five pounds, but he says, “Oh yes, I’ll go
 surety\!” And the magistrate says, “What’s your connection with the
 young woman?” My father was a very quiet sort of a man and not given to
 pushing himself forward, but he got all his courage up, and he says,
-“I’m her fiancé\!” \[laughs.\]
+“I’m her fiancé\!” \laughs.\
 
 **Abbate:**
 
@@ -208,12 +208,12 @@ Did he even know her?
 
 Oh, he knew her: they’d been traveling down from Oldham in Lancashire to
 Manchester University on the train for three years, so they knew one
-another—but she didn’t know that he was her fiancé\! \[laughs.\] His
+another—but she didn’t know that he was her fiancé\! \laughs.\ His
 cousin W.K. Slater, who was in the court as well, even lent him five
 pounds to pay the surety. Then they got outside the court, where they
 could speak, and she exploded: “It’s news to me that I’m your fiancée\!
 Where did you get an idea like that from?” She had Irish blood in her,
-Liverpool Irish\! \[laughs.\] Anyway, she didn’t object too strongly,
+Liverpool Irish\! \laughs.\ Anyway, she didn’t object too strongly,
 and a couple of years later, in 1916, they were married.
 
 **Abbate:**
@@ -223,14 +223,14 @@ What a great story\!
 **Slater:**
 
 Yes, it’s worth telling. Suffragettes have a lot to answer for\!
-\[laughs.\]
+\laughs.\
 
 They never really got together until after the war was over, because
 he’s working in London and she’s working in Lancashire; so the
 marriage wasn’t consummated until about 1919 or ‘20, when he could take
 her with him. She had a short trip to London for her honeymoon, in
 1916—during which there was a Zeppelin raid, which rather put her off,
-so she went back to her teaching\! \[laughs.\] They watched the victory
+so she went back to her teaching\! \laughs.\ They watched the victory
 parade in 1919 from the Admiralty offices in Whitehall.
 
 Then he got a job then as a chemist at Holton Heath, which was near
@@ -294,11 +294,11 @@ they were letting out people from the submarine to the surface, and then
 they were being picked up by a boat, and put back on the submarine. Then
 we went back to Portsmouth. I had all the ice cream and was thoroughly
 contented—but I shouldn’t have been there; it was quite illegal, as far
-as Navy regulations go\! \[laughs.\] Quite recently I was in Portsmouth
+as Navy regulations go\! \laughs.\ Quite recently I was in Portsmouth
 on Red Nose Day , and I found, watching a destroyer coming in, that
 they’d got a large red balloon on their front gun, for Red Nose Day\!
 I thought that was a nice touch. That was the old Navy that I’d known,
-that bent rules where necessary\! \[laughs.\]
+that bent rules where necessary\! \laughs.\
 
 ### Death of Father and Home Schooling
 
@@ -390,9 +390,9 @@ Maybe it was because I wasn’t very good at it.
 
 I’ve got old books with sums that people have written down for me—when
 they were playing with me as child, they used to be doing sums for me\!
-\[Laughs. Takes photograph album from bookshelf.\] This old book here
+\Laughs. Takes photograph album from bookshelf.\ This old book here
 has pictures of me and my parents; it’s a very old book and delicate,
-about eighty years old. \[Turning pages.\] This is me, as a child. And
+about eighty years old. \Turning pages.\ This is me, as a child. And
 you’ll see the scribbling in some of these pages. Those figures are
 people doing little sums with me, before it was a photograph album. They
 amused me by doing these little sums, and showing me how to add and
@@ -400,7 +400,7 @@ subtract and multiply and divide—you know, just with pencil and
 paper—and it was in this book that we were doing it.
 
 I sort of kept a series of photographs and cuttings and whatnot, and
-just kept sticking them in here. \[Points to photo of her father.\] That
+just kept sticking them in here. \Points to photo of her father.\ That
 was a photograph he took in advance, in case he won the dancing
 competition\! So that was taken about a week before he died. He didn’t
 look as if he was a sick man. And I think there might have been a bubble
@@ -434,7 +434,7 @@ So you went to Portsmouth Technical College . . .
 
 **Slater:**
 
-I entered the Portsmouth Technical College \[at age 16\]. Oh, before
+I entered the Portsmouth Technical College \at age 16\. Oh, before
 that I had a course on music, and I was playing in a jazz band. The
 night the war broke out, a Saturday night, the second of September 1939,
 I actually played the piano with Coleman Hawkins\! Because I was a very
@@ -447,7 +447,7 @@ evening performance, he hopped it. But Nat wanted to go on to another
 jazz club that night—just jazzing, you know—and they had no pianist. So
 I was dragged in, because I was in the audience, and they knew that
 there was a little blue-rhythm swing girl\! I had my moment of glory.
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -458,7 +458,7 @@ Wow\!
 Mind, it was only pa-plonk-plonk, pa-plonk-plonk—it wasn’t anything very
 serious. But I knew enough of the background of how to be a jazz pianist
 to satisfy them, and by the time I was playing I dare say they were bit
-tiddly, anyhow\! \[laughs.\] I landed home about three o’clock in the
+tiddly, anyhow\! \laughs.\ I landed home about three o’clock in the
 morning. But he was very kind, Coleman. He was a great, big, fat man,
 and he had a diamond on his little finger, his pinkie, that glistened as
 he was playing. It sparkled. I thought, “Oh, that’s a real one\!”
@@ -541,7 +541,7 @@ and dirty in a boiler suit, with his mayoral chain hanging around his
 neck, clutching the town mace\! And we had to laugh. You know, it did
 relieve the tension; and we thought at the time he’d done it to relieve
 the tension, but he hadn’t; he was quite unconscious he’d got the chain
-around his neck. \[laughs.\] So they joined us then, at that post, and
+around his neck. \laughs.\ So they joined us then, at that post, and
 it became the head post for the rest of the Blitz.
 
 There were a good two thousand people killed in the raids. I went a
@@ -629,7 +629,7 @@ And that was in mathematics and music?
 Well, the entry was the first degree, and I had to pass that in Latin;
 in those days you couldn’t enter a university unless you passed in
 Latin. My mother thought that was wonderful, because it meant I had to
-learn some more Latin\! \[laughs.\] And she did push me, I must admit,
+learn some more Latin\! \laughs.\ And she did push me, I must admit,
 and I did manage to scrape through in Latin. But mathematics was the
 main thing, and music. I think I took a French paper as well; I seem to
 remember a French paper.
@@ -638,9 +638,9 @@ Then I did two years as a student. I don’t know when I slept, because I
 was in the ARP, and the Blitz was going on all the time; Southampton was
 badly blitzed. I was driving this lorry, Southampton-Portsmouth, and
 supplied their ARP depot at the top of Portsdown Hill, or just behind
-the Portsdown Hill, \[in Portsmouth\]. I was driving in the lorry half
+the Portsdown Hill, \in Portsmouth\. I was driving in the lorry half
 the night, and I was supposed to be doing my studies during the day: I
-don’t know when I slept\! \[laughs.\] Anyway, I managed to scrape
+don’t know when I slept\! \laughs.\ Anyway, I managed to scrape
 through the exams and stay alive; that was the main thing.
 
 And then right at the end of the war, I got . . . You’ve got it there.
@@ -649,7 +649,7 @@ And then right at the end of the war, I got . . . You’ve got it there.
 
 **Abbate:**
 
-\[Looking at C.V.\] It says a B.A. in ‘44\.
+\Looking at C.V.\ It says a B.A. in ‘44\.
 
 **Slater:**
 
@@ -672,10 +672,10 @@ Somebody said, “She can do trigonometry\!” Churchill had said that
 people training radar operators—who were at the end of an ack-ack gun,
 trying to point it at an aeroplane that’s dive-bombing them at 300 miles
 an hour—they had to work out by trigonometry what sort of angle they
-should have the gun pointed at\! \[laughs.\] It’s absolutely ridiculous.
+should have the gun pointed at\! \laughs.\ It’s absolutely ridiculous.
 But anyway, they sent me down from Winchester, all the way to
 Brockenhurst, nearly at Christchurch, in a place that’s called SRDE
-\[the Signals Research and Development Establishment\]. I went and gave
+\the Signals Research and Development Establishment\. I went and gave
 them a lecture every Friday afternoon, and it was the Americans who took
 me in a jeep, and brought me back to Southampton, where I was actually
 living. That went on for a few months, in the late part of the war; and
@@ -722,7 +722,7 @@ always liked the algebraic mathematics and numerical mathematics; not
 all this rings and fields and whatnot, which had hardly started then; I
 never liked that. So I worked at that for a bit, and then I got the
 honors degree in 1947\. I still don’t know how I managed to do it\!
-\[laughs.\] You know, there was such a lot of work to be done. I
+\laughs.\ You know, there was such a lot of work to be done. I
 couldn’t do it now\!
 
 I got the honors degree. As I said, I was very interested in the fact
@@ -731,7 +731,7 @@ and a bit of paper, or possibly a hand-driven machine where you could
 turn the handle—like a gas-meter sort of thing—and do calculations.
 Brunsvigas, they were called. We’d acquired some—we acquired some rather
 nice brandy, too—from Alamain. Why anyone wanted to lug one of those
-things all the way from Alamain, I don’t know\! \[laughs.\] It was a
+things all the way from Alamain, I don’t know\! \laughs.\ It was a
 German machine, and it was quite a good little machine.
 
 I went to Bedford College, and I started doing proper theoretical
@@ -744,7 +744,7 @@ I got fifteen pounds a quarter from the Drapers Company, and I got
 another grant from a thing called Scientific Research and Developments
 Grants; they gave me a grant for three years. I had the Drapers Company
 grant for the first year, I think it was, and then I got a three-year
-grant; and I finished the \[honors degree at Southampton\] in two—so I
+grant; and I finished the \honors degree at Southampton\ in two—so I
 had a year to spare\! I turned my eyes to London, and to Bedford
 College. I went and studied under Professor Bailey.
 
@@ -756,16 +756,16 @@ knowledge about how big a bang it was going to make\! And they were
 doing it in the desert in Utah. Why they didn’t blow half of America up
 is a mystery. They were already considering the hydrogen bomb, yet they
 couldn’t solve the Schroedinger equations\! So the National Bureau of
-Standards came in the act—a man called \[Alston S.\] Householder.
+Standards came in the act—a man called \Alston S.\ Householder.
 
-\[pauses to pull out some books.\]
+\pauses to pull out some books.\
 
 Anyway, I did manage to produce some theoretical solutions of the
-hydrogen equations \[in my 1948 degree work, “Functions of Complex
-Variables” and “Functions of Mathematical Physics”\]. Some years later
+hydrogen equations \in my 1948 degree work, “Functions of Complex
+Variables” and “Functions of Mathematical Physics”\. Some years later
 I’ve got a thick chapter in the Handbook of Mathematical Functions.
 And some years after that, the Russians pinched it and republished it\!
-\[Shows a copy of the same book in Russian.\]
+\Shows a copy of the same book in Russian.\
 
 **Abbate:**
 
@@ -776,10 +776,10 @@ In Russian.
 And they never paid me any royalties\! I was rather annoyed. The
 Americans paid royalties, but the Russians didn’t. They said that they
 were not in a position to pay royalties, but if I would go to Russia,
-they would entertain me\! \[laughs.\] I thought, “Yes, but would they
+they would entertain me\! \laughs.\ I thought, “Yes, but would they
 ever let me go?” Because it was very sensitive material—the hydrogen
 bomb, you know\! No wonder they wanted me to go to Russia; I’d be still
-sitting there in some labor camp or something\! \[laughs.\]
+sitting there in some labor camp or something\! \laughs.\
 
 **Abbate:**
 
@@ -799,12 +799,12 @@ How did you get to Cambridge?
 
 **Slater:**
 
-I have to go back to the place near Christchurch, \[the Signals Research
-and Development Establishment\]. There was a man called Eric Mutch, and
+I have to go back to the place near Christchurch, \the Signals Research
+and Development Establishment\. There was a man called Eric Mutch, and
 he had something to do with it; I’m not quite clear what. When you go
 see Mrs. Marrs you might ask her. I’d met him before, and I met him in
-London. There was a big exhibition in London, \[the 1951 Festival of
-Britain,\] where they had a dome—Dome of Discovery, it was called—really
+London. There was a big exhibition in London, \the 1951 Festival of
+Britain,\ where they had a dome—Dome of Discovery, it was called—really
 like the one that’s just finished now.
 
 **Abbate:**
@@ -829,7 +829,7 @@ all so top secret.
 
 Then I got an invitation from Fort Halstead. They were the people in
 England who were doing the same work, very top-secret. I went down to
-\[the Atomic Energy Research Establishment at\] Harwell for an
+\the Atomic Energy Research Establishment at\ Harwell for an
 interview. The man who was interviewing me met me at the door and took
 me in with him. Then, when we’d had the interview, he went home, and I
 went and had some lunch. I’m still inside Harwell. I went to the door,
@@ -846,11 +846,11 @@ to make me a Senior Scientific Officer, but because I was a woman, I was
 only going to get the salary of a Scientific Officer. Well, her Irish
 blood was fully roused, and she told me what I could do with it—that I
 wasn’t her daughter if I was going to stand for that\! Oh, when she lost
-her temper, she could make a good job of it. \[Points to a photo of her
-mother on the wall.\] That’s her behind there. She looks very peaceful,
-but . . .\! \[laughs.\] So I declined. I didn’t actually decline; I
+her temper, she could make a good job of it. \Points to a photo of her
+mother on the wall.\ That’s her behind there. She looks very peaceful,
+but . . .\! \laughs.\ So I declined. I didn’t actually decline; I
 said, “I’m not working unless I get the same salary as a man.” And they
-wrote back and said, “Oh, certainly\!” Shocked me\! \[laughs.\] So I
+wrote back and said, “Oh, certainly\!” Shocked me\! \laughs.\ So I
 then declined; I said I already had another job.
 
 **Abbate:**
@@ -873,10 +873,10 @@ That was 1951\. I’d already been to Cambridge, in ‘49, and there was
 some difficulty because I wasn’t a Cambridge graduate. So ‘49 and ‘50
 were spent halfway between Cambridge and Bedford College, where I was
 writing a thesis on the theory of functions, the Schroedinger Equation
-solutions. These are books and things, here. \[Indicates a shelf holding
+solutions. These are books and things, here. \Indicates a shelf holding
 her London M.A. thesis, “Generalized Hypergeometric Series,” 1949; her
 London Ph.D. thesis, “Functions of Hypergeometric Type,” 1951; and her
-Cambridge Ph.D. thesis, “Hypergeometric Integrals,” 1953\.\]
+Cambridge Ph.D. thesis, “Hypergeometric Integrals,” 1953\.\
 
 \
 
@@ -917,7 +917,7 @@ getting. I can’t remember, except that the machine was being developed.
 I was wanting to get here to Cambridge, and I’d got a year’s grant
 spare. It was just curiosity; it wasn’t anything else driving me, except
 wanting to get real numbers into these theoretical equations, before
-somebody blew the world up\! \[laughs.\]
+somebody blew the world up\! \laughs.\
 
 **Abbate:**
 
@@ -930,12 +930,12 @@ Yes: with a pencil and a bit of paper, and then with a hand-driven
 Brunsviga, and then an electric Facit . So when I got to Cambridge, I
 knew how to do it by hand. The standard books in those days—I don’t know
 if you’ve got a list of those, have you? I haven’t got a list of them,
-but I’ve got some of them here. \[Takes more books from shelf.\] These
+but I’ve got some of them here. \Takes more books from shelf.\ These
 were required reading. I think this is probably the first one.
 
 **Abbate:**
 
-Douglas R. Hartree, Numerical Analysis. \[Oxford, 1952\.\]
+Douglas R. Hartree, Numerical Analysis. \Oxford, 1952\.\
 
 **Slater:**
 
@@ -943,23 +943,23 @@ Hartree, yes; and that other one by Hartree.
 
 **Abbate:**
 
-Calculating Instruments and Machines. \[University of Illinois, 1949\.\]
+Calculating Instruments and Machines. \University of Illinois, 1949\.\
 
 **Slater:**
 
-And this one that was published at the Lab. \[Shows book.\] This is
+And this one that was published at the Lab. \Shows book.\ This is
 EDSAC I. That’s Wilkes, Wheeler, and Gill.
 
 **Abbate:**
 
 Preparation of Programmes for an Electronic Digital Computer, by Maurice
-Wilkes, David Wheeler, and Stanley Gill. \[Addison-Wesley, 1951\]. I
+Wilkes, David Wheeler, and Stanley Gill. \Addison-Wesley, 1951\. I
 think they used the same books in the United States.
 
 **Slater:**
 
 Oh yes, I’m sure they must have. But that was the first proper book on a
-computer, as distinct from calculating machines\! \[laughs.\] Because
+computer, as distinct from calculating machines\! \laughs.\ Because
 the American work was all geared to the atomic bombs, and it was theory,
 you know.
 
@@ -983,13 +983,13 @@ M.A., Ph.D., and later a D.Litt. at London, so that was five at London;
 so I must have a Ph.D. and an Sc.D. at Cambridge: that makes seven.
 
 Anyway, I land in Cambridge, and I go to the Lab, and the first thing I
-discovered was \[laughs\]: there were no toilets for women\! They
+discovered was \laughs\: there were no toilets for women\! They
 employed women—there were people to do the cleaning, people to make the
 tea, people to do the typing—but there were no female toilets. It didn’t
 bother me too much, because I’d been using unisex toilets all through
 the war, you know; just one toilet for the whole staff of the ARP post,
 and you were lucky. But it bothered the men\! They said, “What happens
-when we want to go, and she’s in there?” \[laughs.\] And I said, “Well,
+when we want to go, and she’s in there?” \laughs.\ And I said, “Well,
 I’m not working all night and going down three flights of steps and
 across the courtyard and then down some more steps to get to a ladies’
 toilet—in the pouring rain, and leaving the computer on its own\!”
@@ -1004,7 +1004,7 @@ in that picture , the valves. The thing that happened was, the valves
 rose up in their seats—got a bit sort of loose, overheating. It was
 terrific heat in the room; they’d got a hundred kilowatts going through.
 So you just gave it a hearty kick, and sometimes that got it going
-again\! \[laughs.\] Surprising\! And the other thing was: We had a lot
+again\! \laughs.\ Surprising\! And the other thing was: We had a lot
 of trouble with things setting on fire, because the engineers kept
 joining bits on without calculating whether there was any power supplies
 available to feed these things. Down in the basement is the power supply
@@ -1014,7 +1014,7 @@ grille to get into the basement, to put it out that way. And the poor
 engineer was having a blue fit, and he says, “No, no\! I’ll do it\! I’ll
 do it\!” Because it would have ruined the whole thing. And we were on
 the top floor, on the fourth floor, so we didn’t know what was going on.
-We could have been fried very easily\! \[laughs.\]
+We could have been fried very easily\! \laughs.\
 
 But they were good times; we had a lot of fun. We were developing
 something new. We never foresaw how big it was going to be, but we did
@@ -1023,7 +1023,7 @@ Cow—which is still there, quite a nice pub—and just before closing
 time, anybody who was around was dispatched over there to get sustenance
 for the rest of the night; and if it was something that needed to be
 kept warm, we could put it on the top of the delayed store on EDSAC I.
-\[laughs.\] Well, it was generating a hundred kilowatts; it was almost
+\laughs.\ Well, it was generating a hundred kilowatts; it was almost
 as good as an electric oven\! And we could keep it warm then, and even
 overcook it sometimes, until we were ready to eat it. We usually had a
 good meal about midnight, and then one operator went on running the
@@ -1031,7 +1031,7 @@ machine, and the other one went off home. Again, I don’t know when I
 slept: because I was writing during the day, teaching students, and
 trying to earn a few bob on the side, you know. I don’t know when I
 slept. I was very short of sleep from 1940 to about 1960, that’s all I
-can say\! \[laughs.\] I got used to being short of sleep, I suppose.
+can say\! \laughs.\ I got used to being short of sleep, I suppose.
 
 **Abbate:**
 
@@ -1054,10 +1054,10 @@ Yes.
 
 **Slater:**
 
-So you know what its capacity was. \[EDSAC I had 1024 17-bit words of
-memory.\] I’ve got a little book somewhere about it. That’s it: the
-supplement \[to Preparation of Programmes for an Electronic Digital
-Computer\]. I don’t know whether you’ve seen that, because it was a
+So you know what its capacity was. \EDSAC I had 1024 17-bit words of
+memory.\ I’ve got a little book somewhere about it. That’s it: the
+supplement \to Preparation of Programmes for an Electronic Digital
+Computer\. I don’t know whether you’ve seen that, because it was a
 supplement that was issued to the Lab. Now you’ve seen the proper book,
 and that’s a supplement—to give you an idea of what we were doing.
 
@@ -1069,7 +1069,7 @@ How long would it take to run your program?
 
 Well, it depended how long it ran\! It was a program that could go on
 running, and in theory it could have calculated everything I needed—if
-it had gone on running. \[laughs.\] It ran until something broke down\!
+it had gone on running. \laughs.\ It ran until something broke down\!
 
 **Abbate:**
 
@@ -1079,7 +1079,7 @@ It would run for hours?
 
 Oh, yes, it would have gone on indefinitely—if the computer had run
 indefinitely. I suppose about fifteen minutes would be a very long run
-indeed\! \[laughs.\] Then it was a case of a hearty kick and a few swear
+indeed\! \laughs.\ Then it was a case of a hearty kick and a few swear
 words from the men.
 
 There were two engineers at that time, Sid Barton and Wilf Waldock; and
@@ -1161,7 +1161,7 @@ How did you learn it? Did someone train you to use it?
 
 There was nobody training anybody, because it was all new\! You couldn’t
 learn something, you had to discover what worked. And write it down if
-it did—quick, before the spots vanished\! \[laughs.\] It was very hard
+it did—quick, before the spots vanished\! \laughs.\ It was very hard
 going, you know, even such a simple little thing as getting a number to
 come out in the right order. I calculated “e” as my first real
 calculation on the computer. One-point-whatever-it-is—you know, “e.”
@@ -1177,7 +1177,7 @@ program did what it was expected to do.
 
 Women had the patience: that was the point. We had the patience to try,
 and if we didn’t succeed, try again. If you’ve ever baked a sponge cake,
-you know what it’s like\! \[laughs.\]
+you know what it’s like\! \laughs.\
 
 **Abbate:**
 
@@ -1206,7 +1206,7 @@ science library, I suppose. I’ve forgotten where it was now, but it was
 a long walk. It was ridiculous\! But the men’s lavatory was all right
 when I was using it, because the men had to whistle before they went in,
 in case I was in there\! And I was singing, in case they did come in
-without whistling. \[laughs.\]
+without whistling. \laughs.\
 
 I mean, it was true: if you’re working at night you can’t leave a thing
 like that—worth about £30,000 at those prices—on its own, when it’s
@@ -1237,7 +1237,7 @@ know if I had a nice pair of legs or not, but I kept them tucked away,
 and wore fairly long, drab clothes. I didn’t wear trousers in the Lab—I
 had worn enough trousers in the war—but I did keep my clothing sort of
 subdued and not attractive. I was trying to not attract. I didn’t always
-succeed \[laughs\], but still, most of them got the message.
+succeed \laughs\, but still, most of them got the message.
 
 One woman came to see the Lab in the evening, just knocked on the door
 and said Could she come in? She was somebody’s wife. I said, “Oh yes,
@@ -1247,8 +1247,8 @@ out again. And I said something like, “Did you see what you wanted to
 see?” She said, “Oh yes; and I’ve met you, and I know now there’s
 nothing to worry about\!” I thought to myself, “What on earth was she
 worrying about?” I said this to my mother, and she says, “Well, she was
-probably worrying about her husband making a pass at you\!” \[laughs.\]
-That was the conclusion we reached. \[laughs.\] Oh, dear\! We did have
+probably worrying about her husband making a pass at you\!” \laughs.\
+That was the conclusion we reached. \laughs.\ Oh, dear\! We did have
 fun.
 
 I don’t know what else I can tell you. At that time I was concentrating
@@ -1265,8 +1265,8 @@ the Americans on the Schroedinger solutions and got paid for that. I got
 $1300 for that, which was a lot of money in those days; I bought a new
 car with it. I had the greatest difficulty in getting it out of Milton
 Abramovich. He didn’t want to pay—didn’t want to part with the money.
-\[laughs.\] Well, I got by all right. I wasn’t rich, but I wasn’t
-without money, and the taxman never knew\! \[laughs.\] I don’t suppose
+\laughs.\ Well, I got by all right. I wasn’t rich, but I wasn’t
+without money, and the taxman never knew\! \laughs.\ I don’t suppose
 the university authorities did either. But the programs got made; they
 got made and they worked, and that was all that was needed.
 
@@ -1285,7 +1285,7 @@ me a fellowship at Newnham College about that time, for three years.
 
 **Abbate:**
 
-\[Looking at CV:\] So that’s the Bateson research fellowship, 1953-56\.
+\Looking at CV:\ So that’s the Bateson research fellowship, 1953-56\.
 
 **Slater:**
 
@@ -1315,13 +1315,13 @@ doing work for applied economics whilst I was on the fellowship, quite
 legally. In the meantime, I published a lot of theoretical papers in
 London, and I got the London D. Litt. in 1956\.
 
-\[She looks through several volumes of books with green bindings.\] Yes,
+\She looks through several volumes of books with green bindings.\ Yes,
 that’s the sort of stuff.
 
 **Abbate:**
 
-These are publications of the Department of Applied Mathematics. \[A
-multi-volume series titled A Programme for Growth.\]
+These are publications of the Department of Applied Mathematics. \A
+multi-volume series titled A Programme for Growth.\
 
 **Slater:**
 
@@ -1336,7 +1336,7 @@ A Computable Model of Economic Growth.
 
 Yes. You’ll find a list of those in that CV I gave you. And that was the
 dream: a computable model of economic growth. I had to find out how to
-do regression analysis on a computer\! \[laughs.\] And how to invert a
+do regression analysis on a computer\! \laughs.\ And how to invert a
 matrix on a computer. Everything had to be done from scratch.
 
 **Abbate:**
@@ -1369,11 +1369,11 @@ We then got requests from all sorts of people. Mars Bars springs to
 mind. The Mars toffee people were very interested in getting a matrix of
 twelve-by-twelve inverted. But how could they pay us? We said, “Oh well,
 we’ll have samples\!” They sent up a great big box , and we were eating
-Mars Bars and I don’t know what\! \[laughs.\]
+Mars Bars and I don’t know what\! \laughs.\
 
 **Abbate:**
 
-They paid you in chocolate bars? \[laughs.\]
+They paid you in chocolate bars? \laughs.\
 
 **Slater:**
 
@@ -1381,7 +1381,7 @@ Yes, they paid us with a great big crate full of all sorts of Mars Bars
 and things like that that they made\! Because they hadn’t got money to
 pay for that sort of research, you see, but they could send out samples.
 And one of the engineers said, “Why don’t we do some work for the beer
-people?” \[laughs.\]
+people?” \laughs.\
 
 That’s how it went on: Unofficial calculations being done all over the
 place for all sorts of unlikely people. I remember one chap did some
@@ -1409,7 +1409,7 @@ This was computing in the economics department?
 No, no, there was no computing in the economics department, except for
 the inevitable woman room—a room full of about ten or twelve women, all
 desperately churning away on ordinary Marchant calculators. It was to
-get the \[economics department’s\] data ready.
+get the \economics department’s\ data ready.
 
 At the interview, there were two old men there who were very senior
 economists. I said that I needed somebody to help me with the punching.
@@ -1419,7 +1419,7 @@ meant, but Professor Robertson didn’t. He was a generation before them.
 He looked horrified, and he said, “Do you mean you have to fight to get
 your own work done?” I couldn’t understand what he was talking about.
 The other men laughed, and then somebody explained to him that it was
-paper tape, and it was punching holes in paper tapes\! \[laughs.\]
+paper tape, and it was punching holes in paper tapes\! \laughs.\
 Anyway, I got the job then to get their computing put in order.
 
 **Abbate:**
@@ -1429,7 +1429,7 @@ call it?
 
 **Slater:**
 
-Me: I was the group\! \[laughs.\] And I had a girl called Ruth Loshack.
+Me: I was the group\! \laughs.\ And I had a girl called Ruth Loshack.
 Harry Loshack was the secretary for the department, and she was his
 daughter. So I trained her to do some punching for me. It was a typing
 job, but she had to be able to check that the pattern of holes was
@@ -1451,7 +1451,7 @@ it, and then I ran it in the night. A young man called Feinstein who
 worked in the department developed a desire to come and collect her from
 her work, and I thought, “Aye, aye, what’s going on here?” It wasn’t
 very long before they were married\! So I lost my computer puncher.
-\[laughs.\] Somebody else took the job on, then.
+\laughs.\ Somebody else took the job on, then.
 
 I had a very good research assistant called Gilbert Warren. He came to
 me about then, and he would help to run the programs. He was an
@@ -1460,7 +1460,7 @@ but he picked it up very quickly and helped me to run the things at
 night, so that I actually could go home and get a bit of sleep\!
 
 About the same time, we start developing this idea of the model of the
-economy. \[Indicates A Computable Model of Economic Growth.\]
+economy. \Indicates A Computable Model of Economic Growth.\
 
 **Abbate:**
 
@@ -1471,7 +1471,7 @@ Now, for whom were you doing this?
 Professor Sir Richard Stone. He became a knight; he was knighted
 afterwards for his work for the Treasury, actually, because they did
 take a model of the economy. They never used it, but they paid us for
-it, and took it and put it on the shelf somewhere\! \[laughs.\]
+it, and took it and put it on the shelf somewhere\! \laughs.\
 
 ### Research into Economics
 
@@ -1485,7 +1485,7 @@ were working on this computable model of the economy?
 
 Yes. A number of economists who are now famous people—like Mervyn King,
 who is the Director of the Bank of England; and Dr. Bhatacharia, who was
-killed on 9/11 in the World Trade Tower One, Floor 50—many economists
+killed on 911 in the World Trade Tower One, Floor 50—many economists
 who are now at the peak of their careers came to learn from me, in
 Applied Economics, how to use a computer. You know: how to do a bit of
 statistics, and how to invert a matrix without it being too singular,
@@ -1493,7 +1493,7 @@ and that sort of thing; the numeric side of it. It was better than
 atomic bombs. If I’d taken the job at Fort Halstead, I would have been
 designing atomic bombs, and that would have clashed with my religious
 principles. I felt that if I got something wrong in Applied Economics,
-the worst that could happen would be a recession\! \[laughs.\] It rather
+the worst that could happen would be a recession\! \laughs.\ It rather
 comforted me that the stuff went to the Treasury, because they were
 paying to finance all this work and they never did anything with it.
 They hadn’t even got a computer to run it on in those days\!
@@ -1554,7 +1554,7 @@ off. He’d go around with one of the engineers, usually Sid, and he’d buy
 up anything that they thought might be useful. There was a crate of
 valves, 144 valves. They’d get it into the Lab, and then start wondering
 what to use it for. One day they bought the whole of the inside of a
-control tower\! \[laughs.\] And it was left standing outside, because it
+control tower\! \laughs.\ And it was left standing outside, because it
 was too big to go in the Lab. They had to dismantle it and take the bits
 they wanted and then pay somebody to cart the rest away. That was the
 very early days of EDSAC I, though Wilkes can tell you more about that
@@ -1570,8 +1570,8 @@ Yes, I more or less went round collecting computers. I started with
 EDSAC I. Well, I suppose I played with the Imperial College one, the one
 that did that game called—was it Min? Anyway, it was noughts and
 crosses, and I used to play with that sometimes. Then I got to
-Cambridge, and I used the EDSAC I. I went over to \[the National
-Physical Lab at\] Teddington to look at their Ace machine, which was
+Cambridge, and I used the EDSAC I. I went over to \the National
+Physical Lab at\ Teddington to look at their Ace machine, which was
 starting to work about the same time, and the second Ace. And I went up
 to Manchester, of course, on a regular basis, because I still had a lot
 of relatives there. They wanted me to go and work at Ferranti’s.
@@ -1579,7 +1579,7 @@ Ferranti says, “Oh, I’d like you to come and work here,” and I say, “Oh,
 I don’t like it up here; there’s no sunshine\!” It was a very Manchester
 sort of day; you must take your umbrella when you go to Manchester. And
 he says, “Well, we could paint a blue ceiling on your office\!”
-\[laughs.\]
+\laughs.\
 
 That was the Pegasus I. I had a finger in Pegasus I, and there were
 later Ferranti machines, and sometimes I did a little job for them, a
@@ -1587,7 +1587,7 @@ programming sort of job. Well, it was really systems analysis—to show
 what they had to make the machine do, rather than doing it myself—using
 the experience I’d gained on EDSAC. I usually went up in the summer for
 a week or two, you know, and earned a few bob. Again, it was all
-back-pocket money; the taxman never knew about it\! \[laughs.\] Well, I
+back-pocket money; the taxman never knew about it\! \laughs.\ Well, I
 got a good lunch and about ten quid in my pocket, and that was better
 than having twenty quid in my pocket and income tax at 50p in the pound.
 
@@ -1615,17 +1615,17 @@ told him how things were going, and he invited me to go and see him. I
 think he was a bit doubtful about a woman setting up the computer; I
 think that’s what his hang-up was. But when I turned the full blast of
 my charm on him, he gave us double what I’d asked for for a new storage
-unit\! \[laughs.\] And I had a very satisfactory day with him. It was
+unit\! \laughs.\ And I had a very satisfactory day with him. It was
 Alan Brown who’d got that phrase; he said, “You must have turned the
-full blast of your charm on him\!” \[laughs.\] It stuck: People said,
+full blast of your charm on him\!” \laughs.\ It stuck: People said,
 “Oh, come and turn the full blast of your charm on so-and-so; we can’t
-get him to do this or that.” \[laughs.\] But he was very kind to us.
+get him to do this or that.” \laughs.\ But he was very kind to us.
 
 The first year I was in Cambridge, my mother had come to live with me,
 and she said, “There’s nothing for me in Cambridge; I think I’ll go and
 get a bungalow at the seaside.” So she went off and bought a bungalow at
 the seaside—and it was the wrong way of the stuff: it’s the daughter who
-leaves the mother, not the mother who leaves the daughter\! \[laughs.\]
+leaves the mother, not the mother who leaves the daughter\! \laughs.\
 She was always a bit of a lateral thinker. But whilst I was at the
 University of Essex, I actually stayed in her bungalow for the six
 months involved, and then the next year I went back again for another
@@ -1653,7 +1653,7 @@ the Atlantic in those days. What was it called? It was an Italian liner;
 the Angelina Lauro? Anyway, everybody had to be rescued. I don’t think
 there were many people killed, but the boat was burned out, and there
 was no boat to take me to America. Then I thought, “Well, that’s God
-sending me a sign to stay in Cambridge\!” \[laughs.\]
+sending me a sign to stay in Cambridge\!” \laughs.\
 
 **Abbate:**
 
@@ -1662,10 +1662,10 @@ That’s a bit ominous\!
 **Slater:**
 
 I only came for a year, but I’m still here, and that’s—good gracious;
-that’s 52 years ago\! \[laughs.\] So I must like the place. I don’t like
+that’s 52 years ago\! \laughs.\ So I must like the place. I don’t like
 the climate, but I like the place.
 
-\[Suddenly remembering:\] It was Lord Playfair, the fellow who was in
+\Suddenly remembering:\ It was Lord Playfair, the fellow who was in
 charge of ICL at that time, who gave me double what I asked for. And he
 did subsidize that laboratory very heavily. Didn’t live very far from
 it, so that’s perhaps why.
@@ -1673,7 +1673,7 @@ it, so that’s perhaps why.
 Notice my backing store is slower now; it took it several minutes to get
 the name “Playfair” out. When I wanted it, it wasn’t there; it’s no
 longer instantaneous. The mind works very like a computer that’s got a
-worn hard disk: it takes longer\! \[laughs.\]
+worn hard disk: it takes longer\! \laughs.\
 
 Now, the other computers: There was the Elliott Number One. That came
 into the Lab when it was being developed, and they used our brains very
@@ -1686,7 +1686,7 @@ Where else did I go? I’ve really forgotten. I went in to London. They
 were setting up a big computing unit in the London University, and I had
 a finger in that pie. I finished up with a CDC there.
 
-\[TAPE 2, SIDE 1\]
+\TAPE 2, SIDE 1\
 
 **Abbate:**
 
@@ -1760,7 +1760,7 @@ changed, we had to go around this world link—and that was a computer
 pioneering effort\! You had to get up in the night and do it, because
 the land lines were so busy and so bad in the day, and then you had to
 say, “Now, what time is it in San Francisco? Is their line going to be
-quiet now?” \[laughs.\] And it fun\! You know, it was sort of fun. But
+quiet now?” \laughs.\ And it fun\! You know, it was sort of fun. But
 the lines were very bad.
 
 **Abbate:**
@@ -1773,7 +1773,7 @@ Very early\! Oh, before that we’d had a network in England, in the
 university. I remember somebody coming to try and sell us a new computer
 about 1960, and he says, “Oh, you’ll be able to send messages from here
 to your office in Sidgwick Avenue.” And I said, “I’ve been doing that
-for three years\!” \[laughs.\] You know, we had a network all over the
+for three years\!” \laughs.\ You know, we had a network all over the
 university very early. Mrs. Mutch might be able to give you a date,
 because I had no part in the development. But the time came when I
 didn’t have to move from my office; I could do what I wanted to do in
@@ -1784,7 +1784,7 @@ was certainly a network in the university very early. And then it
 extended to various other universities and was over all the universities
 of England, or all the big ones. London and Manchester early, and then
 the others followed; Oxford was quite late. Oxford always lagged behind,
-I don’t know why. They didn’t approve of numbers\! \[both laugh.\]
+I don’t know why. They didn’t approve of numbers\! \both laugh.\
 
 **Abbate:**
 
@@ -1792,12 +1792,12 @@ What that JANET, the Joint Academic Network?
 
 **Slater:**
 
-Oh, that’s the later name for it, yes. \[laughs.\] But I remember
+Oh, that’s the later name for it, yes. \laughs.\ But I remember
 Professor Kaldor in a committee meeting; we’d been discussing what we
 were wanting in the way of money to buy more computing machinery, which
 was always my story; and Stone always backed me. And Kaldor says, “Dr.
 Slater has infected the entire faculty of economics with numeracy\!”
-\[both laugh.\] He said it in a tone of voice that made it sound like
+\both laugh.\ He said it in a tone of voice that made it sound like
 the Black Plague\! He couldn’t do sums beyond the back of an envelope.
 He was at that time the head Economic Advisor to the Wilson Government,
 and it seemed awful to me that the head advisors couldn’t do sums; they
@@ -1825,7 +1825,7 @@ afterwards Stone got the Nobel Prize\!
 
 **Abbate:**
 
-\[Looking at CV:\] In 1986\.
+\Looking at CV:\ In 1986\.
 
 **Slater:**
 
@@ -1835,7 +1835,7 @@ course, by that time I was almost retired.
 
 **Abbate:**
 
-\[Looking at CV:\] You say you retired in ‘82 but became a Research
+\Looking at CV:\ You say you retired in ‘82 but became a Research
 Associate.
 
 **Slater:**
@@ -1850,14 +1850,14 @@ how he felt that I ought to have had a share in the prize—he had it as
 the head of the thing; I think there was a bit of prejudice against
 women in that—but was there anything he could do? And I said, “Well, you
 can back me putting in for the Sc.D.” Turned my charm on him\!
-\[laughs.\] And he said, “Oh, certainly\!” So I got the Sc.D.
+\laughs.\ And he said, “Oh, certainly\!” So I got the Sc.D.
 
 Now, it was very, very unusual in those days for a woman to get an Sc.D.
 from Cambridge. Other universities, yes. No trouble in London, but
 Cambridge: oh\! “Women? Women don’t have brains; you can’t give them a
 higher degree like that\!” My mother was absolutely tickled pink\! Her
 suffragette blood was raised; oh, she was proud of it\! Far prouder than
-I was. \[Indicates photograph from degree ceremony.\] I mean, there’s
+I was. \Indicates photograph from degree ceremony.\ I mean, there’s
 the gown in the photograph, but I wasn’t bothered—you know, another
 degree. I went to the degree ceremony, and she got all her friends from
 far, wide, and near, and there’s a whole row of them at the degree
@@ -1895,7 +1895,7 @@ and even then I like a bit of white with it. Also I had navy blue shoes,
 and I had to have white gloves. I said, “I have no clothing coupons to
 buy white gloves.” They were very scarce, clothing coupons. You could do
 anything for clothing coupons—lose your virginity, pretty well\!
-\[laughs.\] I didn’t, but I could have done\! They was so scarce to get
+\laughs.\ I didn’t, but I could have done\! They was so scarce to get
 hold of in that period, even then, in ‘51\. Miss Duke was the one who
 was in charge of the ladies in Girton who were going to be presented for
 the degrees at the matriculation ceremony. Now, I had navy blue clothes,
@@ -1917,10 +1917,10 @@ That’s right\! I mean, it might just have sort of shown a little bit, or
 the shoes might—but nobody’s going to be looking through a magnifying
 glass. In fact I had dark gloves instead of white gloves. But Miss Duke
 said I was “letting the college down.” She didn’t say that when I was
-being presented for the Sc.D.\! \[laughs.\] She had the job of doing
+being presented for the Sc.D.\! \laughs.\ She had the job of doing
 that. And I wore something rather bright that day\! It was a sort of
 grey with a Jacquard pattern on it; I’ve got it on in that picture
-there. Much brighter than it should have been\! \[laughs.\]
+there. Much brighter than it should have been\! \laughs.\
 
 To go back to the matriculation ceremony: The Girton College had a house
 in the town in those days for the ladies of Girton, so that they
@@ -1933,17 +1933,17 @@ quite know how it happened, but the last bicycle sort of tipped over and
 brought a lot of other bicycles with it. So here are we, Miss Duke’s
 charges, on King’s Parade; and there was Miss Duke, just leaving the
 town house, making sure it’s locked properly, in case any men got in;
-and all this barricade of bicycles between her and us\! \[laughs.\] We,
+and all this barricade of bicycles between her and us\! \laughs.\ We,
 being good students, walked along King’s Parade in due order and landed
 at the Senate House, but Miss Duke wasn’t with us, and she was our
 Proctor\! It was unheard of for the whole college to go without the
 Proctor to guide them; and she got into awful trouble with the
-authorities, because she’d got left behind. \[laughs.\] Of course, I was
+authorities, because she’d got left behind. \laughs.\ Of course, I was
 the last one in the queue—so I won’t say who it was who just gave the
-bicycle a little nudge\! \[laughs.\] Oh dear\! We did have fun in those
+bicycle a little nudge\! \laughs.\ Oh dear\! We did have fun in those
 days. I suppose it was a sort of spring release factor after the war.
 After what had happened in the war, it didn’t matter tuppence what we
-did after that; we enjoyed ourselves\! \[laughs.\]
+did after that; we enjoyed ourselves\! \laughs.\
 
 **Abbate:**
 
@@ -1964,7 +1964,7 @@ his own; he’d never married. In the local newspaper, it was printed as
 been printed; all I knew was that a number of my gentleman friends had
 suddenly decided they wanted to take me out to lunch and be very nice to
 me; really making up to me\! I thought, “Goodness, I must be using the
-right scent or something\!” \[both laugh.\] Three colleges offered me
+right scent or something\!” \both laugh.\ Three colleges offered me
 fellowships: Girton, Newnham, and New Hall (we used to call it St.
 Trinian’s); they all wanted me to go and be Full Fellowships, as
 distinct from Research Fellowships. And I said—probably to Miss Edmunds;
@@ -1979,7 +1979,7 @@ said in the newspaper\!” Then it came out why I was so popular all at
 once\! I was annoyed, I don’t mind telling you. There was only one man
 who’d been as he normally was with me, and I told him. He laughed and he
 said, “I’m still your friend, aren’t I?” I said, “Well, you were the
-only one who treated me normally\!” \[laughs.\] But it did destroy my
+only one who treated me normally\!” \laughs.\ But it did destroy my
 faith in human nature. I’d been doing the work; I’d been eating at
 Newnham. I had dining rights at Girton and Newnham, and they made me an
 associate or something at New Hall, because I was one of their
@@ -2014,7 +2014,7 @@ Is it the same family?
 The same family. And John Dalton, the atomic scientist: same bloodline.
 Hugh Dalton, the Chancellor of the Exchequer who got into trouble for
 letting out the budget secrets: same bloodline. So my mother had a very
-good bloodline. \[laughs.\]
+good bloodline. \laughs.\
 
 **Abbate:**
 
@@ -2042,7 +2042,7 @@ That was during the war, yes. And he was posted “missing, not believed
 killed.” So they didn’t have the knowledge that he was dead, and for a
 long time they gave his mother a pension, and she didn’t live very long
 after she’d got the pension. If I’d married him before he went, I should
-have had a pension to this day\! \[laughs.\] But I said, “Oh no\! Let’s
+have had a pension to this day\! \laughs.\ But I said, “Oh no\! Let’s
 wait till after the war.”
 
 Then there was a mature lover, a man I was very fond of, in London. He
@@ -2058,7 +2058,7 @@ one who did.
 
 I think that’s about it. It put me off: every man I was fond of died.
 And when you’ve tried three times, you think, “God didn’t intend me to
-get married\!” \[laughs.\] And I couldn’t have borne children anyhow,
+get married\!” \laughs.\ And I couldn’t have borne children anyhow,
 because of my injuries. Probably they’d have fixed it today, but they
 didn’t bother then. They didn’t even class me as injured\! And at the
 end of the war, there was a heck of a job getting medals for the ARP; we
@@ -2088,14 +2088,14 @@ and an India rubber; but she said it’s essential to do the sums if
 somebody’s life’s at risk—and she must have spent an awful lot of time
 trying to work out that the aeroplane would fly, because they did, the
 ones she helped to design. I thought about that: it wasn’t lives that I
-was risking in the economy, but \[I still needed\] to get the thing
+was risking in the economy, but \I still needed\ to get the thing
 worked out properly and accurately. Those Schroedinger equations, they
 were the ones that really needed to be done, to get the atomic bombs
 within some kind of idea of what the thing would do. Oh, it turns you
 cold when you think what the hydrogen bomb could have done\! I don’t
 know what happened to Householder, but he used to correspond with me
 regularly, and he would never tell me what he was doing. It was years
-afterwards I found out what was going on in Los Alamos\! \[laughs.\]
+afterwards I found out what was going on in Los Alamos\! \laughs.\
 
 **Abbate:**
 
@@ -2122,7 +2122,7 @@ on the roads in those days; it was about 1960\. That feeling. It gave me
 a kick. And I suppose it’s a kind of sexual thing, because the kick that
 you get out of trying to make love was the same sort of kick I was
 getting out of making the computer work. It seems awful to say you were
-in love with a computer\! \[laughs.\] But it was that kind of heightened
+in love with a computer\! \laughs.\ But it was that kind of heightened
 sensibility, a feeling that something had happened that was very
 important. Well, in all probably it wasn’t, you know; but it was to me.
 And that’s the only way I can express it: that running a fast, really
@@ -2144,14 +2144,14 @@ using—he got the answer, and it had a negative number of cows\! At his
 oral, I’m one of his examiners, and I said, “How do you account for
 that?” And I had to give him top marks for thinking on his feet, because
 he said, “Well, perhaps it shouldn’t have been a dairy farm in the first
-place\!” \[laughs.\] So I let him have an M. Sc. Well, it was such a
+place\!” \laughs.\ So I let him have an M. Sc. Well, it was such a
 good answer\! He’d never noticed that it was a negative number until I
 pointed it out. He hadn’t read his own data and his own results—well,
-not from that point of view. \[laughs.\]
+not from that point of view. \laughs.\
 
 **Abbate:**
 
-I guess not. \[pause\]
+I guess not. \pause\
 
 You were doing a lot of things that had never been done before.
 
@@ -2211,7 +2211,7 @@ He founded that movement, his father and him and a few other people from
 Oldham, and it’s still a powerful movement today. There’s a Co-operative
 Bank, and we’re always buried by the Co-op.
 
-\[recording pauses.\]
+\recording pauses.\
 
 **Slater:**
 
@@ -2223,7 +2223,7 @@ Oh I just had a couple more questions.
 
 **Slater:**
 
-I’m not in any hurry\! \[laughs.\]
+I’m not in any hurry\! \laughs.\
 
 **Abbate:**
 
@@ -2244,7 +2244,7 @@ don’t use it for half the things I could use it for, because I get fed
 up with staring at the screen. People come to me and say, “Did you see
 that on the television last night?” And I say, “No, I’m fed up with
 staring at screens\! I’m not going to stare at the screen just to watch
-something on television.” \[laughs.\] You go off things like screens,
+something on television.” \laughs.\ You go off things like screens,
 particularly as you get older. I think staring at the screen’s the worst
 part of the modern computer now.
 
@@ -2271,12 +2271,12 @@ mummy, a motorcar\!” It was a case of, “Oh look, a motorcar\!” The main
 things were horse and cart, or steam vehicles, steam lorries; to see an
 aeroplane was absolutely unheard of\! I can remember seeing one off
 Bournemouth when I was about five, and the whole promenade was staring
-at it\! \[laughs\] It’s incredible\! But it’s made me more static,
+at it\! \laughs\ It’s incredible\! But it’s made me more static,
 rather than less: because in my youth, I wanted to go to America and see
 what it was like; now if I want to know whether it’s raining in Palo
 Alto, I can just have my cousin on the line. Today she said they had a
 shower yesterday and they probably won’t have another one until October,
-and I e-mailed back to say, “You can have some of ours\!” \[laughs.\]
+and I e-mailed back to say, “You can have some of ours\!” \laughs.\
 But we don’t have earthquakes; that’s the main thing. We may have had a
 Blitz, but that was a one-off (we hope); but she’s got the San Andreas
 Fault, where they live, and I wouldn’t want to live with that hanging
@@ -2290,7 +2290,7 @@ on EDSAC I.
 **Slater:**
 
 Yes. And Bill Gates was paying for our lunch and our dinner, so we let
-him\! \[laughs.\]
+him\! \laughs.\
 
 **Abbate:**
 
@@ -2331,7 +2331,7 @@ something about it, and that’s taking in an awful lot of what you might
 call non-academic labor: you’ve got to be able to type and read, and
 that’s about it. If you can read and type reasonably accurately, you can
 always earn your living with a computer. If you’ve got good brains, you
-can earn a good living, and a good pension to follow on\! \[laughs\]
+can earn a good living, and a good pension to follow on\! \laughs\
 
 The young lady next door has a husband and two children, but she can
 still earn some money because she works for Apple. I don’t quite know
@@ -2370,7 +2370,7 @@ sum total of my experience\!
 
 **Abbate:**
 
-\[laughs.\] Economically speaking.
+\laughs.\ Economically speaking.
 
 **Slater:**
 
@@ -2406,7 +2406,7 @@ week. That’s what I’d be doing now if I weren’t talking to you\!
 
 Physically and mentally, I’m still active, whereas most of my
 compatriots have gone the way of all flesh. Whether they’re active in
-some heavenly computing room, I wouldn’t like to say\! \[laughs.\] Some
+some heavenly computing room, I wouldn’t like to say\! \laughs.\ Some
 of those men died very early. They must have been under great stress. .
 . . Being a computer engineer in the early days must have been very
 stressful, because they all seem to have had heart attacks\!
@@ -2442,59 +2442,59 @@ I stress atrial, because if it was ventricle I wouldn’t be sitting here
 talking to you—I’d be dead\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Lucy_Slater&oldid=108607>"
+"<http:/ethw.org/index.php?title=Oral-History:Lucy_Slater&oldid=108607>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Econometrics](/Category:Econometrics "Category:Econometrics")
-* [Banking](/Category:Banking "Category:Banking")
-* [Military
-  applications](/Category:Military_applications "Category:Military applications")
-* [World War I](/Category:World_War_I "Category:World War I")
-* [World War II](/Category:World_War_II "Category:World War II")
-* [Educational
-  institutions](/Category:Educational_institutions "Category:Educational institutions")
-* [Patents](/Category:Patents "Category:Patents")
+* Econometrics(Category:Econometrics "Category:Econometrics")
+* Banking(Category:Banking "Category:Banking")
+* Military
+  applications(Category:Military_applications "Category:Military applications")
+* World War I(Category:World_War_I "Category:World War I")
+* World War II(Category:World_War_II "Category:World War II")
+* Educational
+  institutions(Category:Educational_institutions "Category:Educational institutions")
+* Patents(Category:Patents "Category:Patents")
 
 ## Contents
 
-* [1 About Lucy Slater](#About_Lucy_Slater)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family](#Family)
-  * [4\.2 Death of Father and Home
-    Schooling](#Death_of_Father_and_Home_Schooling)
-  * [4\.3 Experiences of World War II](#Experiences_of_World_War_II)
-  * [4\.4 Going to College during WWII](#Going_to_College_during_WWII)
-  * [4\.5 Teaching Soldiers
-    Trigonometry](#Teaching_Soldiers_Trigonometry)
-  * [4\.6 Working at Cambridge](#Working_at_Cambridge)
-  * [4\.7 First Interaction with a
-    Computer](#First_Interaction_with_a_Computer)
-  * [4\.8 Working with the EDSAC Computer at
-    Cambridge](#Working_with_the_EDSAC_Computer_at_Cambridge)
-  * [4\.9 Day-to-Day Experience working with
-    Computers](#Day-to-Day_Experience_working_with_Computers)
-  * [4\.10 Advancing her Research](#Advancing_her_Research)
-  * [4\.11 Research into Economics](#Research_into_Economics)
-  * [4\.12 List of the Computers Used during her
-    Career](#List_of_the_Computers_Used_during_her_Career)
-  * [4\.13 Miscellaneous Projects](#Miscellaneous_Projects)
-  * [4\.14 Being a Woman in Academia](#Being_a_Woman_in_Academia)
-  * [4\.15 Changes in the Field](#Changes_in_the_Field)
-  * [4\.16 Final Thoughts](#Final_Thoughts)
+* 1 About Lucy Slater(#About_Lucy_Slater)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family(#Family)
+  * 4\.2 Death of Father and Home
+    Schooling(#Death_of_Father_and_Home_Schooling)
+  * 4\.3 Experiences of World War II(#Experiences_of_World_War_II)
+  * 4\.4 Going to College during WWII(#Going_to_College_during_WWII)
+  * 4\.5 Teaching Soldiers
+    Trigonometry(#Teaching_Soldiers_Trigonometry)
+  * 4\.6 Working at Cambridge(#Working_at_Cambridge)
+  * 4\.7 First Interaction with a
+    Computer(#First_Interaction_with_a_Computer)
+  * 4\.8 Working with the EDSAC Computer at
+    Cambridge(#Working_with_the_EDSAC_Computer_at_Cambridge)
+  * 4\.9 Day-to-Day Experience working with
+    Computers(#Day-to-Day_Experience_working_with_Computers)
+  * 4\.10 Advancing her Research(#Advancing_her_Research)
+  * 4\.11 Research into Economics(#Research_into_Economics)
+  * 4\.12 List of the Computers Used during her
+    Career(#List_of_the_Computers_Used_during_her_Career)
+  * 4\.13 Miscellaneous Projects(#Miscellaneous_Projects)
+  * 4\.14 Being a Woman in Academia(#Being_a_Woman_in_Academia)
+  * 4\.15 Changes in the Field(#Changes_in_the_Field)
+  * 4\.16 Final Thoughts(#Final_Thoughts)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:47\.
 
 * This page has been accessed 2,777 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

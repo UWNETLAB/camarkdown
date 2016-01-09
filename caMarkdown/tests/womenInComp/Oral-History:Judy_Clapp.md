@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Judy_Clapp&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Judy_Clapp&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Judy_Clapp)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Judy_Clapp&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Judy_Clapp "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Judy_Clapp "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Judy_Clapp&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Judy_Clapp&oldid=113039 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Judy_Clapp&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Judy_Clapp)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AJudy+Clapp)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Judy_Clapp&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Judy_Clapp&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Judy_Clapp)
+  
+  * Discussion(index.php?title=Oral-History_talk:Judy_Clapp&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Judy_Clapp "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Judy_Clapp "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Judy_Clapp&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Judy_Clapp&oldid=113039 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Judy_Clapp&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Judy_Clapp)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AJudy+Clapp)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Judy Clapp
@@ -138,7 +138,7 @@ born and where you grew up?
 
 **Clapp:**
 
-You mean I really have to release my age? \[laughs\] I was born in 1930,
+You mean I really have to release my age? \laughs\ I was born in 1930,
 and I grew up on Long Island, outside New York.
 
 **Abbate:**
@@ -177,7 +177,7 @@ place where women could excel without having the usual sorts of social
 implications of competing with men, so I think that was another way in
 which they encouraged me to go do my thing. I went to a public high
 school. I graduated valedictorian—which was not something that endeared
-you with your classmates\! \[laughs.\] So yes, I guess you could say I
+you with your classmates\! \laughs.\ So yes, I guess you could say I
 got parental encouragement to go off and study things. In college, even
 though it was an all-women’s school, there were not very many women in
 science. I majored in math and physics, and there were three of us in
@@ -215,7 +215,7 @@ science?
 
 Math? In high school. I really liked it, I think because you—at least in
 those days, you knew whether you were right or wrong at the end\!
-\[laughter\] And I hated history; I could see no value in it. And I
+\laughter\ And I hated history; I could see no value in it. And I
 liked languages. So when I went to college, I avoided—I liked English,
 but I avoided the history classes—forced to take one art and one music
 class, which I’m glad they forced me to do—but mostly took math and
@@ -230,11 +230,11 @@ think you were going to do?
 **Clapp:**
 
 Well that was it: I couldn’t decide what I could do, and graduate school
-was the easiest solution\! \[laughter.\] And the opportunity to move to
+was the easiest solution\! \laughter.\ And the opportunity to move to
 Cambridge and go to Harvard was certainly appealing. Yes, it was like
 extending school another year, and I did get my M.S. from Radcliffe. In
 those days I had to take my exam by myself in a hall at Radcliffe; I
-could not take my exam with the men over in Mem\[orial\] Hall because I
+could not take my exam with the men over in Mem\orial\ Hall because I
 was a Radcliffe student, not a Harvard student. And that was itself kind
 of amusing: to sit there all by yourself with a proctor and take your
 exam, while everybody else was in this big hall taking their exam.
@@ -392,7 +392,7 @@ Never heard of them. I went . . .
 
 **Abbate:**
 
-So Applied Science, \[your field of study at Harvard,\] was. . .
+So Applied Science, \your field of study at Harvard,\ was. . .
 
 **Clapp:**
 
@@ -423,7 +423,7 @@ the early ‘50s. By the time . . . I forget when we went to Lincoln Lab,
 but again we could find that out . . . and then eventually we became too
 big for Lincoln Lab, and that’s how MITRE was formed. So I went to MITRE
 in ‘58, I think. I never, ever, applied for another job in my life\!
-\[laughter\] My job just kept moving to different places, and different
+\laughter\ My job just kept moving to different places, and different
 responsibilities, and with it a technology that was developing so fast,
 I just . . . I never had to say, “Okay, I’m bored with this job, I think
 I’ll go find another job.” There was always something new to learn,
@@ -451,8 +451,8 @@ I can remember the first time. I was working with a group of people on
 “What kinds of tools should we have for helping programmers to
 program?” And one of the things that we developed was something called a
 “checker,” and what this let you do was say, “I’m going to run this run,
-and here are my expected outputs, and please check what I have \[the
-expected outputs\] against what I got—what got computed—and tell me
+and here are my expected outputs, and please check what I have \the
+expected outputs\ against what I got—what got computed—and tell me
 what’s different.” So that was one way to help you take care of
 getting your run done. Then somebody had a brilliant idea—and I don’t
 know exactly who—but we were developing a system that was very markedly
@@ -460,8 +460,8 @@ different from anything that had been done by people using computers
 before then. They tended to put in some sort of an algorithm, program it
 so that it would run repetitively, and produce tables of outputs. And
 I’m sure you’ve found that remark by Howard Aiken about how “We’ll
-never need more than \[half a dozen computers\]”—also attributed to
-someone at IBM—because by then we’d have printed all the \[tables of\]
+never need more than \half a dozen computers\”—also attributed to
+someone at IBM—because by then we’d have printed all the \tables of\
 Laplace transforms, and all the this, and all the that. Our system was
 interactive with the user. So the user is sitting there and seeing a
 display, interacting with it; the computer is responding; it’s also
@@ -470,7 +470,7 @@ I put a little place on the display where I displayed what the software
 was doing?” And it was a miraculous decision that we could be sitting
 there using this same territory on the screen to show our intermediate
 results. Okay, so now you could program it to see what the system was
-doing internally while you were \[simultaneously\] watching what it was
+doing internally while you were \simultaneously\ watching what it was
 generating externally to the user of the system. So that may have been
 the first time that anybody interactively ran and debugged their
 program.
@@ -485,7 +485,7 @@ Yes. It really was just an eye-opener that you could do this.
 
 **Abbate:**
 
-Was that just the test versions \[of the SAGE program\] that did that?
+Was that just the test versions \of the SAGE program\ that did that?
 
 **Clapp:**
 
@@ -503,7 +503,7 @@ kind of thing?” I developed one of the first database systems—not by
 myself, but with a team—and you could ask it queries, and it would
 respond. But machines were pretty slow in those days, so one day I put
 in a query, and I left. The next morning my office was filled from floor
-to ceiling with paper\! \[laughs\] Because apparently it cranked and
+to ceiling with paper\! \laughs\ Because apparently it cranked and
 cranked and cranked; it was supposed to be in operational mode, but it
 was sending out test data that it printed, so that in case something
 went wrong, we could tell what was wrong. Oh, after that we thought
@@ -514,14 +514,14 @@ that people get very impatient if they don’t know whether the system has
 crashed—believe it or not, software crashed, even in those days, or
 froze—and also whether it was just churning away at your job. As you
 know, you get this little thing that flips up and down now on
-your—\[an\] hourglass or whatever you got, that tells you that the
-computer \[is working on a task\] . . . Well, we didn’t know that. So we
+your—\an\ hourglass or whatever you got, that tells you that the
+computer \is working on a task\ . . . Well, we didn’t know that. So we
 had one online thing that you could do, and that was to see what the
 time was. Don’t ask—I think that was part of what you were asking
 for—that was kind of to test if the system was still alive. Well, the
 users found out about that, and pretty soon we couldn’t get any work
 done, because all the computer was getting was requests for time\!
-\[laughter.\] Because everybody wanted to know, “Are you alive? Are you
+\laughter.\ Because everybody wanted to know, “Are you alive? Are you
 alive? Are you alive?” And of course it would respond, because that was
 priority; and it never got its work done. So we learned a lot about
 combining, first of all, interactive features in a system, and also test
@@ -550,12 +550,12 @@ world. But it just took us a while to realize that it was also available
 to the programmers—that we could use it interactively. So that’s kind of
 what it was like to program. You usually had to get everything right,
 submit it, and hope that it worked the first time. And of course it
-never did\! There were two styles \[of programmers\]. There was what we
+never did\! There were two styles \of programmers\. There was what we
 used to call the “Mod Zero Person,” meaning the very first mod of their
 program worked, because they spent weeks playing computer and stepping
 through everything. And then there were those who said, “Let the
 computer tell me what’s wrong,” and so you might have twenty versions
-before you got it working. But batch \[processing\] made you have to
+before you got it working. But batch \processing\ made you have to
 think about an approach to how you were going to program. The other
 thing you might be interested in, if you ask about programming, is: The
 first programs were written in almost-binary—hex, maybe: hexadecimal—so
@@ -563,7 +563,7 @@ there were only absolute addresses, and if you made a change—changed
 where something was located—you had to go change all the references to
 it. The first time somebody invented symbolic kinds of programming—this
 is what you would call assembler input—I was working with a group of
-engineers who said, “That’s dangerous\! We won’t do it\!” \[laughter.\]
+engineers who said, “That’s dangerous\! We won’t do it\!” \laughter.\
 I’m not joking.
 
 **Abbate:**
@@ -578,7 +578,7 @@ really going to go to the right place. And furthermore, we then got into
 relocateable code; so it wasn’t that you were putting it in location
 100, but it was loading it all relative to where it started. And I
 guess, for some reason—I still sometimes talk to the person who told me,
-“No way, we’re not going to do that\!” \[laughter.\] It’s very funny. A
+“No way, we’re not going to do that\!” \laughter.\ It’s very funny. A
 lot of things like that, where you had resistance to change, and not
 trusting . . . So we used assembly language fairly early, and then we
 had an operating system, a time-sharing system, which was developed at
@@ -586,7 +586,7 @@ MIT. But our original operating system—for the SAGE system—had to deal
 with multiple processes going on, and multiple users simultaneously
 using the system. And that was a very complex, very large piece of the
 whole system, probably the guts of the whole thing. And I believe, when
-you talk to Marlene \[Hazle\], that’s one of the courses she taught—was
+you talk to Marlene \Hazle\, that’s one of the courses she taught—was
 the operating system, because it was so complex.
 
 **Abbate:**
@@ -597,7 +597,7 @@ You had core memory at some point?
 
 That was introduced later. We first had these Williams storage tubes,
 which were very flaky; they tended to leak, and you had . . . things
-just flowed from one memory cell to another\! \[laughs\] So, reliability
+just flowed from one memory cell to another\! \laughs\ So, reliability
 . . . There are some wonderful articles about the reliability of the
 early computers—you know, getting five minutes of absolutely working
 system was considered good, and it goes on. Some of the Bob Everett
@@ -625,15 +625,15 @@ Oh yes. And we moved to one thousand twenty-four, then two thousand
 forty-eight. Giant leaps\! Oh, it was interesting for another reason,
 because you spent so much time trying to cram things in, being clever
 rather than being straightforward, that we used to have a contest. We’d
-post something, \[a piece of code,\] and say—there were either of two
+post something, \a piece of code,\ and say—there were either of two
 kinds: “Can you make this shorter?” or “Can you figure out what this
-does?” \[laughter.\] And when somebody came along with “egoless
+does?” \laughter.\ And when somebody came along with “egoless
 programming”—have you heard of Jerry—Gerald—Weinberg’s Egoless
 Programming?
 
 **Abbate:**
 
-\[Shakes head.\]
+\Shakes head.\
 
 **Clapp:**
 
@@ -661,7 +661,7 @@ might have to maintain your code.
 
 **Clapp:**
 
-I guess not\! \[laughter.\] “No, that’s my code\! You can’t have it\!”
+I guess not\! \laughter.\ “No, that’s my code\! You can’t have it\!”
 Well, maybe the attitude was that it was never going to change. It’s
 funny, because—I don’t remember the date, but I have an article I wrote
 on maintaining software systems. I have a whole folder, and I introduced
@@ -682,7 +682,7 @@ And I guess at the beginning . . .
 
 **Clapp:**
 
-Just getting it going was \[enough\]\! \[laughter.\] Do you know that
+Just getting it going was \enough\\! \[laughter.\] Do you know that
 the SAGE system stayed in operation 25 years?
 
 **Abbate:**
@@ -707,7 +707,7 @@ going twice that speed, and it wasn’t programmed for that range. There
 were things like that, of course. I’m sure they must have had to
 maintain it. I don’t know who maintained it. I think maybe SDC, and
 whatever they became—they got bought by somebody, too. So, yes, we were
-the glorious ones that wrote it and then moved on\! \[laughter.\]
+the glorious ones that wrote it and then moved on\! \laughter.\
 
 **Abbate:**
 
@@ -725,9 +725,9 @@ We developed that system right there.
 
 **Abbate:**
 
-Is that an underground bunker or something? \[Note: Abbate was referring
+Is that an underground bunker or something? \Note: Abbate was referring
 to the SAGE site at Syracuse, but Clapp’s reply refers to a building at
-Lincoln Lab in Lexington.\]
+Lincoln Lab in Lexington.\
 
 **Clapp:**
 
@@ -746,7 +746,7 @@ This was at MITRE, at this point?
 Yes. But I was working in a building over at Lincoln Lab, anyway—in this
 bunker building. So I thought about it, and I said, “Okay, I’m not going
 to say anything; I’m not going to tell anybody I’m pregnant. I’ll just
-keep working and see what happens.” \[laughter.\] I think I was six and
+keep working and see what happens.” \laughter.\ I think I was six and
 a half months pregnant when somebody who hadn’t seen me in about a year
 came up and he said, “You dummies, don’t you recognize a pregnant woman
 when you see one?” Well, people were too embarrassed to say anything. So
@@ -756,12 +756,12 @@ only a few months pregnant, but I consulted my doctor and he said, “Bad
 idea, because then when your baby’s born they’ll think it’s premature at
 the hospital. So we’re not going to lie; you’ll have to tell them you’re
 over six and a half months pregnant.” They had A-line dresses in those
-days . . . \[laughter.\] So I said, “Yes I am.” And they said, “Well,
+days . . . \laughter.\ So I said, “Yes I am.” And they said, “Well,
 you can’t stay here; you’re an insurance risk.” I said, “An insurance
 risk?” “You might fall, and we’d get sued, and da da da da,” all these
 things. So I said, “Okay, I want to take a leave.” And they said,
 “Sorry, we only give leaves for personal reasons.” I said, “Can you
-think of anything more personal than being pregnant?” \[laughter.\] And
+think of anything more personal than being pregnant?” \laughter.\ And
 they said, “No, we have things like a death in the family, or having to
 help out in the family business, or something; we don’t have pregnancy
 in here.” I said, “Okay, bye-bye, I’m going.” And I left that very same
@@ -772,9 +772,9 @@ on without you\!” So I said, “Hire me as a consultant\!” And they said,
 “Okay, but you’re not allowed in the building, because you’re an
 insurance risk.” So we had a coffee table and chairs in the lobby, and
 we all worked there all day, and I made more money in two weeks than I’d
-ever made in my life. \[laughter.\] At the end of two weeks, they said,
+ever made in my life. \laughter.\ At the end of two weeks, they said,
 “We’re reconsidering your being a consultant,” because I was getting
-paid by the hour. \[laughter.\] “We think we’re going to change the
+paid by the hour. \laughter.\ “We think we’re going to change the
 rules. It’s okay: You can work until—whatever, ninth month or
 something—and then you get thirty days off.” No, I may have gotten two
 months off, after the baby was born, and then I went back to work. I
@@ -833,7 +833,7 @@ avoid having people get paid for pregnancy leave and then never come
 back, okay; they were trying to see whether people would take advantage
 of it. And I did say that I thought it was distinctly different from
 having a heart attack or some other . . .that it wasn’t an ailment; it
-was a life decision or whatever. \[laughter.\] But these were the kinds
+was a life decision or whatever. \laughter.\ But these were the kinds
 of things people were trying to figure out: How does this affect women?
 What should we do about it that’s fair? But they had never thought about
 it, until it got put in their face.
@@ -861,7 +861,7 @@ and I encountered some incredible misconceptions. I had a boss who said,
 so they’re not going to work as hard. They usually get married, and
 somebody else, or their parents, support them.” Okay? “Number two,
 they’re going to be sick more—yeah, they get sick much more often than
-men.” \[laughter.\] “Then, we’ll get ‘em fully trained and they’re going
+men.” \laughter.\ “Then, we’ll get ‘em fully trained and they’re going
 to go have children and leave us, after we spent all this money training
 them.” Okay? And on and on about how really, given a choice, you
 shouldn’t hire a woman. So I took a bunch of resumes, and I blocked
@@ -889,7 +889,7 @@ this one for a long time—and he’d be out there trying to use a
 typewriter (shows you how long ago), and he’d look in and say, “Judy, do
 you know how to change the ribbon?” Never asked a man; of course it was
 something I’d know how to do, right? And I’d say “Sorry, no.”
-\[laughter.\] But there were many cases where people just assumed a
+\laughter.\ But there were many cases where people just assumed a
 different role; even though you were a peer in the work that was going
 on, when it came to something a little bit off, in a social
 situation—whatever—they would ask you to do it. And you just—sometimes
@@ -902,11 +902,11 @@ Did you ever stop getting the coffee?
 
 **Clapp:**
 
-Eventually\! \[laughter.\] But it takes you a while to realize that
+Eventually\! \laughter.\ But it takes you a while to realize that
 you’re doing it\! Yeah, you’re the hostess person. If you were in your
 house, and your husband and you were there, and people wanted coffee,
 you’re the one who got it, right? Well here’s a room full of husbands\!
-\[laughter\]—in name or not. So there were lots of things like that. As
+\laughter\—in name or not. So there were lots of things like that. As
 far as promotions were concerned: We had a group that formed themselves
 in my company, and they called themselves the Professional Women’s
 Group. The reason they did that—and I didn’t feel the need for it; I was
@@ -992,7 +992,7 @@ can only work for U.S. governments, foreign governments, state
 governments, local governments, nonprofit, in the public interest. Like
 utilities, banking (if there’s a banking organization); the F.A.A. is
 one of our big customers. We used to work for the Department of Justice.
-We work for the I.R.S. \[laughter.\]
+We work for the I.R.S. \laughter.\
 
 **Abbate:**
 
@@ -1024,7 +1024,7 @@ about those things, and that’s why I always wondered if the people who
 came after me, the women who came after me, were more self-conscious, or
 . . . We would just laugh it off—you know, no, never worried about it.
 But yes, they were very military, and very hierarchical, and there were
-a lot of people, a lot of women, who did feel . . . \[Women\] who worked
+a lot of people, a lot of women, who did feel . . . \Women\ who worked
 much more on a day-to-day basis. I tended to come in and go, so my—I
 didn’t have to work—there are people who literally sat in and worked
 next to a whole military establishment; I never did that. So in my case,
@@ -1107,8 +1107,8 @@ Are you usually able to do that?
 
 Nobody ever gets back on track that quickly, no—because by the time they
 report it, it’s way down the line. So now, what we’re working hard on
-is: How do you stop sooner; what are the early warning signs? \[TAPE 1,
-SIDE 2\] And now there’s a report that just came out, and it came out a
+is: How do you stop sooner; what are the early warning signs? \TAPE 1,
+SIDE 2\ And now there’s a report that just came out, and it came out a
 few years ago also, on the percentage of large system developments that
 are late, that never get completed. It’s just the way it is. So it’s not
 been easy to find the successful program—the first-time-around
@@ -1202,7 +1202,7 @@ and we’ll keep iterating.” That’s what evolutionary is. Spiral makes the
 evolution go faster, because it says: “I’m going to do some experiments,
 and as a result of the experiments, we’ll decide whether to really
 engineer a system—because the experiment doesn’t have to be quite as
-robust. But \[for example,\] what would it be like for you if you had a
+robust. But \for example,\ what would it be like for you if you had a
 phone that you could get your email off? Why don’t I give you one? You
 may not be able to get it in every area yet, and it may not be fast, but
 does that help you?” Okay, and then you say, “Yeah, that’s a good
@@ -1211,7 +1211,7 @@ anything to write down the email with,” or “Is it going to read it to
 me? I couldn’t understand it; we need better speech
 generation”—whatever. So, it’s like that: It doesn’t say, “You don’t
 have to tell me anything you think you’ll ever want, because you’re not
-gonna talk to me again for five years\!” \[laughter.\]
+gonna talk to me again for five years\!” \laughter.\
 
 **Abbate:**
 
@@ -1243,7 +1243,7 @@ wanted this big system, because everybody had . . . It wasn’t as good on
 the laptops—they weren’t as thorough, it wasn’t as integrated, it didn’t
 do as many things—but it was theirs, and they used it. Whereas this big
 system was still being developed. So they had to abandon it, and say,
-“Aha\!” \[laughter.\] “We have to go back. People are smarter,
+“Aha\!” \laughter.\ “We have to go back. People are smarter,
 technology is smaller; do it different.” So\! Now we’re putting web
 front-ends on these old systems, because we never had web front-ends. So
 yes, the technology is driving the development these days.
@@ -1275,7 +1275,7 @@ order in which you had to run every batch job. Someone came to see me a
 few years ago, ‘cause they’d decided after—I don’t know how many
 years—that they were going to replace it. And this young man said to
 me, “You know what?” he said, “that system was built before I was
-born\!” And I said, “And I wrote part of it\!” \[laughter.\] That’s
+born\!” And I said, “And I wrote part of it\!” \laughter.\ That’s
 the truth\! That’s how long these systems stayed around.
 
 ### Solving Y2K Problems
@@ -1307,7 +1307,7 @@ Everything got fixed successfully?
 **Clapp:**
 
 Well, as a matter of fact, after it was all over, we sat down and said,
-“How come we thought it was such a big deal?” \[laughter.\] It didn’t
+“How come we thought it was such a big deal?” \laughter.\ It didn’t
 happen\! You know, it did a lot of good. It got people—not only in our
 systems, but we did a lot more of good-will type work with other people,
 and other places—it got people for the first time to realize—you were
@@ -1319,7 +1319,7 @@ that year.” And he said, “You know what? With the new, modernized
 system, I’m saving money\!” So for a lot of people, it helped. It just
 forced it early. So, all right\! I’m trying to think if there are any
 other, earlier anecdotes that I can tell you about. The “good old
-days\!” \[laughter\] They really were . . . good old days. I remember
+days\!” \laughter\ They really were . . . good old days. I remember
 one day talking to somebody I worked with, a man who had like five or
 six children, and he said, “Oh, I am so tired,” or something like that,
 “when I go home from work.” He said, “I wish I had a different job.” I
@@ -1345,11 +1345,11 @@ she said, “Hey mom, we’re supposed to have a team of two, and I was the
 last person, and I asked if my mom could be my team.” She said, “Will
 you help me program?” And we had to program an editor—a bunch of tools,
 a compiler, and I don’t know, something else. And I sat there and I
-said, “Oh\!” \[groans\] “I forgot about all this detail.” Because I
+said, “Oh\!” \groans\ “I forgot about all this detail.” Because I
 was—I knew all the principles about how to organize it, how to write
 it, how to test it; but I made lots of mistakes, because I just wasn’t
 interested in that finite level of detail. And we got an okay grade, but
-. . . \[laughter\]
+. . . \laughter\
 
 **Abbate:**
 
@@ -1368,7 +1368,7 @@ sort of discipline on the management. There was almost no discipline.
 You know, I talked about Egoless Programming, and people thinking it
 belonged to them. But that same attitude, about: “Programmers are
 artists; they don’t follow rules. You can’t expect them to follow rules.
-What do you mean? This is creative work\!” \[laughter.\] So, I was
+What do you mean? This is creative work\!” \laughter.\ So, I was
 involved in a lot of that kind of thing, looking at, “Gee, we really
 have to police ourselves and be responsible.” And I still to this day
 get angry with my mail system that comes from a certain large, large
@@ -1389,7 +1389,7 @@ me. And over time I now have a completely enviable
 no-management-responsibility kind of job. Yes—where I can work across
 the company, and do things that are cross- cutting, and not have to do
 the administrative stuff. So this is the—people come up to me and say,
-“How do I get your job?” \[laughter.\] I say, “You have to be here for
+“How do I get your job?” \laughter.\ I say, “You have to be here for
 thirty years\!”
 
 **Abbate:**
@@ -1469,8 +1469,8 @@ ability to work on a team, to see the business side of things, if that’s
 what the job happened to require. And the other thing that has served me
 very well is, if you see a job that needs to be done, that you want to
 do: act like it’s yours.” I’ve done this so many times, and pretty soon
-\[people\]—all the way up to the president of the company—start thinking
-it’s my job, and they start calling on me to do more\! \[laughter.\] And
+\people\—all the way up to the president of the company—start thinking
+it’s my job, and they start calling on me to do more\! \laughter.\ And
 I’ve managed to get the job I want. So that’s one of the things: If you
 look around, and you see something that needs to be done, that you would
 like to be the one who does . . . . And you’d be surprised: Nobody’s
@@ -1492,7 +1492,7 @@ love to learn. So I went to them; I said, “Would you like some help?”
 And they said, “Ah\! Yes\!” So I started helping them. Pretty soon I
 discovered I was the only one left. You know, it’s like: You’re
 pedaling, and you look behind you, and no one else is there anymore?
-\[laughter\] So, I wound up being the person who wrote the thing, and
+\laughter\ So, I wound up being the person who wrote the thing, and
 got the recognition, and went all over giving his talks about his
 book—for his chapter in his book. And so you have fun, besides. And
 they know who you are. And so you stick your neck out a little bit, and
@@ -1530,7 +1530,7 @@ be at home. And originally I lived in Cambridge, where there were more
 women who were willing to either come to the house or take your child
 there, or something, who would pick the child up after school. As time
 went on, the kids in suburbia were so programmed that they had to be
-here, there, and the other place, and there \[would be\] nobody to
+here, there, and the other place, and there \would be\ nobody to
 babysit. Fortunately, my husband decided to work at home.
 
 **Abbate:**
@@ -1541,7 +1541,7 @@ What does he do? What did he do?
 
 He was also involved in computers. I met him at a computer—no, I
 actually met him in a Russian class at Harvard—but his opening line to
-me was, “Haven’t I seen you at a computer conference?” \[laughter.\] So
+me was, “Haven’t I seen you at a computer conference?” \laughter.\ So
 he was in computers too, and so we had his and her computers, and his
 and her work, and so forth; and he had his own business, and he was sort
 of a pioneer in time-sharing. He started the first commercial
@@ -1568,7 +1568,7 @@ Right, right: large mainframe. And so he decided he would work at home.
 And as more women in the neighborhood began to go to work, he was the
 one they called to get somebody’s sick child home from school, and I’d
 come home and find these other children in my house. And he was the one
-they rang the doorbell and said, “Can you fix my bicycle?” \[laughs\] So
+they rang the doorbell and said, “Can you fix my bicycle?” \laughs\ So
 he was the house daddy.
 
 **Abbate:**
@@ -1588,7 +1588,7 @@ Did any of your kids go into computing?
 **Clapp:**
 
 You know, in the beginning, they didn’t want anything to do with
-it—absolutely\! “I don’t want it\!” \[makes gagging sound.\] And then
+it—absolutely\! “I don’t want it\!” \makes gagging sound.\ And then
 one of them used it extensively, because she got an MBA, and she is
 still in banking; so she uses it more as a tool. She was never
 interested in it any other way. The other one—they’re both women—the
@@ -1685,7 +1685,7 @@ and make them productive. You’re asking . . . We have too many people
 who are technically deep but can’t manage other people.” So yeah,
 there’s still that—in a high-tech company—that belief that first you
 have to prove yourself technically; and then if you’re lucky enough, and
-you have the people skills, great. \[laughs.\]
+you have the people skills, great. \laughs.\
 
 **Abbate:**
 
@@ -1694,7 +1694,7 @@ the entire project\!
 
 **Clapp:**
 
-The entire job\! Exactly\! \[laughter.\] Or if they all decide they
+The entire job\! Exactly\! \laughter.\ Or if they all decide they
 don’t want to work for you. That’s true: I mean, we have people like
 that—women as well as men—that people just don’t want to work for. And,
 if they’re an engineer, it’s because they micromanage. “I really know
@@ -1720,7 +1720,7 @@ don’t know that I was just hell-bent on getting promoted, but I was very
 concerned about delivering a good product, getting new business, things
 like that. And I just don’t remember whether being a woman was a piece
 of that, or not. As I say, I may have been too thick to recognize when
-it was an issue, or something\! \[laughs\]—and just ignoring it. And
+it was an issue, or something\! \laughs\—and just ignoring it. And
 maybe that’s another thing people have to do: Sometimes they have to act
 like it isn’t there—instead of crying, “Aw, look what someone’s doing to
 me again because I’m a woman”——and just treat it as if the other person
@@ -1734,11 +1734,11 @@ Is the technology still fun?
 **Clapp:**
 
 Yes, I would say so\! It really is. Every week there’s something else.
-As I said, this last week \[I was\] working with a set of people trying
+As I said, this last week \I was\ working with a set of people trying
 to get a web site design. I said, “My goodness, this is like being the
 user—asking someone to develop a software system for me, because I don’t
 know what I want until I see it.” And we’ve gone through, like, three
-prototypes, and the first one, I said \[gasps\], “No\! That’s not what I
+prototypes, and the first one, I said \gasps\, “No\! That’s not what I
 wanted\!” And I thought, “They’re gonna kill me\!” The second one was a
 gigantic leap toward what I want, and now I think there’ll be a third
 one that will be even closer. And we’ve had to change what we wanted as
@@ -1766,8 +1766,8 @@ Well, if you have any more anecdotes . . .
 
 **Clapp:**
 
-I’ll have to think. \[Tape pauses, resumes in the middle of a
-conversation about whether work teams still bond together.\]
+I’ll have to think. \Tape pauses, resumes in the middle of a
+conversation about whether work teams still bond together.\
 
 **Clapp:**
 
@@ -1784,8 +1784,8 @@ After work.
 
 **Abbate:**
 
-—playing around with the work, or just going and \[socializing after
-work\]. . . . ?
+—playing around with the work, or just going and \socializing after
+work\. . . . ?
 
 **Clapp:**
 
@@ -1794,8 +1794,8 @@ him—and I’ve said this to the people who are designing our
 environment: “Everybody should have play time; that’s where you get your
 real creativity; that’s where you get your real teams built.” And we’re
 now in the phase of designing environments where people can just sort of
-casually sit down and solve problems together. We did it \[in the old
-days\] because after work we all went out . . . In fact, somebody, a
+casually sit down and solve problems together. We did it \in the old
+days\ because after work we all went out . . . In fact, somebody, a
 bunch of them, like seven guys, rented a house—a huge mansion—one of
 these things that no single family could afford anymore, but seven guys
 with salaries could do, with the works. And you spent all your time
@@ -1884,7 +1884,7 @@ The book?
 The book was. And we asked her if that was true at MIT, and she said
 “No\!” But you know, it had everybody either doing their own thing, or
 competing, or undercutting each other in ways that certainly weren’t
-collaborative, or cooperative, or anything else. \[Tape pauses.\]
+collaborative, or cooperative, or anything else. \Tape pauses.\
 
 ### On High-Order Languages
 
@@ -1900,7 +1900,7 @@ assembly language removed some control over things; and then along came
 higher-order languages. So I did an experiment where we wrote something
 in a high-order language, and we were going to look at, “Were we really
 more efficient?” and “How did it all work?” And I remember that when it
-was all done, the people on the project hated it \[the language\],
+was all done, the people on the project hated it \the language\,
 because what they were doing was checking up to see if it generated the
 kind of assembly language they would have generated\! Nobody trusted it.
 And we found out a number of other things that were wrong with it, and
@@ -1952,7 +1952,7 @@ something going on here that’s really great, and you’ve got to do
 something about it, or else it’s just going to run wild, and we’re not
 going to have anything at the corporate-wide level that uses this
 technology.” And my boss said, “Forget it\! It’s only a passing fad\!”
-\[laughter.\] Fortunately for him, I don’t tell who he was, and I never
+\laughter.\ Fortunately for him, I don’t tell who he was, and I never
 have, but I always cite “the boss of the moment.” And the other thing
 was, of course, I didn’t let it go, and I set up the first internal Web
 site that was corporate-wide. And it’s based on something at the
@@ -1961,8 +1961,8 @@ Vic Basili?
 
 **Abbate:**
 
-Yes. \[Victor Basili is a computer scientist at the University of
-Maryland.\] This was the early ‘90s?
+Yes. \Victor Basili is a computer scientist at the University of
+Maryland.\ This was the early ‘90s?
 
 **Clapp:**
 
@@ -1988,7 +1988,7 @@ Okay.
 **Clapp:**
 
 But I was just talking about the difficulty in getting people to adopt
-technology. Gender independent. \[laughter.\]
+technology. Gender independent. \laughter.\
 
 **Abbate:**
 
@@ -2013,60 +2013,60 @@ complexity, so . . . . No more anecdotes\!
 All right.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Judy_Clapp&oldid=113039>"
+"<http:/ethw.org/index.php?title=Oral-History:Judy_Clapp&oldid=113039>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Computer
-  science](/Category:Computer_science "Category:Computer science")
-* [Software & software
-  engineering](/Category:Software_%26_software_engineering "Category:Software & software engineering")
-* [Engineering and
-  society](/Category:Engineering_and_society "Category:Engineering and society")
-* [Home & family](/Category:Home_%26_family "Category:Home & family")
-* [Workplace](/Category:Workplace "Category:Workplace")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Computer
+  science(Category:Computer_science "Category:Computer science")
+* Software & software
+  engineering(Category:Software_%26_software_engineering "Category:Software & software engineering")
+* Engineering and
+  society(Category:Engineering_and_society "Category:Engineering and society")
+* Home & family(Category:Home_%26_family "Category:Home & family")
+* Workplace(Category:Workplace "Category:Workplace")
 
 ## Contents
 
-* [1 About Judy Clapp](#About_Judy_Clapp)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Working on Whirlwind at MIT](#Working_on_Whirlwind_at_MIT)
-  * [4\.3 From Batch Processing to Interactive
-    Systems](#From_Batch_Processing_to_Interactive_Systems)
-  * [4\.4 The Start of Egoless
-    Programming](#The_Start_of_Egoless_Programming)
-  * [4\.5 Being a Pregnant Woman at
-    MITRE](#Being_a_Pregnant_Woman_at_MITRE)
-  * [4\.6 MITRE as a Government Funded R & D
-    Center](#MITRE_as_a_Government_Funded_R_.26_D_Center)
-  * [4\.7 Working in Artificial
-    Intelligence](#Working_in_Artificial_Intelligence)
-  * [4\.8 On Understanding the Client and Developing
-    Systems](#On_Understanding_the_Client_and_Developing_Systems)
-  * [4\.9 Solving Y2K Problems](#Solving_Y2K_Problems)
-  * [4\.10 How Computing Has Changed](#How_Computing_Has_Changed)
-  * [4\.11 Advice for Women Considering
-    Computing](#Advice_for_Women_Considering_Computing)
-  * [4\.12 On Balancing Work and Family](#On_Balancing_Work_and_Family)
-  * [4\.13 What Makes a Good Mentor](#What_Makes_a_Good_Mentor)
-  * [4\.14 Teamwork and Team Bonding](#Teamwork_and_Team_Bonding)
-  * [4\.15 On High-Order Languages](#On_High-Order_Languages)
+* 1 About Judy Clapp(#About_Judy_Clapp)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Working on Whirlwind at MIT(#Working_on_Whirlwind_at_MIT)
+  * 4\.3 From Batch Processing to Interactive
+    Systems(#From_Batch_Processing_to_Interactive_Systems)
+  * 4\.4 The Start of Egoless
+    Programming(#The_Start_of_Egoless_Programming)
+  * 4\.5 Being a Pregnant Woman at
+    MITRE(#Being_a_Pregnant_Woman_at_MITRE)
+  * 4\.6 MITRE as a Government Funded R & D
+    Center(#MITRE_as_a_Government_Funded_R_.26_D_Center)
+  * 4\.7 Working in Artificial
+    Intelligence(#Working_in_Artificial_Intelligence)
+  * 4\.8 On Understanding the Client and Developing
+    Systems(#On_Understanding_the_Client_and_Developing_Systems)
+  * 4\.9 Solving Y2K Problems(#Solving_Y2K_Problems)
+  * 4\.10 How Computing Has Changed(#How_Computing_Has_Changed)
+  * 4\.11 Advice for Women Considering
+    Computing(#Advice_for_Women_Considering_Computing)
+  * 4\.12 On Balancing Work and Family(#On_Balancing_Work_and_Family)
+  * 4\.13 What Makes a Good Mentor(#What_Makes_a_Good_Mentor)
+  * 4\.14 Teamwork and Team Bonding(#Teamwork_and_Team_Bonding)
+  * 4\.15 On High-Order Languages(#On_High-Order_Languages)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:06\.
 
 * This page has been accessed 1,718 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

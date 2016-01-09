@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Emily_Willbanks&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Emily_Willbanks&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Emily_Willbanks)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Emily_Willbanks&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Emily_Willbanks "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Emily_Willbanks "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Emily_Willbanks&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Emily_Willbanks&oldid=108377 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Emily_Willbanks&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Emily_Willbanks)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AEmily+Willbanks)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Emily_Willbanks&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Emily_Willbanks&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Emily_Willbanks)
+  
+  * Discussion(index.php?title=Oral-History_talk:Emily_Willbanks&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Emily_Willbanks "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Emily_Willbanks "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Emily_Willbanks&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Emily_Willbanks&oldid=108377 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Emily_Willbanks&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Emily_Willbanks)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AEmily+Willbanks)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Emily Willbanks
@@ -167,7 +167,7 @@ What was it like in Fort Lauderdale in the thirties?
 **Willbanks:**
 
 Well, it was pretty peaceful. It was a good place to grow up. We had a
-good high school—only one \[laughs\]; now I think there’s four or five
+good high school—only one \laughs\; now I think there’s four or five
 in the area. I enjoyed it, even though I never wanted to go back there
 after I got out of high school. I went to Duke University and never
 really went back to Florida to live.
@@ -186,14 +186,14 @@ How did you end up at Duke?
 
 **Willbanks:**
 
-I don’t really know\! \[laughs.\] I don’t remember. It just seemed like
+I don’t really know\! \laughs.\ I don’t remember. It just seemed like
 I had always wanted to go there. I didn’t want to go to school at a
 women’s college in Florida, and that was a place I had heard of, and it
 wasn’t that much further north of North Florida. I managed to get in and
 get accepted, and then after my first year I got a scholarship for the
 next couple of years—tuition and stuff—so it worked out fine. The price
 of going there now is about six times more than it was when I went\!
-\[laughs.\] Just like any other college, I guess. It’s rather amazing
+\laughs.\ Just like any other college, I guess. It’s rather amazing
 how much it costs to send a kid to school—a good one, anyway—nowadays.
 
 **Abbate:**
@@ -237,7 +237,7 @@ did come about.
 
 I had a friend who married a guy from Texas, and they came out on a trip
 to the West, and I got these post cards of all the parts of the western
-United States\! \[laughs\] And I was getting kind of tired of doing hand
+United States\! \laughs\ And I was getting kind of tired of doing hand
 computing there at Pratt and Whitney, and one of the guys that I worked
 with there said, “Well, why don’t you check into Los Alamos and see if
 they might have some jobs out there?”
@@ -253,7 +253,7 @@ Well, there were five or six different National Laboratories at that
 time: Argonne and Brookhaven, and there’s one in Oak Ridge, and the ones
 in California, and this one; and this seemed like an interesting place
 to start. So I came out for my interview, and I was offered the job, and
-three or four months later I was here\! \[laughs.\]
+three or four months later I was here\! \laughs.\
 
 **Abbate:**
 
@@ -284,7 +284,7 @@ But you were just . . . .
 
 **Willbanks:**
 
-I was just a peon\! \[laughs.\]
+I was just a peon\! \laughs.\
 
 **Abbate:**
 
@@ -300,7 +300,7 @@ What was your job title doing that?
 
 **Willbanks:**
 
-I have no idea\! \[laughs.\]
+I have no idea\! \laughs.\
 
 ### Moving to Los Alamos
 
@@ -313,7 +313,7 @@ do?
 
 Well, actually I got started in a small group that had some calculations
 to run on the MANIAC computer, which you’ve probably heard about from
-Marge \[Devaney\]. It was parts of weapons computations: they were in
+Marge \Devaney\. It was parts of weapons computations: they were in
 just little isolated parts here and there, and so I think it was a
 combination of stuff on punch cards and in the MANIAC. The guy that was
 my boss at the time was here three or four years afterwards, but he quit
@@ -378,7 +378,7 @@ do?
 **Willbanks:**
 
 Well, it just seemed like it was a lot more fun than punching hand
-cards. \[Sometime in the 1950s\], I was working with one guy doing some
+cards. \Sometime in the 1950s\, I was working with one guy doing some
 calculations for this guy in J Division—Ph.D. guy—and he fixed it up so
 I was able to go out to the test site when they were still shooting
 weapons.
@@ -396,7 +396,7 @@ What was that like?
 
 **Willbanks:**
 
-Pretty exciting\! \[laughs.\] Of course, you had to have your back
+Pretty exciting\! \laughs.\ Of course, you had to have your back
 turned in the very first part, because of the flash, and then you had
 glasses. It was all over pretty fast, but it was definitely exciting\!
 
@@ -429,7 +429,7 @@ So then I went over to the Computer Division, and stayed there until I
 retired, through a bunch of different projects; but I was on the last
 one for twelve years, I guess. The last project was the mass storage
 project. Well, actually I was on two of those, but the first one was
-pretty primitive\! \[laughs.\] Have you heard anything about the IBM
+pretty primitive\! \laughs.\ Have you heard anything about the IBM
 Photo Store?
 
 **Abbate:**
@@ -468,7 +468,7 @@ How was that, as a storage device?
 
 **Willbanks:**
 
-Well, it was all we had \[laughs\], besides disks. One of the storage
+Well, it was all we had \laughs\, besides disks. One of the storage
 systems that I was working on had disks that were about two-and-a-half
 feet in diameter. They were stored as bits on those, too; but those
 tended to crash fairly often, and then rescuing the data wasn’t much
@@ -581,7 +581,7 @@ your computations had been accurate?
 
 **Willbanks:**
 
-Oh, yes\! \[laughs.\] Yes: our whole group had made some promise that
+Oh, yes\! \laughs.\ Yes: our whole group had made some promise that
 this was what it was supposed to do. Sometimes it did, sometimes it
 didn’t. But it was the Ph.D. designer guys that were responsible. I
 didn’t have any real input into that, other than that they would say,
@@ -623,7 +623,7 @@ essentially was a dead end, learning that.
 
 **Abbate:**
 
-Did it have its own language, or was that [FORTRAN](/FORTRAN "FORTRAN")
+Did it have its own language, or was that FORTRAN(FORTRAN "FORTRAN")
 or something?
 
 **Willbanks:**
@@ -815,7 +815,7 @@ transfers simultaneously. But unfortunately, all of the data still had
 to go through the CPU, and that limited the speed. And then there were
 the hardware pieces: the hyperchannel and various and sundry interfaces
 on each end. I had nothing to do with that, that I could avoid\!
-\[laughs.\] The tapes and disks were bad enough for me to work with\!
+\laughs.\ The tapes and disks were bad enough for me to work with\!
 
 **Abbate:**
 
@@ -824,7 +824,7 @@ your own?
 
 **Willbanks:**
 
-We were commercially available. \[laughs.\]
+We were commercially available. \laughs.\
 
 **Abbate:**
 
@@ -925,7 +925,7 @@ What was that like?
 
 **Willbanks:**
 
-It was fun\! \[laughs.\] I really enjoyed that. I’m still friends with
+It was fun\! \laughs.\ I really enjoyed that. I’m still friends with
 four or five of the people I worked with over there.
 
 **Abbate:**
@@ -1005,7 +1005,7 @@ the time they understood. They were able to do what they had to do to
 modify it for their personal needs. They didn’t want to bite off, so to
 speak, the job of doing the modifications on their own for different
 hardware; so when we went ahead, then after we had it working they’d
-say, “Well, we’ll try it now\!” \[laughs.\] So that was how that
+say, “Well, we’ll try it now\!” \laughs.\ So that was how that
 evolved.
 
 **Abbate:**
@@ -1127,13 +1127,13 @@ yourself when you grew up?
 
 **Willbanks:**
 
-Yes, I think I was expected to support myself\! \[laughs.\] They were
+Yes, I think I was expected to support myself\! \laughs.\ They were
 sufficiently well-off enough to send me off to college, but they never
 were rich. My dad was just a worker; neither of them went to college;
 and I was born at the beginning of Depression, so things were a little
 tough on them, too—but at least my dad had a job. I was never deprived
 of anything I really needed; but then, on the other hand, I didn’t have
-any luxuries. \[laughs.\] But I didn’t need them either; I didn’t care.
+any luxuries. \laughs.\ But I didn’t need them either; I didn’t care.
 
 **Abbate:**
 
@@ -1142,7 +1142,7 @@ someone else?
 
 **Willbanks:**
 
-Well, I guess either way they wouldn’t have cared\! \[laughs.\] Whatever
+Well, I guess either way they wouldn’t have cared\! \laughs.\ Whatever
 I wanted to do, I suppose, was all right with them.
 
 **Abbate:**
@@ -1195,7 +1195,7 @@ I always have, I guess, socialized a fair amount with the people that I
 have worked with and under, and there wasn’t a lot of caste system. You
 know, you could speak to the Director of the Lab or the Director of the
 Division and your bosses, if they had parties and you went to them. It
-was not very structured. Everybody was just friends\! \[laughs.\]
+was not very structured. Everybody was just friends\! \laughs.\
 
 ### Percentage of Women Working at the Labs
 
@@ -1381,9 +1381,9 @@ the weapons groups had priority, and then there were other fill-in jobs.
 If some of the weapons programs would crash and wouldn’t run, then
 they’d run something else; and sometimes you’d get called in the
 middle of the night because the program that you had set up had crashed.
-\[laughs.\] And sometimes you’d go in, depending on what the
+\laughs.\ And sometimes you’d go in, depending on what the
 circumstance was—whether you were supposed to have an answer for your
-physicists in the morning or not\! \[laughs.\]
+physicists in the morning or not\! \laughs.\
 
 **Abbate:**
 
@@ -1439,13 +1439,13 @@ memory?
 
 Yes. Because it wasn’t only the programs that would crash; sometimes the
 machines would crash. They don’t do that anymore, but they did then\!
-\[laughs.\] They’d have a hardware problem, and it was gone; if you
+\laughs.\ They’d have a hardware problem, and it was gone; if you
 didn’t have a backup, you would have to start over. It got to the
 point where you’d automate it, and if the machine crashed the operators
 could figure out what your last dump was, and they would somehow or
 other tell it to continue on from there. If they had trouble doing that,
 then you might have to go in and straighten it out. I certainly spent a
-number of nights in the machine room\! \[laughs.\]
+number of nights in the machine room\! \laughs.\
 
 **Abbate:**
 
@@ -1509,7 +1509,7 @@ So that’s where you’d have to sometimes back up, because you’d
 essentially hit a dead end with this geometry; you had to go back and
 “split it,” is what we used to call it. From one point you’d go to two
 points, and then later you split it again—sort of like stock splits\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1527,7 +1527,7 @@ mechanical; you might need a big-picture sense of the problem?
 **Willbanks:**
 
 Well, it was sort of a guessing game, and a challenge—to see if you
-could get the best result in the smallest possible time. \[laughs.\]
+could get the best result in the smallest possible time. \laughs.\
 Because that’s what the powers that be were really waiting for: “How did
 this come out?” So then you’d tell them, and then they’d go off and have
 a meeting and tell the Division Leader, and this and that and the other.
@@ -1557,7 +1557,7 @@ would have meetings from time to time, and they would tell us, “Well, we
 would like to be able to do this,” or “We’d like to be able to do that.”
 But it wasn’t an every-day¬ type of situation. As long as we took their
 data and kept it for them, that was all they wanted to know\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1584,7 +1584,7 @@ Well no, not really. It all seemed to work out pretty well.
 
 **Abbate:**
 
-That’s amazing\! \[laughs.\]
+That’s amazing\! \laughs.\
 
 **Willbanks:**
 
@@ -1601,7 +1601,7 @@ That is amazing, in my experience.
 
 **Willbanks:**
 
-Yes\! \[laughs.\]
+Yes\! \laughs.\
 
 **Abbate:**
 
@@ -1609,7 +1609,7 @@ Why don’t they use flow charts anymore?
 
 **Willbanks:**
 
-I have no idea\! \[laughs.\] I think it’s because they have such a
+I have no idea\! \laughs.\ I think it’s because they have such a
 high-level language—you know, FORTRAN and various and sundry of the
 higher-level languages—you don’t really need to go down into the
 nuts-and-bolts level like you did there.
@@ -1622,7 +1622,7 @@ need to have it separately on a chart?
 **Willbanks:**
 
 Yes, I think that’s right. You do a lot more with—well, I don’t even
-know what they’re using now: [UNIX](/UNIX "UNIX")?
+know what they’re using now: UNIX(UNIX "UNIX")?
 
 **Abbate:**
 
@@ -1686,7 +1686,7 @@ getting from a start point to an end point, and there were a lot of
 different ways of figuring out how to get there, and I guess that was
 the challenge. And sometimes you could make it come out neatly, and
 sometimes there was only an awkward way to get it done, seemed like\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1728,7 +1728,7 @@ passed around among the programmers?
 Oh, I think they were more or less standard procedures. I guess those
 were things that sort of got passed down from one to another: somebody
 figured out something and said, “Oh, yes\! We’ll share that\!”
-\[laughs.\]
+\laughs.\
 
 Of course, now it’s a different story with the applications, because
 they are doing parallel processing and multi-processors and all that
@@ -1824,7 +1824,7 @@ until just now.) Certainly ten years ago that was one of the
 highest-paying jobs, coming out of universities: good computer people.
 There always have been jobs.
 
-I guess that’s about it\! \[laughs.\]
+I guess that’s about it\! \laughs.\
 
 **Abbate:**
 
@@ -1842,66 +1842,66 @@ Well, thank you very much\!
 
 **Willbanks:**
 
-Well, you’re welcome. For whatever it’s worth\! \[laughs.\]
+Well, you’re welcome. For whatever it’s worth\! \laughs.\
 
 **Abbate:**
 
 It was fascinating.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Emily_Willbanks&oldid=108377>"
+"<http:/ethw.org/index.php?title=Oral-History:Emily_Willbanks&oldid=108377>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Data
-  processing](/Category:Data_processing "Category:Data processing")
-* [Data storage
-  systems](/Category:Data_storage_systems "Category:Data storage systems")
-* [Profession](/Category:Profession "Category:Profession")
-* [Engineering
-  disciplines](/Category:Engineering_disciplines "Category:Engineering disciplines")
-* [Computer
-  engineering](/Category:Computer_engineering "Category:Computer engineering")
+* Data
+  processing(Category:Data_processing "Category:Data processing")
+* Data storage
+  systems(Category:Data_storage_systems "Category:Data storage systems")
+* Profession(Category:Profession "Category:Profession")
+* Engineering
+  disciplines(Category:Engineering_disciplines "Category:Engineering disciplines")
+* Computer
+  engineering(Category:Computer_engineering "Category:Computer engineering")
 
 ## Contents
 
-* [1 Emily Willbanks](#Emily_Willbanks)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family and College Education](#Family_and_College_Education)
-  * [4\.2 First Job – Pratt and Whitney
-    Aircraft](#First_Job_.E2.80.93_Pratt_and_Whitney_Aircraft)
-  * [4\.3 Moving to Los Alamos](#Moving_to_Los_Alamos)
-  * [4\.4 Working on Weapon
-    Applications](#Working_on_Weapon_Applications)
-  * [4\.5 Working on Storage Systems](#Working_on_Storage_Systems)
-  * [4\.6 Working for the Weather Center in
-    England](#Working_for_the_Weather_Center_in_England)
-  * [4\.7 Experience of Working on Classified
-    Information](#Experience_of_Working_on_Classified_Information)
-  * [4\.8 Family and Personal Life](#Family_and_Personal_Life)
-  * [4\.9 Percentage of Women Working at the
-    Labs](#Percentage_of_Women_Working_at_the_Labs)
-  * [4\.10 Work Environment and getting a
-    Masters](#Work_Environment_and_getting_a_Masters)
-  * [4\.11 Technical Details of the Machines and
-    Processes](#Technical_Details_of_the_Machines_and_Processes)
-  * [4\.12 General Thoughts about Working with
-    Computers](#General_Thoughts_about_Working_with_Computers)
-  * [4\.13 Changes for Women in
-    Computing](#Changes_for_Women_in_Computing)
+* 1 Emily Willbanks(#Emily_Willbanks)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family and College Education(#Family_and_College_Education)
+  * 4\.2 First Job – Pratt and Whitney
+    Aircraft(#First_Job_.E2.80.93_Pratt_and_Whitney_Aircraft)
+  * 4\.3 Moving to Los Alamos(#Moving_to_Los_Alamos)
+  * 4\.4 Working on Weapon
+    Applications(#Working_on_Weapon_Applications)
+  * 4\.5 Working on Storage Systems(#Working_on_Storage_Systems)
+  * 4\.6 Working for the Weather Center in
+    England(#Working_for_the_Weather_Center_in_England)
+  * 4\.7 Experience of Working on Classified
+    Information(#Experience_of_Working_on_Classified_Information)
+  * 4\.8 Family and Personal Life(#Family_and_Personal_Life)
+  * 4\.9 Percentage of Women Working at the
+    Labs(#Percentage_of_Women_Working_at_the_Labs)
+  * 4\.10 Work Environment and getting a
+    Masters(#Work_Environment_and_getting_a_Masters)
+  * 4\.11 Technical Details of the Machines and
+    Processes(#Technical_Details_of_the_Machines_and_Processes)
+  * 4\.12 General Thoughts about Working with
+    Computers(#General_Thoughts_about_Working_with_Computers)
+  * 4\.13 Changes for Women in
+    Computing(#Changes_for_Women_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 
 * This page has been accessed 2,343 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

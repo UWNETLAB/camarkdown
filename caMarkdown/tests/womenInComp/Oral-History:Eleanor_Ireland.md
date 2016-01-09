@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Eleanor_Ireland&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Eleanor_Ireland&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Eleanor_Ireland)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Eleanor_Ireland&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Eleanor_Ireland "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Eleanor_Ireland "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Eleanor_Ireland&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Eleanor_Ireland&oldid=108348 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Eleanor_Ireland&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Eleanor_Ireland)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AEleanor+Ireland)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Eleanor_Ireland&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Eleanor_Ireland&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Eleanor_Ireland)
+  
+  * Discussion(index.php?title=Oral-History_talk:Eleanor_Ireland&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Eleanor_Ireland "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Eleanor_Ireland "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Eleanor_Ireland&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Eleanor_Ireland&oldid=108348 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Eleanor_Ireland&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Eleanor_Ireland)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AEleanor+Ireland)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Eleanor Ireland
@@ -82,7 +82,7 @@ moved to London where she joined the Women's Royal Naval Service (WRNS)
 in 1944\. At WRNS, she was stationed at Bletchley Park. She was part of
 a top secret group of engineers, mathematicians, and programmers that
 worked together to break codes during WWII. At Bletchley Park, she
-operated the [Colosssus computers](/Colossus "Colossus") until the end
+operated the Colosssus computers(Colossus "Colossus") until the end
 of the war. After the work, she went on to become an artist and
 illustrator, studying at Regent Street Polytechnic School of Art.
 
@@ -177,10 +177,10 @@ Were you particularly interested in maths or science as a child?
 No, not really. I wasn’t. I was much more on the arts side. I remember,
 I got distinction for English language, English literature, French—I’m
 not quite sure what the other one was—but I only passed in Maths.
-\[laughs.\] I think I got a distinction in Biology. What else? Oh, I did
+\laughs.\ I think I got a distinction in Biology. What else? Oh, I did
 history, which I enjoyed, and got credits in all the others. But, no,
 I’m afraid I wasn’t a mathematician. That’s the awful thing to tell
-you\! \[laughs.\] I’ve got a grandson who’s very good at maths, very
+you\! \laughs.\ I’ve got a grandson who’s very good at maths, very
 good. And my father was very good\! He could add up a column of figures
 by just looking down it. Incredible. And of course, my brother’s the
 statistician, and he worked with radar in the war, and was sent out to
@@ -202,7 +202,7 @@ don’t know of any of them who didn’t expect to support themselves. And
 so . . . Actually, when I finished school, I decided I wanted to be an
 architect. There would have been quite a bit of maths in that, and I did
 have extra coaching in trigonometry, and all ghastly things like that.
-\[laughs.\] And I applied to schools of architecture up in London—one of
+\laughs.\ And I applied to schools of architecture up in London—one of
 which was the Regent Street School of Architecture—and I went up there
 for an interview with my father, and yes, I was accepted. But the head,
 the principle, gave us a homily about it all, and ended up by saying
@@ -240,13 +240,13 @@ didn’t like very much; and I got tired of all the rather humdrum taxiing
 around London, and doing secretarial work. Whilst I was working there I
 stayed in a YWCA and shared a room with a school friend who went up to
 London to do a Domestic Science course, which her mother thought was
-vital for every girl to do \[laughs\], and I stayed up there too. We
+vital for every girl to do \laughs\, and I stayed up there too. We
 used to have quite fun. We went to the theatre, to plays, and to the
 ballet at the New Theatre where Margot Fonteyn and Robert Helpman were
 dancing. We would walk all the way back to behind Victoria
 Station—behind Victoria Station, very near the back of the Tate
 Gallery, to the hostel, and the search lights would be on . . .
-\[laughs\]. But we’d walk quite happily back, round by Buckingham
+\laughs\. But we’d walk quite happily back, round by Buckingham
 Palace.
 
 **Abbate:**
@@ -312,7 +312,7 @@ requisitioned a huge castle. And down at the base, you know, there were
 a great many wooden buildings for administration and long huts where we
 slept (Quonset huts?), and there was a mess, and a huge parade ground,
 and lecture rooms, and stores. And up at the top, the W.R.N. officers
-lived in the castle. \[laughs.\] And there was a parade ground up above
+lived in the castle. \laughs.\ And there was a parade ground up above
 as well. We had a flag, and we had a gun, and we had the raising and
 lowering of the flag every day. We were called about five o’clock in the
 morning, and had to do very mundane duties. You know, they wanted to get
@@ -330,7 +330,7 @@ So this was a kind of basic training?
 
 Basic training. Had to do our drilling, you know, smarten us up a little
 bit. And we were taught all about the traditions of the Navy from
-Pepys’s time. \[laughs.\] And generally lectured on what a marvelous
+Pepys’s time. \laughs.\ And generally lectured on what a marvelous
 institution it all was. And eventually we were called in and
 interviewed. We were asked what we’d like to do, and a friend of mine—I
 remember this quite clearly—told them that she wanted to go to into
@@ -338,7 +338,7 @@ signals. I can’t remember what I said I wanted to be; I’ve got no
 recollection of that. But anyway, we were all drafted down to Bletchley,
 and we were told, “You’re all going to a station fifty miles from
 London.” We all groaned. We thought that was terrible. We’d thought we
-were going to sea, you see\! \[laughs.\] A bit depressed about that.
+were going to sea, you see\! \laughs.\ A bit depressed about that.
 
 So, yes, we traveled overnight, I can remember. The train was
 desperately crowded with service personnel; all the trains were very
@@ -351,14 +351,14 @@ taken in a few at a time, into a little office they had there, and
 issued with station cards, and were told that in no way were we to lose
 these station cards; otherwise we wouldn’t be able to get into the
 compound at all. So after that happened, we were taken to another small
-building. We could see through \[it\] another large Victorian mansion,
+building. We could see through \it\ another large Victorian mansion,
 but we went into a little building on the side. And we were addressed by
 a W.R.N. officer, and we were told that we were going to do very secret
 work. We could not tell anybody else what we were doing, neither were we
 to communicate with each other about what we did whilst we were on duty,
 nor were we to talk to anybody else (about work) on the site. And we all
 had to sign the Official Secrets Act. And we came out of there fairly
-traumatized by the whole thing. \[laughs.\] This was not what we’d been
+traumatized by the whole thing. \laughs.\ This was not what we’d been
 expecting at all\!
 
 **Abbate:**
@@ -404,19 +404,19 @@ So you were staying in the Abbey?
 
 **Ireland:**
 
-\[laughs.\] Well, of course it was very basic. Mind you, everything had
+\laughs.\ Well, of course it was very basic. Mind you, everything had
 been taken out, absolutely everything. It was very bleak, and very bare.
 And we only had bunk beds; you had a bunk bed, and then we had one chest
 of drawers each. Eventually, when they decided what watch we were on,
 eight of us were sent up, right up into the servant’s quarters at the
-top \[laughs\], and we lived in that room under the eaves. That’s all we
+top \laughs\, and we lived in that room under the eaves. That’s all we
 had, a small chest of drawers. And then there was one cupboard in which
 we would keep our luggage in. And we kept some food in there for a
-while, until we found the resident mice. \[laughter.\] And, it was
+while, until we found the resident mice. \laughter.\ And, it was
 terribly cold in winter; bitterly cold—because Bedfordshire is one of
 the coldest counties in the country, you know; completely flat, it’s
-flat right to the coast there. We used to have the windows open \[for
-fresh air\]—had to, because there were eight of us. During the winter
+flat right to the coast there. We used to have the windows open \for
+fresh air\—had to, because there were eight of us. During the winter
 the snow came in and stayed on the window sill for about three weeks\!
 It was bitterly cold. We had to go right down to the basement, to where
 there were very large kitchens; we came through a long flagstoned
@@ -428,18 +428,18 @@ with pretty cretonne covers, and a fire. So that was much better.
 
 **Abbate:**
 
-Yes. \[laughs.\]
+Yes. \laughs.\
 
 ### Working with Colossus II at Bletchley Park
 
 **Ireland:**
 
-\[laughs.\] Much better\! Anyway, after we settled in, I think the next
+\laughs.\ Much better\! Anyway, after we settled in, I think the next
 day, we were driven in to Bletchley, in a transport driven by a soldier,
 and went through the woods and came out at Bletchley, which was a very
 small, sleepy town. We were met there and taken to a building called F
 Block. We passed the mansion, and came on all these very grim looking
-concrete block buildings, and we were taken to Hut F. This was \[Max\]
+concrete block buildings, and we were taken to Hut F. This was \Max\
 Newman’s section—run by Mr. Newman—and he welcomed us in. He was very
 nice; awfully nice chap. In fact, the whole section was a very happy
 section. He was such a lovely person, and it was all very happy.
@@ -448,7 +448,7 @@ He told us what we would be doing. We were taken into a large room which
 had a huge blackboard at the back—I think he had meetings in there
 generally, with the various other mathematicians and engineers—and we
 sat in rows facing him. And he would draw all sorts of things on the
-blackboard, and initiated us into binary maths. \[laughs.\] And told us,
+blackboard, and initiated us into binary maths. \laughs.\ And told us,
 you know, what we’d have to know, showed us the tapes which went on the
 machine; we had to learn the alphabet . . .
 
@@ -461,7 +461,7 @@ On punch . . . ?
 We were shown the tape that was used on the computers, and there was a
 sprocket going through it, and there was room for two dots above and
 three below, and so it all depended on what the placing of the dots was,
-what letter it was. \[For example\], “A” was two dots at the top,
+what letter it was. \For example\, “A” was two dots at the top,
 nothing at the bottom. And we learned all that. He indoctrinated us for
 about a fortnight, and then we were given an exam. The result of that
 was where you were placed. He’d already taken us around to show us all
@@ -473,7 +473,7 @@ into the room where the messages actually came in on tape from various
 stations and somewhere up in the north of England—two machines, two or
 three machines, which were constantly sending out these messages on
 tapes It was GPO tape that we were using; the same kind of tape that was
-used in GPO \[General Post Office\].
+used in GPO \General Post Office\.
 
 **Abbate:**
 
@@ -491,7 +491,7 @@ senior Wrens ran that and sent all these tapes out to various machines,
 and various places, and they had all the records of where every tape
 was. I had a friend who was detailed off to work there.
 
-Two of us, my friend Jean \[Beech\] and I, were put onto Colossus. I was
+Two of us, my friend Jean \Beech\ and I, were put onto Colossus. I was
 put onto Colossus II, and she was put onto Colossus I. And we were
 taught by Jean Bradbury on the machine. She taught the course. She had
 already been working on the machine when we got there, and she taught us
@@ -535,7 +535,7 @@ We go on a Friday night, and then we generally go into Bletchley itself
 on Saturday. Sometimes they take us on tours of blocks that we formerly
 had never been into—because you never entered any building other than
 the one you were working in—and that was quite a revelation. And, then I
-always go and visit Colossus \[laughs\]—and have a look at that, to
+always go and visit Colossus \laughs\—and have a look at that, to
 remind myself of what it looked like.
 
 **Abbate:**
@@ -555,7 +555,7 @@ No one had\!
 
 **Ireland:**
 
-Nobody had, yes\! \[laughs.\] Unbelievable really. I was fascinated by
+Nobody had, yes\! \laughs.\ Unbelievable really. I was fascinated by
 it. I was fascinated by this; and I was very pleased, because I did want
 to work on it after I’d seen it. I thought, now that’s where I’d like to
 be, you know, not doing the other things. I wanted to be on that
@@ -586,7 +586,7 @@ pegged in on the back.
 And I was terrified that the person I was teaching wouldn’t put the tape
 on properly, so I didn’t generally leave until I saw the tape was put on
 properly. In case it split or anything like that, and she wouldn’t know
-what to do, I used to rush back to see if it was all right\! \[laughs.\]
+what to do, I used to rush back to see if it was all right\! \laughs.\
 Tapes were sent to us, and they ran for about an hour, and we had to log
 it all in. We had a log book: log the tape in, log the date and time
 that it came in; we had to log the time that we took it off, and then it
@@ -610,7 +610,7 @@ Put the tape on, make sure that the tension was right—you had to have
 the tension just right. When they rebuilt that Colossus, and the next
 day they were going to have the opening—I’ve forgotten who they had,
 some quite well-known person —it took them three hours to get the tape
-right, and we all thought that was very amusing\! \[laughs.\] But one
+right, and we all thought that was very amusing\! \laughs.\ But one
 became very proficient at it and very quick at it, actually. It all
 depended how long the tape was, how many wheels it had to go round. You
 see, there were several wheels at the bottom. It all depended on the
@@ -629,7 +629,7 @@ had to set up . . . ?
 We had a plug board at the back, and we had long pins which we put in
 there. They looked like very strong hairpins, actually. And I think they
 were nickel—I’ve got what it was down here somewhere—plated. They were
-plated. \[pause as she looks through pages.\] Yes, the sprocket holes
+plated. \pause as she looks through pages.\ Yes, the sprocket holes
 went past an electronic eye. They went past at five thousand per second,
 so that five thousand letters were registered per second. And at the
 back of the machine, there was a huge peg board, and you had very strong
@@ -647,7 +647,7 @@ And they would tell you what pattern to put them in? Or how did you know
 We were told what pattern to put them into. I can’t remember much about
 that when I was actually learning, when I was working on that machine. I
 can’t remember how they gave us the directions. Nor can I remember,
-actually, later—after I’d worked on \[Colossus\] I and II, they were
+actually, later—after I’d worked on \Colossus\ I and II, they were
 building some more, and they added another huge room on, and installed
 two more, Colossus III and Colossus IV. And Jean and I were sent on to
 III and III. She was sent on to IV, and I was sent on to IV. At the same
@@ -728,7 +728,7 @@ So then the printout would go off to . . .
 **Ireland:**
 
 The printout would go back to Ops. It was a paper about that wide, I
-suppose. \[holds up hands.\]
+suppose. \holds up hands.\
 
 **Abbate:**
 
@@ -754,7 +754,7 @@ used to tell us to run for certain letters, like “E’s” and “A’s,” wh
 you’d get most of. And then on some tapes we had to run for the “norm,”
 and as the number came out, we had to quickly calculate whether the
 result was above or below the norm, and how many by. And so we had to do
-that quickly as the tape was coming through. \[laughs.\] I must say, I
+that quickly as the tape was coming through. \laughs.\ I must say, I
 got very good at mental arithmetic.
 
 **Abbate:**
@@ -783,11 +783,11 @@ So that was the number of “E’s” or something?
 **Ireland:**
 
 . . . as it clicked out, you know. Now I’ll tell you how fast those they
-were going. \[pause as she looks through pages.\] Yes, they were twice
+were going. \pause as she looks through pages.\ Yes, they were twice
 as large, and five times as fast. So, instead of 5,000 characters a
 minute, being read by this electronic eye, there were 25,000 characters,
 so you see the speed in which the whole thing was going. The actual
-gantry was much bigger. \[pause.\]
+gantry was much bigger. \pause.\
 
 Well, I found it very interesting. I was never worried by it all. You
 know, you felt you were doing something worthwhile. But certainly, what
@@ -807,7 +807,7 @@ Did you have any idea what you were working on?
 No, I didn’t. I didn’t know until I went to the first meeting of
 Bletchleyites, a long time after the war. And I think we didn’t have
 those until after a book came out, which gave the whole game away.
-\[laughs.\] We were horrified, actually\! All of us, we were horrified,
+\laughs.\ We were horrified, actually\! All of us, we were horrified,
 because we’d never thought this would happen. We had to sign the Secrets
 Act when we left, and we had to take all these machines down. My parents
 never knew what I did, and neither did my husband. I never told anybody
@@ -817,7 +817,7 @@ horrified when this book came out. In fact, I think I heard of it when I
 went to dinner with an RAF couple that I knew; he was an officer who was
 based over in High Wycombe, and I went to have dinner with them. And he
 said, had I seen the book about Bletchley? And I said, “Book about
-Bletchley? What book about Bletchley?” \[laughs.\] “No, no, no, of
+Bletchley? What book about Bletchley?” \laughs.\ “No, no, no, of
 course not.” He told me, and I just sat there in utter silence,
 absolutely transfixed by all this news.
 
@@ -891,11 +891,11 @@ Were you involved in that?
 
 **Ireland:**
 
-Mmmm. I’ve even got a little valve. \[laughs.\]
+Mmmm. I’ve even got a little valve. \laughs.\
 
 **Abbate:**
 
-You do? \[laughs.\]
+You do? \laughs.\
 
 **Ireland:**
 
@@ -916,7 +916,7 @@ So you were literally tearing them to pieces.
 **Ireland:**
 
 That’s right, yes. I don’t know how many—I think some of the engineers
-kept a few pieces, actually—I think they did. \[laughs.\]
+kept a few pieces, actually—I think they did. \laughs.\
 
 And I got to know—well, I didn’t know the engineers very well when I was
 actually working on it; one really didn’t have time, you know. But, when
@@ -924,7 +924,7 @@ I started going to these meetings at Bletchley once a year . . . I went
 to the very first, and that was when we were told what we—what we were
 actually doing\! And what the codes were that the Colossus were
 breaking. That was the Lorenz machine, which we—I’ve got that somewhere
-. . . \[looks through papers.\] Yes. And that was especially ordered by
+. . . \looks through papers.\ Yes. And that was especially ordered by
 the German High Command, to enable them to communicate in complete
 secrecy. The Lorenz machine was used by Hitler, Goering, and Goebbels,
 and the field marshals and generals. They now have a Lorenz machine in
@@ -935,7 +935,7 @@ for possible spy transmissions. So that was the first time they heard
 them. And that’s all that . . . I’ve heard, you know, though I’ve heard
 a lot since. And we were very surprised when we went along the first
 time and were told all this, you know, and were shown the machine . . .
-\[laughs.\] Because how could they manage to keep this secret? Because
+\laughs.\ Because how could they manage to keep this secret? Because
 only—most people only knew their little bit, and didn’t know any more.
 So that’s the way they kept it all.
 
@@ -953,7 +953,7 @@ to do. And that’s why they had to have these very fast machines—just to
 tackle it at all\!
 
 Now, I’ve got another bit about that you might be interested in . . .
-\[looks through papers.\]
+\looks through papers.\
 
 ### More on Work at Bletchley Park
 
@@ -963,11 +963,11 @@ What kind of shifts did you work? Was it a 24-hour operation?
 
 **Ireland:**
 
-Oh yes\! And I’ve got that. \[Pulls out papers.\] Yes, we worked on four
+Oh yes\! And I’ve got that. \Pulls out papers.\ Yes, we worked on four
 watches: eight to four; four to twelve; twelve to eight; and we did a—
 so we did a week of days, a week of nights, and a week of evenings, and
 a week of change-overs—this was the fourth week, when we filled in any
-gaps in A watch. We \[the women in C watch\] worked with A watch,
+gaps in A watch. We \the women in C watch\ worked with A watch,
 mainly. C and A watch were integrated together, and B and D watch
 integrated together.
 
@@ -999,7 +999,7 @@ came off at four—we might have to go on at midnight, again; so that week
 was pretty grueling, actually. And at the end of that week, we had a
 weekend off. And we had a weekend off once a month.
 
-\[TAPE 1, SIDE 2\]
+\TAPE 1, SIDE 2\
 
 **Abbate:**
 
@@ -1009,11 +1009,11 @@ What did you do on the weekends off?
 
 I often went up to London. We weren’t all that far from the A-1, so we
 used to hitch a lift over to the A-1 road. And then we used to hitch a
-lift up to London in cars or lorries\! \[laughs.\] But it was mainly
+lift up to London in cars or lorries\! \laughs.\ But it was mainly
 lorry drivers who seemed to stop for us. And we would sit up in the
-front with the driver. \[laughs.\] Some of them were very nice. They
+front with the driver. \laughs.\ Some of them were very nice. They
 used to take us in to one of their lorry drivers’ pull-ins and give us
-breakfast. \[laughs.\]
+breakfast. \laughs.\
 
 When we got to London, I know I often went into Fortnum & Mason’s for
 tea, which I rather liked doing\! And we often went to something called
@@ -1033,12 +1033,12 @@ march two miles down to a church on a Sunday for services, then walk two
 miles back again; but they stopped that and they became—they were fairly
 lenient with us, actually. Because they didn’t know what we did—didn’t
 know at all what we did: no idea. But . . . No, I think that we were—all
-about the same age, of course—and it was quite jolly, really, \[laughs\]
+about the same age, of course—and it was quite jolly, really, \laughs\
 because they were all very good-humored. I still see my friend Jean, who
 went to the same school as I did, actually. I met her in the High Street
 about a fortnight before I was due to be called up, and found that she
 was going to be called up at the same time. And then we stayed together
-right through until we got demobbed \[demobilized\].
+right through until we got demobbed \demobilized\.
 
 **Abbate:**
 
@@ -1054,7 +1054,7 @@ Was this Jean Bradbury, or a different Jean?
 
 **Ireland:**
 
-No, it was a different Jean \[Jean Beech\]. No, this is my school
+No, it was a different Jean \Jean Beech\. No, this is my school
 friend—school that I went to. And I was only with Jean Bradbury when
 she taught me how to work the machine, on Colossus I.
 
@@ -1087,7 +1087,7 @@ Yes. Did you meet him?
 
 **Ireland:**
 
-I met him after the war, yes. I met him there \[at Bletchley Park\] at
+I met him after the war, yes. I met him there \at Bletchley Park\ at
 one of our get-togethers—I think that was, again, when the Duke of Kent
 came. I think it might have been when they turned the machine on. They
 had a special celebration turning on the first Colossus after it had
@@ -1158,7 +1158,7 @@ battling with—they had all these huge papers and slide rules and so on.
 I’m sure they all knew.
 
 The later ten computers that were built were there to run the tapes when
-the codes were broken. I don’t know if \[those operators\] were told
+the codes were broken. I don’t know if \those operators\ were told
 what they’d broken, but we certainly weren’t. The computer operators who
 worked on the last ten machines worked in twos to do that, as I had done
 with Jean Bradbury. But no, I never heard anything particular, nothing
@@ -1187,7 +1187,7 @@ I didn’t know until I went to those later lectures, a long long time
 after the war, what codes the machines we worked on were breaking. We
 were quite, quite thrilled then, to realize that we were breaking
 messages sent out by Hitler. And we thought, “Oh, well, that was
-terrific, wasn’t it?” \[laughs.\] All I knew was that I was doing
+terrific, wasn’t it?” \laughs.\ All I knew was that I was doing
 something that was vitally necessary; vitally necessary.
 
 When I got to know some of the engineers better. . . Harry Fensom, for
@@ -1235,18 +1235,18 @@ Did you have any desire to go on working with computers after the war?
 
 **Ireland:**
 
-No\! \[laughs.\] No, that was it.
+No\! \laughs.\ No, that was it.
 
 I was then sent up to be retrained as a pay officer and sent up to
 Rosyth Harbor with Jean, and we helped to demob the men from the Navy at
 the end of the War, and do all the accounts, which I thought was very
 boring. Very boring. And eventually we were discharged from there. We
 stayed at a place called Dunfermline, just outside Edinburgh. That was
-quite fun. The food was very much better up there\! \[laughter\]. Much
-better food up there than we were given \[at Bletchley\]
-\[laughter\]—because the food was pretty grim, you know. To be faced
+quite fun. The food was very much better up there\! \laughter\. Much
+better food up there than we were given \at Bletchley\
+\laughter\—because the food was pretty grim, you know. To be faced
 with cold congealed liver and prunes in the middle of a night watch was
-not very good. I never ate another prune for 30 years\! \[laughter.\]
+not very good. I never ate another prune for 30 years\! \laughter.\
 
 On night watch we would walk down to the railway station and over the
 bridge and down onto a platform. There was a YMCA at the end of it, and
@@ -1268,18 +1268,18 @@ Moscow to St. Petersburg about six years ago. She said, “Oh, you know
 why you were sent up there when you first volunteered? It was because
 there was an awful lot of bombing, a lot of raids at the time; and as
 they intended you to work at Bletchley on the new machines, they sent
-you up to Scotland.” \[laughs.\] I said, “Oh\! Oh really?” And she knew
+you up to Scotland.” \laughs.\ I said, “Oh\! Oh really?” And she knew
 exactly that we’d been there for three weeks rather than two. I said,
 “Oh did you?” “Yes,” she said, “because you were going to do Top
 Secret work your background was vetted.” Amazing what revelations you
 get from different people, isn’t it?
 
-So, yes . . . When I came out \[of the WRNS\], I thought I’d go into
+So, yes . . . When I came out \of the WRNS\, I thought I’d go into
 interior decoration. I’ve always liked drawing and painting, and I drew
 and painted from a very early age. Well, anyway, I had a very formidable
 aunt who taught art in one of the big Wolverhampton grammar schools. And
 she said, “Oh no,” she said, “you can’t do interior decoration. There
-won’t be any call for interior decoration at this time\!” \[laughs.\]
+won’t be any call for interior decoration at this time\!” \laughs.\
 And my father always took what she said as gospel—I was furious about
 that. But she did say I could go to an art school, and so I went to
 Regent Street Polytechnic School of Art. I stayed there five years, and
@@ -1312,7 +1312,7 @@ something like that\! And so, you know, you’re more or less working
 night and day to get this book ready for them. And that doesn’t really
 go with looking after a family. For instance, Robin thought whatever
 pencil or pen I had in my hand was the magic pencil or pen, and that’s
-the one he wanted. \[laughs.\] And that made the working very
+the one he wanted. \laughs.\ And that made the working very
 difficult\!
 
 So I went on just painting for pleasure. When we went away on holiday,
@@ -1339,7 +1339,7 @@ was asked if I would teach adults. And I thought, “Well I’ve got more
 time now,” because Toby was coming up to 16 and would be leaving home as
 well; and so I took over from somebody who had been trained at the same
 art college that I had. I taught four days a week—I don’t know how I did
-it, now\! Four whole days a week I used to do that\! \[laughs.\] I
+it, now\! Four whole days a week I used to do that\! \laughs.\ I
 retired a year ago, exactly. When my husband retired, he got fed up with
 me being out of the house all day, so I went down to two days a week, I
 taught two days a week. It helped, actually, to buy medical books for my
@@ -1370,9 +1370,9 @@ You haven’t used one since Bletchley Park—ever?
 
 **Ireland:**
 
-Isn’t that awful\! \[laughter.\] I know, you’re thinking it absolutely
+Isn’t that awful\! \laughter.\ I know, you’re thinking it absolutely
 ghastly\! There’s a computer upstairs—or actually it’s in that other
-room now—and \[laughs\] my son and his wife both use it, and three of
+room now—and \laughs\ my son and his wife both use it, and three of
 the children. All very adept at it. I just don’t want to know.
 
 **Abbate:**
@@ -1387,10 +1387,10 @@ I didn’t want to use it.
 I, of course, didn’t realize I was working on the first computer, when I
 worked on it. I didn’t know it was the first computer. I didn’t know
 that till I started going to these weekends at Bedford when we’d go into
-Bletchley, that I’d been working on the very first computer. \[laughs.\]
-Then we were told exactly what we had worked on. But I didn’t know \[at
-the time\]. And then, it all sounded so desperately complicated that I
-put a shutter down\! \[laughs.\] I didn’t want to know any more about
+Bletchley, that I’d been working on the very first computer. \laughs.\
+Then we were told exactly what we had worked on. But I didn’t know \at
+the time\. And then, it all sounded so desperately complicated that I
+put a shutter down\! \laughs.\ I didn’t want to know any more about
 that\! All I know is, I did my job when I was doing it. But, you can
 understand perhaps that I was not very mathematically inclined. I was
 very good at carrying out what I was asked to do. When they wrote my
@@ -1415,7 +1415,7 @@ none of my friends. My great friend Jean did a secretarial training, and
 she worked for a publishing firm. Later she joined the Orient Line, and
 as an adventure to see the world she was secretary in the office on one
 of the Orient Line cruisers going back and forth to Australia.
-\[laughs.\] And my other great friend . . . We all meet—the four of us
+\laughs.\ And my other great friend . . . We all meet—the four of us
 meet, who were in the same cabin, called Swordfish 50, at Woburn Abbey
 about two or three times a year. One of us, who’s called Betty, belongs
 to a luncheon club called the Parrot Club, just off Bond Street—no, just
@@ -1438,18 +1438,18 @@ Oh, the fact that I knew it was vitally important; I did know that. I’m
 desperately patriotic; very patriotic; and I was very pleased to think
 that I was doing something to help the war effort; that’s basically what
 it was. We were quite high-minded in those days, you know. I don’t think
-any of the young \[today\] would put up with what we put up with: not at
+any of the young \today\ would put up with what we put up with: not at
 all\! They wouldn’t put up with the living conditions—for instance,
 there was very little heating in Woburn Abbey at all. Before we had that
 little drawing room, we used to sit in what was known as the Grand Cube
 Room; an enormous room. It was all boarded up and everything had been
 taken out. And there were sets of three tubular electric bars, at
 intervals some way apart; and we used to sit in our greatcoats huddled
-round these three metal bars\! \[laughing.\] Of course the food was
+round these three metal bars\! \laughing.\ Of course the food was
 pretty awful in those days. But we never grumbled about that or the
 watch system at all—and it was very hard. I have a friend who worked
 over at Eastcote, and she said, “Oh, we regarded it as a fate worse than
-death to be sent out to Bletchley\!” \[laughter.\] Because where she was
+death to be sent out to Bletchley\!” \laughter.\ Because where she was
 at Eastcote, they could get up to London very easily, when they were
 off-duty, which they enjoyed; and they heard that we had to work very,
 very hard out in Bletchley with very little available entertainment. But
@@ -1475,7 +1475,7 @@ wanted to know, wanted to learn; you have to want to learn. And I did
 want to learn; I did want to do it well. Whatever I was doing, I wanted
 to do it well.
 
-\[laughs.\] And it was the same exactly when I went to the art school. I
+\laughs.\ And it was the same exactly when I went to the art school. I
 went in at 9:30 in the morning, and started working at ten, and except
 for Wednesday night, I didn’t come out till nine o’clock at night.
 
@@ -1508,7 +1508,7 @@ I think you’ve earned a rest\!
 
 **Ireland:**
 
-I’ve earned a rest by now, yes\! \[laughs.\]
+I’ve earned a rest by now, yes\! \laughs.\
 
 But as I taught, I would remember all that my tutors ever told me; it
 would all flash into my mind, you know, all the things they had said. I
@@ -1543,8 +1543,8 @@ I don’t know . . .
 
 It seems like we’ve been pretty thorough.
 
-Would you like this? \[Offers typed copy of “Bletchley Park—Station X:
-Memories of a Colossus Operator.”\]
+Would you like this? \Offers typed copy of “Bletchley Park—Station X:
+Memories of a Colossus Operator.”\
 
 **Abbate:**
 
@@ -1570,23 +1570,23 @@ That would be great\! I’m sure I will be able to . . .
 
 I think that’s probably the best thing for you to do, isn’t it? . . .
 
-Has that \[the interview\] been useful at all?
+Has that \the interview\ been useful at all?
 
 **Abbate:**
 
 Yes\! Yes, very much. Thank you very much, because I haven’t heard
-anyone \[else who worked on Colossus\].
+anyone \else who worked on Colossus\.
 
 **Ireland:**
 
 There aren’t many of us left\!
 
-\[The interview was going to end here, but after a few minutes Ireland
-made some additional comments:\]
+\The interview was going to end here, but after a few minutes Ireland
+made some additional comments:\
 
 **Ireland:**
 
-. . . I’d meet, when I go back \[to Bletchley Park for reunions\],
+. . . I’d meet, when I go back \to Bletchley Park for reunions\,
 people from other watches, whom I didn’t actually know, one of whom was
 a Colossus operator and another who worked in Ops. I return with two Ex
 Wrens, one who worked in Naval Section and another who worked at
@@ -1620,11 +1620,11 @@ have a room with heat.
 It was terribly cold in winter\! And one thing we were allowed to do: We
 were allowed—and this is quite incredible, really—we were allowed, in
 the winter, to wear any jumpers or pullovers that we wanted: completely
-non-uniform. I can remember wearing a turquoise blue jumper. \[laughs.\]
+non-uniform. I can remember wearing a turquoise blue jumper. \laughs.\
 And I wore that. But that was the only thing we were allowed to do,
 really. We felt we were a little special, just like the pilots that were
 allowed to wear something non-uniform. I thought that was very good.
-\[laughs.\] But that’s about all. No, it was very cold—but then, you
+\laughs.\ But that’s about all. No, it was very cold—but then, you
 see, we’d been used to being very cold. I mean, when I was at school at
 the beginning of the war, we sat in our classrooms with our overcoats
 on; we more or less sat in all our school uniform, because we couldn’t
@@ -1640,7 +1640,7 @@ Yes.
 **Ireland:**
 
 And, the room was large enough, as I say, during the Summer, for us not
-to bother about it very much. \[pause.\]
+to bother about it very much. \pause.\
 
 I would like to have gone into H. Block and seen those other computers.
 I’d love to have seen them, I really would.
@@ -1648,7 +1648,7 @@ I’d love to have seen them, I really would.
 Jean and I were both made Leading Wrens whilst we were there, but when
 we left and had to change category as soon as we went off to do pay,
 they took that away from us—which I thought was rather mean, really\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1669,9 +1669,9 @@ some people in Ops were made Petty Officers.
 
 We didn’t really wear any category badge on us at all. And if anybody
 asked you what you were doing, you’d say: “Oh, boring old stuff, you
-know: writing.” “We’re just writers. Fill in forms.” \[laughter.\] I
+know: writing.” “We’re just writers. Fill in forms.” \laughter.\ I
 know my father was itching to know what I did. “Boring old stuff\!” I
-said. \[laughs.\]
+said. \laughs.\
 
 All right, well. Nothing else particularly stands out at all, really.
 
@@ -1710,8 +1710,8 @@ were involved.
 
 **Abbate:**
 
-They must have needed a lot of electricity to run them \[the
-computers\].
+They must have needed a lot of electricity to run them \the
+computers\.
 
 **Ireland:**
 
@@ -1732,60 +1732,60 @@ Were you on your feet the whole time?
 Yes, I got terrible varicose veins, because I literally stood for nine
 hours at a time on these hard composition floors. We did have a little
 stool in front of the teleprinter, but I didn’t sit on it very much\!
-\[laughs.\] So\!
+\laughs.\ So\!
 
-\[end of tape\]
+\end of tape\
 
 ## Further Reading
 
-[Bletchley Park, Station X - Memories of a Colossus
-Operator](/First-Hand:Bletchley_Park,_Station_X_-_Memories_of_a_Colossus_Operator "First-Hand:Bletchley Park, Station X - Memories of a Colossus Operator")
+Bletchley Park, Station X - Memories of a Colossus
+Operator(First-Hand:Bletchley_Park,_Station_X_-_Memories_of_a_Colossus_Operator "First-Hand:Bletchley Park, Station X - Memories of a Colossus Operator")
 - A first hand account written by Ireland about her experiences working
 with Colossus
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Eleanor_Ireland&oldid=108348>"
+"<http:/ethw.org/index.php?title=Oral-History:Eleanor_Ireland&oldid=108348>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Military
-  computing](/Category:Military_computing "Category:Military computing")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Military
+  computing(Category:Military_computing "Category:Military computing")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Eleanor Ireland](#About_Eleanor_Ireland)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Moving to London](#Moving_to_London)
-  * [4\.3 Joining the Women's Royal Naval
-    Service](#Joining_the_Women.27s_Royal_Naval_Service)
-  * [4\.4 Working with Colossus II at Bletchley
-    Park](#Working_with_Colossus_II_at_Bletchley_Park)
-  * [4\.5 Working on Collossus IV](#Working_on_Collossus_IV)
-  * [4\.6 Revealing Bletchley Park](#Revealing_Bletchley_Park)
-  * [4\.7 More on Work at Bletchley
-    Park](#More_on_Work_at_Bletchley_Park)
-  * [4\.8 Work after the War](#Work_after_the_War)
-  * [4\.9 Reflection on Work at Bletchley
-    Park](#Reflection_on_Work_at_Bletchley_Park)
-* [5 Further Reading](#Further_Reading)
+* 1 About Eleanor Ireland(#About_Eleanor_Ireland)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Moving to London(#Moving_to_London)
+  * 4\.3 Joining the Women's Royal Naval
+    Service(#Joining_the_Women.27s_Royal_Naval_Service)
+  * 4\.4 Working with Colossus II at Bletchley
+    Park(#Working_with_Colossus_II_at_Bletchley_Park)
+  * 4\.5 Working on Collossus IV(#Working_on_Collossus_IV)
+  * 4\.6 Revealing Bletchley Park(#Revealing_Bletchley_Park)
+  * 4\.7 More on Work at Bletchley
+    Park(#More_on_Work_at_Bletchley_Park)
+  * 4\.8 Work after the War(#Work_after_the_War)
+  * 4\.9 Reflection on Work at Bletchley
+    Park(#Reflection_on_Work_at_Bletchley_Park)
+* 5 Further Reading(#Further_Reading)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 
 * This page has been accessed 2,721 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

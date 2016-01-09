@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Bobby_Hersom&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Bobby_Hersom&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Bobby_Hersom)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Bobby_Hersom&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Bobby_Hersom "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Bobby_Hersom "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Bobby_Hersom&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Bobby_Hersom&oldid=108265 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Bobby_Hersom&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Bobby_Hersom)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ABobby+Hersom)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Bobby_Hersom&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Bobby_Hersom&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Bobby_Hersom)
+  
+  * Discussion(index.php?title=Oral-History_talk:Bobby_Hersom&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Bobby_Hersom "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Bobby_Hersom "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Bobby_Hersom&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Bobby_Hersom&oldid=108265 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Bobby_Hersom&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Bobby_Hersom)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ABobby+Hersom)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Bobby Hersom
@@ -131,8 +131,8 @@ PLACE: Bobby Hersom's home in Thirsk, England
 
 ### Background and Education
 
-\[Note: Bobby Hersom’s husband, Ed Hersom, was also present and made
-occasional comments. Some of these were not picked up by the recorder.\]
+\Note: Bobby Hersom’s husband, Ed Hersom, was also present and made
+occasional comments. Some of these were not picked up by the recorder.\
 
 **Abbate:**
 
@@ -187,7 +187,7 @@ Why?
 
 I suppose so that they didn’t to know too much about their.... I don’t
 know\! I don’t know why; it was just what happened. And he managed to
-get himself moved around \[within\] the area, so that (possibly by
+get himself moved around \within\ the area, so that (possibly by
 lodging out for the week) we would stay in the same place, so that I
 could go to school in Birmingham when I was eleven.
 
@@ -266,7 +266,7 @@ The students at that school?
 **Hersom:**
 
 Because they took a high-intelligence intake; so that the average
-intelligence was \[very high\].
+intelligence was \very high\.
 
 **Abbate:**
 
@@ -282,7 +282,7 @@ And then did you end up going to Cambridge?
 
 **Hersom:**
 
-Oh yes\! \[laughs.\]
+Oh yes\! \laughs.\
 
 **Abbate:**
 
@@ -322,7 +322,7 @@ And how did you like Cambridge?
 
 **Hersom:**
 
-Ah, wonderful\! \[laughs.\]
+Ah, wonderful\! \laughs.\
 
 **Abbate:**
 
@@ -332,7 +332,7 @@ Everything you’d hoped it would be?
 
 Well, I hadn’t really thought about it; but I mean, I did a lot of
 singing, I played netball all the time—and that’s why I didn’t do very
-much work\! \[both laugh.\] It really is\!
+much work\! \both laugh.\ It really is\!
 
 **Abbate:**
 
@@ -342,7 +342,7 @@ I don’t actually know what netball is.
 
 It’s a smaller form of basketball. It’s on a smaller court, and the nets
 are shorter, and you can’t bounce the ball. It’s a very quick game, and
-you can go flat-out for a fairly short time; \[it’s\] a shorter game.
+you can go flat-out for a fairly short time; \it’s\ a shorter game.
 Well, it was; I think they’ve changed it now.
 
 **Abbate:**
@@ -373,7 +373,7 @@ doing a year’s teacher training would give me another year in Cambridge,
 which would mean I could go on playing netball. I told the principal,
 and she said, “Perhaps we like people to go somewhere else to do it.”
 And I said, “But I want to stay in Cambridge and play netball.” “Oh, all
-right\!” she said. \[both laugh.\]
+right\!” she said. \both laugh.\
 
 **Abbate:**
 
@@ -392,7 +392,7 @@ And was it all right?
 
 **Hersom:**
 
-Yes\! \[laughs.\]
+Yes\! \laughs.\
 
 **Abbate:**
 
@@ -413,7 +413,7 @@ So you were teaching in a . . .
 
 **Hersom:**
 
-In another school in Birmingham, actually. \[laughs.\] Well, you would
+In another school in Birmingham, actually. \laughs.\ Well, you would
 never guess the reason I went back there: because I had the residency
 for playing netball for the county\! If I’d gone somewhere else, I
 wouldn’t have had the qualification to play for that county. So it was
@@ -425,8 +425,8 @@ I knew the previous Research Director at Elliott Brothers, and friends
 of mine—Ruth and George Felton—were working there, and I said, “Do you
 think I can get a job there?” I can’t remember whether I wrote; I
 suppose I must have written. Anyway, I had an interview with the current
-Head, and somebody who was in the Research Group called Hersom\! \[She
-and her husband, Ed Hersom, laugh.\]
+Head, and somebody who was in the Research Group called Hersom\! \She
+and her husband, Ed Hersom, laugh.\
 
 There was a bit of upheaval going on with Elliott at the time, but after
 some eventual time, they did offer me a job there.
@@ -511,7 +511,7 @@ Ah, delay lines.
 
 On a board. And if you gave it an instruction referring to address five,
 and then gave it an address six, it would have passed it by then, so you
-had to wait another time \[cycle\]. So you had to cunningly set your
+had to wait another time \cycle\. So you had to cunningly set your
 addresses.
 
 **Abbate:**
@@ -543,7 +543,7 @@ operator?
 **Hersom:**
 
 No, we ran them ourselves. And at that time, if the machine ran for half
-an hour, it was doing well\! \[laughs.\]
+an hour, it was doing well\! \laughs.\
 
 **Abbate:**
 
@@ -579,13 +579,13 @@ What sort of software were you developing?
 One I was largely concerned with was some radar readings. They filmed
 the plane, and they had this film, with three girls who operated this
 machine for reading the film. They’d move it on, they’d get a picture,
-and then they’d take the reading of the . . . \[To Ed Hersom:\] Was it
+and then they’d take the reading of the . . . \To Ed Hersom:\ Was it
 the tilt of the plane?
 
 **Ed Hersom:**
 
-It was the pitch of the plane . . . \[some of this comment not
-audible.\] Subsequently they would compare that with the radar signal
+It was the pitch of the plane . . . \some of this comment not
+audible.\ Subsequently they would compare that with the radar signal
 itself.
 
 **Abbate:**
@@ -610,7 +610,7 @@ Did you have to draw on your mathematical background to do this?
 No, not directly; but it’s more a way of thinking—of thinking precisely,
 and filling in all the details. We used to say, “The difference between
 a physicist and a mathematician is: the physicist says, ‘Epsilon tends
-to nought,’ \[but\] a mathematician has to prove that epsilon tends to
+to nought,’ \but\ a mathematician has to prove that epsilon tends to
 nought.” And so you have to be precise; you have to get everything just
 right. And I think this is where that comes into programming.
 
@@ -636,7 +636,7 @@ Did you have to work long hours on these things?
 
 **Hersom:**
 
-No, no. We worked 9:00 to 5:30\. \[Inaudible comment.\]
+No, no. We worked 9:00 to 5:30\. \Inaudible comment.\
 
 I wasn’t directly involved, but when they did work long hours— They did
 the first analysis of parliamentary election results, as they came
@@ -653,7 +653,7 @@ Yes\! 1955\.
 
 **Ed Hersom:**
 
-\[Comments that they got the election data from Reuters.\]
+\Comments that they got the election data from Reuters.\
 
 **Abbate:**
 
@@ -689,7 +689,7 @@ Did the public know that there had been computerized predictions?
 
 Not at that stage, no; because they didn’t . . . They went over on the
 television a few years later; they still weren’t very good. We were
-doing better at home with a slide rule, weren’t we? \[laughs.\] I mean,
+doing better at home with a slide rule, weren’t we? \laughs.\ I mean,
 we did\! We used this method at home, and we were getting very good
 predictions.
 
@@ -719,7 +719,7 @@ So there weren’t other women doing that?
 
 **Hersom:**
 
-Well, certainly not in the programming \[group\].
+Well, certainly not in the programming \group\.
 
 **Abbate:**
 
@@ -728,9 +728,9 @@ Were there a lot of other women in the programming group?
 **Hersom:**
 
 There were several. I’ve never thought to compare the numbers. They came
-and went. One of them was \[the woman\] whom I mentioned to you \[before
-the interview\], Dina Vaughan, who set up her own services. \[To Ed
-Hersom:\] There were quite a number of women, weren’t there?
+and went. One of them was \the woman\ whom I mentioned to you \[before
+the interview\, Dina Vaughan, who set up her own services. \To Ed
+Hersom:\ There were quite a number of women, weren’t there?
 
 **Ed Hersom:**
 
@@ -763,8 +763,8 @@ Ruth Felton.
 
 **Hersom:**
 
-But then, who were the men? There was George \[Felton\]— he left; Hugh
-\[Devonald\]—he left; Bruce Bambrough—he left. I never really thought
+But then, who were the men? There was George \Felton\— he left; Hugh
+\Devonald\—he left; Bruce Bambrough—he left. I never really thought
 about the proportions and so on; it’s just what we were doing.
 
 Well, eventually it was a bit better paid than teaching. I took a very
@@ -802,15 +802,15 @@ No, it would have been very, very difficult. I kept up with programming,
 because Ed would come home with his program and say, “Where has this
 gone wrong? Let me explain it to you.” So we’d go through this, and when
 I’d asked enough silly questions, it would suddenly dawn on him what was
-wrong with his program\! \[laughs.\] It worked every time\! But I kept
+wrong with his program\! \laughs.\ It worked every time\! But I kept
 up with what was going on, what was happening; and eventually, when the
 kids were both at school, Elliott’s had odd jobs that needed doing that
 they couldn’t put anybody on but wanted them done, which I did at home,
-going in to \[run them\]. This was a different machine by then.
+going in to \run them\. This was a different machine by then.
 
 I tried working for Steve Shirley’s outfit, FI, but that wasn’t really
 my sort of programming. It wasn’t COBOL, but it was PL-1, which was just
-as bad, if not worse\! \[laughs.\]
+as bad, if not worse\! \laughs.\
 
 **Abbate:**
 
@@ -822,19 +822,19 @@ So that was more business-oriented?
 
 It was, very much, yes. Completely boring\!
 
-And then \[I worked on\] other projects that Ed was working for: one for
+And then \I worked on\ other projects that Ed was working for: one for
 the Lee Valley Water Company, and I did a bit of work for him for that.
 
 Eventually I read that Rothamstead, the Agricultural Research Station,
 not far away, was getting a big machine. Now, they had these large
 machines: so a lot of operators, a lot of lab, and time-sharing on it;
 so I thought I could do something about that, using
-[FORTRAN](/FORTRAN "FORTRAN"), which I’d learnt by then. I knew somebody
+FORTRAN(FORTRAN "FORTRAN"), which I’d learnt by then. I knew somebody
 who worked at Rothamstead, so I said, “Go and find out if they’ll have
 me half-time\!” And so he said, “Well, he says he doesn’t have anybody
 half-time, but you can go and talk to him.” So I did, and he said to his
 secretary, “No no no, we’re just talking”; and by the end of it he was
-saying, “Oh, you can bring those application forms in\! \[both laugh.\]
+saying, “Oh, you can bring those application forms in\! \both laugh.\
 
 **Abbate:**
 
@@ -845,7 +845,7 @@ manageable then to be working part-time and raising a family?
 
 Well, I managed it\!
 
-\[recording pauses\]
+\recording pauses\
 
 **Abbate:**
 
@@ -903,7 +903,7 @@ somebody who worked in the Plant Pathology Department. I think he’d got
 something working on the old 401 machine. That was an Elliott’s 401\.
 The big machine we were working on was the ICL System 4, which was
 supposed to be a copy of the IBM 360, with a language called
-“Multi-Job.” \[We called it\] Multi-Bodge\! \[laughs.\]
+“Multi-Job.” \We called it\ Multi-Bodge\! \[laughs.\]
 
 **Abbate:**
 
@@ -969,11 +969,11 @@ and then it went off and disappeared into the innards of the ICL\!
 
 **Abbate:**
 
-Did it ever come back out? \[laughs.\]
+Did it ever come back out? \laughs.\
 
 **Hersom:**
 
-\[laughs.\] Occasionally\!
+\laughs.\ Occasionally\!
 
 And then there was helping other people who were writing their
 programs—who were scientists rather than programmers—to sort out what
@@ -1011,7 +1011,7 @@ nearly as well-protected back then as it is now.
 
 **Ed Hersom:**
 
-\[evidently referring to their personal computer:\] I still crash the
+\evidently referring to their personal computer:\ I still crash the
 machine\!
 
 **Hersom:**
@@ -1105,7 +1105,7 @@ What was the other?
 
 **Hersom:**
 
-\[laughs.\] Read maths at Cambridge\! Works on computers, lives in
+\laughs.\ Read maths at Cambridge\! Works on computers, lives in
 Oxford.
 
 **Abbate:**
@@ -1116,8 +1116,8 @@ And is that a daughter or a son?
 
 A son. Yes. We had a family of three mathematicians and one
 non-mathematician, and we said, “It’s very good for us to have a
-non-mathematician\! You think differently.” \[Imitates disgruntled
-daughter:\] “It’s not nice to be the only one, you mathematicians\!” she
+non-mathematician\! You think differently.” \Imitates disgruntled
+daughter:\ “It’s not nice to be the only one, you mathematicians\!” she
 said.
 
 **Abbate:**
@@ -1137,7 +1137,7 @@ Was he exposed to computers a lot as a child? Because of your work?
 Well, yes, I suppose he always knew about them; and then when he was at
 school, they started working with the Hatfield machine, and by the sixth
 form, he was teaching the teacher who was responsible for teaching the
-children how to use it\! \[laughs.\]
+children how to use it\! \laughs.\
 
 **Abbate:**
 
@@ -1157,7 +1157,7 @@ computers?
 **Hersom:**
 
 Finding a solution to something that worked—and did what you wanted, and
-gave you some results\! \[pause.\]
+gave you some results\! \pause.\
 
 Ed was reminding me of something: Later on in Rothamstead, I worked on
 an editor that somebody had developed for editing your programs. This
@@ -1170,7 +1170,7 @@ way of writing the manual in the sort of format you get in some of these
 something else.” And I worked out a manual, and they all thought it was
 marvelous—”This is just what we want\!”—except my current supposed-to-be
 boss, who said, “If I’d known you were doing that, I wouldn’t have let
-you do it\!” \[laughs.\] It wasn’t “rigorous” enough\!
+you do it\!” \laughs.\ It wasn’t “rigorous” enough\!
 
 **Abbate:**
 
@@ -1179,7 +1179,7 @@ No value placed on documentation?
 **Hersom:**
 
 No. No, not that sort of documentation: not something that actually
-helped people\! \[both laugh.\]
+helped people\! \both laugh.\
 
 **Abbate:**
 
@@ -1198,7 +1198,7 @@ Could you sort of pick and choose projects?
 
 **Hersom:**
 
-Well, I did\! \[laughs.\]
+Well, I did\! \laughs.\
 
 **Abbate:**
 
@@ -1241,7 +1241,7 @@ of a team of people working on big problems?
 
 **Hersom:**
 
-Well, \[for something\] like GenStat, there’d be a team of people
+Well, \for something\ like GenStat, there’d be a team of people
 working on that, and then other people using it.
 
 **Abbate:**
@@ -1279,7 +1279,7 @@ changed: either the technology or the culture of it.
 **Hersom:**
 
 Well, the technology, obviously—that you can have these things in your
-pocket, and quick access to the information you want. \[pause.\] And, of
+pocket, and quick access to the information you want. \pause.\ And, of
 course, that it is so accessible to many ordinary people now. My
 non-mathematical daughter the other day was called in to help somebody
 put their computer straight\! She would never have looked at a computer.
@@ -1295,9 +1295,9 @@ Email.
 **Hersom:**
 
 Oh, email\! Yes\! Email. No delays in communicating across the Atlantic.
-I mean, as soon as this happened \[the attack nine days earlier on
-September 11, 2001\], we sent an email to my sister, because her two
-\[children\] were likely to have been around: but one was on holiday in
+I mean, as soon as this happened \the attack nine days earlier on
+September 11, 2001\, we sent an email to my sister, because her two
+\children\ were likely to have been around: but one was on holiday in
 Spain, and the other was in California.
 
 ### Reflection on Women in Computing
@@ -1321,13 +1321,13 @@ women? Did it seem unusual to be working with computers?
 **Hersom:**
 
 Computers were new things. I mean, I never, ever thought, “Oh\! I’m a
-woman working with computers\! Gosh\!” \[both laugh.\] If you’ve spent
+woman working with computers\! Gosh\!” \both laugh.\ If you’ve spent
 three, four years in Cambridge: well, at that time, your proportion of
 men to women was perhaps twenty-to-one. You just don’t notice the
 numbers\! You know there are plenty of competent women around, and you
 know there are a lot of men; and if you’ll bear it, then you’ll do all
 right. I mean, if anybody ever tried to squash me for being a woman, I
-was soon able to answer it\! \[laughs.\]
+was soon able to answer it\! \laughs.\
 
 **Abbate:**
 
@@ -1336,8 +1336,8 @@ So it never was an issue for you.
 **Hersom:**
 
 Yes. And as I said, when I went for this interview at Rothamstead, I
-came home and I said \[to my husband\], “Well, having been arguing with
-you, that was no bother at all\!” \[laughs.\]
+came home and I said \to my husband\, “Well, having been arguing with
+you, that was no bother at all\!” \laughs.\
 
 ### Training and Experience with Computers
 
@@ -1359,12 +1359,12 @@ Nicholas machine?
 
 **Hersom:**
 
-Oh, no\! There was no course. \[laughs.\] No, no, no. “Here’s how it
-works: now do it\!” \[laughs.\] I think I was given some general books—a
-general book, perhaps; the first book? \[To Ed Hersom:\] The first week,
+Oh, no\! There was no course. \laughs.\ No, no, no. “Here’s how it
+works: now do it\!” \laughs.\ I think I was given some general books—a
+general book, perhaps; the first book? \To Ed Hersom:\ The first week,
 you gave me a book on computing or whatever; I can’t remember now what
 it was that I read. And then you said, “Here: this is what you have to
-do to write a program. Now write a program\!” \[laughs.\]
+do to write a program. Now write a program\!” \laughs.\
 
 **Abbate:**
 
@@ -1396,7 +1396,7 @@ weren’t any conventions of . . .
 
 **Ed Hersom:**
 
-\[Comments that George Felton wrote a book.\]
+\Comments that George Felton wrote a book.\
 
 **Hersom:**
 
@@ -1428,7 +1428,7 @@ Just a manual, really. Well, a lot of it was trial-and-error:
 
 “What happens if you put these two letters together and put it in?”
 
-“Oh gosh\! That squares the number. That’s useful\!” \[laughs.\]
+“Oh gosh\! That squares the number. That’s useful\!” \laughs.\
 
 **Abbate:**
 
@@ -1458,11 +1458,11 @@ I guess you could experiment more.
 Yes; yes.
 
 And one thing you’d learn over the time was to split things as far as
-you could into \[smaller modules\], whether it was subroutines . . . .
+you could into \smaller modules\, whether it was subroutines . . . .
 At one time we had modules that were called “produles,” for “programming
 modules.” That wasn’t on Nicholas. So you wrote your flow charts—you
 wrote your program—as produles, and you’d say, “You write this produle
-that has this input and wants that output,” and \[so forth\].
+that has this input and wants that output,” and \so forth\.
 
 **Abbate:**
 
@@ -1501,7 +1501,7 @@ overnight, because you interfered with everybody else to get all this
 data read. So we left it running when we went to work, and we said to
 the night watchman, “If you’re passing the lab, if anything looks
 wrong—this is how it’s supposed to go, and the printing, and that—if
-anything looks wrong, just push that on/off switch.” Well, one morning
+anything looks wrong, just push that onoff switch.” Well, one morning
 we came in and looked at the results: “Oh, that’s funny. Something’s
 gone wrong, but now they’re all right again\!” So when we saw the night
 watchman, we said, “Did anything happen? Was it all right?” And he said,
@@ -1515,8 +1515,8 @@ It was some transient hardware problem?
 
 **Ed Hersom:**
 
-\[Explains that the mercury delay lines would occasionally drop or pick
-up digits.\]
+\Explains that the mercury delay lines would occasionally drop or pick
+up digits.\
 
 **Abbate:**
 
@@ -1530,11 +1530,11 @@ Oh, no, no.
 
 . . . and occasionally could drop something.
 
-Maybe your night watchman was experimenting. \[laughs.\]
+Maybe your night watchman was experimenting. \laughs.\
 
 **Hersom:**
 
-Yes, that’s right\! \[laughs.\]
+Yes, that’s right\! \laughs.\
 
 **Abbate:**
 
@@ -1570,9 +1570,9 @@ that would be one second.
 
 You’re writing, effectively, in assembler; so that if eighty of those
 instructions would take a second, you’re not getting on very fast\!
-\[laughs.\] And you’re limited in your store, as well, so you can’t
-write a very advanced program. It’s got to be a job that you can \[fit
-in a small space\]. And you were then interested in cutting out every
+\laughs.\ And you’re limited in your store, as well, so you can’t
+write a very advanced program. It’s got to be a job that you can \fit
+in a small space\. And you were then interested in cutting out every
 single bit of instructions you could, if you could do it faster.
 
 **Abbate:**
@@ -1603,8 +1603,8 @@ Oh, yes\! Yes.
 
 **Ed Hersom:**
 
-\[Not clear: “You couldn’t do very much” or “You didn’t have to do very
-much.”\]
+\Not clear: “You couldn’t do very much” or “You didn’t have to do very
+much.”\
 
 **Hersom:**
 
@@ -1722,7 +1722,7 @@ CORAL: was that a language?
 **Hersom:**
 
 Yes. I don’t know anything about it; I can’t remember now. It would be
-after our time \[at Elliott’s\].
+after our time \at Elliott’s\.
 
 **Ed Hersom:**
 
@@ -1772,7 +1772,7 @@ and then they said, “Why doesn’t that agree with our hand calculations?”
 So I had to go through it and show how because you were more accurate in
 the fifth or sixth decimal place or something, you were going to get a
 different answer. So it was actually the computer answers that were
-right—not theirs\! \[laughs.\]
+right—not theirs\! \laughs.\
 
 **Abbate:**
 
@@ -1797,11 +1797,11 @@ would also write programs for them if they needed it.
 Ah, I see. No, this wasn’t that. This was actually Elliott’s, and they
 had the 803 at Park Royal.
 
-Weighing peas was another job\! \[laughs.\]
+Weighing peas was another job\! \laughs.\
 
 **Abbate:**
 
-\[laughs.\] All right, I see that now. I wasn’t sure if it was some
+\laughs.\ All right, I see that now. I wasn’t sure if it was some
 university who was paying them to do this, or who.
 
 **Hersom:**
@@ -1828,8 +1828,8 @@ Well, yes, connected to the weighing. It wasn’t me; I didn’t do it.
 
 **Abbate:**
 
-I guess that would be quite a range \[of problems that Elliott needed
-computers for\].
+I guess that would be quite a range \of problems that Elliott needed
+computers for\.
 
 It sounds like you enjoyed working with computers.
 
@@ -1844,7 +1844,7 @@ into computing today?
 
 **Hersom:**
 
-If you have to think, do something different\! \[laughs.\]
+If you have to think, do something different\! \laughs.\
 
 **Abbate:**
 
@@ -1853,7 +1853,7 @@ What do you mean?
 **Hersom:**
 
 Oh, like anything else. I mean, you try it in your vacation or whatever,
-and if you think it suits you, you do it\! \[pause.\] Like what I did
+and if you think it suits you, you do it\! \pause.\ Like what I did
 with teaching: Why didn’t I like it? I’d better go and try. No, I don’t
 like it; I will leave.
 
@@ -1885,13 +1885,13 @@ it’s really like to work with them?
 **Hersom:**
 
 I don’t know what the popular impression is\! I mean, I know in the
-early days it was: “Oh, you do that? You must be clever\!” \[pause.\] I
+early days it was: “Oh, you do that? You must be clever\!” \pause.\ I
 mean, computing is so widespread now, it’s a bit like “engineer.” You
 say you’re an engineer if you design an engine—or clean it out. So, the
 same with computers: you use it to do your email—or you use it to hack
 into the Internet\!
 
-\[pause.\]
+\pause.\
 
 We used to go to some seminars in Cambridge on the sort of the things
 that were happening there, which was interesting. And certainly, at that
@@ -1905,11 +1905,11 @@ So anyone can do it now?
 **Hersom:**
 
 Well, I think so. Following the instructions. Follow the right
-instructions, and always back up everything\! \[laughs.\]
+instructions, and always back up everything\! \laughs.\
 
 **Abbate:**
 
-Now, there is some good advice\! \[laughs.\]
+Now, there is some good advice\! \laughs.\
 
 **Hersom:**
 
@@ -1921,7 +1921,7 @@ Were there any memorable disasters when things weren’t backed up?
 
 **Hersom:**
 
-Probably\! \[laughs.\]
+Probably\! \laughs.\
 
 **Ed Hersom:**
 
@@ -1950,7 +1950,7 @@ Did that damage the machines?
 
 **Ed Hersom:**
 
-No, fortunately. But the generators \[inaudible\]. Some machines
+No, fortunately. But the generators \inaudible\. Some machines
 flooded.
 
 **Abbate:**
@@ -1987,7 +1987,7 @@ Were they men or women? Or a mix?
 
 **Hersom:**
 
-Both. \[pause.\] It ran twenty-four hours a day, at one time; the first
+Both. \pause.\ It ran twenty-four hours a day, at one time; the first
 few years.
 
 **Abbate:**
@@ -2000,11 +2000,11 @@ Well, no, it won’t be there now. People have their own.
 
 **Abbate:**
 
-Well, not that same machine\! \[laughs.\]
+Well, not that same machine\! \laughs.\
 
 **Hersom:**
 
-\[laughs.\] No\!
+\laughs.\ No\!
 
 **Abbate:**
 
@@ -2015,50 +2015,50 @@ Well, thank you very much for talking with me.
 All right.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Bobby_Hersom&oldid=108265>"
+"<http:/ethw.org/index.php?title=Oral-History:Bobby_Hersom&oldid=108265>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Programming](/Category:Programming "Category:Programming")
-* [Programming
-  profession](/Category:Programming_profession "Category:Programming profession")
-* [Computing](/Category:Computing "Category:Computing")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* Programming(Category:Programming "Category:Programming")
+* Programming
+  profession(Category:Programming_profession "Category:Programming profession")
+* Computing(Category:Computing "Category:Computing")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
 
 ## Contents
 
-* [1 About Bobby Hersom](#About_Bobby_Hersom)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Working for Elliott Brothers](#Working_for_Elliott_Brothers)
-  * [4\.3 Experience with Computer
-    Programming](#Experience_with_Computer_Programming)
-  * [4\.4 On Other Women in the Field](#On_Other_Women_in_the_Field)
-  * [4\.5 Working for Rothamstead](#Working_for_Rothamstead)
-  * [4\.6 Working from Home for Hatfield
-    Polytechnic](#Working_from_Home_for_Hatfield_Polytechnic)
-  * [4\.7 Family Life](#Family_Life)
-  * [4\.8 Reflection on Working with
-    Computers](#Reflection_on_Working_with_Computers)
-  * [4\.9 Reflection on Technology](#Reflection_on_Technology)
-  * [4\.10 Reflection on Women in
-    Computing](#Reflection_on_Women_in_Computing)
-  * [4\.11 Training and Experience with
-    Computers](#Training_and_Experience_with_Computers)
+* 1 About Bobby Hersom(#About_Bobby_Hersom)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Working for Elliott Brothers(#Working_for_Elliott_Brothers)
+  * 4\.3 Experience with Computer
+    Programming(#Experience_with_Computer_Programming)
+  * 4\.4 On Other Women in the Field(#On_Other_Women_in_the_Field)
+  * 4\.5 Working for Rothamstead(#Working_for_Rothamstead)
+  * 4\.6 Working from Home for Hatfield
+    Polytechnic(#Working_from_Home_for_Hatfield_Polytechnic)
+  * 4\.7 Family Life(#Family_Life)
+  * 4\.8 Reflection on Working with
+    Computers(#Reflection_on_Working_with_Computers)
+  * 4\.9 Reflection on Technology(#Reflection_on_Technology)
+  * 4\.10 Reflection on Women in
+    Computing(#Reflection_on_Women_in_Computing)
+  * 4\.11 Training and Experience with
+    Computers(#Training_and_Experience_with_Computers)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 
 * This page has been accessed 1,712 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

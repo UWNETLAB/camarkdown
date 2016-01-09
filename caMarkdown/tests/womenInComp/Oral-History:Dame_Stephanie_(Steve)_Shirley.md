@@ -1,77 +1,77 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Dame_Stephanie_\(Steve\)_Shirley)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Dame_Stephanie_\(Steve\)_Shirley&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Dame_Stephanie_\(Steve\)_Shirley "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Dame_Stephanie_\(Steve\)_Shirley "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&oldid=108313 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=info)
-  
-  * [Browse
-    properties](/Special:Browse/Oral-2DHistory:Dame_Stephanie_\(Steve\)_Shirley)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ADame+Stephanie+%28Steve%29+Shirley)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Dame_Stephanie_\(Steve\)_Shirley)
+  
+  * Discussion(index.php?title=Oral-History_talk:Dame_Stephanie_\(Steve\)_Shirley&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Dame_Stephanie_\(Steve\)_Shirley "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Dame_Stephanie_\(Steve\)_Shirley "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&oldid=108313 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Dame_Stephanie_\(Steve\)_Shirley&action=info)
+  
+  * Browse
+    properties(Special:Browse/Oral-2DHistory:Dame_Stephanie_\(Steve\)_Shirley)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ADame+Stephanie+%28Steve%29+Shirley)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Dame Stephanie (Steve) Shirley
@@ -108,8 +108,8 @@ the discrimination she endured and why she initially only hired women
 with dependents.
 
 For a longer and more comprehensive oral history done by Stephanie
-Shirley, please see the one conducted by the [British
-Library](http://sounds.bl.uk/Oral-history/Eminent-scientists/021M-C1379X0028XX-0001V0).
+Shirley, please see the one conducted by the British
+Library(http:/sounds.bl.uk/Oral-history/Eminent-scientists/021M-C1379X0028XX-0001V0).
 
 ## About the Interview
 
@@ -158,7 +158,7 @@ To start at the beginning, when were you born and where did you grow up?
 
 I was born in 1933, the child of a German jurist and an Austrian—well,
 my mother didn’t work at all. This was really at the time of horrendous
-discrimination \[against Jews\] in Germany. That is relevant, I think,
+discrimination \against Jews\ in Germany. That is relevant, I think,
 to my serial entrepreneurism, because it has given me a very strong
 desire to be accepted, to survive, to make my survival worthwhile.
 People are surprised that sixty years later, that need to justify my
@@ -332,7 +332,7 @@ unusual in history, in that it tried to make reparation to Jewish people
 who had suffered. There was some social pressure, and a lot of
 discussion among Jewish people (which I was not really part of, because
 I hadn’t had any religion, and neither did my family have any) of the
-sort of monstrous, “So much \[compensation\] for a parent, so much for a
+sort of monstrous, “So much \compensation\ for a parent, so much for a
 brother . . .” But we had merely lost education and lost material
 things; our parents had survived. We actually started this reparation
 process, but eventually I said, “This is ridiculous. I feel fine. I
@@ -377,12 +377,12 @@ What were they training you to do?
 
 **Shirley:**
 
-\[I think\] it was called a Maths Laboratory. I was a little glorified
+\I think\ it was called a Maths Laboratory. I was a little glorified
 mathematical clerk, punching desk calculator comptometers. Doing graphs
 of things; occasionally we would take a measurement, but it was usually
 purely numerical. I learned about algebras, correlations, statistics. I
-think I studied a bit in statistics, because I was still studying \[for
-my honors maths degree\]. I learned to project-manage a task. I did my
+think I studied a bit in statistics, because I was still studying \for
+my honors maths degree\. I learned to project-manage a task. I did my
 first supervision; I had somebody actually reporting to me by the time I
 was twenty-six. And basically, I suppose, background training for a
 mathematician—pure mathematician. I loved mathematics. I was going to be
@@ -406,8 +406,8 @@ A friend of mine with whom I was studying at evening classes was working
 on an early computer, an Elliott 401, I think it was called. And I took
 my annual holiday and spent the time hanging around his job, sweeping up
 the little chads that fell on the floor, making myself generally useful
-so they didn’t throw me out\! Oddly enough, that was at GEC \[where I
-had applied for a job earlier\]. It was just what I wanted to do, so I
+so they didn’t throw me out\! Oddly enough, that was at GEC \where I
+had applied for a job earlier\. It was just what I wanted to do, so I
 went back to my employer and asked to move into the computing side. We
 didn’t even have the names then; we would solemnly discuss how to spell
 “programme”: with a single or a double “m”?
@@ -488,7 +488,7 @@ really marvelous.
 
 **Abbate:**
 
-Did you leave the Post Office when they \[refused to promote you\]?
+Did you leave the Post Office when they \refused to promote you\?
 
 **Shirley:**
 
@@ -496,8 +496,8 @@ Yes. Well, I met my dear husband at the Post Office Research Station.
 Derek was a theoretical physicist; the Research Station had about 2000
 people on site, with 200 graduates. Very quiet, very shy; so we’re very
 complementary in style, which has held us together through thick and
-thin. And I just didn’t want to go on working at the same place \[as my
-husband-to-be\]. There were another couple of dual-career people at the
+thin. And I just didn’t want to go on working at the same place \as my
+husband-to-be\. There were another couple of dual-career people at the
 Research Station, and I’d seen the way in which, if they lunched
 together, people said, “Oh look, they’re lunching together.” If they
 didn’t lunch together, they’d say, “I wonder why they’re not lunching
@@ -546,7 +546,7 @@ wasn’t until I left to join ICL that I did anything that you would now
 call an operating system.
 
 So I’d done majorish sort of computer projects by that time, and I had
-become a founding member of the British Computer Society \[in 1957\]. It
+become a founding member of the British Computer Society \in 1957\. It
 had an age qualification, so I actually had to join as a student,
 because I was underage\! It makes one think, “What is one doing with
 some of these regulatory things?”—in which I became much involved,
@@ -586,11 +586,11 @@ That came later, via the Engineering Council.
 So I was very much involved during that period. And then when I was
 president, I think my contribution was largely to start to move it into
 a much more marketing stance—because it was all full of academics. Oh,
-it was dreadful\! \[laughter.\] So I was a very active president, and in
+it was dreadful\! \laughter.\ So I was a very active president, and in
 retrospect people realized that that was a cusp, that it needed some
 sort of commercial drive to it.
 
-But \[to resume\]: I left the Post Office Research Station on marriage
+But \to resume\: I left the Post Office Research Station on marriage
 and joined ICL for a very important eighteen months in my career. It was
 my first proper management job; I did have a small team in software. I
 was twenty-six at that time. I had quite a lot of responsibility, again
@@ -613,7 +613,7 @@ that stops women and children going down mines, because we say that that
 is a much too perilous thing for women and children to be doing—but that
 same legislation stops women working at night.” Et cetera, et cetera. So
 I was beginning to be interested in women’s issues there. They had been
-there before, I remember now, because when \[the Post Office\] had these
+there before, I remember now, because when \the Post Office\ had these
 great comptometer things, you had to carry them around: they were heavy,
 and I was a “pretty young thing,” and so people would offer to carry it
 for me. I remember saying, “No, I will carry mine. I believe in equal
@@ -621,7 +621,7 @@ pay; I will carry my own machine.” I was beginning to get quite
 assertive fairly early on.
 
 But it was at that CDL, where I was doing good work, and I was very
-happy, \[that I encountered gender issues\]. I was having some
+happy, \that I encountered gender issues\. I was having some
 miscarriages, and women’s careers were very often linked with our
 child-bearing, and I’d been told to take it a bit easier—and then I hit
 what we now call the “glass ceiling.” I was making suggestions at
@@ -690,7 +690,7 @@ business was social. I had this idea, first, that software was much more
 important than anybody else seemed to realize, much more important than
 hardware—much more interesting, as well; maybe it was the interest
 rather than the importance. And second, that there were other women
-\[like me\]; I was not alone in wanting to work in a different way.
+\like me\; I was not alone in wanting to work in a different way.
 Women were coming out of the universities with decent maths degrees, as
 were required for software, for the first time looking around for jobs
 to do. Either you were an academic, or you used your maths degree to go
@@ -712,7 +712,7 @@ you can be creative, and you’re not channeled by some sort of training:
 
 ### Starting her own Company
 
-The company that I founded \[Freelance Programmers Ltd, 1962\] was
+The company that I founded \Freelance Programmers Ltd, 1962\ was
 certainly very different. It was motivated by social needs for me, and
 women like me, to be able to work in a much more flexible way, without
 that glass ceiling or people saying, “You shouldn’t be doing this, you
@@ -783,7 +783,7 @@ Is she still alive?
 **Shirley:**
 
 Well, I know her husband is, and I’ve got a contact for him if you need
-it. But she was \[in the business\] before me.
+it. But she was \in the business\ before me.
 
 **Abbate:**
 
@@ -833,14 +833,14 @@ Because there are so many things that I find much more important in life
 than money, and business is usually: money is way, way at the top. It
 may not be the sole thing, but it is right at the top. For me it’s there
 somewhere, of course. Certainly it became obvious, in the seventies
-recession, that without some sort of break-even, \[we couldn’t stay in
-business.\] I mean, it was a crusade—somebody called it a crusade, and
+recession, that without some sort of break-even, \we couldn’t stay in
+business.\ I mean, it was a crusade—somebody called it a crusade, and
 that’s about right. We didn’t use the word “mission”; it was a crusade.
 It became much more focused on women—opportunities for women to go on
 working in a professional level—and that was more important than the
 technology; more important than the money side.
 
-\[Recording pauses\]
+\Recording pauses\
 
 **Abbate:**
 
@@ -885,8 +885,8 @@ property until quite late on in the nineteenth century. You just didn’t
 do that. And now, young women—to my delight\!—you take it for granted
 that you can do each and every thing, and there are only a few things
 that you can’t do. You can’t be a bishop in this country. It’ll come\! I
-remember when the first black bishop was appointed. \[Imitates a
-horrified whisper\]: “We can’t have a Negro for a bishop\!” So it’s
+remember when the first black bishop was appointed. \Imitates a
+horrified whisper\: “We can’t have a Negro for a bishop\!” So it’s
 opened up, now. Today all the difficulties are cultural and social, but
 they’re not legal.
 
@@ -906,7 +906,7 @@ So how did you get your first clients, or jobs?
 
 **Shirley:**
 
-\[Pause.\] Bother, I’ve forgotten which it actually was that I first got
+\Pause.\ Bother, I’ve forgotten which it actually was that I first got
 . . . They were always by introductions, really, in the early days: an
 ex-colleague.
 
@@ -965,8 +965,8 @@ Was that because they felt they didn’t have control over it?
 **Shirley:**
 
 They didn’t have control. And women\! “Goodness gracious, these
-housewives\! What’re they going to do?” And we did \[have problems\]—you
-know, the cat walked across the work one day: Grrr\! \[laughs.\] It was
+housewives\! What’re they going to do?” And we did \have problems\—you
+know, the cat walked across the work one day: Grrr\! \laughs.\ It was
 difficult to present a professional image, indeed be professional.
 
 But our way of operation forced us into an assessment of work content.
@@ -1018,7 +1018,7 @@ computer center, and wait perhaps three or four days for it to come
 back—to be told, “It never even got started, your input routine wasn’t
 right\!” It was pretty cumbersome. We had contracts later on that
 implied we could only deliver if we got two turn-rounds on the computer
-every week. Two every week\! \[laughter.\] Now we do it two in a minute:
+every week. Two every week\! \laughter.\ Now we do it two in a minute:
 you try something, if it doesn’t work, try something else. It was
 different. But anyway, we got in there.
 
@@ -1057,7 +1057,7 @@ do it, check it?” or something.
 The standards one was important; the compiler one was important. Alex
 d’Agapeyeff, who led Computer Analysts and Programmers, tells how he
 received a telegram: “How much for COBOL compiler, question mark?”
-\[laughter.\] All sorts of things happened. It was a very amateur sort
+\laughter.\ All sorts of things happened. It was a very amateur sort
 of world. And it could be anywhere. By the way in which we were
 structured, it was easier to do the programming bits, frankly—the coding
 bits—but to me, it all goes together. And the company still has—it made
@@ -1136,7 +1136,7 @@ Were you trying to be strategic?
 I hadn’t even heard the word. I was a mathematician, not a commercial
 person. English education didn’t teach commerce. No, I was rushing
 around in all directions. Anything that moved, I’d have a go at it\!
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1159,7 +1159,7 @@ I think everyone was laughing at me\! But not to my face. The press were
 very kind to me, and I asked a journalist many years later why they
 hadn’t knocked me. He replied, “We saw you as a source of good
 stories, and didn’t want to kill the goose that laid the golden eggs.”
-\[laughter.\] It was laughable\! And the headlines: “Steve and Her
+\laughter.\ It was laughable\! And the headlines: “Steve and Her
 Girls.” Which reminds me: of course, my name is Stephanie, and in the
 first year or so I was writing business development letters, trying to
 get appointments to see people, and getting next to no response. My
@@ -1193,11 +1193,11 @@ But it was that absolute crusade. We did a research contract for
 government to do an advanced Computer Techniques Project, and there was
 a big progress meeting, and I turned around and apparently glared at
 somebody coming through the door with a toddler in a pushchair\! Luckily
-it was a civil servant, the client, \[rather than a member of our
-company\]. I would not allow any sign of domesticity to appear, because
+it was a civil servant, the client, \rather than a member of our
+company\. I would not allow any sign of domesticity to appear, because
 we were very vulnerable. I had a tape of somebody typing in the
 background, so that when I was on the phone it would sound as if I’d got
-an office behind me\! \[laughter.\] And we presented our work very
+an office behind me\! \laughter.\ And we presented our work very
 carefully. I was always—well, the same is true today: if I can find a
 better way of doing it, I’ll immediately change to do it. We had an
 early white-on-black photocopier. We were always doing the latest thing,
@@ -1241,7 +1241,7 @@ and so on. I copied IBM for a lot of things. It was easy to do so,
 because for many years IBM would not employ part-time systems engineers;
 so when some of their good systems engineers—the women—married and
 wanted to go on to part-time for whatever reason, they had to leave—and
-they came to us, beautifully trained\! \[laughter.\] Absolutely sharp\!
+they came to us, beautifully trained\! \laughter.\ Absolutely sharp\!
 
 ### Focus on Training Employees
 
@@ -1279,13 +1279,13 @@ qualified to do a job. I wanted to do an M.B.A., for example. I soon
 found I didn’t know how to run a business, and wanted to go to Harvard,
 which was then the only place that did an M.B.A.—we didn’t have them in
 this country—and you had to have (I believe for the bedroom
-arrangements) women only in pairs\! \[laughs.\] I couldn’t find anyone
+arrangements) women only in pairs\! \laughs.\ I couldn’t find anyone
 to pair with; and I couldn’t have found anybody to do the baby-sitting,
 anyway.
 
 Again, you forget that . . . Well, if you’ve only got double bedrooms or
-something like that—I mean, everything is very difficult if \[the
-physical environment doesn’t accommodate both sexes\]. There was some
+something like that—I mean, everything is very difficult if \the
+physical environment doesn’t accommodate both sexes\. There was some
 work at the Post Office Research Station that would have normally had me
 go on their research ship; it’s a cable ship, Monarch. They didn’t have
 women’s toilets\! When I went to Northampton Polytechnic, doing a
@@ -1346,7 +1346,7 @@ indifferent; I just think there are other things more important. Now I
 can afford a bit of help. But it really made me think, “My goodness\! I
 live in such a muddle of papers and babies and food and telephones and
 people working, and stoking up the coal fires to keep the staff
-warm—quite apart from me—and then just to \[be publicly denigrated\].”
+warm—quite apart from me—and then just to \be publicly denigrated\.”
 So a lot of things went. I said earlier, if you do actually have some
 crusade that really is important to you, then you just focus on the
 things that are important. I only do things that I believe are
@@ -1396,7 +1396,7 @@ computers?
 
 **Shirley:**
 
-The people\! \[laughs.\] The people: bright, intelligent, wanting to do
+The people\! \laughs.\ The people: bright, intelligent, wanting to do
 innovative things. I like people anyway, but I particularly like bright
 people, and young people, and that sort of atmosphere. I like doing new
 things. I like seeing things that I seeded years ago becoming, not
@@ -1462,7 +1462,7 @@ but also, they were very stuck in mainframe computing, and I’ve helped
 to give them confidence to move into electronic commerce. It’s a
 two-year contract. They’re a super company. Just bought out a dot-com in
 the U.K. John Lewis Partnership also bought a quarter stake in LMS
-\[Last Mile Solutions\], which is going to be the first distribution
+\Last Mile Solutions\, which is going to be the first distribution
 center. I’m just a businesswoman there. I’ve certainly helped them quite
 a bit on corporate governance, but I’m trying to add to their ability to
 see computing as doing the right things, rather than just things right.
@@ -1581,12 +1581,12 @@ open to women over time, less open, or about the same?
 
 Any discipline that matures, from a sort of start-up discipline, starts
 to put up barriers; and if the people in authority are themselves male,
-they will instinctively \[laughs\] put up barriers that keep it male. So
+they will instinctively \laughs\ put up barriers that keep it male. So
 as the industry has become more structured—as it has to be—women are
 backing off from degree courses called “computer science.” Call the same
 course “business systems,” and they’ll sign up. So there are some very
 subtle social and cultural things going on. It is entirely open, but
-women find it difficult. And it’s this full-time/part-time lack of
+women find it difficult. And it’s this full-timepart-time lack of
 flexibility, and the demand that “Things should always be done in the
 way that I do.” Young people are not just younger versions of today’s
 managers; they will have their own ways of doing things. When we sit on
@@ -1612,64 +1612,64 @@ There’s never been a more exciting career path offering the flexibility
 valued by women’s life styles. Go for it\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Dame_Stephanie_(Steve)_Shirley&oldid=108313>"
+"<http:/ethw.org/index.php?title=Oral-History:Dame_Stephanie_(Steve)_Shirley&oldid=108313>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Business](/Category:Business "Category:Business")
-* [Business
-  continuity](/Category:Business_continuity "Category:Business continuity")
-* [Customer relationship
-  management](/Category:Customer_relationship_management "Category:Customer relationship management")
-* [Industrial
-  relations](/Category:Industrial_relations "Category:Industrial relations")
-* [Computer
-  industry](/Category:Computer_industry "Category:Computer industry")
-* [Quality
-  management](/Category:Quality_management "Category:Quality management")
-* [Software development
-  management](/Category:Software_development_management "Category:Software development management")
-* [Technology
-  management](/Category:Technology_management "Category:Technology management")
-* [Corporations](/Category:Corporations "Category:Corporations")
+* Business(Category:Business "Category:Business")
+* Business
+  continuity(Category:Business_continuity "Category:Business continuity")
+* Customer relationship
+  management(Category:Customer_relationship_management "Category:Customer relationship management")
+* Industrial
+  relations(Category:Industrial_relations "Category:Industrial relations")
+* Computer
+  industry(Category:Computer_industry "Category:Computer industry")
+* Quality
+  management(Category:Quality_management "Category:Quality management")
+* Software development
+  management(Category:Software_development_management "Category:Software development management")
+* Technology
+  management(Category:Technology_management "Category:Technology management")
+* Corporations(Category:Corporations "Category:Corporations")
 
 ## Contents
 
-* [1 About Dame Stephanie (Steve)
-  Shirley](#About_Dame_Stephanie_.28Steve.29_Shirley)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Kindertransport and Childhood in
-    England](#Kindertransport_and_Childhood_in_England)
-  * [4\.2 Education](#Education)
-  * [4\.3 First Employment](#First_Employment)
-  * [4\.4 Early Career with Computers](#Early_Career_with_Computers)
-  * [4\.5 Switching to the ICL](#Switching_to_the_ICL)
-  * [4\.6 Starting her own Company](#Starting_her_own_Company)
-  * [4\.7 Finding the Programmers](#Finding_the_Programmers)
-  * [4\.8 Finding Clients](#Finding_Clients)
-  * [4\.9 Developing Employee Skills](#Developing_Employee_Skills)
-  * [4\.10 Targeting Women Employees](#Targeting_Women_Employees)
-  * [4\.11 Managing the Business](#Managing_the_Business)
-  * [4\.12 Promoting the Professionalism of the
-    Company](#Promoting_the_Professionalism_of_the_Company)
-  * [4\.13 Focus on Training Employees](#Focus_on_Training_Employees)
-  * [4\.14 Balancing Work and Family](#Balancing_Work_and_Family)
-  * [4\.15 Satisfaction of working with
-    Computers](#Satisfaction_of_working_with_Computers)
-  * [4\.16 Final Thoughts](#Final_Thoughts)
+* 1 About Dame Stephanie (Steve)
+  Shirley(#About_Dame_Stephanie_.28Steve.29_Shirley)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Kindertransport and Childhood in
+    England(#Kindertransport_and_Childhood_in_England)
+  * 4\.2 Education(#Education)
+  * 4\.3 First Employment(#First_Employment)
+  * 4\.4 Early Career with Computers(#Early_Career_with_Computers)
+  * 4\.5 Switching to the ICL(#Switching_to_the_ICL)
+  * 4\.6 Starting her own Company(#Starting_her_own_Company)
+  * 4\.7 Finding the Programmers(#Finding_the_Programmers)
+  * 4\.8 Finding Clients(#Finding_Clients)
+  * 4\.9 Developing Employee Skills(#Developing_Employee_Skills)
+  * 4\.10 Targeting Women Employees(#Targeting_Women_Employees)
+  * 4\.11 Managing the Business(#Managing_the_Business)
+  * 4\.12 Promoting the Professionalism of the
+    Company(#Promoting_the_Professionalism_of_the_Company)
+  * 4\.13 Focus on Training Employees(#Focus_on_Training_Employees)
+  * 4\.14 Balancing Work and Family(#Balancing_Work_and_Family)
+  * 4\.15 Satisfaction of working with
+    Computers(#Satisfaction_of_working_with_Computers)
+  * 4\.16 Final Thoughts(#Final_Thoughts)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:42\.
 
 * This page has been accessed 6,003 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

@@ -1,77 +1,77 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Mary_Lee_Berners-Lee)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Mary_Lee_Berners-Lee&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Mary_Lee_Berners-Lee "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Mary_Lee_Berners-Lee "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Mary_Lee_Berners-Lee&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Mary_Lee_Berners-Lee&oldid=108343 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=info)
-  
-  * [Browse
-    properties](/Special:Browse/Oral-2DHistory:Mary_Lee_Berners-2DLee)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Lee+Berners-Lee)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Mary_Lee_Berners-Lee)
+  
+  * Discussion(index.php?title=Oral-History_talk:Mary_Lee_Berners-Lee&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Mary_Lee_Berners-Lee "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Mary_Lee_Berners-Lee "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Mary_Lee_Berners-Lee&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Mary_Lee_Berners-Lee&oldid=108343 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Mary_Lee_Berners-Lee&action=info)
+  
+  * Browse
+    properties(Special:Browse/Oral-2DHistory:Mary_Lee_Berners-2DLee)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AMary+Lee+Berners-Lee)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Mary Lee Berners-Lee
@@ -88,7 +88,7 @@ series of Ferranti Mark 1 computers. She married Conway Berners-Lee, who
 was also part of the team at Manchester University. Their eldest son,
 Sir Tim Berners-Lee, invented the World Wide Web. After a period devoted
 to bringing up her children, she became a schoolteacher of mathematics
-and then a programmer using Basic, [FORTRAN](/FORTRAN "FORTRAN"), and
+and then a programmer using Basic, FORTRAN(FORTRAN "FORTRAN"), and
 other languages before retiring in 1987\.
 
 In this interview, Berners-Lee talks about her childhood in Birmingham,
@@ -261,7 +261,7 @@ Yes we did. We shared the school with Lidney Grammar School: Yardley had
 it in the afternoons, Lidney had it in the mornings.
 
 It was really hard. When all these children landed on Lidney—one of the
-things \[was\], there weren’t enough blankets\! It was a bitterly cold
+things \was\, there weren’t enough blankets\! It was a bitterly cold
 winter, and we put not only our coats on the bed, but our dresses as
 well, I remember, to try and keep warm\!
 
@@ -327,7 +327,7 @@ Did you think of going off to join the WRENs, or something?
 
 **Berners-Lee:**
 
-Well, \[back\] then one had to get reserved, of course, from military to
+Well, \back\ then one had to get reserved, of course, from military to
 go to university at all, and you were reserved for two years and got
 what they called a “War Honors Degree”—unclassified—after two years. By
 that time, which was 1944, the armed forces didn’t need women any more,
@@ -375,7 +375,7 @@ But when I graduated, I was really fed up with the war, and I suppose
 fairly romantic, and I had always been interested in astronomy, and I
 wanted to go into astronomy. It is, of course, a very romantic subject.
 I read an article in the *Monthly Notes of the Royal Astronomical
-Society* by a Dr. \[Richard van der Riet\] Woolley in Australia—in
+Society* by a Dr. \Richard van der Riet\ Woolley in Australia—in
 Canberra, Mount Stromlo—and wrote. And he took it up and gave me a
 fellowship to the observatory in Canberra. It is an important
 observatory, because it is in the Southern Hemisphere, and there weren’t
@@ -391,7 +391,7 @@ ten pounds. You had to agree to stay for two years; otherwise you would
 have to refund the passage. So I went out on the first all-immigrant
 ship, the *Orion*, which got feted when it got to Freemantle, and then
 went round the south coast to Sydney, where Dr. Woolley and his wife met
-me. \[They\] took me up to Canberra, which is a couple of hundred miles
+me. \They\ took me up to Canberra, which is a couple of hundred miles
 away and two thousand feet up—and has a very good climate, because the
 air is so clean and fresh; and all the wonderful Australian bush\! That
 was absolutely marvelous. So I really enjoyed that. But astrophysics was
@@ -404,7 +404,7 @@ What did you actually do for them there?
 **Berners-Lee:**
 
 Some people in Harvard had classified the stars in a two-dimensional
-array, by magnitude and radius. \[Arthur\] Eddington’s theory of the
+array, by magnitude and radius. \Arthur\ Eddington’s theory of the
 internal constitution of the stars, which had come out some time before,
 showed that for a mainstream star—an ordinary star—if you know two
 things about it, you can determine the others. The magnitude is the
@@ -497,7 +497,7 @@ university had built the computer, and Ferranti offered to make a
 properly engineered commercial version. They were building the first one
 for the university itself—this was the Ferranti Mark 1—with a view to
 selling other ones afterwards. When I went there, the university had
-already got the Mark 1—just. \[We were\] working out at Mostyn . . .
+already got the Mark 1—just. \We were\ working out at Mostyn . . .
 
 **Abbate:**
 
@@ -526,7 +526,7 @@ The engineering team was housed in the main body of the factory, but the
 programming team, which was part of the sales department, was in a small
 prefabricated nursery school that was established in the yard. It was
 known as the Tin Hut, although it must have been made of asbestos, I
-think\! \[laughs\] Young people were recruited. It was a very good
+think\! \laughs\ Young people were recruited. It was a very good
 team—very exciting\!
 
 **Abbate:**
@@ -572,8 +572,8 @@ Right, so five bits for the characters . . .
 Five bits, which gives you 25 = 32 possible patterns of noughts and
 ones, that is 32 characters. So you had the 26 uppercase letters of the
 alphabet and six more. I can't remember all the code now, but a row of
-five zeros was / \[“stroke”\]; 1 in binary was “E”; 2 in binary was “@”.
-It began /E@A:SIU..., ending with zed for five ones (31 in binary).
+five zeros was  \“stroke”\; 1 in binary was “E”; 2 in binary was “@”.
+It began E@A:SIU..., ending with zed for five ones (31 in binary).
 
 The machine had that very clever invention, the B-tube. Have you heard
 of B-tubes?
@@ -603,7 +603,7 @@ But of course, having got this B-tube that could add onto the
 instruction, you could also—it was very cunning—actually alter the
 function part of the instruction so that it no longer said "add." And
 that made the program extremely difficult for anybody else to follow,
-but very good fun to write\! \[both laugh\]
+but very good fun to write\! \both laugh\
 
 **Abbate:**
 
@@ -629,8 +629,8 @@ you could do on that machine was make it go through one instruction at a
 time, and watch actually what was happening on the cathode ray tubes.
 But that, of course, took a lot of computer time, and you would have
 people in the queue waiting to use the computer behind you. There was a
-big notice over the computer—I think it was \[a play on the one\]
-devised by IBM— which said, “Think—but not here\!”\[1\] \[both laugh\]
+big notice over the computer—I think it was \a play on the one\
+devised by IBM— which said, “Think—but not here\!”\1\ \[both laugh\]
 
 So, John Bennett got me to write a program to print out the state of the
 computer: what was in the accumulator, the B-tubes, and any other data,
@@ -655,7 +655,7 @@ sequence, which would change one routine for another. It was just for
 writing to the drum the program you’ve got and bringing another one down
 from the drum. So there was one block in the store that was known as the
 “Perm,” the permanent store. Each line had forty bits, and the block, I
-think, had sixty-four lines. [Alan Turing](/Alan_Turing "Alan Turing")
+think, had sixty-four lines. Alan Turing(Alan_Turing "Alan Turing")
 had written this—it was known as “Turing’s Perm”—and it had the powers
 of two and this little routine-changing sequence.
 
@@ -681,7 +681,7 @@ was in charge of the programming. A very, very able man, who later went
 back to Australia and became a Professor of Computing Science in Sydney.
 But I did the programming, which I thoroughly enjoyed.
 
-\[RECORDING PAUSES\]
+\RECORDING PAUSES\
 
 **Abbate:**
 
@@ -712,7 +712,7 @@ This was at Ferranti?
 
 Yes. And we were horrified\! Ferranti was a very paternal firm. They
 were shocked that young graduates did something so unprofessional as to
-discuss with one another what they earned. “Dearie me\!” \[both laugh\]
+discuss with one another what they earned. “Dearie me\!” \both laugh\
 But their argument was that if they knew that Joe Bloggs had a sick wife
 and real trouble, then they could quietly give him more—provided nobody
 talked about their salaries, and they couldn't do that in the open—and
@@ -740,7 +740,7 @@ So at that point, did a given job position have a given salary?
 
 It wasn’t strictly laid out, like that in the Civil Service, but the
 principle was accepted that the young graduates coming in should have
-the same \[salary\], whatever the sex; and with promotion, the same
+the same \salary\, whatever the sex; and with promotion, the same
 raises. They accepted the principle of equal pay, which they hadn’t
 before.
 
@@ -762,7 +762,7 @@ university would only let Ferranti have it between midnight and eight in
 the morning. And it was decreed by the Personnel Department that women
 should not be there at night—to the glee, I remember, of one particular
 member of the male staff, because it meant there was more time on the
-computer for the men\! But of course, \[for\] the women, it was a
+computer for the men\! But of course, \for\ the women, it was a
 disastrous idea. Unfortunately, the Personnel Manager knew that we were
 there at night, because I shared the flat with the Assistant Personnel
 Manager, and I started coming in late, and I wouldn’t get in till ten
@@ -773,7 +773,7 @@ not to work after about ten o’clock or something. But we managed to
 overrule that. The Personnel Department then suggested that we needed a
 chaperone, I think—because the maintenance engineers, of course, were
 always there, and they were men—and suggested we had a tea lady. We
-managed to override that one as well\! \[laughs\] So we used to get
+managed to override that one as well\! \laughs\ So we used to get
 through the night on black coffee\!
 
 ### Tensions between Programmers and Engineers
@@ -816,13 +816,13 @@ deciding which, and so there was tension between the engineers and the
 programmers. I mean, on the whole, on the personal basis, we got on with
 them very well; but there was a big row about whether the fault was the
 machine or the program. Sometimes they were right, and quite often we
-were, but they thought we were always wrong\! \[both laugh\] The machine
+were, but they thought we were always wrong\! \both laugh\ The machine
 had a nice little humming noise, so you could tell what program it was
 running by the sound it made. And sometimes if you were sure that it was
 the machine that was wrong, you would run the engineers’ test
 program—and the engineer would be around in no time, because he’d hear
 it\! He’d know the little song that it sang. You couldn’t do it
-secretly. \[laughs\]
+secretly. \laughs\
 
 There was a big row: I was trying to invert a 40-by-40 matrix, row by
 row, and I just couldn’t get it through, because the machine always made
@@ -865,8 +865,8 @@ resented it for years; but when it came to the 50th anniversary of the
 Manchester computer, and we went back, and there was a really good
 dinner, and I’d had enough wine, I went and tackled the great man and
 told him this. And he said, “Oh, no, no, no\! I wouldn’t have been like
-that. I didn’t argue with you because I knew you were right\!” \[both
-laugh\] So one can be very sensitive about this feminine issue, you see.
+that. I didn’t argue with you because I knew you were right\!” \both
+laugh\ So one can be very sensitive about this feminine issue, you see.
 
 **Abbate:**
 
@@ -883,10 +883,10 @@ Now, the computer in Manchester was the Mark 1\.
 
 **Berners-Lee:**
 
-And then the Mark 1\*. They sold \[a commercial version of\] the Mark
-1\.\[2\] One went to Toronto. The boss of the Sales Department in the
+And then the Mark 1\*. They sold \a commercial version of\ the Mark
+1\.\2\ One went to Toronto. The boss of the Sales Department in the
 Tin Hut was Vivian Bowden, who later became Lord Bowden, and he edited
-*Faster than Thought*.\[3\] Do you know *Faster than Thought*? I’ll show
+*Faster than Thought*.\3\ Do you know *Faster than Thought*? I’ll show
 you it afterwards.
 
 **Abbate:**
@@ -905,7 +905,7 @@ tests, because my program for inverting the 40-by-40 matrix was used as
 part of the acceptance trial; but by that time I was pregnant, and
 didn’t go, which was a shame. I would like to have gone to Italy.
 Well, it wasn’t a shame I was pregnant, but it was a shame I couldn’t
-go\! \[laughs\]
+go\! \laughs\
 
 ### The Work Environment at Ferranti
 
@@ -916,7 +916,7 @@ Did you meet your husband at Ferranti?
 **Berners-Lee:**
 
 Yes. In fact, we were introduced to each other three times before we
-realized we’d met before\! \[both laugh\] He joined the London office of
+realized we’d met before\! \both laugh\ He joined the London office of
 Ferranti and was brought up to Mostyn and was introduced to us, and then
 one time when I was down in London, I had to see him about something,
 give him something or other, and I met him again. Then when he came up
@@ -927,7 +927,7 @@ Another thing I remember about him was that when I had been working all
 night on the computer, and he needed to ring up for the results, and I
 was in the room with the teleprinters going: I could hear what he said
 on the phone in spite of the teleprinters. Whether that was why I
-married him, I don’t know\! \[laughs\]
+married him, I don’t know\! \laughs\
 
 **Abbate:**
 
@@ -1000,11 +1000,11 @@ Yes.
 
 **Abbate:**
 
-In the sense that you were getting contracts from former \[employers\].
+In the sense that you were getting contracts from former \employers\.
 
 **Berners-Lee:**
 
-Yes; and \[my husband\] Conway had contacts, too, you see; and the
+Yes; and \my husband\ Conway had contacts, too, you see; and the
 people at work knew me.
 
 **Abbate:**
@@ -1027,7 +1027,7 @@ professional, to be at home as a mum; and it’s nice to go into the adult
 world occasionally. Yes, I did find it quite difficult. But in those
 days, they certainly felt it was better for a mum to be at home with the
 baby—and I’m glad I did; we had four children, and I enjoyed it very
-much. But it does break things \[one’s career path\].
+much. But it does break things \one’s career path\.
 
 **Abbate:**
 
@@ -1142,8 +1142,8 @@ tiring. And I am a slow reader, so I was a very slow marker. I decided
 that there were other things to do with life, and went back to
 computing. Then it was FORTRAN.
 
-I worked for a company that did PERT \[Project Evaluation and Review
-Technique\]. Optimizing things: for something like a shipyard that has a
+I worked for a company that did PERT \Project Evaluation and Review
+Technique\. Optimizing things: for something like a shipyard that has a
 big operation, and you have to work out which tasks have to follow
 which, and so which tasks are on the “critical path.”
 
@@ -1166,13 +1166,13 @@ bad\! I found that I was first wanting to get the information down, so
 that it wasn’t lost—and that wasn’t very readable. And so I went through
 it again, of course, and made it readable—but it wasn’t very good. I
 needed to write it again to produce the good copy. By that time, they’d
-changed the program\! \[both laugh\] So it’s very difficult to get a
+changed the program\! \both laugh\ So it’s very difficult to get a
 manual out, in the time available, that is good. And that’s why it’s
 difficult: the program changes too quickly. It’s also difficult to know
 what assumptions you are making, which to you are second nature, but
 somebody else doesn’t know at all. And in the end, I felt that the
 programs needed rewriting from scratch, and I thought, “Tsk\! I’m going
-to retire\!” \[laughs\] Which I did\!
+to retire\!” \laughs\ Which I did\!
 
 **Abbate:**
 
@@ -1202,7 +1202,7 @@ So you finally retired in the seventies?
 
 **Berners-Lee:**
 
-No, no. I’m not as old as that\! \[laughs\] 1987 I retired. I think I
+No, no. I’m not as old as that\! \laughs\ 1987 I retired. I think I
 was 62 and a half. I thought that was a fair age: because women retired
 at 60 and men at 65, so I felt 62 and a half was fair\! And Conway had
 just retired.
@@ -1215,7 +1215,7 @@ if you just were tired of writing manuals.
 **Berners-Lee:**
 
 It had got a bit stressful; and I had tinnitus in my ears, which I
-noticed was getting worse, and I thought, “It isn’t worth \[losing\] my
+noticed was getting worse, and I thought, “It isn’t worth \losing\ my
 hearing, this isn’t.”
 
 **Abbate:**
@@ -1291,12 +1291,12 @@ you’re most proud of?
 **Berners-Lee:**
 
 Well, quite honestly, the biggest contribution I’ve made to computing is
-to be the Grandmother of the Web, isn’t it? \[both laugh\]
+to be the Grandmother of the Web, isn’t it? \both laugh\
 
 **Abbate:**
 
-You’ve had four children, and one of course is [Tim
-Berners-Lee](/Oral-History:Tim_Berners-Lee "Oral-History:Tim Berners-Lee"),
+You’ve had four children, and one of course is Tim
+Berners-Lee(Oral-History:Tim_Berners-Lee "Oral-History:Tim Berners-Lee"),
 who’s the “Father of the Web.” Did any of your other children go into
 computing?
 
@@ -1320,7 +1320,7 @@ We had one Christmas staying with a friend of mine who’s a historian,
 and she listened to the family conversation, and she was amazed: I mean,
 I hadn’t noticed, but it had a scientific-mathematical bias—of course,
 because we were interested. And she said if she’d brought them up, they
-would all have been historians\! \[laughs\] I don’t think she’s right. I
+would all have been historians\! \laughs\ I don’t think she’s right. I
 don’t think she’s right. Not at all\!
 
 But if you are interested: When I was teaching, I had an awkward class
@@ -1333,7 +1333,7 @@ find a square root numerically, because I thought this was a very
 interesting thing to do. We were doing this, and then one of them says
 in the middle of it, “What’s the point?” I then told them why I’d
 thought it was a good idea. I said that my daughter and I had been
-discussing \[how\] she wanted to make a skirt. She wanted to do a skirt
+discussing \how\ she wanted to make a skirt. She wanted to do a skirt
 that was flared: it was sort of straightish from the waist, and then had
 a gathered layer, and then below that was much more fully gathered. We
 knew what the diameter was around her hips, and we knew what the
@@ -1342,7 +1342,7 @@ wanted the square root of that ratio. And the log tables were upstairs
 and we were in the kitchen, so we did it numerically, and this is what
 had given me the idea. They just looked at me absolutely goggle-eyed
 that I should have this sort of goings-on with my daughter, who was
-about the same age as they were\! \[both laugh\]
+about the same age as they were\! \both laugh\
 
 **Abbate:**
 
@@ -1350,7 +1350,7 @@ Did they appreciate the practical application?
 
 **Berners-Lee:**
 
-\[laughs\] I think they just thought we were mad\!
+\laughs\ I think they just thought we were mad\!
 
 **Abbate:**
 
@@ -1398,7 +1398,7 @@ Well, I mean when you were working.
 
 **Berners-Lee:**
 
-No, I can’t think \[of any\]. There was a lot of encouragement. I mean,
+No, I can’t think \of any\. There was a lot of encouragement. I mean,
 my husband encouraged me a lot, and later on the family did. Because if
 you’ve spent sixteen years as a housewife and a mum, you lose
 confidence; and it was the family, very much so, that encouraged me to
@@ -1414,10 +1414,10 @@ Yes. Well, I was teaching at first, of course, and the school that I
 went to asked me to teach sixth-form applied maths. My first reaction
 was, “Well, I hadn’t done that for years and years and years; I can’t
 remember it.” Then I realized they hadn’t got anybody better, and so I
-took it on. \[When\] I’d be stuck and not able to do something, I’d say,
+took it on. \When\ I’d be stuck and not able to do something, I’d say,
 “I’ll have to think about this overnight,” and come and get my husband,
 who’s a real mathematician, to show me how to do it. I just have a maths
-degree; I’m not a real mathematician\! \[both laugh\] And of course, Tim
+degree; I’m not a real mathematician\! \both laugh\ And of course, Tim
 was the same sort of age as my students, and knew, and he could help me
 with—the modern maths had come in then, which I hadn’t learned.
 
@@ -1429,7 +1429,7 @@ Right: the “new math.”
 
 He would sort me out over that, and help me to get that right. So it was
 quite good fun around the table, all of us doing our homework\!
-\[laughs\] Before I taught, I worked through the examples in the book.
+\laughs\ Before I taught, I worked through the examples in the book.
 We were on holiday in Wales, at a country cottage, and I tended to be
 the first up in the morning; and I would sit out in the sun working
 through the examples, and then bring up the ones I couldn’t do at
@@ -1442,9 +1442,9 @@ Was it hard to balance work and family responsibilities?
 
 **Berners-Lee:**
 
-\[When I was\] teaching it was, because of the marking. I would find
+\When I was\ teaching it was, because of the marking. I would find
 myself marking in the small hours of the morning, and that was
-difficult. But \[after I returned to programming\], no: because the
+difficult. But \after I returned to programming\, no: because the
 children got older, and they were interested that I was doing it; they
 were keen that I should, and very helpful. Yes.
 
@@ -1466,13 +1466,13 @@ you’re about five or six, and somebody should teach you how to put
 your hands on them and use the right fingers: because you’re going to do
 it for the rest of your life, and you’ll have less back-ache and more
 efficiency if you know how to type\! But when you have a keyboard like
-you’ve got \[on your laptop\], with the mouse below the keyboard: we’ve
+you’ve got \on your laptop\, with the mouse below the keyboard: we’ve
 got one like that, and I find that if you type as you’re supposed to,
 you rest the heel of your hand accidentally on the mouse, and something
-dreadful has happened to the screen\! \[both laugh\] You have to be a
+dreadful has happened to the screen\! \both laugh\ You have to be a
 bit careful.
 
-\[pause\] I think it’s very sad that more women don’t go into it, and
+\pause\ I think it’s very sad that more women don’t go into it, and
 when I was teaching, I did think the girls got put off because girls are
 less likely than boys to press the buttons to see what happens. And that
 really is the way to learn—rather than the manual, which is probably
@@ -1492,7 +1492,7 @@ inclined to try and read the manual and get it right.
 But I have got out of date, which I do regret. When I retired, I didn’t
 really want to spend my time shut in at home looking at a computer
 screen, and I decided I wanted to be with people. I’ve quickly got out
-of date, and it’s now quite difficult to pick it up again, \[though\] I
+of date, and it’s now quite difficult to pick it up again, \though\ I
 have had a go, after a fashion. But it was a mistake; I should have
 stayed in it. It’s much more difficult now, and of course as you get
 older, it’s more difficult to learn.
@@ -1600,56 +1600,56 @@ and Architectures*, ed. Raúl Rojas and Ulf Hashagen.
 Digital Computing Machines*. London: Pitman, 1953\.
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Mary_Lee_Berners-Lee&oldid=108343>"
+"<http:/ethw.org/index.php?title=Oral-History:Mary_Lee_Berners-Lee&oldid=108343>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Profession](/Category:Profession "Category:Profession")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Engineering
-  fundamentals](/Category:Engineering_fundamentals "Category:Engineering fundamentals")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Profession(Category:Profession "Category:Profession")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Engineering
+  fundamentals(Category:Engineering_fundamentals "Category:Engineering fundamentals")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Mary Lee Berners-Lee](#About_Mary_Lee_Berners-Lee)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Childhood in Birmingham](#Childhood_in_Birmingham)
-  * [4\.2 Education amid World War II](#Education_amid_World_War_II)
-  * [4\.3 Astrophysics Fellowship in
-    Australia](#Astrophysics_Fellowship_in_Australia)
-  * [4\.4 First Computer Programming
-    Job](#First_Computer_Programming_Job)
-  * [4\.5 The Fight for Women’s Rights at
-    Ferranti](#The_Fight_for_Women.E2.80.99s_Rights_at_Ferranti)
-  * [4\.6 Tensions between Programmers and
-    Engineers](#Tensions_between_Programmers_and_Engineers)
-  * [4\.7 The Work Environment at
-    Ferranti](#The_Work_Environment_at_Ferranti)
-  * [4\.8 Cottage Computer Programming](#Cottage_Computer_Programming)
-  * [4\.9 Going Back to Work Full-Time](#Going_Back_to_Work_Full-Time)
-  * [4\.10 Retirement](#Retirement)
-  * [4\.11 On Training](#On_Training)
-  * [4\.12 Computing as a Family Affair](#Computing_as_a_Family_Affair)
-  * [4\.13 On Changes in Computing](#On_Changes_in_Computing)
-  * [4\.14 On the Status of Women in
-    Computing](#On_the_Status_of_Women_in_Computing)
-  * [4\.15 Notes](#Notes)
+* 1 About Mary Lee Berners-Lee(#About_Mary_Lee_Berners-Lee)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Childhood in Birmingham(#Childhood_in_Birmingham)
+  * 4\.2 Education amid World War II(#Education_amid_World_War_II)
+  * 4\.3 Astrophysics Fellowship in
+    Australia(#Astrophysics_Fellowship_in_Australia)
+  * 4\.4 First Computer Programming
+    Job(#First_Computer_Programming_Job)
+  * 4\.5 The Fight for Women’s Rights at
+    Ferranti(#The_Fight_for_Women.E2.80.99s_Rights_at_Ferranti)
+  * 4\.6 Tensions between Programmers and
+    Engineers(#Tensions_between_Programmers_and_Engineers)
+  * 4\.7 The Work Environment at
+    Ferranti(#The_Work_Environment_at_Ferranti)
+  * 4\.8 Cottage Computer Programming(#Cottage_Computer_Programming)
+  * 4\.9 Going Back to Work Full-Time(#Going_Back_to_Work_Full-Time)
+  * 4\.10 Retirement(#Retirement)
+  * 4\.11 On Training(#On_Training)
+  * 4\.12 Computing as a Family Affair(#Computing_as_a_Family_Affair)
+  * 4\.13 On Changes in Computing(#On_Changes_in_Computing)
+  * 4\.14 On the Status of Women in
+    Computing(#On_the_Status_of_Women_in_Computing)
+  * 4\.15 Notes(#Notes)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:43\.
 
 * This page has been accessed 8,420 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

@@ -1,83 +1,83 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Susan_Graham&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Susan_Graham&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Susan_Graham)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Susan_Graham&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Susan_Graham "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Susan_Graham "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Susan_Graham&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Susan_Graham&oldid=113075 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Susan_Graham&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Susan_Graham)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ASusan+Graham)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Susan_Graham&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Susan_Graham&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Susan_Graham)
+  
+  * Discussion(index.php?title=Oral-History_talk:Susan_Graham&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Susan_Graham "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Susan_Graham "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Susan_Graham&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Susan_Graham&oldid=113075 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Susan_Graham&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Susan_Graham)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ASusan+Graham)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Susan Graham
 
 ## About Susan Graham
 
-[Susan Graham](/Susan_L._Graham "Susan L. Graham") is the Pehong Chen
+Susan Graham(Susan_L._Graham "Susan L. Graham") is the Pehong Chen
 Distinguished Professor of Electrical Engineering and Computer Science
 Emerita at the University of California, Berkeley. She received her A.B
 in Mathematics from Harvard University and her Ph.D. in Computer Science
@@ -87,7 +87,7 @@ Her most recent projects include the Titanium system and Harmonia
 framework. In 2009, Graham received the IEEE von Neumann Medal.
 
 In this interview, Graham talks about her educational experiences at
-Harvard and Stanford Universities, [FORTRAN](/FORTRAN "FORTRAN"), and
+Harvard and Stanford Universities, FORTRAN(FORTRAN "FORTRAN"), and
 how she became interested in computer programming. Graham explains in
 detail her work as a software engineer. She also reflects on her time as
 the first full woman faculty member at University of California at
@@ -140,7 +140,7 @@ were born, and where did you grow up?
 
 **Graham:**
 
-I was born in Cleveland \[in 1942\], and my family left there when I was
+I was born in Cleveland \in 1942\, and my family left there when I was
 three. They came from New York, and they moved back East. So I grew up
 in New Jersey, in a town called West Orange, and I lived there until I
 went to college.
@@ -200,7 +200,7 @@ physics on television. There used to be—I can’t remember the name of it;
 there was a course that was on every morning, and for a while there was
 a discussion group in my high school afterwards. I did that for about
 two years, when I was in high school—and I’m not a morning person\!
-\[both laugh.\]
+\both laugh.\
 
 **Abbate:**
 
@@ -251,7 +251,7 @@ switching.
 **Abbate:**
 
 They didn’t have a computer science major until I was there in the
-eighties, so they were behind the curve\! \[laughs.\]
+eighties, so they were behind the curve\! \laughs.\
 
 **Graham:**
 
@@ -284,8 +284,8 @@ How did that happen?
 
 **Graham:**
 
-I had—\[laughs\]—a patronage job in Washington. It was the summer
-between my junior and senior year \[in 1963\]. I had an uncle who worked
+I had—\laughs\—a patronage job in Washington. It was the summer
+between my junior and senior year \in 1963\. I had an uncle who worked
 at the Federal Power Commission, which would now be DOE, and he got me a
 job as a programmer, on the basis of some course I had taken that had a
 little bit of programming in it and the fact that I was his niece. I did
@@ -310,8 +310,8 @@ And that was programming in FORTRAN or something?
 Well, FORTRAN had just come along, so they handed me the manual and
 said, “See if you can do something with this.” I wrote a program that
 calculated electric power rates when you had water that came down from a
-height and went through dams and so on: how they could figure out \[the
-cost of\] the power and therefore what to charge for it. They were very
+height and went through dams and so on: how they could figure out \the
+cost of\ the power and therefore what to charge for it. They were very
 impressed with the fact that I could do that without being sent to a
 class to learn FORTRAN. That was interesting; the whole experience was
 interesting for me. Of course, at the end of the summer I discovered
@@ -424,9 +424,9 @@ When did you get interested in programming languages?
 
 **Graham:**
 
-Well, it turns out that that’s in my Statement of Purpose \[from my
-application to the graduate program\], which I went back and read over
-again\! \[laughs.\] So I was always interested in programming languages.
+Well, it turns out that that’s in my Statement of Purpose \from my
+application to the graduate program\, which I went back and read over
+again\! \laughs.\ So I was always interested in programming languages.
 Part of that was that FORTRAN experience, of having learned it on my
 own; and when I was at Harvard, one of the courses I took in computing
 was a course in which part of the time was spent on APL, which was a
@@ -524,8 +524,8 @@ Courant Institute in New York to be a faculty member and to finish my
 thesis—and spent most of my time being a faculty member. In other words,
 I was teaching my courses for the first time, and I was working on my
 thesis; and I would send it to my advisor, and I wasn’t there to nag my
-advisor, and he wasn’t nagging me, and it took \[a long time\]. We now
-advise people never to do that\! \[both laugh.\] But that’s what I did.
+advisor, and he wasn’t nagging me, and it took \a long time\. We now
+advise people never to do that\! \both laugh.\ But that’s what I did.
 So I filed my thesis in ‘71, but I had all my results in ‘69\.
 
 I went there: again, in part because I wanted to live in New York, and
@@ -606,7 +606,7 @@ What was the program like when you came?
 
 When I came, there was a Computer Science Department that was in the
 College of Letters and Science; and there was an Electrical Engineering
-Department in \[the School of\] Engineering, which the year before
+Department in \the School of\ Engineering, which the year before
 became Electrical Engineering and Computer Sciences; and there was
 competition between the two. Most of this I learned after I was here.
 
@@ -649,7 +649,7 @@ Ah\!
 
 **Graham:**
 
-And it wasn’t because \[they wanted a woman\]; they inherited me rather
+And it wasn’t because \they wanted a woman\; they inherited me rather
 than hiring me. That was the case for a long time, that I was the only
 woman in the college. There were periods when, in other departments, a
 woman would be hired, be here for a few years, and leave again or not
@@ -706,20 +706,20 @@ But it sounds like it’s even less here.
 
 Before Kathy was hired, I think there was a woman hired on the double-E
 side, but only maybe a year before. I don’t remember exactly. So we’re
-probably now about ten percent in the \[EECS\] Department, nine or ten
+probably now about ten percent in the \EECS\ Department, nine or ten
 percent; and we’re three out of forty in Computer Science. But as I
 said, the third one was only hired last year.
 
 **Abbate:**
 
-Was that [Ruzena Bajcsy](/Ruzena_Bajcsy "Ruzena Bajcsy")? Or is she
+Was that Ruzena Bajcsy(Ruzena_Bajcsy "Ruzena Bajcsy")? Or is she
 somewhere else?
 
 **Graham:**
 
 No, I wasn’t counting her, because she’s really the Head of this CITRIS
-program \[Center for Information Technology Research in the Interest of
-Society\], and she has a very fractional faculty appointment, just so
+program \Center for Information Technology Research in the Interest of
+Society\, and she has a very fractional faculty appointment, just so
 that she’s sort of one of us.
 
 ### Research Projects
@@ -894,7 +894,7 @@ That was high-performance computing that you were doing for DARPA?
 **Graham:**
 
 No, that wasn’t high-performance computing at all. That was actually
-[UNIX](/UNIX "UNIX"). A lot of the UNIX work at Berkeley was done for
+UNIX(UNIX "UNIX"). A lot of the UNIX work at Berkeley was done for
 DARPA. That’s where Berkeley UNIX came from, and I headed the Berkeley
 UNIX project for a while.
 
@@ -924,8 +924,8 @@ I was for a while. Again, these things go in periods in one’s life, and
 I’m not terribly active there anymore, but there was a good chunk of
 time in which I was very active there. I was the first Editor-in-Chief
 of what became a very important journal on programming languages, and I
-was involved in SIGPLAN \[the ACM Special Interest Group for Programming
-Languages\] and various other communities. And then, I don’t know: that
+was involved in SIGPLAN \the ACM Special Interest Group for Programming
+Languages\ and various other communities. And then, I don’t know: that
 time passed.
 
 **Abbate:**
@@ -959,7 +959,7 @@ people in the field submitted their work for review. So it was important
 to establish things in that way. This was important for a lot of
 computer science at that time.
 
-So that was part of the reason I was involved \[in ACM\]; and part of
+So that was part of the reason I was involved \in ACM\; and part of
 the reason I was involved was that I really needed to have some
 activities that were away from Berkeley.
 
@@ -1015,7 +1015,7 @@ I know some of them have split their faculties.
 **Graham:**
 
 Right, right. No, this is still a joint department. It’s only very
-recently that we \[Computer Science\] have become roughly half the
+recently that we \Computer Science\ have become roughly half the
 department. We used to be a much smaller fraction. Things are different
 now, but the whole history is such that it wasn’t terribly supportive
 for me.
@@ -1028,7 +1028,7 @@ immediate way.
 
 **Graham:**
 
-Right\! Well, here \[at Berkeley\]; but it was also going on nationally
+Right\! Well, here \at Berkeley\; but it was also going on nationally
 and internationally.
 
 **Abbate:**
@@ -1167,7 +1167,7 @@ work and raising a family also difficult?
 It was, except that I didn’t think about it; I mean, I just did what I
 had to do. In retrospect, it was very difficult, but at the time I
 didn’t view it that way. But I never had babies, and so there was
-never any issue of \[parental\] leaves or anything like that. And you
+never any issue of \parental\ leaves or anything like that. And you
 know, lots of people have lots of demands in their personal lives that
 they have to juggle.
 
@@ -1194,7 +1194,7 @@ I had to do that as a junior faculty member. Of course, once
 workstations came along it was much less of an issue, but in the
 beginning I must have. I just don’t remember anymore. I certainly
 remember doing it at Stanford, because I made a lot of good friends when
-we were all there in the middle of the night\! \[laughs.\]
+we were all there in the middle of the night\! \laughs.\
 
 \
 
@@ -1202,7 +1202,7 @@ we were all there in the middle of the night\! \[laughs.\]
 
 **Abbate:**
 
-I’ll bet\! \[laughs.\]
+I’ll bet\! \laughs.\
 
 Now, more recently you’ve been working on programming environments, or
 cooperative programming?
@@ -1211,12 +1211,12 @@ cooperative programming?
 
 Right; and it’s this thread that I’ve followed for the last ten or
 twelve years. The issue there is that when people program, they’re
-always programming in an interactive system; \[but\] they’re following a
+always programming in an interactive system; \but\ they’re following a
 model that has never let go of the punch cards and submitting your
 job—in the sense that every time you sit down to work on your program,
 it’s as if there were no history of it’s having been around for a while.
 You start out, and it’s a document; it’s text on the screen—it’s got
-color, it’s got fonts and so on, but it’s \[just\] a document. Somehow
+color, it’s got fonts and so on, but it’s \just\ a document. Somehow
 you should be able to have more help from the system than that. The
 system should have a lot of knowledge about the programming language
 you’re using, and it should be able to capture a lot of knowledge
@@ -1250,9 +1250,9 @@ has to do with the way information is presented to you: with what it
 looks like, or whether you can browse in your own way.
 
 One of the things we’re looking at at the moment: I have a student who’s
-working on the use of speech. Part of the motivation is \[to help\]
+working on the use of speech. Part of the motivation is \to help\
 people who have various kinds of motor disabilities like RSI
-\[Repetitive Stress Injury\], but part of the motivation is that when
+\Repetitive Stress Injury\, but part of the motivation is that when
 people talk about software, they talk about it in different terms than
 they interact with a computer. If you talk about it, you’re much more
 likely to talk at the conceptual level; whereas if you’re forced to type
@@ -1260,7 +1260,7 @@ characters, then you’re thinking about which characters you’re typing.
 People use some natural language capabilities when they talk, not
 surprisingly; they paraphrase, and they’re sloppy about the order of
 things. My student did an experiment in which he had people read a Java
-program, and he told them to dictate it \[exactly as it was written\];
+program, and he told them to dictate it \exactly as it was written\;
 and yet they changed things around so that they sounded more natural
 when they were spoken. So the question is: without going into artificial
 intelligence, is a spoken interface something that might be more
@@ -1284,8 +1284,8 @@ they weren’t doing that character-by-character type of interaction.
 **Graham:**
 
 Right. That’s right. You had to really reason through your solution,
-because you’d submit it and maybe you’d wait 24 hours \[for the
-results\]. There’s a certain kind of experimentation you can do when you
+because you’d submit it and maybe you’d wait 24 hours \for the
+results\. There’s a certain kind of experimentation you can do when you
 don’t have to worry about turnaround, but there’s also a certain amount
 of sloppiness you get into, and we went through a stage in which that
 was the issue.
@@ -1337,7 +1337,7 @@ pick your area according to your specialty. It’s no longer possible for
 everybody to have a grasp of all the areas, except at a much more
 partial level. So that’s been a huge change. I used to try to keep up
 with lots and lots of things—that’s why my office looks like this\!
-\[Gestures to stacks of books and journals.\] I still try to keep up
+\Gestures to stacks of books and journals.\ I still try to keep up
 with things. But it’s very hard to keep up with everything that’s going
 on, even at the research level—or maybe especially at the research
 level.
@@ -1348,7 +1348,7 @@ So does it almost feel like it’s several different disciplines now?
 
 **Graham:**
 
-No. I don’t think it’s any \[different from other mature disciplines\].
+No. I don’t think it’s any \different from other mature disciplines\.
 I mean, from what I know of history, history’s like that: everybody
 knows something about the basic ways that historians work and what the
 methodologies are and so on, and yet everybody doesn’t know about all
@@ -1491,53 +1491,53 @@ Well, great\! Thank you so much for talking with me.
 You’re welcome\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Susan_Graham&oldid=113075>"
+"<http:/ethw.org/index.php?title=Oral-History:Susan_Graham&oldid=113075>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Engineers](/Category:Engineers "Category:Engineers")
-* [Computer science
-  education](/Category:Computer_science_education "Category:Computer science education")
-* [Awards & fellow
-  activities](/Category:Awards_%26_fellow_activities "Category:Awards & fellow activities")
-* [Programming](/Category:Programming "Category:Programming")
-* [Software & software
-  engineering](/Category:Software_%26_software_engineering "Category:Software & software engineering")
-* [Software
-  systems](/Category:Software_systems "Category:Software systems")
-* [Software tools](/Category:Software_tools "Category:Software tools")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Profession](/Category:Profession "Category:Profession")
-* [IEEE](/Category:IEEE "Category:IEEE")
+* Engineers(Category:Engineers "Category:Engineers")
+* Computer science
+  education(Category:Computer_science_education "Category:Computer science education")
+* Awards & fellow
+  activities(Category:Awards_%26_fellow_activities "Category:Awards & fellow activities")
+* Programming(Category:Programming "Category:Programming")
+* Software & software
+  engineering(Category:Software_%26_software_engineering "Category:Software & software engineering")
+* Software
+  systems(Category:Software_systems "Category:Software systems")
+* Software tools(Category:Software_tools "Category:Software tools")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Profession(Category:Profession "Category:Profession")
+* IEEE(Category:IEEE "Category:IEEE")
 
 ## Contents
 
-* [1 About Susan Graham](#About_Susan_Graham)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Arriving at Berkeley](#Arriving_at_Berkeley)
-  * [4\.3 Research Projects](#Research_Projects)
-  * [4\.4 Professional Memberships and
-    Publications](#Professional_Memberships_and_Publications)
-  * [4\.5 Reflections as a Woman in
-    Computing](#Reflections_as_a_Woman_in_Computing)
-  * [4\.6 Recent Programming Projects](#Recent_Programming_Projects)
-  * [4\.7 Reflections on the Field of Computer
-    Science](#Reflections_on_the_Field_of_Computer_Science)
+* 1 About Susan Graham(#About_Susan_Graham)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Arriving at Berkeley(#Arriving_at_Berkeley)
+  * 4\.3 Research Projects(#Research_Projects)
+  * 4\.4 Professional Memberships and
+    Publications(#Professional_Memberships_and_Publications)
+  * 4\.5 Reflections as a Woman in
+    Computing(#Reflections_as_a_Woman_in_Computing)
+  * 4\.6 Recent Programming Projects(#Recent_Programming_Projects)
+  * 4\.7 Reflections on the Field of Computer
+    Science(#Reflections_on_the_Field_of_Computer_Science)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 13:10\.
 
 * This page has been accessed 2,198 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

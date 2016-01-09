@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Pat_Stewart&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Pat_Stewart&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Pat_Stewart)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Pat_Stewart&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Pat_Stewart "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Pat_Stewart "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Pat_Stewart&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Pat_Stewart&oldid=108652 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Pat_Stewart&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Pat_Stewart)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3APat+Stewart)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Pat_Stewart&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Pat_Stewart&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Pat_Stewart)
+  
+  * Discussion(index.php?title=Oral-History_talk:Pat_Stewart&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Pat_Stewart "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Pat_Stewart "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Pat_Stewart&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Pat_Stewart&oldid=108652 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Pat_Stewart&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Pat_Stewart)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3APat+Stewart)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Pat Stewart
@@ -152,7 +152,7 @@ What did your parents do?
 
 **Stewart:**
 
-My father was a lacrosse stick maker \[laughs\], which is a very unusual
+My father was a lacrosse stick maker \laughs\, which is a very unusual
 occupation. There’s only one company in England that does it, and that’s
 in Manchester, a very small firm. And my mother was an account’s clerk.
 
@@ -178,7 +178,7 @@ So it was all girls then?
 
 **Stewart:**
 
-That’s right, yes. It was a \[word unclear\] Direct Grant grammar
+That’s right, yes. It was a \word unclear\ Direct Grant grammar
 school; they were quite common. They direct grant opts out of the main
 state system, mainly for denominational reasons, so that basically the
 local authority pays to the school for your fees.
@@ -317,7 +317,7 @@ I never thought about that.
 
 **Stewart:**
 
-\[laughs.\] Yes, yes the banks had to do quite a lot of work in that
+\laughs.\ Yes, yes the banks had to do quite a lot of work in that
 area.
 
 **Abbate:**
@@ -347,7 +347,7 @@ I mean, the whole country?
 
 **Stewart:**
 
-Yes. So we were working toward a particular date. \[laughs.\] Quite
+Yes. So we were working toward a particular date. \laughs.\ Quite
 exciting\!
 
 **Abbate:**
@@ -364,7 +364,7 @@ the holidays—rather too much, because then I didn’t really have time to
 do any catching up work that I might; it would have helped me to have
 more time. But yes, money was tight, and my mother always worked, from
 when I was five; so of course I expected to work. Yes, it wasn’t
-\[laughs\] anywhere where you didn’t expect to be earning your own
+\laughs\ anywhere where you didn’t expect to be earning your own
 living\!
 
 **Abbate:**
@@ -378,7 +378,7 @@ plan. I mean, I can remember looking in the local paper and
 seeing—computer operator, probably, or it may have been programmer—but
 I know it said “computer,” and that interested me, but I didn’t know
 what it was. I had no clear idea of what I was going towards. So I just
-fell into it, really—as so many people do. \[laughs.\]
+fell into it, really—as so many people do. \laughs.\
 
 ### Marriage and Moving to Cambridge
 
@@ -404,7 +404,7 @@ Did he do any computing with that?
 **Stewart:**
 
 Yes. Yes, he still computes. He’s an accountant now, but he still
-computes. \[laughs\]. Yes. Yes, he was a physicist at college and so was
+computes. \laughs\. Yes. Yes, he was a physicist at college and so was
 using computers as a practical tool. I learned quite a lot of background
 from him, what he was doing in that time.
 
@@ -422,7 +422,7 @@ some problems with one of their computers which was next to a Tube line.
 It was a Burroughs computer, and Burroughs was saying it was the
 environment and the building that was causing the problem, and the
 people who built the building said No, no, it was the computer that was
-the problem. And so . . . \[laughs.\]
+the problem. And so . . . \laughs.\
 
 **Abbate:**
 
@@ -434,7 +434,7 @@ Vibration. There was some vibration that was causing some amount of
 problem to the operation of the machine. And so Cambridge Consultants
 were going about monitoring the building, monitoring the Tubes, et
 cetera, and trying to work out whose fault it was. I forget the outcome
-now \[laughs\], maybe it wasn’t that important.
+now \laughs\, maybe it wasn’t that important.
 
 I didn’t enjoy that job at all. I’d just moved to Cambridge, it was very
 isolated in 1970, you couldn’t easily move around: two hours to London;
@@ -446,18 +446,18 @@ because they brought in a new member of staff who said, “We must have a
 programmer,” and there wasn’t really any work for me, so I didn’t enjoy
 it at all. I did a little bit of work . . . what was I working on? There
 was no computer in-house; we were using a very early dial-up service to
-a PDP. So I went on a [FORTRAN](/FORTRAN "FORTRAN") course, to learn
+a PDP. So I went on a FORTRAN(FORTRAN "FORTRAN") course, to learn
 FORTRAN, which of course being a scientific sort of firm was what they
 were using; and I was dialing up, obviously in a very primitive way, to
 a large PDP time-share.
 
 **Abbate:**
 
-This was 300 baud or something? \[laughs.\]
+This was 300 baud or something? \laughs.\
 
 **Stewart:**
 
-Oh no, it would be 110\! \[laughs.\] If that\!
+Oh no, it would be 110\! \laughs.\ If that\!
 
 I forget what project I was working on. Whatever I was doing then, that
 finished, and I was working on a project concerning Amoco and the
@@ -477,7 +477,7 @@ How long were you there?
 **Stewart:**
 
 A year. Yes. So I just gave up the job because I just couldn’t bear it
-any longer \[laughs\], and I looked for a job in the University. And
+any longer \laughs\, and I looked for a job in the University. And
 there were not many programming jobs in Cambridge around at that
 time—not for a pure programmer, certainly, with very little
 experience; a little bit of commercial, and a bit of low-level
@@ -491,7 +491,7 @@ so I basically invented my own job—obviously with the department’s
 help—and I became a programmer in the department, working on various
 projects concerned with astronomy. I was there three years. Originally
 we were using the University computer, which was then Titan; if you’ve
-been talking to Karen \[Spärk-Jones\] you will have heard all about
+been talking to Karen \Spärk-Jones\ you will have heard all about
 Titan, I’m sure. The IBM 370 was the first real computer the Computing
 Service had—the Computing Service started in 1970\. It was the first one
 that they really had of their own, building a user service on, and so I
@@ -538,7 +538,7 @@ figuring out what could be done computationally for the astronomers?
 
 **Stewart:**
 
-\[In terms of astronomy,\] no; computationally, yes. They would tell me
+\In terms of astronomy,\ no; computationally, yes. They would tell me
 what it was they wanted to do, because I have no astronomy background at
 all, so they’d have to present me with the problem, and then it would be
 creative work from then on devising the programs. Very often you were
@@ -560,11 +560,11 @@ So you made sort of a database?
 Yeah. Yes, a primitive sort of database, to find the data much more
 quickly. And that worked quite nicely.
 
-When the IBM was coming up, I was working down here \[in the computer
-lab\] quite a lot; because at that time, of course, it was all card and
-paper, and the office was two miles away, \[so I\] just spent all my
+When the IBM was coming up, I was working down here \in the computer
+lab\ quite a lot; because at that time, of course, it was all card and
+paper, and the office was two miles away, \so I\ just spent all my
 time on my bike going up and down—you couldn’t do a great deal just
-sitting in an office. \[laughs\]
+sitting in an office. \laughs\
 
 ### Developing a Career in Computer Services
 
@@ -608,8 +608,8 @@ through a job scheduler, get rather more work through, and then they
 provided the online system, which ran over the top—this was all fairly
 early days—providing the help systems and messaging systems. From the
 start they were providing a rather more friendly service than you get on
-a basic IBM, \[laughs\] I think you would hear. A succinct way of saying
-it. \[laughs.\]
+a basic IBM, \laughs\ I think you would hear. A succinct way of saying
+it. \laughs.\
 
 I did that for two years or so; I joined in October ‘74, and I actually
 left in January ‘77, February ‘77, which is after my first child was
@@ -630,8 +630,8 @@ was going to be leaving Computing Service and had a baby; I’d be working
 at home, but I would like some work to keep me going. He was a
 geneticist at Birmingham. He jumped at the chance. I was thinking that,
 originally, a few hours a week or something; and he said, “Oh, I’ll get
-you a half-time contract\!” \[laughs.\] And in my naiveté I said, “Yes,
-OK”—\[laughs\] not knowing what having a small baby was going to be
+you a half-time contract\!” \laughs.\ And in my naiveté I said, “Yes,
+OK”—\laughs\ not knowing what having a small baby was going to be
 like\!
 
 **Abbate:**
@@ -672,22 +672,22 @@ Right.
 So when I first started work at home, which was in August ‘77, I had a
 teletype to begin with, and then I had a VDU shortly after that—we were
 just waiting for it to be delivered—and an acoustic coupler. Not even a
-modem \[laughs\]—an acoustic coupler\! And this acoustic coupler worked
+modem \laughs\—an acoustic coupler\! And this acoustic coupler worked
 at 110 baud, so it was pretty slow going, which is why I can’t think
 that many people were dialing up before that. They must have been doing
 job entry, I think. We may have even have had some fixed lines to
 somewhere like East Anglia; I think we probably did. Sorry I don’t
-remember the details \[laughs\]; it was a long time ago\!
+remember the details \laughs\; it was a long time ago\!
 
 I think one the attractions for the person I worked for in Birmingham
 was that he was from Cambridge originally, and he liked having little
-trips across to Cambridge. \[laughs.\] I don’t know where he’d been
+trips across to Cambridge. \laughs.\ I don’t know where he’d been
 before, but he was despairing of the Birmingham Computing Service, and
 “everything in Cambridge was wonderful.” I think the Birmingham
-Computing Service were despairing of him as well\! \[laughs.\] Mustn’t
+Computing Service were despairing of him as well\! \laughs.\ Mustn’t
 be too disparaging, he is a very nice person; but he was quite
 demanding, and working in the Computing Service I can quite understand
-\[laughs\] how some users are.
+\laughs\ how some users are.
 
 And I worked for him half time for seven years from home, working in
 FORTRAN, working in PASCAL. During that time, as I’ve said, I originally
@@ -705,7 +705,7 @@ You had that at home?
 **Stewart:**
 
 At home. I did have an engineer out for it on one occasion; he said,
-“I’ve never seen one in a house before.” \[laughs.\] They were very
+“I’ve never seen one in a house before.” \laughs.\ They were very
 expensive in those days. So this would have been just after my daughter
 was born, so it was 1979, 1980\.
 
@@ -748,11 +748,11 @@ machine into a terminal that could do graphics.
 
 All the time I was working in the Genetics Department at Birmingham, and
 then the person I worked for moved to Oxford, and I followed him to
-Oxford, without leaving Cambridge\! \[laughs.\]
+Oxford, without leaving Cambridge\! \laughs.\
 
 **Abbate:**
 
-Right. Virtually. \[laughs.\]
+Right. Virtually. \laughs.\
 
 **Stewart:**
 
@@ -794,9 +794,9 @@ So I think at the end of the seven years, John Edwards, who was the
 person I worked for, was happy with the Oxford Computing Service, and I
 think he felt he couldn’t justify another request for a grant; and that
 suited me absolutely fine, because I had had enough of working at home\!
-I was climbing the walls by this time. \[laughs.\] And I was ready to
-get out of the house, in a big way. \[laughs.\] My daughter then was
-about 4 1/2 and just about to go to school.
+I was climbing the walls by this time. \laughs.\ And I was ready to
+get out of the house, in a big way. \laughs.\ My daughter then was
+about 4 12 and just about to go to school.
 
 What I haven’t said is, the whole time I was working for Birmingham and
 Oxford, I was doing a few hours for the Computing Service here. It was
@@ -804,14 +804,14 @@ all writing documentation at that time, and I was just doing that in the
 background as well. And so I’d kept my contact with the Computing
 Service throughout. So I came back to the Computing Service and I said,
 “Have you got any work?” And they said, “Yeah, we’ll find you a few
-hours, and we’ll find you a desk.” \[laughs.\] That was what I really
+hours, and we’ll find you a desk.” \laughs.\ That was what I really
 wanted. So I worked, then, half time for the Computing Service for about
 six to eight months, just coming and going in what time I had to spare,
 so that I was leaving time to—my husband was dropping the children off
 at school and I was collecting them, and we were struggling through the
 holidays quite well. I had made it clear that I would like to come back
 full time, and one of my colleagues was taking study leave for a year,
-so they said “OK, right: here you are. You can have this.” \[laughs.\]
+so they said “OK, right: here you are. You can have this.” \laughs.\
 So I had a contract for a year. And I think that proved both to the lab
 and to me that I could do it. I had to go and find a nanny—we had
 somebody that used to come in to look after the children.
@@ -825,7 +825,7 @@ So this would have been eighty . . .
 ‘84\. Yes. Had an A-level student or someone just come in to collect the
 children, look after them until I got home, and we’d do a bit longer in
 the school holidays. And then at the end of the year, a vacancy was
-available, so I took that. And I’ve been here ever since. \[laughs.\]
+available, so I took that. And I’ve been here ever since. \laughs.\
 
 ### New Challenges in Computer Service
 
@@ -844,15 +844,15 @@ using them as terminals—you know, one of my colleagues had written a
 chip that could fit them into a terminal, as I explained—they were also
 being used as stand-alone work stations. Again, some of the earliest
 microcomputers; IBM PCs were in their infancy. Nothing compared to the
-huge, amazingly slow \[laughs\] machines \[like\] the NCR that I used
+huge, amazingly slow \laughs\ machines \[like\] the NCR that I used
 originally\! In fact, the NCR that I originally worked on was in a huge
 room, as they were in the 1960s, air conditioned, with its operator
 sitting in their little air conditioned office; and this huge machine
 was 32K, which was the size of the BBC Micro that it was replaced by\!
 You know, it’s a sort of a foot by a foot, and two inches thick. So it
 was amazing to consider what happened—and of course, far, far different
-from what it is today, which is very much a larger \[display\] sitting
-in front of it. \[laughs.\]
+from what it is today, which is very much a larger \display\ sitting
+in front of it. \laughs.\
 
 **Abbate:**
 
@@ -868,7 +868,7 @@ can’t quite remember the name they gave it, but they gave us five
 machines and the printer, and we put those out for users, and they
 really took off in Cambridge. The director we had at that time was very
 keen on them, and we went with them in a big way, I think. And the
-children loved them as well\! \[laughs.\]
+children loved them as well\! \laughs.\
 
 **Abbate:**
 
@@ -879,7 +879,7 @@ Did you have one at home?
 We did, yes. Yes. The 512—it was after the Mac Plus, a smaller version
 of the Mac Plus—we had one of those, and we’ve had them every since. In
 fact, I think we got to the point not very long ago, only a couple of
-years ago, where we had eight Macs in the house\! \[laughs\]. I said,
+years ago, where we had eight Macs in the house\! \laughs\. I said,
 “Something has to go\!”
 
 **Abbate:**
@@ -888,7 +888,7 @@ And only four people?
 
 **Stewart:**
 
-And four people. \[laughs.\] Yes, yes. That got ridiculous. So something
+And four people. \laughs.\ Yes, yes. That got ridiculous. So something
 had to go there. The children both had them at university, and various
 spare machines kicking around that we haven’t quite got rid of. But yes,
 we all work on Macs now.
@@ -900,7 +900,7 @@ TEK, and some of the other more general courses that we gave.
 
 **Abbate:**
 
-Did you have [UNIX](/UNIX "UNIX") machines?
+Did you have UNIX(UNIX "UNIX") machines?
 
 **Stewart:**
 
@@ -911,13 +911,13 @@ running a fairly small service. The IBM then started to come to the end
 of its life, and it was obvious that we were no longer going to be
 running a big mainframe service in the same way, and the direction that
 we and everyone else was going in was UNIX at that point. So we started
-running up UNIX machines in parallel \[with the IBM\], to be running a
+running up UNIX machines in parallel \with the IBM\, to be running a
 service—this would be late ‘80s—to investigate initially, obviously, to
 see whether we could run a user service on it, and eventually to run the
 service that would take over from the old IBM. And the old IBM had
 basically run—obviously with lots of replacement hardware in the
 meantime—from about 1971 through to ‘94 or so—the same basic system\!
-\[laughs.\] Developed, as I said; a lot of work went into that. But the
+\laughs.\ Developed, as I said; a lot of work went into that. But the
 University moved at that point that we were going to buy off-the-shelf
 systems; we were not going to develop our own in-house operating
 systems. Obviously, that sort of development still goes on, but the
@@ -938,7 +938,7 @@ The Computing Service was moving on in that time, and user support was
 spreading, because we were running little offices of micro support, and
 user services, and UNIX support service (our UNIX support is supporting
 systems and people who are running the systems, rather than the user
-service). \[These were\] merging together, and we became a much larger
+service). \These were\ merging together, and we became a much larger
 organization. And at that time I moved more towards the more
 administrative side, and I got very much involved in the user
 administration, getting users onto the system. I was beginning to
@@ -958,7 +958,7 @@ open to everybody, I think; but in practice they didn’t. Mostly it was
 the scientists—obviously the computer scientists, but mathematicians and
 scientists who were coming for accounts; the geographers did, of course,
 in their first term; so they’d all have accounts. But then we wouldn’t
-see them again \[laughs\]—one term and that was it\! So it was fairly
+see them again \laughs\—one term and that was it\! So it was fairly
 light use on the undergraduate front. I think when I left to have James
 in 1977 we had about 2,000 users. So a fairly small user base compared
 to our 25,000–30,000 users today. It was much bigger when I came back in
@@ -985,7 +985,7 @@ So you can’t prepare the user accounts.
 
 **Stewart:**
 
-You can’t prepare\! \[laughs.\] So what we were doing was, at nine
+You can’t prepare\! \laughs.\ So what we were doing was, at nine
 o’clock on the first day of term the lecturer was passing round a tick
 list, returning this to us, we were typing all the names in furiously,
 and then producing the accounts for two o’clock in the afternoon. And
@@ -1000,19 +1000,19 @@ bit more investigation, and we started registering all—because the
 courses started developing, and we were going through with other
 courses. I mean, it was the one course that really threw us towards bulk
 registration, but we then started looking at the other courses who were
-coming to us a little later \[in the term\], and a little later, and a
-little later. So, I started taking their \[information\] from the
+coming to us a little later \in the term\, and a little later, and a
+little later. So, I started taking their \information\ from the
 University student records system, and we started registering all
 students as they came in the door. And that’s developed now, so for the
 last ten years we just take the data in September, we register
 everybody, we give them accounts on the email system, and on the Novell
-PC / Mac computer network; and they get those handed out to them as they
+PC  Mac computer network; and they get those handed out to them as they
 arrive in college, and all the forms then come back to us, and all the
 registration’s done; and the undergraduate registration now is just
 complete routine. We just sit reception down with staplers and 7,000
-sheets of paper, and they staple \[laughs\] for a day. We’ve thought of
+sheets of paper, and they staple \laughs\ for a day. We’ve thought of
 other ways of doing it, but this actually is the most efficient.
-\[laughs.\] Just use someone with a stapler. And they don’t mind it;
+\laughs.\ Just use someone with a stapler. And they don’t mind it;
 they’re quite used to it now. And gradually we did the same things for
 the post-graduates, which is much harder because you really don’t know
 who’s coming in then. Post-graduates don’t come in in a huge cohort;
@@ -1075,7 +1075,7 @@ in very different ways than the way we used to do it, which was wholly
 paper based. But we keep looking to see which way we should be going,
 how we should be providing the information. Obviously a lot should be on
 the Web. But the bit of paper that says “How do I start a Web browser?”
-has to be on paper. \[laughs.\]
+has to be on paper. \laughs.\
 
 ### Computing Security Concerns for Universities
 
@@ -1087,14 +1087,14 @@ Do you have to worry about security?
 
 Yes. That’s the other area that I moved into. Because of the
 administration role, largely, and the getting information out to users,
-I somehow—I can’t quite remember how \[laughs\]—moved into the area of
+I somehow—I can’t quite remember how \laughs\—moved into the area of
 Internet security. And I’m now half of the CERT team. That’s Computer
 Emergency Response Team. Basically, we look after security incidents—we
 look out for vulnerabilities and for alerts . . .
 
 **Abbate:**
 
-\[We were talking about\] security concerns . . .
+\We were talking about\ security concerns . . .
 
 PS. Yes, yes. We’re taking information—there’s a parent body for the UK
 which is the UK universities CERT team, and then all the universities
@@ -1118,14 +1118,14 @@ around?
 
 It’s mostly from outside. We do also have our problems inside, of
 course, and that’s part of my role as well, dealing with the naughty
-students \[laughs\]—in all sorts of ways. Not only the hacking—they like
+students \laughs\—in all sorts of ways. Not only the hacking—they like
 to probe other Universities—but of course there are things like: they’re
 all running MP3s and Napster, and there are various associations—the
 British Phonographic Industry keep an eye out to see who’s violating
 their copyright; the Motion Picture Association of America also like to
 do the same thing—and those are just two that have cropped up in the
 last two weeks. So we’re then dealing with students and trying to
-enforce the rules \[laughs\]—which they’ve all signed up to, of course,
+enforce the rules \laughs\—which they’ve all signed up to, of course,
 and which they take no notice of at all, and pretend they don’t know
 anything about it. But you know, it is a real world and they have to
 behave themselves. And then of course there’s the usual problems that
@@ -1174,7 +1174,7 @@ Absolutely. Yes, yes. So we see the alerts coming through, and either I
 can understand that this an issue for us, or I can say to somebody, “Do
 I need to worry about this?” and they’ll explain if necessary. And
 there’s a lot of contacting people and reassuring them—or not, as the
-case may be\! \[laughs\] Panicking them if necessary. \[laughs.\] Yes,
+case may be\! \laughs\ Panicking them if necessary. \[laughs.\] Yes,
 so there’s plenty of backup if I need it, which is helpful.
 
 ### Future Concerns for Computing Services
@@ -1186,7 +1186,7 @@ in the next decade, or that sort of thing?
 
 **Stewart:**
 
-\[Pause.\] I can see things that will happen. You can see trends in the
+\Pause.\ I can see things that will happen. You can see trends in the
 way the students are coming in. For example, at the moment, we’re
 providing them all with email accounts when they come into the
 University. They like to keep their accounts after they’ve gone, which
@@ -1221,8 +1221,8 @@ the same telephone number—you did get lost. And I don’t think you do
 really expect to keep in contact with your friends. But of course when
 you leave school you don’t think in quite those ways. When you leave
 college you don’t think in those ways; you think you’re always going to
-know these people. \[But\] even if you know where they are, you don’t
-tend to contact them every day. \[laughs.\]
+know these people. \But\ even if you know where they are, you don’t
+tend to contact them every day. \laughs.\
 
 So, I think, for our purposes, we still need to be able to contact the
 students by email, and we are going to want to keep running that
@@ -1246,7 +1246,7 @@ percent network connection—it’s very variable. But a very high
 proportion of the college rooms now are networked. So the students, at
 least theoretically, can come and plug into a great many rooms. And they
 do that. And they’re running services from their rooms: Napster, etc.
-\[laughs.\] So that sort of thing will continue. Certainly, with this
+\laughs.\ So that sort of thing will continue. Certainly, with this
 being a research university, there still is a role, and some
 departments, like Physics—scientific departments—do have their own
 computing resources, where they’re using very heavyweight and specialist
@@ -1308,7 +1308,7 @@ will have physics, medicine, every subject inside there.
 
 **Abbate:**
 
-Sounds like a nightmare. \[laughs.\]
+Sounds like a nightmare. \laughs.\
 
 **Stewart:**
 
@@ -1349,7 +1349,7 @@ Well, we have various groups. And the networking tends to be fairly
 male; UNIX support is fairly male; for the more specialist programming
 conferences—security—there are not very many women there. But if you go
 to a support workshop you will find that there are more women.
-\[laughs.\]
+\laughs.\
 
 **Abbate:**
 
@@ -1368,11 +1368,11 @@ haven’t seen that. Which is good\!
 
 **Abbate:**
 
-Yes. \[laughs.\]
+Yes. \laughs.\
 
 **Stewart:**
 
-I’m not sure what I would have done about it if I had. \[laughs.\]
+I’m not sure what I would have done about it if I had. \laughs.\
 
 **Abbate:**
 
@@ -1401,10 +1401,10 @@ different standard of living, which we both appreciate, I think. When I
 was working at home, then he would be there to look after the children
 in the evening. He’d look after them at the weekends when I was working,
 so he would support me in that. When I came back to work, he was
-supporting me by \[getting\] the children up in the morning—we were
+supporting me by \getting\ the children up in the morning—we were
 splitting things. He would take time off work—I slipped a disk at one
 point, he had to take six weeks off work. I could still work
-\[laughs\]—lie in bed and work—and he couldn’t\! \[laughs.\] He was
+\laughs\—lie in bed and work—and he couldn’t\! \[laughs.\] He was
 looking after the children.
 
 We stayed in Cambridge. His career would undoubtedly have progressed
@@ -1443,7 +1443,7 @@ I’m sure the kids liked it, too.
 They loved it. They loved it\! They would spend every day on the beach
 that it was possible to spend on the beach, in Blackpool. And then,
 Blackpool has a great big fairground, and they would go there every
-night. \[laughs.\] They adored it, they really did.
+night. \laughs.\ They adored it, they really did.
 
 **Abbate:**
 
@@ -1465,13 +1465,13 @@ A chip off the old block.
 
 **Abbate:**
 
-Oh. \[laughs.\] I thought you meant a computer chip\!
+Oh. \laughs.\ I thought you meant a computer chip\!
 
 **Stewart:**
 
-\[laughs.\] Yes, quite so, yes. So, he is close to computing, rather
+\laughs.\ Yes, quite so, yes. So, he is close to computing, rather
 than actually being in computing. And my daughter’s a drama student.
-\[laughs\]. So, nothing more to be said on that one\! \[laughs.\] But
+\laughs\. So, nothing more to be said on that one\! \[laughs.\] But
 she is computer literate.
 
 **Abbate:**
@@ -1498,7 +1498,7 @@ it is quiet—it’s in a vacation, it’s just before Easter, so it really is
 quite dead—then I’m spending quite a lot of time in front of the screen;
 but come term starting again, just after Easter, it’ll be busy again,
 and I’ll be dealing with people much more. So the quiet periods are
-quite useful. \[laughs.\]
+quite useful. \laughs.\
 
 **Abbate:**
 
@@ -1517,13 +1517,13 @@ How would you say the field of computing has changed since you started?
 
 **Stewart:**
 
-Enormously\! \[laughs.\] Obviously, in 1969, it was a field for the very
+Enormously\! \laughs.\ Obviously, in 1969, it was a field for the very
 few. The general public knew nothing about it—even people who were
 associated with computers. For example, when I first started in
 Barclay’s, if you went into your local branch and asked for your
 balance, they would say, “Oh no, we can’t tell you your balance, the
 computer broke down last night.” And I’d say, “No it didn’t\!”
-\[laughs.\] “I was on call\!” So they could use it much more in that
+\laughs.\ “I was on call\!” So they could use it much more in that
 sort of excuse; you could pull the wool easily over the public’s eyes.
 It was always the computer’s fault, et cetera. You can’t do that now.
 Everyone’s aware of computers; it’s part of everybody’s life. It’s not a
@@ -1575,7 +1575,7 @@ connection into the home—is still to some extent in its infancy. You
 know, there’s a long way to go on all those sort of areas, and there’s
 just so much to come yet. And I should think by the time I retire in
 another ten years or so, I expect to have everything just at home, and
-not worry about a modem. \[laughs.\] I expect to have a line there, and
+not worry about a modem. \laughs.\ I expect to have a line there, and
 what I’ll do, I don’t know—have to wait and see\! But I expect to have
 that sort of connection with computing in general.
 
@@ -1583,7 +1583,7 @@ I also find it very nice and relaxing that I can talk to my children at
 any time I want to, by email. You didn’t do that before; you didn’t have
 that sort of contact. You know, it was much further away. Now my
 daughter will go to India for the summer, or for a month in the summer,
-and I’ll get an email saying “Hi\! I’m OK\!” \[laughs.\] It’s just such
+and I’ll get an email saying “Hi\! I’m OK\!” \laughs.\ It’s just such
 a small world now. It’s brought us a lot closer together, I think, in
 many ways.
 
@@ -1612,7 +1612,7 @@ Do you think it’s become more open to women?
 **Stewart:**
 
 I suppose it has, yes. Yes, I think it probably has. Bringing it into
-the home will do that. \[pause.\] Yes, I think it probably has. There
+the home will do that. \pause.\ Yes, I think it probably has. There
 still are barriers to break down. I think there are women who have not
 been used to computers, depending on their job, of course. Those who are
 not in a work place using a machine all the time will still have a
@@ -1648,7 +1648,7 @@ She won’t, for example, learn packages for design. She’s a designer. So,
 designing stage sets: it’s a tool in that respect. But she’ll use the
 Web to find information. And I think that’s the way people will use it.
 And that’s a fine way to use it. Not everybody has to program. It’s not
-part of life\! \[laughs.\] It’s a specialist occupation.
+part of life\! \laughs.\ It’s a specialist occupation.
 
 **Abbate:**
 
@@ -1664,7 +1664,7 @@ Or later on? Ever?
 
 **Stewart:**
 
-\[pause.\] No, I don’t think so. No. My colleagues here perhaps were all
+\pause.\ No, I don’t think so. No. My colleagues here perhaps were all
 more or less at the same sort of stage as me, so no, I don’t think there
 was in that respect.
 
@@ -1686,7 +1686,7 @@ computers?
 
 **Stewart:**
 
-Ooh. \[laughs.\] Gosh, that’s a difficult question.
+Ooh. \laughs.\ Gosh, that’s a difficult question.
 
 **Abbate:**
 
@@ -1694,7 +1694,7 @@ There’s so many, or . . . ?
 
 **Stewart:**
 
-\[laughs.\] It’s kept me employed\! \[laughs.\] But it’s challenging. I
+\laughs.\ It’s kept me employed\! \[laughs.\] But it’s challenging. I
 suppose the most satisfying thing is, I cannot imagine me doing a job
 that was the same—and this changes every day, every year. I cannot
 imagine having been in any job for twenty-five years—working in the
@@ -1713,7 +1713,7 @@ You picked the right field\!
 
 **Stewart:**
 
-\[laughs\] I think I did, yes\! By accident—but there we are. And I’ve
+\laughs\ I think I did, yes\! By accident—but there we are. And I’ve
 just been very lucky, really; the right opportunities have come along at
 the right time, and I’ve had the right support. In fact, I think I’ve
 been very fortunate in my career.
@@ -1728,7 +1728,7 @@ today?
 Hmm . . . I would think: Keep your options open. Don’t get too narrow,
 is probably a useful guide. Unless that’s what you really want to do,
 and that satisfies you. But if you’re considering taking a career break
-in any shape or form, even if that’s \[just reducing your hours\]—when
+in any shape or form, even if that’s \just reducing your hours\—when
 you have children you can really only manage nine-to-five, you can’t use
 all hours in the day—then keep it wide, and keep your options open. I
 think that is probably the best move.
@@ -1740,7 +1740,7 @@ I’ve missed any important parts of your career.
 
 **Stewart:**
 
-I can’t think of any offhand, no. \[laughs.\]
+I can’t think of any offhand, no. \laughs.\
 
 **Abbate:**
 
@@ -1761,56 +1761,56 @@ Well, thank you very much.
 It’s a pleasure. I hope it’s helpful\!
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Pat_Stewart&oldid=108652>"
+"<http:/ethw.org/index.php?title=Oral-History:Pat_Stewart&oldid=108652>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computer network
-  management](/Category:Computer_network_management "Category:Computer network management")
-* [Home & family](/Category:Home_%26_family "Category:Home & family")
-* [Workplace](/Category:Workplace "Category:Workplace")
-* [Universities](/Category:Universities "Category:Universities")
-* [Formal
-  specifications](/Category:Formal_specifications "Category:Formal specifications")
-* [Guidelines](/Category:Guidelines "Category:Guidelines")
-* [Telecommunication
-  standards](/Category:Telecommunication_standards "Category:Telecommunication standards")
+* Computer network
+  management(Category:Computer_network_management "Category:Computer network management")
+* Home & family(Category:Home_%26_family "Category:Home & family")
+* Workplace(Category:Workplace "Category:Workplace")
+* Universities(Category:Universities "Category:Universities")
+* Formal
+  specifications(Category:Formal_specifications "Category:Formal specifications")
+* Guidelines(Category:Guidelines "Category:Guidelines")
+* Telecommunication
+  standards(Category:Telecommunication_standards "Category:Telecommunication standards")
 
 ## Contents
 
-* [1 About Pat Stewart](#About_Pat_Stewart)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Family and Early Education](#Family_and_Early_Education)
-  * [4\.2 Barclay’s Bank and First
-    Computer](#Barclay.E2.80.99s_Bank_and_First_Computer)
-  * [4\.3 Marriage and Moving to
-    Cambridge](#Marriage_and_Moving_to_Cambridge)
-  * [4\.4 Working at the Institute of
-    Astronomers](#Working_at_the_Institute_of_Astronomers)
-  * [4\.5 Developing a Career in Computer
-    Services](#Developing_a_Career_in_Computer_Services)
-  * [4\.6 New Challenges in Computer
-    Service](#New_Challenges_in_Computer_Service)
-  * [4\.7 Computing Security Concerns for
-    Universities](#Computing_Security_Concerns_for_Universities)
-  * [4\.8 Future Concerns for Computing
-    Services](#Future_Concerns_for_Computing_Services)
-  * [4\.9 Gender Concerns and Balancing Work and
-    Family](#Gender_Concerns_and_Balancing_Work_and_Family)
-  * [4\.10 How has the Field Changed](#How_has_the_Field_Changed)
+* 1 About Pat Stewart(#About_Pat_Stewart)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Family and Early Education(#Family_and_Early_Education)
+  * 4\.2 Barclay’s Bank and First
+    Computer(#Barclay.E2.80.99s_Bank_and_First_Computer)
+  * 4\.3 Marriage and Moving to
+    Cambridge(#Marriage_and_Moving_to_Cambridge)
+  * 4\.4 Working at the Institute of
+    Astronomers(#Working_at_the_Institute_of_Astronomers)
+  * 4\.5 Developing a Career in Computer
+    Services(#Developing_a_Career_in_Computer_Services)
+  * 4\.6 New Challenges in Computer
+    Service(#New_Challenges_in_Computer_Service)
+  * 4\.7 Computing Security Concerns for
+    Universities(#Computing_Security_Concerns_for_Universities)
+  * 4\.8 Future Concerns for Computing
+    Services(#Future_Concerns_for_Computing_Services)
+  * 4\.9 Gender Concerns and Balancing Work and
+    Family(#Gender_Concerns_and_Balancing_Work_and_Family)
+  * 4\.10 How has the Field Changed(#How_has_the_Field_Changed)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:48\.
 
 * This page has been accessed 1,588 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

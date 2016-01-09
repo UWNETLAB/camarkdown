@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Susan_Bond&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Susan_Bond&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Susan_Bond)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Susan_Bond&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Susan_Bond "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Susan_Bond "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Susan_Bond&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Susan_Bond&oldid=108475 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Susan_Bond&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Susan_Bond)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3ASusan+Bond)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Susan_Bond&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Susan_Bond&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Susan_Bond)
+  
+  * Discussion(index.php?title=Oral-History_talk:Susan_Bond&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Susan_Bond "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Susan_Bond "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Susan_Bond&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Susan_Bond&oldid=108475 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Susan_Bond&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Susan_Bond)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3ASusan+Bond)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Susan Bond
@@ -140,7 +140,7 @@ INTERVIEWER: Janet Abbate\
 DATE: 26 September 2001\
 PLACE: Bond's home in Colwall, United Kingdom
 
-\[Notes courtesy of interviewer Janet Abbate\]
+\Notes courtesy of interviewer Janet Abbate\
 
 ### Background and Education
 
@@ -184,7 +184,7 @@ No. I’m an only child.
 
 **Abbate:**
 
-I guess if \[your parents\] were both teachers they probably valued
+I guess if \your parents\ were both teachers they probably valued
 education. Did they encourage you to go on and have a career?
 
 **Bond:**
@@ -253,7 +253,7 @@ Yes.
 Well . . . I don’t know how much of this is relevant to your studies,
 but Bristol was said to be full of failed Oxbridge entrants: that is, it
 had a high proportion of people who’d failed to get into Oxford or
-Cambridge\! \[laughs\]
+Cambridge\! \laughs\
 
 **Abbate:**
 
@@ -379,7 +379,7 @@ new.
 
 So, we all transferred to the general science honors degree. And then,
 at the end of the three years, there were four first-class honors
-awarded—and the four of us got the four firsts\! \[laughs\]
+awarded—and the four of us got the four firsts\! \laughs\
 
 **Abbate:**
 
@@ -447,7 +447,7 @@ Did you have any inkling that you might ever want to work with them?
 **Bond:**
 
 No; and in fact, when I look back at my job interviews, it amazes me
-what I said\! \[laughs\] I would be happy to look at computers, but I
+what I said\! \laughs\ I would be happy to look at computers, but I
 wasn’t particularly interested in that; no. And actually, in my
 interview for RRE, where I finally ended up . . .
 
@@ -461,7 +461,7 @@ The Royal Radar Establishment, that’s right. That was one of the places
 that I applied to; and because I’d got a first-class honors, I was
 eligible to apply as a Scientific Officer in research. In my recruitment
 interview, the chairman of the panel asked me if I was interested in
-doing research, and he tells me now I replied, “No\!” \[both laugh\] He
+doing research, and he tells me now I replied, “No\!” \both laugh\ He
 was the head of the Mathematics Division, and I subsequently got to know
 him very well, because he was my boss until he retired. I subsequently
 found that he was actively recruiting women, because he was very keen to
@@ -477,7 +477,7 @@ Who was that?
 **Bond:**
 
 It was Philip Woodward, who had written a seminal book: *Probability and
-Information Theory, with Applications to Radar*\[1\]; and then became
+Information Theory, with Applications to Radar*\1\; and then became
 Superintendent of the Mathematics Division.
 
 **Abbate:**
@@ -544,7 +544,7 @@ research team who were trying to write compilers could not use it in the
 day; so if you wanted to do a debugging session which needed the
 console, you had to approach the operator on your bended knee early in
 the morning and say “Please, Ruth, can I use the machine for a quarter
-of an hour before you start the user jobs?” \[laughs\]
+of an hour before you start the user jobs?” \laughs\
 
 But I’ve skipped a lot of the process. You typed up your own program,
 and you rolled up your paper tape, and put it in the job box. There were
@@ -628,7 +628,7 @@ things that we had was a list processing package modeled on LISP. I
 never used LISP—it was all “CAR” and “CDR,” wasn’t it? — but RRE had
 written a package on top of the ALGOL 60 compiler which used the words
 “head” and “tail” instead of “CAR” and “CDR,” and so you’d write these
-programs, “hd(hd(hd(tl(thing)))) becomes such and such” \[laughs\]
+programs, “hd(hd(hd(tl(thing)))) becomes such and such” \laughs\
 
 **Abbate:**
 
@@ -646,12 +646,12 @@ University—and obviously the Research Division didn’t want to lose his
 knowledge. So they said, “You work with Michael, and he will show you
 how SID works, and you can reimplement it, so that then you’ll know all
 about it\!” So that was one of my first tasks, to reimplement SID in
-ALGOL 60 using the list processing package. \[Much later I reimplemented
+ALGOL 60 using the list processing package. \Much later I reimplemented
 it in ALGOL 68 using structures, which made the program much more
-transparent.\] And what SID did was, it took in grammar rules for a
+transparent.\ And what SID did was, it took in grammar rules for a
 language; it then transformed the rules of the language so as to
-generate an analyzer, which was effectively a reader \[compiler
-compiler, see below\] for the ALGOL or high-level language that you’d
+generate an analyzer, which was effectively a reader \compiler
+compiler, see below\ for the ALGOL or high-level language that you’d
 put the grammar rules in for.
 
 **Abbate:**
@@ -662,7 +662,7 @@ Was that a lexical analyzer?
 
 No, it was at grammatical level, rather than lexical level. There is a
 paper on SID published in 1968, I think, in the *British Computer
-Society Journal*.\[2\]
+Society Journal*.\2\
 
 **Abbate:**
 
@@ -688,13 +688,13 @@ Well, in a way, the language is designed with the compiler in mind. When
 designing a language, you’ve got to have some idea of how you’re going
 to compile it, and so therefore, the techniques you use . . .
 
-\[Susan Bond’s husband, Chris Sennett, enters the room\]
+\Susan Bond’s husband, Chris Sennett, enters the room\
 
 **Sennett:**
 
-Have you covered the topic of lunch yet? \[laughter\]
+Have you covered the topic of lunch yet? \laughter\
 
-\[RECORDING PAUSES FOR LUNCH BREAK\]
+\RECORDING PAUSES FOR LUNCH BREAK\
 
 **Bond:**
 
@@ -766,7 +766,7 @@ wasn’t there?
 
 **Abbate:**
 
-I used one called “yacc” on the [Unix](/UNIX "UNIX") system . . .
+I used one called “yacc” on the Unix(UNIX "UNIX") system . . .
 
 **Bond:**
 
@@ -779,7 +779,7 @@ So there was an earlier one?
 
 **Bond:**
 
-There was an earlier one called the Compiler Compiler \[Brooker-Morris\]
+There was an earlier one called the Compiler Compiler \Brooker-Morris\
 at the time we’re talking about. So SID took in the grammar of the
 language and generated a program which would read in the code written in
 the high-level language and had function calls at the places where you
@@ -800,7 +800,7 @@ things that actually would need to be done, and in what order?
 Yes, that’s it. That was syntactic, and the challenge then was to get as
 much semantics into the Compiler Compiler as you could—and that is
 pretty difficult. And it’s probably still being worked on to this day\!
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -844,7 +844,7 @@ computers then, so they had to buy one. I’m going ahead a bit now, but I
 think about 1970, RRE bought an ICT 1907F for the computing service. We
 had the users using ALGOL 60 on our home-grown computer, RREAC, and that
 was all they could do; all it had, was ALGOL 60\. The commercial
-computer, ICT, had [FORTRAN](/FORTRAN "FORTRAN"). But the Mathematics
+computer, ICT, had FORTRAN(FORTRAN "FORTRAN"). But the Mathematics
 Division, which was responsible for the computing service, felt that
 FORTRAN was not going to be adequate for the longer term for the users;
 it was difficult to debug, and all that sort of thing. So we started a
@@ -856,7 +856,7 @@ To do that, we first bought a much smaller ICT computer called a 1902,
 which was the first one with an exchangeable disk store. We were years
 behind the States, I’m sure, in this, but that was what was commercially
 available. The exchangeable disk store was—how small was it? One
-megabyte, I think, perhaps? \[laughs\] So we were allowed to buy—and we
+megabyte, I think, perhaps? \laughs\ So we were allowed to buy—and we
 had to make the case to the Treasury, because these things were all
 terribly expensive—to buy this ICT 1902 which had a 24-bit word, and 32K
 of main store. No floating point, of course.
@@ -889,7 +889,7 @@ All right. Shall we take a break?
 
 Yes.
 
-\[RECORDING PAUSES\]
+\RECORDING PAUSES\
 
 ### On Women at RRE
 
@@ -1056,7 +1056,7 @@ opening?
 
 Yes, it would be a permanent position. It would be something that the
 Treasury and the Ministry had agreed that these posts or jobs
-existed—and would be paid for, of course. \[laughs\] Because promotion
+existed—and would be paid for, of course. \laughs\ Because promotion
 was tied to pay, so you couldn’t go on promoting everybody, because the
 salary bill would be more than the Treasury would pay.
 
@@ -1102,7 +1102,7 @@ you, show you the ropes, that kind of thing?
 **Bond:**
 
 Philip Woodward: yes, Philip was my mentor, I guess. He who recruited me
-against all the odds \[laughs\]—against my disastrous comments at the
+against all the odds \laughs\—against my disastrous comments at the
 job interview. He was Superintendent for about thirteen years, and then
 became an Individual Merit Deputy Chief Scientific Officer.
 
@@ -1155,7 +1155,7 @@ So that they wouldn’t feel the need for ALGOL?
 No. In fact, a lot of our users’ programs—which looked, as written for
 RREAC, as though they were ALGOL —I came to learn afterwards, when I
 found out more about FORTRAN programs and numerical libraries, that they
-were actually straight translations from FORTRAN to ALGOL\! \[laughs\]
+were actually straight translations from FORTRAN to ALGOL\! \laughs\
 
 So in a way, we in the Research Group and the users were on different
 wavelengths, I suppose. But the Research Division felt that high-level
@@ -1193,7 +1193,7 @@ ICT 1900 series and the English Electric System IV. We, of course, were
 in the 1900 community, and there were universities that we didn’t really
 have any dealings with, because they had System IV machines.
 
-\[CHANGE DISC\]
+\CHANGE DISC\
 
 **Abbate:**
 
@@ -1201,11 +1201,11 @@ Was anyone else writing ALGOL compilers?
 
 **Bond:**
 
-Ah, well, this is where we come to the famous book\! \[laughs\]
+Ah, well, this is where we come to the famous book\! \laughs\
 
 **Abbate:**
 
-\[reading book cover\] *ALGOL 68 Implementation*, by J. E. L. Peck.\[3\]
+\reading book cover\ *ALGOL 68 Implementation*, by J. E. L. Peck.\[3\]
 
 **Bond:**
 
@@ -1217,15 +1217,15 @@ this book, by the way?
 
 **Abbate:**
 
-No, I haven’t. \[looking at photo\] What a great picture\!
+No, I haven’t. \looking at photo\ What a great picture\!
 
 **Bond:**
 
-It’s been described as “a pop group of the early ‘50’s\!” \[laughs\]
+It’s been described as “a pop group of the early ‘50’s\!” \laughs\
 
 **Abbate:**
 
-It does look like a singing group. \[laughs\]
+It does look like a singing group. \laughs\
 
 So: there was a whole conference on . . .
 
@@ -1294,7 +1294,7 @@ Well, in the British universities with 1900 machines; and some of them
 actually took it up as a teaching compiler. What happened was that there
 weren’t any users’ manuals for ALGOL 68, so Philip wrote one and I was
 his co-author. That was the "ALGOL 68-R User’s Guide", describing how to
-program in ALGOL 68, and published by HMSO.\[4\] And it only cost 75
+program in ALGOL 68, and published by HMSO.\4\ And it only cost 75
 pence, so it could be a recommended text—it could be used with the
 compiler on the 1900s in the university departments.
 
@@ -1316,7 +1316,7 @@ Yes. Because it was a student book, and it went to two editions.
 
 **Abbate:**
 
-\[Looking at book\] It seems very clear and systematic.
+\Looking at book\ It seems very clear and systematic.
 
 **Bond:**
 
@@ -1333,7 +1333,7 @@ Well, I ended up in computing support—supporting the ALGOL 68
 compiler—because when people found bugs in the compiler, they reported
 them to me\! This was all done within my job, and I did that for some
 years. We were still developing the compiler, and I won’t relate to you
-the horrors of it\! \[laughs\]
+the horrors of it\! \laughs\
 
 **Abbate:**
 
@@ -1345,7 +1345,7 @@ Well, it was all to do with maintainability, really; because the
 compiler, I’d told you, was written in integer ALGOL, and after a few
 years had gone on, we’d lost the ability to recompile the compiler. So
 when we had to correct a bug, we had to do binary patches, all through
-the store\! \[laughs\] My part in the compiler-writing was to do the
+the store\! \laughs\ My part in the compiler-writing was to do the
 storage allocation, laying it out, and interfacing to the garbage
 collector. ALGOL 68-R had an in-built garbage collector; it didn’t just
 run out of store. It was all fully operational—because you need a
@@ -1457,7 +1457,7 @@ obligations?
 
 **Bond:**
 
-No, because I have never had any maternal urges\! \[laughs\]
+No, because I have never had any maternal urges\! \laughs\
 
 **Abbate:**
 
@@ -1565,7 +1565,7 @@ It was, yes. That was when I got involved with the NATO Defense Research
 Group and also with a thirteen-nation IEPG program to develop a
 programming support environment. The US had the Ada APSE Initiative, and
 the Europeans had the PCTE program. It’s all initials, isn’t it?
-\[laughs\]
+\laughs\
 
 **Abbate:**
 
@@ -1591,12 +1591,12 @@ Well, the military is becoming more orientated to the market. When I was
 about to leave, the US was working around to COTS—“Commercial
 Off-The-Shelf Software”—which is an attempt by the military to try and
 buy their systems from the commercial marketplace. I don’t think it’s a
-secret: in the \[first\] Gulf War, for example, none of the one-off
+secret: in the \first\ Gulf War, for example, none of the one-off
 systems really worked. Everybody would take their own laptops in\!
 
 **Abbate:**
 
-\[laughs\] I never heard that.
+\laughs\ I never heard that.
 
 **Bond:**
 
@@ -1714,7 +1714,7 @@ of exchange of ideas?
 
 **Bond:**
 
-No, \[although we funded some university research programmes\].
+No, \although we funded some university research programmes\.
 
 ### On Commercial Applications of Research
 
@@ -1729,7 +1729,7 @@ the Establishment to do that. One of the big successes of RRE was liquid
 crystals; the RRE Physics Department holds several worldwide patents.
 And now they’ve changed the Establishment into QinetiQ, which is
 privatized, the royalties from these patents are very important. But in
-computing, tell me: how do you make money from software? \[laughs\]
+computing, tell me: how do you make money from software? \laughs\
 
 **Abbate:**
 
@@ -1739,7 +1739,7 @@ Ask Bill Gates.
 
 Yes, well exactly\! But ask all the others who have disappeared. There’s
 that book called *Accidental Empires* that’s written about Bill Gates
-and Steve Jobs and all those people.\[5\] I am fascinated by that.
+and Steve Jobs and all those people.\5\ I am fascinated by that.
 
 ### On Being a Woman Manager
 
@@ -1757,7 +1757,7 @@ Scientists in the Software Division.
 
 And what I learned from Philip was that the art was to protect your
 people and let them get on with producing something in their research,
-while staving off the attentions of the bean counters\! \[laughs\]
+while staving off the attentions of the bean counters\! \laughs\
 
 **Abbate:**
 
@@ -1780,7 +1780,7 @@ happened—and I just wasn’t interested in that. For example, in the old
 days, you published technical memos–RRE Technical Memos–and the
 Superintendent had to sign them off. And I always liked to read them
 all; they’d put them to me, and I would tell them what I thought was
-wrong with it\! \[laughs\] Well, you know what I mean: just try and help
+wrong with it\! \laughs\ Well, you know what I mean: just try and help
 it to come over more clearly. But towards the end, there wasn’t time for
 that. As the division got bigger and bigger, you just couldn’t do it.
 
@@ -1795,13 +1795,13 @@ Yes, that’s right. I don’t know if this is the sort of answer you’re
 looking for, but what I enjoyed most was debugging. I like debugging,
 because it’s interesting to get the diagnostic process going, and to try
 and work out why these interactions are happening. I certainly spent
-many happy hours on the floor poring over compiler and system dumps. \[A
+many happy hours on the floor poring over compiler and system dumps. \A
 system dump was printed on continuous line printer paper about 16 inches
 wide, and from half an inch to 2 inches thick; so it was easiest to
 spread it out on the floor to read. Everything was printed at that time;
 there were no monitors. Each time the system crashed we would decide
 whether the problem was hardware and the on-site engineers should be
-called in, or a software problem to be reported to ICL.\]
+called in, or a software problem to be reported to ICL.\
 
 Oh, I’ve missed out completely one job that I did: at the time I got
 PSO, Chris was Head of the Computing Service; so he was in charge of the
@@ -1823,7 +1823,7 @@ So between being PSO and Superintendent . . .
 That’s right: just shortly after I became PSO, I moved on to be
 Computing Service Manager, and we upgraded the 1907F to a 1906S, which
 was the very last 1900—and boy\! We got 512K of plated-wire store\!
-\[laughs\] I stayed with the Computing Service until it was coming up to
+\laughs\ I stayed with the Computing Service until it was coming up to
 that machine needing replacing. But I didn’t want to stay there very
 long, because I didn’t want to get tarred with the sort of female job of
 running the Computing Service—people can accept women managers of
@@ -1900,10 +1900,10 @@ Well, I retired in 1993, so that’s the end-point pinned.
 
 My first computer was RREAC: you walk in to the room, and you’ve got a
 big cabinet here, and a big console there, and a minuscule amount of
-core store. And now I’ve got in there \[points to PC\], I’ve got a
+core store. And now I’ve got in there \points to PC\, I’ve got a
 Celeron processor, a hundred and twenty-eight MB of RAM, and a
 six-gigabyte hard disk—and an operating system I don’t know anything
-about\! \[laughs\]
+about\! \laughs\
 
 **Abbate:**
 
@@ -2003,7 +2003,7 @@ career in computing?
 
 **Bond:**
 
-No\! \[laughs\] I cannot give them advice from my advanced age. The
+No\! \laughs\ I cannot give them advice from my advanced age. The
 world is so different.
 
 **Abbate:**
@@ -2079,57 +2079,57 @@ Valley Make Their Millions, Battle Foreign Competition, and Still Can’t
 Get a Date* (Reading, MA: Addison-Wesley, 1992\).
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Susan_Bond&oldid=108475>"
+"<http:/ethw.org/index.php?title=Oral-History:Susan_Bond&oldid=108475>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Formal
-  languages](/Category:Formal_languages "Category:Formal languages")
-* [Programming](/Category:Programming "Category:Programming")
-* [Software & software
-  engineering](/Category:Software_%26_software_engineering "Category:Software & software engineering")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Formal
+  languages(Category:Formal_languages "Category:Formal languages")
+* Programming(Category:Programming "Category:Programming")
+* Software & software
+  engineering(Category:Software_%26_software_engineering "Category:Software & software engineering")
 
 ## Contents
 
-* [1 About Susan Bond](#About_Susan_Bond)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Getting a Job at RRE](#Getting_a_Job_at_RRE)
-  * [4\.3 Working on the RREAC](#Working_on_the_RREAC)
-  * [4\.4 Learning and Using ALGOL 60](#Learning_and_Using_ALGOL_60)
-  * [4\.5 On the Principles and Practice of Compiler
-    Design](#On_the_Principles_and_Practice_of_Compiler_Design)
-  * [4\.6 On Women at RRE](#On_Women_at_RRE)
-  * [4\.7 Developing the World’s First ALGOL 68
-    Compiler](#Developing_the_World.E2.80.99s_First_ALGOL_68_Compiler)
-  * [4\.8 Becoming Superintendent of Computing and Software
-    Research](#Becoming_Superintendent_of_Computing_and_Software_Research)
-  * [4\.9 On the Relationship between RRE and the Ministry of
-    Defense](#On_the_Relationship_between_RRE_and_the_Ministry_of_Defense)
-  * [4\.10 On Working with Universities](#On_Working_with_Universities)
-  * [4\.11 On Commercial Applications of
-    Research](#On_Commercial_Applications_of_Research)
-  * [4\.12 On Being a Woman Manager](#On_Being_a_Woman_Manager)
-  * [4\.13 On Changes in Computing](#On_Changes_in_Computing)
-  * [4\.14 On the Status of Women in
-    Computing](#On_the_Status_of_Women_in_Computing)
-  * [4\.15 Reflecting on Her Career](#Reflecting_on_Her_Career)
-  * [4\.16 Notes](#Notes)
+* 1 About Susan Bond(#About_Susan_Bond)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Getting a Job at RRE(#Getting_a_Job_at_RRE)
+  * 4\.3 Working on the RREAC(#Working_on_the_RREAC)
+  * 4\.4 Learning and Using ALGOL 60(#Learning_and_Using_ALGOL_60)
+  * 4\.5 On the Principles and Practice of Compiler
+    Design(#On_the_Principles_and_Practice_of_Compiler_Design)
+  * 4\.6 On Women at RRE(#On_Women_at_RRE)
+  * 4\.7 Developing the World’s First ALGOL 68
+    Compiler(#Developing_the_World.E2.80.99s_First_ALGOL_68_Compiler)
+  * 4\.8 Becoming Superintendent of Computing and Software
+    Research(#Becoming_Superintendent_of_Computing_and_Software_Research)
+  * 4\.9 On the Relationship between RRE and the Ministry of
+    Defense(#On_the_Relationship_between_RRE_and_the_Ministry_of_Defense)
+  * 4\.10 On Working with Universities(#On_Working_with_Universities)
+  * 4\.11 On Commercial Applications of
+    Research(#On_Commercial_Applications_of_Research)
+  * 4\.12 On Being a Woman Manager(#On_Being_a_Woman_Manager)
+  * 4\.13 On Changes in Computing(#On_Changes_in_Computing)
+  * 4\.14 On the Status of Women in
+    Computing(#On_the_Status_of_Women_in_Computing)
+  * 4\.15 Reflecting on Her Career(#Reflecting_on_Her_Career)
+  * 4\.16 Notes(#Notes)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 21 November 2014, at 10:45\.
 
 * This page has been accessed 6,110 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

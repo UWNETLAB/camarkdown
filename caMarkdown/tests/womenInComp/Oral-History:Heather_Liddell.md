@@ -1,76 +1,76 @@
 Toggle navigation   
 
-[ETHW Engineering and Technology History Wiki](/Main_Page)
+ETHW Engineering and Technology History Wiki(Main_Page)
 
-* [** Go ****]()
-  * [Browse by Subject](/ETHW:Subject_browse)
+* ** Go ****()
+  * Browse by Subject(ETHW:Subject_browse)
   
   * 
-  * [Encyclopedia](/Encyclopedia)
+  * Encyclopedia(Encyclopedia)
   
-  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
+  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
   
-  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
+  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
   
-  * [Landmarks/Milestones](/Landmarks)
+  * LandmarksMilestones(/Landmarks)
   
-  * [Archives](/Archives:Archival_Collections)
+  * Archives(Archives:Archival_Collections)
   
-  * [Education](/ETHW:About-Education)
-  
-  * 
-  * [Random page](/Special:Random)
+  * Education(ETHW:About-Education)
   
   * 
-  * [Help](/Help:Contents "The place to find out")
-  
-  * [Contact us](/Special:Contact)
+  * Random page(Special:Random)
   
   * 
-  * [Recent changes](/Special:RecentChanges)
+  * Help(Help:Contents "The place to find out")
   
-  * [New pages](/Special:NewPages)
-  
-  * 
-* [** Actions ****]()
-  * [View
-    source](/index.php?title=Oral-History:Heather_Liddell&action=edit "This page is protected.
-    You can view its source [e]")
-  
-  * [History](/index.php?title=Oral-History:Heather_Liddell&action=history "Past revisions of this page [h]")
+  * Contact us(Special:Contact)
   
   * 
-  * [Oral-History](/Oral-History:Heather_Liddell)
+  * Recent changes(Special:RecentChanges)
   
-  * [Discussion](/index.php?title=Oral-History_talk:Heather_Liddell&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* [** Tools ****]()
-  * [What links
-    here](/Special:WhatLinksHere/Oral-History:Heather_Liddell "A list of all wiki pages that link here [j]")
-  
-  * [Related
-    changes](/Special:RecentChangesLinked/Oral-History:Heather_Liddell "Recent changes in pages linked from this page [k]")
-  
-  * [Special
-    pages](/Special:SpecialPages "A list of all special pages [q]")
-  
-  * [Printable
-    version](/index.php?title=Oral-History:Heather_Liddell&printable=yes "Printable version of this page [p]")
-  
-  * [Permanent
-    link](/index.php?title=Oral-History:Heather_Liddell&oldid=113028 "Permanent link to this revision of the page")
-  
-  * [Page
-    information](/index.php?title=Oral-History:Heather_Liddell&action=info)
-  
-  * [Browse properties](/Special:Browse/Oral-2DHistory:Heather_Liddell)
-* [** Account ****](# "Account")
-  * [Log
-    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AHeather+Liddell)
+  * New pages(Special:NewPages)
   
   * 
-  * [Request account](/Special:RequestAccount)
+* ** Actions ****()
+  * View
+    source(index.php?title=Oral-History:Heather_Liddell&action=edit "This page is protected.
+    You can view its source e")
+  
+  * History(index.php?title=Oral-History:Heather_Liddell&action=history "Past revisions of this page [h]")
+  
+  * 
+  * Oral-History(Oral-History:Heather_Liddell)
+  
+  * Discussion(index.php?title=Oral-History_talk:Heather_Liddell&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* ** Tools ****()
+  * What links
+    here(Special:WhatLinksHere/Oral-History:Heather_Liddell "A list of all wiki pages that link here j]")
+  
+  * Related
+    changes(Special:RecentChangesLinked/Oral-History:Heather_Liddell "Recent changes in pages linked from this page k]")
+  
+  * Special
+    pages(Special:SpecialPages "A list of all special pages q]")
+  
+  * Printable
+    version(index.php?title=Oral-History:Heather_Liddell&printable=yes "Printable version of this page p]")
+  
+  * Permanent
+    link(index.php?title=Oral-History:Heather_Liddell&oldid=113028 "Permanent link to this revision of the page")
+  
+  * Page
+    information(index.php?title=Oral-History:Heather_Liddell&action=info)
+  
+  * Browse properties(Special:Browse/Oral-2DHistory:Heather_Liddell)
+* ** Account ****(# "Account")
+  * Log
+    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AHeather+Liddell)
+  
+  * 
+  * Request account(Special:RequestAccount)
 
 
 # Oral-History:Heather Liddell
@@ -211,7 +211,7 @@ Did she have any interest in math or science?
 **Liddell:**
 
 She was always pretty good at maths and, I suppose, numbers. I’m not
-sure that \[she was interested in science\]. She did some science, but
+sure that \she was interested in science\. She did some science, but
 she was also quite interested in art (in which I’ve got no interest) and
 music. I’ve always been interested in music.
 
@@ -272,7 +272,7 @@ quite strong on the mathematics side—some of my teachers, I think, had
 been there—and I did their entrance exams and was awarded a scholarship,
 so that automatically gave me a state scholarship and funding, so that
 was one of the reasons. Also it’s part of the University of London, as
-is this college \[Queen Mary\].
+is this college \Queen Mary\.
 
 **Abbate:**
 
@@ -300,7 +300,7 @@ Yes. About the time we were doing our first degree, there’d been quite a
 lot of interesting research going on—it was quite a small college, so
 you got to know what was happening, and I had friends in the physics
 department who were starting to do work on lasers, which were very new
-then; and we all got very interested in this. Professor \[Oliver\]
+then; and we all got very interested in this. Professor \Oliver\
 Heavens, who was my supervisor, had been working at Columbia University
 with Schawlow and Townes, who invented the laser, and he came back here
 to start things up. We got interested in it, and I got involved on the
@@ -515,7 +515,7 @@ large number of students who were interested in that area, and it became
 an obvious thing to do, you know, now that other Universities were
 beginning to have departments of Computer Science. For some time there
 had been in London an establishment called the Institute of Computer
-Science, where Jean \[Dollimore\] was based; also George \[Coulouris\],
+Science, where Jean \Dollimore\ was based; also George \[Coulouris\],
 her partner, although George was partly attached to University College,
 I think. They came over here about that time, and George became a
 Professor of Computer Science fairly early on, and he was fairly
@@ -547,7 +547,7 @@ use the Atlas, which was an ICL Atlas, but we also had smaller versions
 of their computers—1905E and 1905S—that we used. At a later stage, at
 University College, they had an IBM machine, and George had been used to
 that. Then he went over to the States at the beginning of the
-[UNIX](/UNIX "UNIX") era, and came back and started to get us interested
+UNIX(UNIX "UNIX") era, and came back and started to get us interested
 in using networks of workstations.
 
 **Abbate:**
@@ -874,7 +874,7 @@ do this. You’re just thrown into it and expected to know what to do\!
 **Abbate:**
 
 Right: You’re chosen because you’re independent-minded, and then you’re
-\[made responsible for managing people\].
+\made responsible for managing people\.
 
 How did the teaching program develop? Was there some vision for what
 computer science should be?
@@ -898,7 +898,7 @@ And this is graduate and undergraduate, as well?
 
 **Liddell:**
 
-Yes, yes. In fact, as I say somewhere here \[looks at CV\], there are
+Yes, yes. In fact, as I say somewhere here \looks at CV\, there are
 various research students I’ve been involved with. There were a couple
 that I took over from other people. One of my colleagues died suddenly;
 I took over his student. Another, Hilary Buxton (whom I mentioned
@@ -965,7 +965,7 @@ the road vehicle side. That was an interesting project.
 Many of the medical imaging projects were very interesting, because we
 were working with a lot of medical people, and some of the people we
 worked with then are people who have become quite famous through the BSE
-\[Mad Cow Disease\] crisis, and so on\! It was very interesting to have
+\Mad Cow Disease\ crisis, and so on\! It was very interesting to have
 these people who had deep medical knowledge, but without very good
 computer knowledge. There was this particular man from Bart’s Hospital
 called Alec Colchester, who was very good on being able to combine the
@@ -985,7 +985,7 @@ Yes. In a way, the parallel computing has got lost within it now,
 because it’s just advanced techniques that were developed, and it so
 happened that the computers were useful for it. So as you see, I’ve
 always been applications-driven rather than systems-driven. When you
-talk to Jean \[Dollimore\], she’s much more systems-driven.
+talk to Jean \Dollimore\, she’s much more systems-driven.
 
 **Abbate:**
 
@@ -1017,7 +1017,7 @@ Have you also been active in professional societies?
 **Liddell:**
 
 Yes. I was, for some years, Vice President of the Institute of
-Mathematics \[and its Applications\], with specific responsibility for
+Mathematics \and its Applications\, with specific responsibility for
 the link with engineering mathematics. I think I became a member of the
 IMA Council in about 1992\. I was on for about ten years, and then from
 about 1996 onwards, until the end of 2000 I was a Vice President. That
@@ -1063,8 +1063,8 @@ Do you have close ties with the American societies?
 
 **Liddell:**
 
-Yes, to a certain extent. I mean, I’m not a terribly active member \[of
-SIAM\]; some of my colleagues are more active. I had more ties, I think,
+Yes, to a certain extent. I mean, I’m not a terribly active member \of
+SIAM\; some of my colleagues are more active. I had more ties, I think,
 in the days when we were doing a lot more in the parallel computing
 projects. We used to go over there for conferences quite a bit.
 
@@ -1239,7 +1239,7 @@ women considering a computer career today?
 
 No—except to go for it\!
 
-\[TAPE 1, SIDE 2\]
+\TAPE 1, SIDE 2\
 
 **Abbate:**
 
@@ -1270,7 +1270,7 @@ But you could have?
 
 When my son was born, I had the statutory maternity leave, and that was
 it\! We had a very good baby minder, so that was helpful. Now, I think
-Sylvia \[Wilbur\] will probably talk to you about that; she probably had
+Sylvia \Wilbur\ will probably talk to you about that; she probably had
 time off for her children. And Jean, possibly; I can’t remember. You
 know, we’ve all had children, so being career people hasn’t excluded it.
 
@@ -1292,57 +1292,57 @@ in\!
 
 All right\! Thank you very much\!
 
-\[END OF RECORDING\]
+\END OF RECORDING\
 
 Retrieved from
-"<http://ethw.org/index.php?title=Oral-History:Heather_Liddell&oldid=113028>"
+"<http:/ethw.org/index.php?title=Oral-History:Heather_Liddell&oldid=113028>"
 
-[Categories](/Special:Categories "Special:Categories"):
+Categories(Special:Categories "Special:Categories"):
 
-* [Universities](/Category:Universities "Category:Universities")
-* [Computer
-  engineering](/Category:Computer_engineering "Category:Computer engineering")
-* [Computer science
-  education](/Category:Computer_science_education "Category:Computer science education")
-* [Computing and
-  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
-* [Profession](/Category:Profession "Category:Profession")
-* [People and
-  organizations](/Category:People_and_organizations "Category:People and organizations")
+* Universities(Category:Universities "Category:Universities")
+* Computer
+  engineering(Category:Computer_engineering "Category:Computer engineering")
+* Computer science
+  education(Category:Computer_science_education "Category:Computer science education")
+* Computing and
+  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
+* Profession(Category:Profession "Category:Profession")
+* People and
+  organizations(Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* [1 About Heather Liddell](#About_Heather_Liddell)
-* [2 About the Interview](#About_the_Interview)
-* [3 Copyright Statement](#Copyright_Statement)
-* [4 Interview](#Interview)
-  * [4\.1 Background and Education](#Background_and_Education)
-  * [4\.2 Working with Computers at Royal Holloway
-    College](#Working_with_Computers_at_Royal_Holloway_College)
-  * [4\.3 Post-Doctoral Fellowship in Engineering at Queen
-    Mary](#Post-Doctoral_Fellowship_in_Engineering_at_Queen_Mary)
-  * [4\.4 Becoming a Lecturer at Queen
-    Mary](#Becoming_a_Lecturer_at_Queen_Mary)
-  * [4\.5 Becoming the Department of Computer
-    Science](#Becoming_the_Department_of_Computer_Science)
-  * [4\.6 Working on the Distributed Array
-    Processor](#Working_on_the_Distributed_Array_Processor)
-  * [4\.7 Working on the PERQ](#Working_on_the_PERQ)
-  * [4\.8 Reflection on Work with Computers, Professional
-    Societies](#Reflection_on_Work_with_Computers.2C_Professional_Societies)
-  * [4\.9 Reflection as a Woman in
-    Computing](#Reflection_as_a_Woman_in_Computing)
+* 1 About Heather Liddell(#About_Heather_Liddell)
+* 2 About the Interview(#About_the_Interview)
+* 3 Copyright Statement(#Copyright_Statement)
+* 4 Interview(#Interview)
+  * 4\.1 Background and Education(#Background_and_Education)
+  * 4\.2 Working with Computers at Royal Holloway
+    College(#Working_with_Computers_at_Royal_Holloway_College)
+  * 4\.3 Post-Doctoral Fellowship in Engineering at Queen
+    Mary(#Post-Doctoral_Fellowship_in_Engineering_at_Queen_Mary)
+  * 4\.4 Becoming a Lecturer at Queen
+    Mary(#Becoming_a_Lecturer_at_Queen_Mary)
+  * 4\.5 Becoming the Department of Computer
+    Science(#Becoming_the_Department_of_Computer_Science)
+  * 4\.6 Working on the Distributed Array
+    Processor(#Working_on_the_Distributed_Array_Processor)
+  * 4\.7 Working on the PERQ(#Working_on_the_PERQ)
+  * 4\.8 Reflection on Work with Computers, Professional
+    Societies(#Reflection_on_Work_with_Computers.2C_Professional_Societies)
+  * 4\.9 Reflection as a Woman in
+    Computing(#Reflection_as_a_Woman_in_Computing)
 
-[![Powered by
-MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-[![Powered by Semantic
-MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+![Powered by
+MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+![Powered by Semantic
+MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
 * This page was last modified on 12 January 2015, at 12:59\.
 
 * This page has been accessed 2,759 times.
 
-* [About ETHW](/ETHW:About "ETHW:About")
+* About ETHW(ETHW:About "ETHW:About")
 
-* [Policies and disclaimers](/ETHW:Policies "ETHW:Policies")
+* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
 

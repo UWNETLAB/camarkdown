@@ -1,76 +1,76 @@
 Toggle navigation   
 
-ETHW Engineering and Technology History Wiki(Main_Page)
+[ETHW Engineering and Technology History Wiki](/Main_Page)
 
-* ** Go ****()
-  * Browse by Subject(ETHW:Subject_browse)
+* [** Go ****]()
+  * [Browse by Subject](/ETHW:Subject_browse)
   
   * 
-  * Encyclopedia(Encyclopedia)
+  * [Encyclopedia](/Encyclopedia)
   
-  * Oral Histories(Oral-History:List_of_all_Oral_Histories)
+  * [Oral Histories](/Oral-History:List_of_all_Oral_Histories)
   
-  * First Hand Histories(First-Hand:List_of_First_Hand_Histories)
+  * [First Hand Histories](/First-Hand:List_of_First_Hand_Histories)
   
-  * LandmarksMilestones(/Landmarks)
+  * [Landmarks/Milestones](/Landmarks)
   
-  * Archives(Archives:Archival_Collections)
+  * [Archives](/Archives:Archival_Collections)
   
-  * Education(ETHW:About-Education)
-  
-  * 
-  * Random page(Special:Random)
+  * [Education](/ETHW:About-Education)
   
   * 
-  * Help(Help:Contents "The place to find out")
-  
-  * Contact us(Special:Contact)
+  * [Random page](/Special:Random)
   
   * 
-  * Recent changes(Special:RecentChanges)
+  * [Help](/Help:Contents "The place to find out")
   
-  * New pages(Special:NewPages)
-  
-  * 
-* ** Actions ****()
-  * View
-    source(index.php?title=Oral-History:Anita_Borg&action=edit "This page is protected.
-    You can view its source e")
-  
-  * History(index.php?title=Oral-History:Anita_Borg&action=history "Past revisions of this page [h]")
+  * [Contact us](/Special:[Contact)
   
   * 
-  * Oral-History(Oral-History:Anita_Borg)
+  * [Recent changes](/Special:RecentChanges)
   
-  * Discussion(index.php?title=Oral-History_talk:Anita_Borg&action=edit&redlink=1 "Discussion about the content page [t]")
-  
-  * 
-* ** Tools ****()
-  * What links
-    here(Special:WhatLinksHere/Oral-History:Anita_Borg "A list of all wiki pages that link here j]")
-  
-  * Related
-    changes(Special:RecentChangesLinked/Oral-History:Anita_Borg "Recent changes in pages linked from this page k]")
-  
-  * Special
-    pages(Special:SpecialPages "A list of all special pages q]")
-  
-  * Printable
-    version(index.php?title=Oral-History:Anita_Borg&printable=yes "Printable version of this page p]")
-  
-  * Permanent
-    link(index.php?title=Oral-History:Anita_Borg&oldid=108225 "Permanent link to this revision of the page")
-  
-  * Page
-    information(index.php?title=Oral-History:Anita_Borg&action=info)
-  
-  * Browse properties(Special:Browse/Oral-2DHistory:Anita_Borg)
-* ** Account ****(# "Account")
-  * Log
-    in(index.php?title=Special:UserLogin&returnto=Oral-History%3AAnita+Borg)
+  * [New pages](/Special:NewPages)
   
   * 
-  * Request account(Special:RequestAccount)
+* [** Actions ****]()
+  * [View
+    source](/index.php?title=Oral-History:Anita_Borg&action=edit "This page is protected.
+    You can view its source [e]")
+  
+  * [History](/index.php?title=Oral-History:Anita_Borg&action=history "Past revisions of this page [h]")
+  
+  * 
+  * [Oral-History](/Oral-History:Anita_Borg)
+  
+  * [Discussion](/index.php?title=Oral-History_talk:Anita_Borg&action=edit&redlink=1 "Discussion about the content page [t]")
+  
+  * 
+* [** Tools ****]()
+  * [What links
+    here](/Special:WhatLinksHere/Oral-History:Anita_Borg "A list of all wiki pages that link here [j]")
+  
+  * [Related
+    changes](/Special:RecentChangesLinked/Oral-History:Anita_Borg "Recent changes in pages linked from this page [k]")
+  
+  * [Special
+    pages](/Special:SpecialPages "A list of all special pages [q]")
+  
+  * [Printable
+    version](/index.php?title=Oral-History:Anita_Borg&printable=yes "Printable version of this page [p]")
+  
+  * [Permanent
+    link](/index.php?title=Oral-History:Anita_Borg&oldid=108225 "Permanent link to this revision of the page")
+  
+  * [Page
+    information](/index.php?title=Oral-History:Anita_Borg&action=info)
+  
+  * [Browse properties](/Special:Browse/Oral-2DHistory:Anita_Borg)
+* [** Account ****](# "Account")
+  * [Log
+    in](/index.php?title=Special:UserLogin&returnto=Oral-History%3AAnita+Borg)
+  
+  * 
+  * [Request account](/Special:RequestAccount)
 
 
 # Oral-History:Anita Borg
@@ -81,7 +81,7 @@ Anita Borg Naffz was born on January 17, 1949 in Chicago, Illinois. As a
 child, she grew up and traveled with her family all over the US. She
 received her Ph.D. in computer science from New York University and
 embarked on a trailblazing research career in computing and technology.
-Anita Borg became a pillar of strength for women in the field of
+Anita Borg became a pillar of strength for w[omen in the field of
 computing and technology, founding several important communities and
 organizations that would change the lives of many women in the field,
 bringing them closer together to share their accomplishments, ideas,
@@ -117,10 +117,10 @@ quoted for publication without the written permission of the Director of
 IEEE History Center.
 
 Request for permission to quote for publication should be addressed to
-the IEEE History Center Oral History Program, IEEE History Center at
+the IEEE History Center Oral History Program, [IEEE History Center at
 Stevens Institute of Technology, Castle Point on Hudson, Hoboken, NJ
 07030 USA or ieee-history@ieee.org. It should include identification of
-the specific passages to be quoted, anticipated use of the passages, and
+the specific passages to be quoted, antici](@yzwcynshtxpry ^guqssdugeh ^odydkpebbvxm)pated use of the passages, and
 identification of the user.
 
 It is recommended that this oral history be cited as follows:
@@ -132,8 +132,8 @@ History Center, Hoboken, NJ, USA.
 
 INTERVIEW: Anita Borg\
 INTERVIEWER: Janet Abbate\
-DATE: 5 January 2001\
-PLACE: Palo Alto, CA
+DATE: 5 Januar[y 2001\
+PLACE: Palo Alto[, CA
 
 ### Growing Up and Moving All Over the US
 
@@ -157,16 +157,16 @@ At that time it was a small town, with both farms and commuters, about
 35 miles outside of the city. My Dad commuted into the city. Now it’s
 part of Chicago. But we lived outside of the town in a little area, so
 it was very neat; it felt like living in the country. There were farms
-around, and lots of cornfields, and a racehorse farm. We could run
+around, and lots of cornfields, ](@srjixuwki)and a racehorse farm. We could run
 around loose, so we loved it.
 
 We were there till I was twelve, although we took a year off in
 1959-1960\. We camped across the country and then lived in Hawaii for a
-year. I went to fifth grade in a bizarre place in Hawaii: having grown
+year. I went t]($bfikeyppqbfwu)o fifth grade in a bizarre place in Hawaii: having grown
 up in a place that was entirely white, in the middle of Illinois, we
 went to a working-class school on the windward side of Oahu that had
 every race you could imagine. It was quite an eye-opening situation for
-me and for my family. In order to get us back to Chicago, my
+me and for my family[. In order to get us back to Chicago, my
 grandparents bribed my folks and said, “If you come back, we’ll treat
 you to two months in Europe in the summer.” So they pulled us out of
 school early, and we went to Europe for a couple of months, and then
@@ -177,18 +177,18 @@ my Dad just got in the car and drove to the west coast. The plan was for
 him to start from Vancouver, go south, and find us a place to live. He
 got as far as Mukilteo, Washington, which is about 25 miles north of
 Seattle, and loved it. He called Mom and said, “Put the house on the
-market; I bought one.” As soon as school was out, we moved. We were an
+market; I bought one.” As soon as school was out, we mov[ed. We were an
 adventurous family.
 
 **Abbate:**
 
-Sounds like it\! Now, what did your parents do for a living?
+Sounds like it\! Now, what did your paren](^guqssdugeh $ygimxtobw)ts do for a living?
 
 **Borg:**
 
 Mom was a housewife until we got out to Washington, and then she worked
 for Boeing for a while. Dad did a variety of different things. He
-started out as a salesman for a family company, the Fredrick Post
+started out as](@eskiqvkbbxa $wxpblndpjh @yzwcynshtxpry $bfikeyppqbfwu) a salesman for a family company, the Fredrick Post
 Company, which was a company that sold drafting materials; he worked for
 them for a while. Then he sold furniture and school furniture in
 Illinois. In Hawaii he was a used car salesman, which was hysterical—he
@@ -205,16 +205,16 @@ How big was your family?
 
 **Borg:**
 
-I have one sister.
+I have on[e sister.
 
 They really had a good time. Their attitude about life was always that
 you should have a good time. My mother’s parents thought my father was a
-bum, and they just didn’t understand. They had come through the
+bum, and they just didn’t understand. They h[ad come through the
 Depression, and you were supposed to work hard\! But my sister and I
 feel absolutely blessed that we had parents that way. We both went in
 really different directions, but we both wound up really adventurous
 about what we did. They taught us that we could do anything we wanted,
-and if we failed, well, what the heck? You try something else. And that
+and if we failed, well, what the heck? Y[ou try something else. And that
 was always the attitude that they had. They never pushed us into
 anything in particular, but told us if you want to do it, try it; what
 the heck.
@@ -303,12 +303,12 @@ say, “I know what I should take; it says in the book.” And he’d say,
 
 **Borg:**
 
-At that time I was married—I got married much too young—and my husband
+At that time I was m](@srjixuwki)arried—I got married much too young—and my husband
 was two years older. He graduated from college and went to New York to
 graduate school. I quit school and was going to—in those days, you know:
 work and put hubby through graduate school. I didn’t know what I was
 going to do. What kind of job could I get without a degree or anything?
-A friend of mine said, “Get into data processing\!” \Thoughtfully\:
+A friend of mine said, “Get into data processing\!” \[Thoughtfully\]:
 “Data processing? O.K.”
 
 When I got to New York, I was so incredibly naive, it was just amazing.
@@ -323,16 +323,16 @@ Really.
 **Borg:**
 
 Yes. I don’t know how much longer that lasted; not that long. I found a
-bunch of jobs, and I wrote letters—hand-written letters\! I didn’t know
+bunch of jobs, and I wrote letters—hand-written letters\! I d[idn’t know
 you were supposed to type these things, I didn’t know that there was a
 form for these things; it was like a hand-written letter from a
 high-school kid looking for a job. When I think back, I can’t even
-imagine what it would be like to get one of those \as an employer\. If
+imagine what it would be like to get one of those \[as an employer\]. If
 I got one of those I might have to call the person in, just because it
 reminded me of me\!
 
 The first job I got was some kind of job where they were going to train
-me to do Fortran(FORTRAN "FORTRAN"), and I was going to do something
+me to do [Fortran](/FORTRAN "FORTRAN"), and I was going to do something
 for them. I took the Fortran class, and then over the long weekend I
 went to Woodstock. When I came back, I got sick as a dog and turned out
 to have mono; I was sick for six weeks and lost the job.
@@ -344,8 +344,8 @@ programmer—which I didn’t. I did a bunch of programming work, but I
 was still categorized as a clerk and paid as a clerk. About that time I
 got divorced, and I quit and went back to school. But while I was there,
 I got hold of some COBOL Program Instruction manuals. They were like
-what you get on a computer now \for instructional software\: “Answer
-these questions. If you get the answer right, go to page this; if you
+what you get on a computer now \[for instructional software\]: “Answer
+these questions. If you get the answer right, go to pag[e this; if you
 got it wrong, go to page whatever.” So I taught myself basic COBOL and
 started doing some programming, and then they put me to work, having
 taught myself this language. It was funny: I did a project, and they
@@ -358,12 +358,12 @@ like this before\!
 
 Then I went back to school. I had been accepted to NYU originally when I
 was coming to New York, but we’d decided that we couldn’t afford it.
-\This time\ I wound up with scholarships. I went back and decided to
+\[This time\] I wound up with scholarsh[ips. I went back and decided to
 major in computer science, because I wasn’t ever going to depend on
 anybody else to support me again. It wasn’t clear to me that math was a
 major that was going to give me a way to support myself, but computer
 science was. As it turns out, I wound up with a Ph.D. in computer
-science, but essentially a Masters in mathematics along the way.
+science, but essentially a Masters in mathematics along the wa]($ygimxtobw @yzwcynshtxpry ^odydkpebbvxm $bfikeyppqbfwu)y.
 
 **Abbate:**
 
@@ -374,7 +374,7 @@ There must have been a lot of overlap between the two majors.
 Yes. Particularly at NYU, because at NYU they just had a new computer
 science department that had grown out of the math department. The way it
 was set up in the graduate department, if your area was a systems area,
-in order to balance it you had to take all this theory stuff. Well, most
+in order to balance it you had to take all this th]($bfikeyppqbfwu @gmcasjsahjq)eory stuff. Well, most
 of it was mathematics, so I took logic and automata theory and
 probability; so more than half of the courses that I was taking were
 math.
@@ -400,7 +400,7 @@ That’s a great image\!
 
 **Borg:**
 
-But I figured, what the heck, I’ll throw in one application for graduate
+But I ](@yzwcynshtxpry)figured, what the heck, I’ll throw in one application for graduate
 school. I was totally test-phobic: I didn’t want to take the GRE. I
 think about it now, and it’s such a shame, because what could I lose? I
 probably would have done great, and I certainly would advise anyone who
@@ -411,7 +411,7 @@ Davis, who was a wonderful guy, called me in and said, “We don’t give
 financial aid to master’s students. Had you thought at all of going for
 a Ph.D.?” Because I had gotten rave reviews from my professors. Quick
 thinking, I said, “Oh\! Well, actually, yes—sure\!” (Laughs.) And all
-the way I’m thinking, “I’ll say anything to get them to pay for it. In a
+the way I’m thinking, “I’ll say anything to get them to pay for it.[ In a
 year and a half I’ll have a master’s degree, then I’ll go to Oregon. I
 think we can do that.”
 
@@ -450,11 +450,11 @@ told that I would never get a Ph.D. with my attitude. I had an attitude
 sort of like my Dad’s attitude about life, which was: I told them really
 clearly that graduate school was a five-days-a-week, eight-hours-a-day
 job, and I was going to go have fun on the weekends. I was going to go
-ride motorcycles, I was going to paddle kayaks, I was going to do all
+ride motorcycles, I was going to ](@eskiqvkbbxa ^ardilojhj)paddle kayaks, I was going to do all
 the other stuff that I do. I had a relationship, I had a life. And who
 knows—you could get run over by a truck, why should I wreck my life to
 get a Ph.D.? The idea that you have to turn yourself into some sort of
-graduate student all the time is, I think, very foolish. I think it’s
+graduate student all the time is, I think, very foolish. I think it’s[
 foolish of departments and it’s foolish of students. Unfortunately, they
 get stuck in a position where they don’t have a choice.
 
@@ -483,11 +483,11 @@ compiling and AI, as they come together around languages for AI. But
 there was only one professor there who was interested in anything
 related to this, and he was doing automatic theorem proving, and I
 wasn’t at all interested in what he had in mind. I did a little bit of
-work with him on mechanisms for dealing with parallel languages, but he
+work with him on mec[hanisms for dealing with parallel languages, but he
 really wasn’t following that, and I just didn’t want to work with him.
 
 At that time a new young professor, Gerald Belpaire, showed up, who had
-a much more interesting way of thinking about parallelism, and we
+a much more interesting way of thinking about parallelism, and [we
 started talking about that. He was interested in it in the context of
 operating systems, so I got more interested in the topic. I didn’t know
 anything about operating systems, and I never took an operating systems
@@ -499,14 +499,14 @@ time NYU had been a mill for new professors; they just hired people and
 kicked them out: “Well, not that one. No, not that one . . . ” He had a
 very different attitude from Jack Schwartz about operating systems, and
 Jack had a much more powerful position. It’s funny: the night before, we
-had gone out and had drunk a bottle of champagne to celebrate that we
+had gone out and had drunk a bottle of [champagne to celebrate that we
 were going to work together. The next day, he got the letter saying that
 he wasn’t going to be renewed. But we decided to go ahead, and I got
 somebody else to act as my official advisor, and Gerald was the real
 one.
 
 My thesis was fairly theoretical; somewhere between practical and
-theoretical work, trying to figure out how synchronization mechanisms
+]($ygimxtobw @yzwcynshtxpry $wxpblndpjh)theoretical work, trying to figure out how synchronization mechanisms
 worked. I had never really looked at a real operating system, so it was
 very theoretical in that sense. When I got out and got a job for a
 startup actually building one, it was a whole different ballgame. Then I
@@ -576,7 +576,7 @@ right thing to do.
 
 ### Presenting at the Association for Computing Machinery Conference
 
-I was the only person who got a paper out of it, which turned out to be
+I was the only person who got a[ paper out of it, which turned out to be
 the best thing that ever happened to my career. The SOSP (Symposium on
 Operating System Principles) was coming up, and I thought, “Well, what
 the heck?” I whipped up a quickie little paper, which was really a
@@ -584,7 +584,7 @@ terrible little paper. This was still while I was with Auragen.
 
 **Abbate:**
 
-The SOSP was put on by the ACM \Association for Computing Machinery\?
+The SOSP was put on by the ACM \[Association for Computing Machinery\]?
 
 **Borg:**
 
@@ -592,11 +592,11 @@ It’s a conference done by the ACM, and it was the top operating systems
 conference. I didn’t really know that, I just—well, maybe I did know
 that. I threw in the paper. (The company knew so little, they didn’t
 know that they shouldn’t even let me write a paper about what we were
-doing, because most startups would never let you write this kind of
+doing, because most sta[rtups would never let you ](^odydkpebbvxm)write this kind of
 stuff.) I got a letter back from Jim Gray, I think, or maybe it was Al
-Specter—one of the greats—saying, “Well, we see that the ideas are
+Specter—one of the greats—sayi](@srjixuwki ^odydkpebbvxm @srjixuwki)ng, “Well, we see that the ideas are
 great, but the paper really needs work, so we’re going to give you a
-shepherd to help you put together a good paper.” I worked really hard on
+shepherd to help you put together[ a good paper.” I worked really hard on
 this paper and created a good paper. I was told later that if the final
 paper had been the original paper, it would have been a candidate for
 one of the best papers in the conference. I’d never given a paper
@@ -609,7 +609,7 @@ to a conference in Asilomar, California and met a bunch of people who
 were doing fault-tolerant stuff. After a year in Germany in the rain, I
 was in Asilomar in March, and I was walking on the beach with famous
 computer scientists in the sun, thinking, “I have to move to
-California\!” I wandered around saying, “I need a job” and wound up
+California\!” I wandered around saying, “I need [a job” and wound up
 getting a job with DEC, at the Western Research Lab. So doing that work,
 writing that paper. . . I had never really thought about what I was
 going to do, I never had a plan for my career: things just kind of
@@ -630,21 +630,21 @@ cancelled it. So I was out of a project, wandering around talking to
 people, trying to figure out what to do. The work I ended up doing came
 out of an elevator conversation with my boss. We were going to be
 working on a single-processor machine, and there was no need for the
-kind of work that I had been doing. But it was going to be extremely
-fast, and it was going to need multiple levels of caches. The question
+[kind of work that I had been doing. But it was going to be extremely
+fast, and it was going to need multi[ple levels of caches. The question
 was, how should those caches be structured? The idea is that you have
 different levels of memories: the closer they are to the processor, the
 faster they are and the more expensive they are, while plain old memory
 is far away and slow. So how do you structure them, and how fast are
-they? You can't build a whole bunch \of the fastest caches\, because
+they? You can't build a whole bunch \[of the fastest caches\], because
 it is too expensive.
 
-The way they’d figured this out in the past was to simulate it. The
+The way they’d figured this out in the past was to simulat[e it. The
 problem was that the huge caches we could build could hold much more
-data than was available \for simulation tests\. At that time they just
+data than was available \[for simulation tests\]. At that time they just
 tacked small data sets together to get a lot of data, but the result did
 not represent reality. In addition, the current data collection
-mechanisms didn't allow us to get full data for multiple programs
+mechanisms didn't allow us to get full data for ]($bfikeyppqbfwu)multiple programs
 simultaneously running.
 
 David Wall and I came up with a way of collecting real traces from real,
@@ -652,18 +652,18 @@ big programs that were hugely bigger than anybody else had done before.
 We figured out a way to collect the traces; then stop that and bring in
 the program that would simulate the cache, without disturbing what we
 were collecting before; and then trace again for a while. Which may not
-seem weird—but it’s extremely difficult, because you’re running a test
+seem weird—but it’s extremely difficult, because you’re running](@srjixuwki $ygimxtobw) a test
 program and paying attention to what the state of the memory is, and
 then you toss it out and use the memory to run something else (the
 simulator), and then you bring the test program back in again. The
 longest traces that anybody had ever worked with before were maybe a
 million memory references, and that was considered long. We simulated
 traces of ten billion references, but could simulate till the cows came
-home\! We could run an arbitrarily complex set of real programs and get
+home\! We could run an arbitrarily complex set of r](^odydkpebbvxm)eal programs and get
 all the memory references. The next plan was to bring the operating
 system references in. I had that designed and turned it over to a
 wonderful graduate student, Brad Chen, who did his Ph.D. on it at CMU
-\Carnegie Mellon University\.
+\[Carnegie Mellon University\].
 
 At that point I was getting interested in building Mecca for Systers.
 
@@ -678,7 +678,7 @@ Can you explain what Mecca is?
 Well, it’s old, at this point. At that point, the email system for
 Systers—you have to remember that this is pre-Web—
 
-**Abbate:**
+**Abbat[e:**
 
 Let’s back up a little. You created Systers in 1987 as a mailing list
 for women computer professionals.
@@ -722,7 +722,7 @@ the conference crammed in there, talking about it\! We said, “You know,
 we should meet somewhere else. Why don’t we try to get all the women at
 the conference to come to dinner together?” We decided to wander around
 and find every woman and tell her to come to dinner a little bit early;
-we would take over two tables and meet each other. We got, I think, all
+we would take over t]($wxpblndpjh $wxpblndpjh)wo tables and meet each other. We got, I think, all
 but two of the women, and it was great. Anita Jones, Barbara Liskov were
 there; everything from graduate students, to me in the middle, to these
 senior women. It was so extraordinary that I collected their email
@@ -731,15 +731,15 @@ or some had email, but it was just inside their companies) and set up a
 mailing list and came up with this funny little name.
 
 We didn’t really have a sense of how to use it, so I would try to keep
-it going. I’d ask some question, or encourage a question to be asked.
+it going. I’d ask some question, or encourag[e a question to be asked.
 Then a few friends of mine who weren’t in operating systems—Barbara
 Simons and I don’t remember who else; other women in research—said, “Why
-operating systems? You don’t just talk about operating systems, do you?”
+operating systems? Y[ou don’t just talk about operating systems, do you?”
 So I said, “No. OK, we’ll open it.” It grew step by step as women asked
 to join. They needed it; they needed the connection. It is now limited
 to "technical women in computing."
 
-I think the most extraordinary time for us, in a way, was probably when
+I think the most extraordinary time for ]($wxpblndpjh $bfikeyppqbfwu)us, in a way, was probably whe[n
 it was about a few hundred people. It was more of a little community. On
 the other hand, it was clear that opening it up wider has done something
 incredible for women in the field. Before Systers existed, there was no
@@ -753,7 +753,7 @@ initially have moved off, because there are too many people there, and
 it’s hard to manage right now. There’s now a project to revamp Mecca,
 because Mecca just doesn’t serve the needs. In fact, it acts just about
 like an email list right now, because the things that I built didn’t get
-carried on to the state they should be.
+carried on to the state they s[hould be.
 
 ### Developing Mecca
 
@@ -770,13 +770,13 @@ around, and it turned out no, nobody had done this; nobody has still
 done this. The idea was that everybody could have a profile about
 themselves. On the basis of the profiles, you could send mail to
 everybody who was in the operating systems field, or who was at a
-particular place, by just putting a header in your email. You could
+particular place, by just putting ](@gmcasjsahjq $wxpblndpjh)a head[er in your email. You could
 filter your mail—not at your site, but at the local center. That was
 really important to me. We had people on all sorts of systems; we had
 people who had very poor connections, who had just occasional
 connections, who had to be able to filter their mail, who couldn’t get
 all that mail; and it was really important to serve them well, and not
-to overwhelm them; to allow them to be part of the community without
+to overwhelm them; to allow them to be part of the commu]($bfikeyppqbfwu)nity without
 getting gobs of mail. If they wanted to go look at the mail, they could
 look at it somewhere else, and just get the kind that they wanted. So I
 was trying to build a system that served a very broad group. Most of the
@@ -793,7 +793,7 @@ was an unpleasant situation for a while.
 
 ### Hitting the Glass Ceiling and Leaving DEC
 
-**Abbate:**
+**Abb]($wxpblndpjh @gmcasjsahjq)ate:**
 
 So is that why you decided to leave DEC?
 
@@ -803,17 +803,17 @@ Eventually. That was one of the reasons that I left that particular lab.
 It was a couple more years before I left DEC. I sometimes am amazed that
 I stuck it out as long as I did. Because after that, I hit a glass
 ceiling. I had helped put together a group to work on a new project.
-Mecca was working, it was OK; I was trying to get some other people to
+Mecca was working, it was OK; I was trying to get some o](@eskiqvkbbxa ^odydkpebbvxm $bfikeyppqbfwu @gmcasjsahjq ^ardilojhj)ther people to
 get involved in holding it together, doing a little work on it on the
 side, because I had wanted to turn it into a product; but that didn’t
 happen. So then I went off to do this other thing, which had been
-somebody else’s idea, but he said he didn’t really want to drive it, and
-I got it. I loved it, and I pulled together a team of people—who never
+someb](@srjixuwki)ody else’s idea, but he said he didn’t really want to drive it, and
+I got it. I loved it, and ]($ygimxtobw)I pulled together a team of people—who never
 would have worked together before—and talked to the product groups,
 talked to all these people, got everybody excited. They were charged,
 they really wanted to do it.
 
-Then the head of Research called me in and let me know that they
+Then the head of Research calle]($bfikeyppqbfwu $bfikeyppqbfwu)d me in and let me know that they
 actually needed somebody older—with gray hair, who was male—to run it.
 The person he had in mind actually didn’t really want to; he was the guy
 who had the original idea. It wound up ending the project—which should
@@ -832,12 +832,12 @@ had?
 
 Yes, it was the first time that it really felt like that to me. I’m sure
 they didn’t see it that way. They just thought that I didn’t have enough
-experience. And yet I think that if a man with my experience had been in
+experience. And yet I think that if a man with my experience had been i[n
 that position, it would have been entirely different. But having just
 had the breath kicked out of me, I couldn’t even say that to
 them.
 
-### Ideas about Women in Technology, Founding the Institute for Women and Technology
+### Ideas abou[t Women in Technology, Founding the Institute for Women and Technology
 
 So then I went off and spent a year or so building a project called the
 Diversity Collection. I decided to go off and work entirely on
@@ -851,19 +851,19 @@ We didn’t get the money, but at about the time I heard that hadn’t
 worked, I read this incredible book called The Futures of Women by
 Pamela McCorduck and Nancy Ramsey, and that changed my life. It looks at
 four scenarios for the future. What it did for me was to make me realize
-that when we think about getting women into computing, we’re only
+that when we think about getting w[omen into computing, we’re only
 looking at half of the picture. We’re not really looking at the other
 half, which is: What do women—all women—want and bring to technology?
 What should we be creating; how do we bring those two sides together?
 With the help of Barbara Fittipaldi and the Kellogg Foundation, I put
 together a meeting at Princeton. There were a dozen women, and I said,
-“Read this book, and let’s come together and just talk about it.”
+“Read this book, and let’s come together and j](^guqssdugeh)ust talk about it.”
 There was Carol Realini, who has now founded a number of successful
 companies; Barbara Simons was there; Judith Klavans was there, I think;
 I can’t remember who everyone else was. I came out of it with a
-title—“The Institute for Women and Technology”—and I knew that it
+title—“The Institute for Women a[nd Technology”—and I knew that it
 had something to do with both sides of this issue: getting women into
-computing and what’s being created. The two have to go together.
+computing and what’s being created. The two have to go toget[her.
 
 **Abbate:**
 
@@ -872,7 +872,7 @@ products?
 
 **Borg:**
 
-Yes. And that women do something different \with technology\. It’s not
+Yes. And that women do something different \[with technology\]. It’s not
 just the women who are creating it, the computer professionals; it’s all
 the other women, and we have to think about how the technology impacts
 women.
@@ -880,14 +880,14 @@ women.
 That was in about February of 1997\. At that point I realized that what
 I wanted to do was create this institute. It was pretty clear that
 Digital had no interest in supporting this. I talked to John White, who
-at that time was heading up CSL \the Computer Science Laboratory\ here
-at Xerox
-PARC(Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)");
+at that time was heading up CSL \[the Computer Science Laboratory\] here
+at [Xerox
+PARC](/Xerox_Palo_Alto_Research_Center_\(PARC\) "Xerox Palo Alto Research Center (PARC)");
 he’s now the executive director at ACM, and I’d known him for years
 through ACM; and Mark Weiser, who was the Chief Technologist for PARC,
 and he was a friend of mine as well. They “got” this idea, and got me in
 to talk to John Seely Brown, who headed up PARC. I must have talked to
-him in early summer, late spring, and it took about six months to get
+him in early summer, late spring, a](^guqssdugeh @eskiqvkbbxa @yzwcynshtxpry $ygimxtobw $ygimxtobw)nd it took about six months to get
 PARC to agree that this was some kind of reasonable thing, to hire me to
 do this.
 
@@ -899,24 +899,24 @@ them that this was a good idea?
 
 **Borg:**
 
-(Laughs.) Oh, no. With the exception of HP \Hewlett-Packard\, every
+(Laughs.) Oh, no. With the exception of HP \[Hewlett-Packard\], every
 dime has been difficult. There’s usually been somebody who gets it, but
 figuring out which pot the money can come from is hard. HP has been
 extraordinary, first because of the people that we got hooked up with—
 
-\Interruption.\
+\[Interruption.\]
 
 HP has been a very, very strong supporter from early on. But it’s been
 very hard. There’s a great woman at HP, Nancy Levitt, who just got it
 immediately and has been an incredible supporter all the way along. She
 has helped us design our programs; she’s part of us. And that’s been
-fabulous. I think it’s going to be easier and easier, as we have
+fabulous. I thin](^ardilojhj)k it’s going to be easier and easier, as we have
 existing programs that we can show people. But as we were trying to
-figure out what it was we were doing, the story was hard. \As if
-talking to potential sponsor:\ “We have this thing that we think we
+figure out what it was we were doing, the story was hard. \[As if
+talking to potential sponsor:\] “We have this thing that we think we
 want to create.”
 
-\Speaking as potential sponsor:\ “Well, what is it that you’re doing?”
+\[Speaking as potential sponsor:\] “Well, what is it that you’re doing?”
 
 “Well, I don’t know exactly what I think I’m doing. I mean, I know what
 I’m doing, but I don’t know exactly how. Just give me some money, and
@@ -950,7 +950,7 @@ How did that happen?
 The initial idea came from a lunch with Marlene McDaniel, who is the CEO
 of Women.com. I’ve known Marlene since I first moved to California. She
 was working for a company that was doing commercial conferences, some of
-the really big trade conferences, and she said, “Anita, you’ve got this
+the really big trade conferences, and she said, “](@gmcasjsahjq @gmcasjsahjq)Anita, you’ve got this
 group of all these women on Systers. You should start a conference and
 make some money.” The whole idea of making money off all these women
 didn't appeal to me, but the idea of a conference was pretty
@@ -960,7 +960,7 @@ the community to get together. Then the question was, What kind of a
 conference could we have where somebody’s boss would pay for them to
 go—where you could use money that wasn’t out of your own pocket to go
 to this conference? And we thought: a technical conference. Wouldn’t
-that be extraordinary, for women to get together and hear what everybody
+that be extraordinary, for women to get [together and hear what everybody
 else is doing? So there were all these possibilities. One was, what
 would a technical conference that was almost all female be like? Would
 it be the same? I don’t think so\! I think it would be wildly different.
@@ -975,7 +975,7 @@ got people to come.
 
 I didn’t know exactly what we were going to get. It was really amazing.
 Some of our principles were: This was not going to be a half-assed
-conference. I’ve been to lots of get-togethers about women, and it’s
+conference. I’ve been [to lots of get-togethers about women, and it’s
 always on the cheap. This was not going to be on the cheap. This was
 going to be at a good place. It was going to be as high-class as SOSP or
 any other really good computer science conference: at a nice hotel,
@@ -983,7 +983,7 @@ really well done. We figured we could do that if we raised fifty or a
 hundred thousand dollars. We raised two hundred and fifty thousand
 dollars\! We had room for four hundred people: we squeezed in four
 hundred fifty, and we had to turn away a hundred people. This was in
-Washington. It was extraordinary; it was absolutely extraordinary, and I
+Washington. It was extraor[dinary; it was absolutely extraordinary, and I
 am wildly, wildly proud of that, because a lot of people said it
 wouldn’t happen.
 
@@ -991,7 +991,7 @@ I’m sorry that very few men have attended. We hoped that it would be
 about ten percent men, but they don’t come. But we’ve gotten a fair
 number of the very senior men to come—and then they get it, then they
 understand that it’s different. I remember at the first conference
-hearing Ruzena Bajcsy(Ruzena_Bajcsy "Ruzena Bajcsy") walking along
+hearing [Ruzena Bajcsy](/Ruzena_Bajcsy "Ruzena Bajcsy") walking along
 the hall, kind of mumbling under her breath, saying, “It’s so amazing\!
 There’s no ego\!” And it really, really is different. Women are there to
 share what they’re learning, not to beat their chests and puff up and
@@ -1012,7 +1012,7 @@ It sounds great.
 
 It is wonderful.
 
-### Reflecting on Career, Women in Computing
+### Reflecting on Career, Women in Compu[ting
 
 **Abbate:**
 
@@ -1041,17 +1041,17 @@ and then building it. That was the fun part.
 
 **Abbate:**
 
-Do you have any advice for young women who are thinking of going into
+Do you have any advice ](@eskiqvkbbxa $wxpblndpjh @gmcasjsahjq)for young women who are thinking of going into
 computing today?
 
 **Borg:**
 
-Hmm, I always used to\! I think that it’s important not to pay too much
+Hmm](^odydkpebbvxm), I always used to\! I think that it’s important not to pay too much
 attention to the stereotype that you somehow have to be one of these
 geeky guys, which is completely ridiculous. Not everybody’s like that;
 most people aren’t like that. Most of the places that I’ve worked in
 certainly have had some, but you can be anybody you want and enjoy the
-work. If you like it, there are people whom you’ll find who can share
+work. If you like it, there are people whom you’ll find who can]($ygimxtobw ^guqssdugeh @eskiqvkbbxa ^odydkpebbvxm) share
 that enjoyment. The stereotype is just a stereotype, it’s not reality;
 and you shouldn’t let that hinder you.
 
@@ -1069,61 +1069,60 @@ important. And if that will carry you through, then hang on to it.
 Great. Thanks very much.
 
 Retrieved from
-"<http:/ethw.org/index.php?title=Oral-History:Anita_Borg&oldid=108225>"
+"<http://ethw.org/index.php?title=Oral-History:Anita_Borg&oldid=108225>"
 
-Categories(Special:Categories "Special:Categories"):
+[Categories](/Special:Categories "Special:Categories"):
 
-* Computing and
-  electronics(Category:Computing_and_electronics "Category:Computing and electronics")
-* Engineering and
-  society(Category:Engineering_and_society "Category:Engineering and society")
-* Profession(Category:Profession "Category:Profession")
-* Engineering
-  fundamentals(Category:Engineering_fundamentals "Category:Engineering fundamentals")
-* People and
-  organizations(Category:People_and_organizations "Category:People and organizations")
+* [Computing and
+  electronics](/Category:Computing_and_electronics "Category:Computing and electronics")
+* [Engineering and
+  society](/Category:Engineering_and_society "Category:Engineering and society")
+* [Profession](/Category:Profession "Category:Profession")
+* [Engineering
+  fundamentals](/Category:Engineering_fundamentals "Category:Engineering fundamentals")
+* [People and
+  organizations](/Category:People_and_organizations "Category:People and organizations")
 
 ## Contents
 
-* 1 About Anita Borg(#About_Anita_Borg)
-* 2 About the Interview(#About_the_Interview)
-* 3 Copyright Statement(#Copyright_Statement)
-* 4 Interview(#Interview)
-  * 4\.1 Growing Up and Moving All Over the
-    US(#Growing_Up_and_Moving_All_Over_the_US)
-  * 4\.2 College Years(#College_Years)
-  * 4\.3 Stepping into the Data Processing
-    Field(#Stepping_into_the_Data_Processing_Field)
-  * 4\.4 Going Back to School-PhD work at
-    NYU(#Going_Back_to_School-PhD_work_at_NYU)
-  * 4\.5 Working on Operating Systems at
-    Auragen(#Working_on_Operating_Systems_at_Auragen)
-  * 4\.6 Presenting at the Association for Computing Machinery
-    Conference(#Presenting_at_the_Association_for_Computing_Machinery_Conference)
-  * 4\.7 Working at Digital Equipment
-    Corporation(#Working_at_Digital_Equipment_Corporation)
-  * 4\.8 Creating Systers(#Creating_Systers)
-  * 4\.9 Developing Mecca(#Developing_Mecca)
-  * 4\.10 Hitting the Glass Ceiling and Leaving
-    DEC(#Hitting_the_Glass_Ceiling_and_Leaving_DEC)
-  * 4\.11 Ideas about Women in Technology, Founding the Institute for
+* [1 About Anita Borg](#About_Anita_Borg)
+* [2 About the Interview](#About_the_Interview)
+* [3 Copyright Statement](#Copyright_Statement)
+* [4 Interview](#Interview)
+  * [4\.1 Growing Up and Moving All Over the
+    US](#Growing_Up_and_Moving_All_Over_the_US)
+  * [4\.2 College Years](#College_Years)
+  * [4\.3 Stepping into the Data Processing
+    Field](#Stepping_into_the_Data_Processing_Field)
+  * [4\.4 Going Back to School-PhD work at
+    NYU](#Going_Back_to_School-PhD_work_at_NYU)
+  * [4\.5 Working on Operating Systems at
+    Auragen](#Working_on_Operating_Systems_at_Auragen)
+  * [4\.6 Presenting at the Association for Computing Machinery
+  ](^ardilojhj $ygimxtobw @gmcasjsahjq)  Conference](#Presenting_at_the_Association_for_Computing_Machinery_Conference)
+  * [4\.7 Working at Digital Equipment
+    Corporation](#Working_at_Digital_Equipment_Corporation)
+  * [4\.8 Creating Systers](#Creating_Systers)
+  * [4\.9 Developing Mecca](#Developing_Mecca)
+  * [4\.10 Hitting the Glass Ceiling and Leaving
+    DEC](#Hitting_the_Glass_Ceiling_and_Leaving_DEC)
+  * [4\.11 Ideas about Women in T]($ygimxtobw)echnology, Founding the Institute for
     Women and
-    Technology(#Ideas_about_Women_in_Technology.2C_Founding_the_Institute_for_Women_and_Technology)
-  * 4\.12 Founding the Grace Hopper Celebration of Women in
-    Computing(#Founding_the_Grace_Hopper_Celebration_of_Women_in_Computing)
-  * 4\.13 Reflecting on Career, Women in
-    Computing(#Reflecting_on_Career.2C_Women_in_Computing)
+    Technology](#Ideas_about_Women_in_Technol]($ygimxtobw $ygimxtobw)ogy.2C_Founding_the_Institute_for_Women_and_Technology)
+  * [4\.12 Founding the Grace Hopper Celebration of Women in
+    Computing](#Founding_the_Grace_Hopper_Celebration_of_Women_in_Computing)
+  * [4\.13 Reflecting on Career, Wo](^ardilojhj $ygimxtobw)men in
+    Computing](#Reflecting_on_Career.2C_Women_in_Computing)
 
-![Powered by
-MediaWiki(resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
-![Powered by Semantic
-MediaWiki(extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+[![Powered by
+MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](//www.mediawiki.org/)
+[![Powered by Semantic
+MediaWiki](/extensions/SemanticMediaWiki/includes/../resources/images/smw_button.png)](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 
-* This page was last modified on 21 November 2014, at 10:41\.
+* This page was last modified on 21 Novembe](@srjixuwki)r](@yzwcynshtxpry $bfikeyppqbfwu) 2014, at 10:41\.
 
 * This page has been accessed 6,197 times.
 
-* About ETHW(ETHW:About "ETHW:About")
+* [Abou](@yzwcynshtxpry)t ETHW](/ETHW:About "ETHW:About")
 
-* Policies and disclaimers(ETHW:Policies "ETHW:Policies")
-
+* [Policies and disclaimers](/ETHW:Policies "](@yzwcynshtxpry)ETHW:Policies")
