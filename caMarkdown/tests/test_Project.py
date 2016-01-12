@@ -20,7 +20,7 @@ class Test_Project(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
-        makeTestDir(tempDirName, testingFilesDir)
+        makeTestDir(tempDirName, testingFilesDir, writeCodes = True)
 
     def setUp(self):
         self.P = caMarkdown.Project(tempDirName)
@@ -45,4 +45,4 @@ class Test_Project(unittest.TestCase):
 
     @classmethod
     def tearDownClass(cls):
-        shutil.rmtree(tempDirName)
+        pass#shutil.rmtree(tempDirName)

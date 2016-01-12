@@ -29,7 +29,7 @@ def makeRandomDir(startingPath, maxDepth):
             depth += random.randint(1, maxDepth)
     retPath.mkdir(parents = True)
 
-def copyToRandomDir(startingPath, target):
+def copyToRandomDir(startingPath, target, writeCodes, sectionsCount):
     currentPath = startingPath
     done = False
     while not done:
@@ -41,10 +41,15 @@ def copyToRandomDir(startingPath, target):
             try:
                 currentPath = pathlib.Path(currentPath, random.choice([i for i in currentPath.iterdir() if i.is_dir()]))
             except IndexError:
-                shutil.copy2(str(target), str(pathlib.Path(currentPath, target.name)))
+                if writeCodes:
+                    with open(str(target)) as fTarget:
+                        with open(str(pathlib.Path(currentPath, target.name)), 'x') as fResult:
+                            fResult.write(writeCodes(fTarget.read(), sectionsCount, 20)[2])
+                else:
+                    shutil.copy2(str(target), str(pathlib.Path(currentPath, target.name)))
                 done = True
 
-def makeTestDir(name, targetfileDir, dirCount = 10, maxDepth = 10):
+def makeTestDir(name, targetfileDir, dirCount = 10, maxDepth = 10, writeCodes = False, sectionsCount = 20):
     base = pathlib.Path(name)
     try:
         #Testing before files and dirs are created as speed is not a concern
@@ -61,7 +66,7 @@ def makeTestDir(name, targetfileDir, dirCount = 10, maxDepth = 10):
     for i in range(dirCount):
         makeRandomDir(base, maxDepth)
     for target in targets:
-        copyToRandomDir(base, target)
+        copyToRandomDir(base, target, writeCodes, sectionsCount)
 
 def _quickTestDirMake():
     makeTestDir('tempDir', os.path.join(os.path.dirname(__file__), 'womenInComp'))
@@ -100,13 +105,13 @@ def generateBraces(codes):
     retLst.append(')')
     return retLst, len(retLst[1]) + 3
 
-def addCodes(targetString, AnnoCount, codeCount):
+def addCodes(targetString, sectionsCount, codeCount):
     maxIndex = len(targetString) - 1
     starts = []
     ends = []
     ranges = []
     codes = generateCodes(codeCount)
-    for i in range(AnnoCount):
+    for i in range(sectionsCount):
         s, e = getStartStop(ranges, maxIndex)
         ranges.append((s, e))
         starts.append(s)
