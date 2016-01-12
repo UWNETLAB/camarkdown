@@ -45,4 +45,4 @@ class Test_Project(unittest.TestCase):
 
     @classmethod
     def tearDownClass(cls):
-        pass#shutil.rmtree(tempDirName)
+        shutil.rmtree(tempDirName)
