@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>caMarkdown</title>
+    <link>/</link>
+    <description>Recent content on caMarkdown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>John McLevey</copyright>
+    <lastBuildDate>Tue, 10 May 2016 11:12:45 +0900</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/post/profile/</link>
+      <pubDate>Tue, 10 May 2016 11:12:45 +0900</pubDate>
+      
+      <guid>/post/profile/</guid>
+      <description>
+
+&lt;h1 id=&#34;coming-soon:3e19b1a3ed52dcfc9895143fe9bdc719&#34;&gt;Coming soon&amp;hellip;&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
